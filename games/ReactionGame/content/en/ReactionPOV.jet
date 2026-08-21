@@ -1,112 +1,112 @@
 {
  "content": [
   {
-   "altText": "A tattooed white man aggressively eating Buffalo chicken wings in a white tank top covered in sauce.",
+   "altText": "Ein tätowierter weißer Mann verschlingt aggressiv scharfe Chicken Wings. Sein weißes Unterhemd ist mit Soße bekleckert.",
    "category": "POV",
    "id": "116302",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your date:"
+    "Dein Gesicht, wenn das hier dein Date ist:"
    ],
    "selfieDirection": "",
    "starterContent": true,
    "x": true
   },
   {
-   "altText": "A colorful, smiling clown crouched menacingly in a flooded gutter.",
+   "altText": "Ein farbenfroher, lächelnder Clown kauert bedrohlich in einer überfluteten Gosse.",
    "category": "POV",
    "id": "116307",
    "position": "SECOND",
    "prompts": [
-    "Your face when you stumble upon this scene:"
+    "Dein Gesicht, wenn du unvermittelt auf diese Szene stößt:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "A kitchen sink buried under a mountain of dirty dishes, lit by an undercabinet light.",
+   "altText": "Eine Küchenspüle ist unter einem Berg schmutzigen Geschirrs begraben und wird von einer Unterbauleuchte angestrahlt.",
    "category": "POV",
    "id": "116309",
    "position": "SECOND",
    "prompts": [
-    "Your face when you get home from a long day to find this:"
+    "Dein Gesicht, wenn du nach einem langen Tag nach Hause kommst und das hier vorfindest:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "Photo of a young man in an ill-fitting suit presenting a large pile and suitcase of money.",
+   "altText": "Ein junger Mann in einem schlecht sitzenden Anzug präsentiert einen großen Geldstapel und einen Koffer voller Geld.",
    "category": "POV",
    "id": "116386",
    "position": "SECOND",
    "prompts": [
-    "Your face when you come in to work and are met with this:"
+    "Dein Gesicht, wenn du zur Arbeit kommst und dich das hier erwartet:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "Photo of an overly exuberant young man in a beige cardigan holding both hands of the person.",
+   "altText": "Ein übermäßig begeisterter junger Mann in einer beigefarbenen Strickjacke hält beide Hände der betrachtenden Person fest.",
    "category": "POV",
    "id": "116387",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is your current point of view:"
+    "Dein Gesicht, wenn das gerade dein Blickwinkel ist:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "Photo of hands up in a frightened pose staring up at an open dungeon door.",
+   "altText": "Aus der Ich-Perspektive sind ängstlich erhobene Hände vor einer offenen Kerkertür zu sehen.",
    "category": "POV",
    "id": "117264",
    "position": "SECOND",
    "prompts": [
-    "Your face when it’s day 27 in the labyrinth and you see this:"
+    "Dein Gesicht, wenn du am 27. Tag im Labyrinth das hier siehst:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "An urban skyline with massive rocks and fire falling from the sky.",
+   "altText": "Über einer Stadtsilhouette fallen riesige Felsbrocken und Feuer vom Himmel.",
    "category": "POV",
    "id": "117265",
    "position": "SECOND",
    "prompts": [
-    "Your face when this is the view from your apartment:"
+    "Dein Gesicht, wenn das die Aussicht aus deiner Wohnung ist:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "A muddy toddler with blonde pigtails pulling her hair and throwing a tantrum.",
+   "altText": "Ein schlammverschmiertes Kleinkind mit blonden Zöpfen zieht an seinen Haaren und hat einen Wutanfall.",
    "category": "POV",
    "id": "117267",
    "position": "SECOND",
    "prompts": [
-    "Your face when this has been going on for thirty minutes now:"
+    "Dein Gesicht, wenn das schon seit 30 Minuten so geht:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "A blonde woman sinking her teeth into a large raw beef steak",
+   "altText": "Eine blonde Frau beißt in ein großes rohes Rindersteak.",
    "category": "POV",
    "id": "118525",
    "position": "SECOND",
    "prompts": [
-    "Your face when your co-worker digs into her lunch like this:"
+    "Dein Gesicht, wenn sich deine Kollegin so über ihr Mittagessen hermacht:"
    ],
    "selfieDirection": "",
    "starterContent": true
   },
   {
-   "altText": "An angry looking boxer in a ring ready to punch the camera",
+   "altText": "Ein wütend aussehender Boxer steht im Ring und holt zu einem Schlag in Richtung Kamera aus.",
    "category": "POV",
    "id": "119032",
    "position": "SECOND",
    "prompts": [
-    "Your face when you’re up against this fella:"
+    "Dein Gesicht, wenn du gegen diesen Kerl antreten musst:"
    ],
    "selfieDirection": "",
    "starterContent": true
