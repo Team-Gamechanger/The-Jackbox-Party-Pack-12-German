@@ -1,0 +1,5675 @@
+{
+ "content": [
+  {
+   "buffs": [
+    "Good dancing is about risk",
+    "I could hold it in my teeth",
+    "In da club, we all pirates"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Dance floors are expensive",
+    "I cut myself slicing onions",
+    "I dance with my arms!"
+   ],
+   "id": "116802",
+   "subject": "Dancing would be cooler if it involved knives",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Finally! Empathy!",
+    "We can screen carefully",
+    "I can be tall!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "The lawsuits!",
+    "This could really confuse court cases",
+    "I simply don’t trust people"
+   ],
+   "id": "117016",
+   "subject": "We should offer a service to let people swap bodies for a day"
+  },
+  {
+   "buffs": [
+    "SO many cheese treats",
+    "Strong arms AND strong tummy!",
+    "Finally, no more farts"
+   ],
+   "countrySpecific": false,
+   "fillers": [],
+   "flaws": [
+    "Sounds exhausting",
+    "Pepto is more convenient",
+    "Going to get stares at Baskin-Robbins"
+   ],
+   "id": "117017",
+   "subject": "I would carry a large shield if it protected me from tummy aches"
+  },
+  {
+   "buffs": [
+    "Compressing my bones feels cool",
+    "I can trampoline again!",
+    "I will finally win yoga"
+   ],
+   "fillers": [],
+   "flaws": [
+    "It alssso effectsss my ssspeech",
+    "When do I need agility?",
+    "Pet stores hate to see me coming"
+   ],
+   "id": "117018",
+   "subject": "I would eat mice if it gave me a snake’s flexibility"
+  },
+  {
+   "buffs": [
+    "Basketball would be intense",
+    "Shelves would be more consistent",
+    "This would look wild"
+   ],
+   "countrySpecific": true,
+   "fillers": [],
+   "flaws": [
+    "I want to be exceptional",
+    "Won’t judge people on height",
+    "Tall old people?"
+   ],
+   "id": "117019",
+   "subject": "I would push a button that makes all adults 5’10”"
+  },
+  {
+   "buffs": [
+    "Good, my boss just asked for honest feedback",
+    "I throw it on my keyboard in online debates",
+    "Just wear a cape and it always works"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Who cleans the broken glass?",
+    "I CAN’T BE DRAMATIC!!!",
+    "But I live for messy fights"
+   ],
+   "id": "117020",
+   "subject": "We should resolve fights by throwing down smoke vials and dramatically yelling “ENOUGH!”"
+  },
+  {
+   "buffs": [
+    "Redheads have the best tea",
+    "I will rule Scotland",
+    "I’m always trying to impress Emma Stone"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Natural or dyed?",
+    "Nobody’s thinking about me :(",
+    "This is my nightmare"
+   ],
+   "id": "117024",
+   "subject": "I would like the ability to read the surface thoughts of redheads"
+  },
+  {
+   "buffs": [
+    "I do everything butt-first",
+    "Flight! Humanity’s ultimate dream!",
+    "Flying always looks cool"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’m afraid of heights",
+    "Can’t see where I’m going",
+    "I will lose track and fall"
+   ],
+   "id": "117025",
+   "subject": "I would like to fly.... even if I could only do it butt first"
+  },
+  {
+   "buffs": [
+    "*bird*",
+    "Hats are in",
+    "Let’s appreciate birds"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Do bird photos count?",
+    "I get “hat head”",
+    "I don’t know what “fetching” means"
+   ],
+   "id": "117027",
+   "subject": "There should be a stylish hat that softly whispers “bird” whenever you see a bird"
+  },
+  {
+   "buffs": [
+    "No bathroom lines",
+    "No movie bathroom breaks!",
+    "No germs from public bathrooms"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Not flattering",
+    "Won’t there still be... odors?",
+    "Hard to conceal you’re actively going"
+   ],
+   "id": "117077",
+   "subject": "I would wear a diaper that magics your waste to another dimension",
+   "x": true
+  },
+  {
+   "buffs": [
+    "I would get a brand deal",
+    "Can I share pet photos?",
+    "Freedom of moon speech!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Are there moon censors?",
+    "I’d end up with a crescent moon",
+    "Great, more ads"
+   ],
+   "id": "117269",
+   "subject": "We should all get a night to display a message on the moon"
+  },
+  {
+   "buffs": [
+    "Learning is my passion",
+    "Why is this bad?",
+    "I can phrase a compliment as a question"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Sometimes that’s rhetorical",
+    "Meetings go longer",
+    "Busy tour guides will hate you"
+   ],
+   "id": "117271",
+   "subject": "Whenever someone says, “Any questions?” you HAVE to ask something"
+  },
+  {
+   "buffs": [
+    "Sounds entertaining",
+    "Film 24/7 = YouTube fame",
+    "Love a confident dog"
+   ],
+   "fillers": [],
+   "flaws": [
+    "The mind games!",
+    "How many involve poop?",
+    "I fear an animal smarter than me"
+   ],
+   "id": "117291",
+   "subject": "Pet dogs would be better if they performed complex illusions instead of simple tricks"
+  },
+  {
+   "buffs": [
+    "Football is a mind game",
+    "Finally, something for the art class to design",
+    "Boo! See how much fun this is!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "My kids go to games",
+    "Imagine it hangin’ in the locker room",
+    "Fear is subjective"
+   ],
+   "id": "117320",
+   "subject": "The high school mascot should be really, really scary"
+  },
+  {
+   "buffs": [
+    "There’s still shade",
+    "Great curb appeal",
+    "No bugs!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "My hammock!!",
+    "The poor birds",
+    "I wouldn’t be able to get rid of it"
+   ],
+   "id": "117321",
+   "subject": "Trees in my yard would be better if they were intangible"
+  },
+  {
+   "buffs": [
+    "Will hurt their dating/mating life",
+    "Rather they give up than die",
+    "“Yeah... I won’t build this colony”"
+   ],
+   "fillers": [],
+   "flaws": [
+    "A short life of regret",
+    "They’ll just eat more if sad",
+    "Bugs don’t need existential dread"
+   ],
+   "id": "117322",
+   "subject": "I want a spray that just makes bugs regret their choices",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Gender-neutral",
+    "Change is good",
+    "Say “Ahoy Sailor” to a more exciting life!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Ruins my go-to Adele karaoke song",
+    "Wordy",
+    "Anti-cowboy"
+   ],
+   "id": "117326",
+   "subject": "We should replace “hello” with “ahoy, sailor!”"
+  },
+  {
+   "buffs": [
+    "Save money on fancy soap",
+    "Makes dates more interesting",
+    "Dogs would love me"
+   ],
+   "fillers": [
+    "nothing",
+    "fresh-baked cookies",
+    "danger"
+   ],
+   "flaws": [
+    "Do you want people closer to you?",
+    "How strong is the smell?",
+    "Variety is the spice of life"
+   ],
+   "id": "117327",
+   "subject": "The best thing to smell like would be {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "I always forget my keys",
+    "Just looks cool",
+    "I can reach into anything"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I would lose my hole",
+    "A tool for creeps",
+    "I’m humorless, thus powerless"
+   ],
+   "id": "117397",
+   "subject": "A portable hole is the most useful cartoon object"
+  },
+  {
+   "buffs": [
+    "Cuts down on commute",
+    "I’m always falling!",
+    "World’s most awesome hopscotch"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’m too old to bounce",
+    "My dog would launch itself",
+    "What’s “slightly” mean?"
+   ],
+   "id": "117531",
+   "subject": "We should make all sidewalks slightly bouncy"
+  },
+  {
+   "buffs": [
+    "Empathy snacks!",
+    "Extreme eating is hot now",
+    "I want to know what drowning tastes like"
+   ],
+   "fillers": [],
+   "flaws": [
+    "How are these sourced?",
+    "Do we need more ways to experience pain?",
+    "Snack tables become terrifying"
+   ],
+   "id": "117533",
+   "subject": "They should sell pain-flavored Doritos",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Chickens are 1. Birds 2. Delicious",
+    "If they don’t bloom, do they become eggs?",
+    "Lots of different kinds of birds"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Invasive species",
+    "This sounds scary to watch",
+    "Do we lack birds?"
+   ],
+   "id": "117534",
+   "subject": "We should have seeds that grow birds when planted in the ground"
+  },
+  {
+   "buffs": [
+    "I’m going to wear my most questionable fashion!",
+    "Finally! An ephemeral moment!",
+    "I would finally attempt to skateboard"
+   ],
+   "fillers": [],
+   "flaws": [
+    "But my beautiful meals",
+    "THIS is when Bigfoot would show up",
+    "Security cameras?"
+   ],
+   "id": "117535",
+   "subject": "We should have one day a year where it’s physically impossible to capture images"
+  },
+  {
+   "buffs": [
+    "Sounds pastoral",
+    "I’m a horse girl",
+    "I assume they already are"
+   ],
+   "fillers": [],
+   "flaws": [
+    "How does the horse get in my bedroom?",
+    "I startle easily",
+    "I fear big animals"
+   ],
+   "id": "117768",
+   "subject": "It would be terrible if a horse was always watching you, always"
+  },
+  {
+   "buffs": [
+    "I’m already scared of microwaves",
+    "The sounds!",
+    "Ghosts! Leave my burritos alone"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Microwaves don’t have eyes",
+    "At least it’s stationary",
+    "I need to eat better"
+   ],
+   "id": "117817",
+   "subject": "A microwave would be the worst appliance for a ghost to haunt"
+  },
+  {
+   "buffs": [
+    "Floating is cool wherever!",
+    "I can poop in the woods",
+    "Showers would be awesome!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I would have to touch EVERYTHING",
+    "How? Would I... ya know",
+    "I can’t carry ropes everywhere!"
+   ],
+   "id": "117852",
+   "subject": "It would be cool if you, and only you, experienced zero gravity in all restrooms",
+   "x": true
+  },
+  {
+   "buffs": [
+    "This sounds like an artist’s dream",
+    "I’m tired of high-energy parades",
+    "I don’t hide my shame!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "The ultimate shame parade is unseen",
+    "Sounds mean",
+    "What month is cursed with shame day?"
+   ],
+   "id": "117856",
+   "subject": "We should hold an annual Shame Day parade!"
+  },
+  {
+   "buffs": [
+    "So it’s not just me",
+    "Tax season is in spring...",
+    "Logic is a good trait to pass on"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Sounds distracting",
+    "I’m not smart enough to be sexy",
+    "Nerds!!!"
+   ],
+   "id": "117857",
+   "subject": "The world would be better if accounting was seen as sexy",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’s radical honesty",
+    "Better than the apps",
+    "Sanitation is more dependable than fate"
+   ],
+   "fillers": [],
+   "flaws": [
+    "That’s an awful first impression",
+    "Other people may use my bin!",
+    "There’s sensitive information in my trash!"
+   ],
+   "id": "117901",
+   "subject": "Our garbage collectors should matchmake based on people’s trash"
+  },
+  {
+   "buffs": [
+    "Customized and personal!",
+    "Could defuse road rage",
+    "Gives motorists a creative outlet"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Increase in car accidents, probably",
+    "Can’t recognize horns if they’re all different",
+    "I don’t want to hear weird mouth sounds"
+   ],
+   "id": "117902",
+   "subject": "Everybody should have their own unique car horn"
+  },
+  {
+   "buffs": [
+    "Gets you out of the house",
+    "Teaches patience and discipline",
+    "Interact with your community!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "A day is a long time",
+    "What if birds land on you?",
+    "Statues are for key figures, not randos"
+   ],
+   "id": "117903",
+   "subject": "Citizens should take turns being the town square’s statue for a day"
+  },
+  {
+   "buffs": [
+    "I must know so I can avoid",
+    "I want to see bug profiles",
+    "Still better than actual Hinge"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What does it mean if I swipe on a bug?",
+    "I do NOT want to know how many bugs are near me",
+    "You’ll never sleep again"
+   ],
+   "id": "117904",
+   "subject": "We should have a Hinge-like app that shows bugs within a half-mile radius",
+   "x": true
+  },
+  {
+   "buffs": [
+    "I love kids!",
+    "Me and my six-year-old self would vibe",
+    "I could use a shot of childlike wonder"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I am not good with kids",
+    "So a living reminder of all the potential I had?",
+    "The space-time continuum!?!"
+   ],
+   "id": "117905",
+   "subject": "Everyone should have to babysit their six-year-old self for 8 hours"
+  },
+  {
+   "buffs": [
+    "Stay back, you vampires, I’m comfy!",
+    "Let’s throw this over the cat’s litter box",
+    "Smell aside, I’m cozy-wozy"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Simply cannot use this when I’m hungry",
+    "Eh, I run hot",
+    "Makes the smell of occasional garlic less special"
+   ],
+   "id": "117942",
+   "subject": "I want a blanket that always smells like garlic bread"
+  },
+  {
+   "buffs": [
+    "Prevents food waste",
+    "You’ll know your portions",
+    "Choice of bleu cheese or ranch"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What about tummyaches?",
+    "Terrifying ziggurat of wing bones",
+    "Dang, filled up on appetizer"
+   ],
+   "id": "117972",
+   "subject": "Taverns should offer “All You [i]Must[/i] Eat” wings"
+  },
+  {
+   "buffs": [
+    "Straw prevents spilling on my grown up clothes",
+    "Grown-ups deserve a treat too",
+    "Fun “slurrrrrrp” noise when finishing box"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Sugar rush!",
+    "More access to Ecto-Cooler would ruin me",
+    "Embarrassing to ask for “red one”"
+   ],
+   "id": "117973",
+   "subject": "They need adult-sized juice boxes"
+  },
+  {
+   "buffs": [
+    "Target practice is fun!",
+    "A cool community effort",
+    "A full bin could water the grass"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’m all the way over here and need to spit",
+    "Who’s gonna empty the bins?",
+    "Vase would be a much better shape for this"
+   ],
+   "id": "117974",
+   "subject": "We should have bins on public streets & sidewalks for collecting spit"
+  },
+  {
+   "buffs": [
+    "I would leave faster",
+    "We wouldn’t confuse them with other alarms",
+    "Make firefighters feel more epic"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Just gonna rip this thing off the wall then",
+    "I would wait inside for the beat drop",
+    "Is that my son or my smoke alarm?!"
+   ],
+   "id": "117976",
+   "subject": "Smoke alarms should play loud EDM"
+  },
+  {
+   "buffs": [
+    "Finally, a step above applause",
+    "As in the majestic gentle giants of the jungle?",
+    "Apes together strong"
+   ],
+   "fillers": [],
+   "flaws": [
+    "SHH, we’re trying to WATCH this movie",
+    "Ow, my weak pectorals!",
+    "But this is MY unique thing!"
+   ],
+   "id": "118011",
+   "subject": "Applause isn’t enough. We should chest-pound like gorillas to show approval"
+  },
+  {
+   "buffs": [
+    "Fees & fines = $$$ for our charming little town",
+    "Have to prove they know what sarcasm is",
+    "We could all use more sincerity"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Annual renewals? Greaaat, another errand.",
+    "A misdemeanor’s no big deal",
+    "Wow! How not-authoritative"
+   ],
+   "id": "118014",
+   "subject": "People should have a city-issued license to use sarcasm"
+  },
+  {
+   "buffs": [
+    "We take tech for granted",
+    "It would encourage me to use it less",
+    "Never dead for emergencies"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I already cry while doomscrolling",
+    "My life doesn’t need more crying",
+    "Emotions are for people!"
+   ],
+   "id": "118031",
+   "subject": "Phones should softly cry when the battery starts to die"
+  },
+  {
+   "buffs": [
+    "Let a judge determine if Thor could beat Superman",
+    "Court TV gets awesome",
+    "As long as they leave public forum"
+   ],
+   "fillers": [],
+   "flaws": [
+    "How many emojis submitted in evidence?",
+    "Stand by our words? In this economy?!?",
+    "Frivolous arguments should be fun...."
+   ],
+   "id": "118032",
+   "subject": "Online debates lasting more than one day should be settled in court"
+  },
+  {
+   "buffs": [
+    "The pranks would be heavenly",
+    "Wings go with everything",
+    "Great conversation starter"
+   ],
+   "fillers": [],
+   "flaws": [
+    "How do you clean wings?",
+    "My clothes wouldn’t fit",
+    "Getting through doors sounds tough"
+   ],
+   "id": "118033",
+   "subject": "I would like a pair of majestic, but useless, wings"
+  },
+  {
+   "buffs": [
+    "Coffins can be a lot more metal",
+    "Zombie will have stiff neck anyway",
+    "Sit me up in a chair!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Pillows are cheap",
+    "Don’t want to hear “clunk” from clumsy pallbearers",
+    "My open casket needs lots of staging"
+   ],
+   "id": "118034",
+   "subject": "Let’s get rid of pillows in coffins",
+   "x": true
+  },
+  {
+   "buffs": [
+    "I can finally sleep comfortably",
+    "Great for snake bites",
+    "Could we trade arms?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I would lose them",
+    "Would a big sneeze knock them off?",
+    "I don’t trust magnets"
+   ],
+   "id": "118035",
+   "subject": "Life would be better if our arms were attached magnetically"
+  },
+  {
+   "buffs": [
+    "It’s a start!",
+    "Finally! Focus",
+    "I need this restraint"
+   ],
+   "fillers": [
+    "pun",
+    "meetings",
+    "social media"
+   ],
+   "flaws": [
+    "I need this MOST on Thursdays!",
+    "Monday would be better",
+    "Can we ban it all-together?"
+   ],
+   "id": "118104",
+   "subject": "Thursdays should be a {{BLANK}}-free day"
+  },
+  {
+   "buffs": [
+    "And it should be bottomless",
+    "Something for my brunch bunch to discuss",
+    "All buffets need this"
+   ],
+   "fillers": [
+    "Compliments on my choices",
+    "Floral arrangements",
+    "More lunch-like options"
+   ],
+   "flaws": [
+    "All I need is french toast",
+    "Brunch is overrated",
+    "Meh, I had a big breakfast"
+   ],
+   "id": "118105",
+   "subject": "Brunch buffets should always include {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It would almost be too easy",
+    "Think of the tourism!",
+    "Simple for everyone to take part"
+   ],
+   "fillers": [
+    "milkshake",
+    "obstacle course",
+    "awkward silence"
+   ],
+   "flaws": [
+    "Why should this be bigger?",
+    "Where would we get the land?",
+    "Sounds expensive"
+   ],
+   "id": "118106",
+   "subject": "I think our town could build the world’s largest {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Criminals would be terrified",
+    "This would fix all my problems",
+    "This would feel good"
+   ],
+   "fillers": [
+    "a VW Bug",
+    "a giant squid",
+    "a stage magician"
+   ],
+   "flaws": [
+    "The body horror!",
+    "Too obvious",
+    "I’d be dead in a week"
+   ],
+   "id": "118107",
+   "subject": "The ultimate superpower would be to have the abilities of {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It starts a conversation",
+    "I do this anyway",
+    "This will freak out tourists... I love it"
+   ],
+   "fillers": [
+    "“What now?”",
+    "A short dance",
+    "Complete silence"
+   ],
+   "flaws": [
+    "I would avoid more people",
+    "How do I sing Adele?",
+    "I’ll just say “hi”"
+   ],
+   "id": "118109",
+   "subject": "Our town should replace “hello” with {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "This is my nightmare",
+    "Does it move on its own?",
+    "Does it make groaning sounds?"
+   ],
+   "fillers": [
+    "butt",
+    "boat",
+    "butcher"
+   ],
+   "flaws": [
+    "I don’t use this anyway",
+    "Awesome Halloween decoration",
+    "I don’t scare easily"
+   ],
+   "id": "118121",
+   "subject": "A haunted doll is bad, but a haunted {{BLANK}} would be scarier"
+  },
+  {
+   "buffs": [
+    "Sounds very safe",
+    "I can only see benefits",
+    "This is my normal wish"
+   ],
+   "fillers": [
+    "muffin",
+    "time",
+    "money"
+   ],
+   "flaws": [
+    "This is useless",
+    "No shortcuts to success",
+    "Genie would still twist it"
+   ],
+   "id": "118122",
+   "subject": "Magic lamps should only grant {{BLANK}}-themed wishes, to be safe"
+  },
+  {
+   "buffs": [
+    "Save water!",
+    "I pretty much never clean it",
+    "It’s my business"
+   ],
+   "fillers": [
+    "grills",
+    "our hair",
+    "our phones"
+   ],
+   "flaws": [
+    "Disgusting!",
+    "How often DO you suggest?",
+    "Define “clean”"
+   ],
+   "id": "118123",
+   "subject": "We don’t need to clean {{BLANK}} as often as we think!"
+  },
+  {
+   "buffs": [
+    "This is renewable",
+    "I’m happy because fewer people would drive",
+    "I want to see this Fast & Furious movie"
+   ],
+   "fillers": [
+    "saltwater",
+    "laughter",
+    "garbage"
+   ],
+   "flaws": [
+    "We’d still run out",
+    "Road trips would be exhausting",
+    "What’s the mileage?"
+   ],
+   "id": "118124",
+   "subject": "Cars would be perfect if they ran on {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "THIS is romance",
+    "Make weddings more interesting",
+    "Tradition!"
+   ],
+   "fillers": [
+    "credit scores",
+    "hairstyles",
+    "secret handshakes"
+   ],
+   "flaws": [
+    "Lacks commitment",
+    "Can a clerk do this?",
+    "Exchange... Permanently?"
+   ],
+   "id": "118125",
+   "subject": "Forget rings! We should propose by exchanging {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Sounds extreme",
+    "Anything to distract from my arms",
+    "Depends on the song"
+   ],
+   "fillers": [
+    "snacks",
+    "being boneless",
+    "classical music"
+   ],
+   "flaws": [
+    "Nothing could make my dancing cooler",
+    "Sounds dangerous",
+    "Da club would be too hectic"
+   ],
+   "id": "118126",
+   "subject": "Dancing would be cooler if it involved {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Inexpensive!",
+    "I would watch this horror movie",
+    "Imagine this as B&W crime scene photo"
+   ],
+   "fillers": [
+    "a bunch of dolls",
+    "chicken bones",
+    "a bunch of empty clothes"
+   ],
+   "flaws": [
+    "Too scary for kids",
+    "Doesn’t sound hygienic",
+    "I would avoid this house"
+   ],
+   "id": "118127",
+   "subject": "The perfect Halloween decoration? Put {{BLANK}} in your yard"
+  },
+  {
+   "buffs": [
+    "Less scary AND funnier",
+    "Yeah, loops around to normal",
+    "Depends WHERE I see them"
+   ],
+   "fillers": [
+    "Baggy t-shirts",
+    "Goth make up",
+    "Less color"
+   ],
+   "flaws": [
+    "They’re not clowns anymore",
+    "This would be scarier",
+    "Mental image gives me uncanny valley"
+   ],
+   "id": "118129",
+   "subject": "Clowns would be less scary if they wore {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Awesome to watch",
+    "Can finally use that scabbard",
+    "This would make me feel powerful"
+   ],
+   "fillers": [
+    "the tension",
+    "fabrics",
+    "ice sculptures"
+   ],
+   "flaws": [
+    "Airport security doesn’t tolerate magic",
+    "Still look like a nerd with a sword",
+    "Could confuse it with normal sword"
+   ],
+   "id": "118130",
+   "subject": "I should be able to carry a magic sword that only cuts {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "You could still use protection",
+    "Does quality of mating = quality of product?",
+    "Great in an emergency"
+   ],
+   "fillers": [
+    "Freshly baked pies",
+    "The latest iPhone",
+    "Mid-tier automobiles"
+   ],
+   "flaws": [
+    "How?!?",
+    "You’ve ruined sex",
+    "Does it take 9 months?"
+   ],
+   "id": "118131",
+   "subject": "Mating would be better if it produced {{BLANK}} instead of babies",
+   "x": true
+  },
+  {
+   "buffs": [
+    "At this point... couldn’t hurt",
+    "My interests align with the dead",
+    "And then they haunt the loser"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Sound like single issue voters",
+    "IF they can fill out a ballot",
+    "Don’t previous generations already rule everything?"
+   ],
+   "id": "118132",
+   "subject": "If we prove ghosts exist, they should be given the right to vote",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’s why they’re in rural areas",
+    "Is this why we wish on stars?",
+    "Metal ships can’t disappear"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I believe E.T. more than Ferngully",
+    "But why?!",
+    "I know what I saw!"
+   ],
+   "id": "118155",
+   "subject": "UFO sightings are probably just fairies messing with us"
+  },
+  {
+   "buffs": [
+    "No longer fear robot masters!",
+    "Safe way for children to learn",
+    "Your output is [i]not[/i] your worth."
+   ],
+   "fillers": [],
+   "flaws": [
+    "Might not know you bought a dud",
+    "We’re spending WHAT on batteries?",
+    "Sentient ones might get sad"
+   ],
+   "id": "118425",
+   "subject": "More robots should be useless"
+  },
+  {
+   "buffs": [
+    "Make work conference more interesting",
+    "Finally, honest interactions",
+    "Try it!"
+   ],
+   "fillers": [
+    "arm-wrestling competitions",
+    "silence",
+    "nose boops"
+   ],
+   "flaws": [
+    "Takes a lot of time",
+    "Want to save this reveal",
+    "Do it now if it’s so good"
+   ],
+   "id": "118429",
+   "subject": "Traditional icebreakers should be replaced with {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Imagine how good this feels",
+    "A real mental health day",
+    "I can finally sleep through the night"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I can’t stay awake that long",
+    "Do I look like I’m retaining water?",
+    "Regardless of how much I drink..."
+   ],
+   "id": "118481",
+   "subject": "Instead of peeing daily, you pee 24 hours straight, once a year... sound good?",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Shows humility",
+    "It doesn’t have to be long... just try",
+    "Can’t talk your way out of gravity"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Sounds too rural",
+    "The clumsy can lead!",
+    "How do we prevent rigged bulls?"
+   ],
+   "id": "118482",
+   "subject": "You should have to publicly ride a mechanical bull before running for office"
+  },
+  {
+   "buffs": [
+    "Sounds productive",
+    "Doesn’t matter, still rested",
+    "I’m asleep! Who cares!"
+   ],
+   "fillers": [
+    "wrestling",
+    "gossiping",
+    "scatting"
+   ],
+   "flaws": [
+    "My poor partner!",
+    "I need rest!",
+    "Even naps?"
+   ],
+   "id": "118485",
+   "subject": "The MOST annoying condition is {{BLANK}} in your sleep"
+  },
+  {
+   "buffs": [
+    "Sounds MORE exciting",
+    "Think of the stories!",
+    "But what if the music’s good?"
+   ],
+   "fillers": [
+    "drama",
+    "Spin the Bottle",
+    "a crossbow"
+   ],
+   "flaws": [
+    "I’m too old for this",
+    "Always looking for a good exit",
+    "Just there for snacks anyway"
+   ],
+   "id": "118486",
+   "subject": "You should leave a party if {{BLANK}} shows up",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Can’t mess this up!",
+    "Sounds safe",
+    "Fine! But NO art!"
+   ],
+   "fillers": [
+    "laundry",
+    "dating me",
+    "brain surgery"
+   ],
+   "flaws": [
+    "Would not trust them",
+    "Seems limited",
+    "Cold, hard hands... shudder"
+   ],
+   "id": "118490",
+   "subject": "The only thing AI-powered robots should be doing is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Would make better adults",
+    "Finally! Something useful",
+    "At least the basics!"
+   ],
+   "fillers": [
+    "taxes",
+    "monkeys",
+    "hip-hop"
+   ],
+   "flaws": [
+    "With my tax dollars?!",
+    "Should learn at home!",
+    "Teachers aren’t prepared for this"
+   ],
+   "id": "118491",
+   "subject": "It’s time we started teaching {{BLANK}} in schools"
+  },
+  {
+   "buffs": [
+    "Delicious!",
+    "The perfect first course!",
+    "Dining is about decadence"
+   ],
+   "fillers": [
+    "ceviche",
+    "a good workout",
+    "conversation"
+   ],
+   "flaws": [
+    "This RUINS my appetite",
+    "Too heavy",
+    "Meal pales in comparison"
+   ],
+   "id": "118492",
+   "subject": "The ultimate pre-meal appetizer is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Sums up MOST people",
+    "It’s aspirational",
+    "It works metaphorically"
+   ],
+   "fillers": [
+    "Lean On Me",
+    "Old Town Road",
+    "Rainbow Connection"
+   ],
+   "flaws": [
+    "Should be sadder",
+    "Too negative",
+    "Only certain parts of humanity"
+   ],
+   "id": "118493",
+   "subject": "The song that best sums up humanity is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Do we even need one?",
+    "I get analysis paralysis with too many options",
+    "It’s a waste of resources!"
+   ],
+   "fillers": [
+    "social media sites",
+    "pizza toppings",
+    "guys named Chris"
+   ],
+   "flaws": [
+    "Bah! I want MORE!",
+    "Would you prefer a monopoly?",
+    "Diverse options are better"
+   ],
+   "id": "118503",
+   "subject": "I’m just going to say it… we have too many {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It’s decadent",
+    "We have enough!",
+    "I can’t get through the ones we have!"
+   ],
+   "fillers": [
+    "Batman movies",
+    "sweet coffee drinks",
+    "apps"
+   ],
+   "flaws": [
+    "We’re free to make/consume garbage!",
+    "But the next one could be GREAT",
+    "I do not have enough, honestly"
+   ],
+   "id": "118515",
+   "subject": "They need to stop making {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It IS gruelling",
+    "Takes hand-eye coordination",
+    "Fun to watch at Olympics"
+   ],
+   "fillers": [
+    "texting",
+    "baking",
+    "hoverboard"
+   ],
+   "flaws": [
+    "I am NOT an athlete",
+    "What would the rules be?",
+    "How physical is this?"
+   ],
+   "id": "118516",
+   "subject": "I think {{BLANK}} should be considered a sport"
+  },
+  {
+   "buffs": [
+    "Leads to radical honesty",
+    "You are bonded",
+    "At least it’s a good story"
+   ],
+   "fillers": [
+    "fishing",
+    "attending a funeral",
+    "eating a whole cake"
+   ],
+   "flaws": [
+    "I wouldn’t do this with close friends",
+    "Not very romantic",
+    "Sounds expensive"
+   ],
+   "id": "118517",
+   "subject": "The best unique first date activity is {{BLANK}} together",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’ll be gone in 10 years",
+    "Just like Pogs",
+    "No real value to society"
+   ],
+   "fillers": [
+    "dirty soda",
+    "A.I.",
+    "dating"
+   ],
+   "flaws": [
+    "It won’t leave, just change",
+    "It’s not a phase, Dad!",
+    "You’re just old"
+   ],
+   "id": "118518",
+   "subject": "{{BLANK}} is just a fad!"
+  },
+  {
+   "buffs": [
+    "I believe in you",
+    "Could outwit them",
+    "Do a push-up right now"
+   ],
+   "fillers": [
+    "Ross from Friends",
+    "an emu",
+    "several ants"
+   ],
+   "flaws": [
+    "With no weapons?",
+    "How mad are they?",
+    "In what terrain?"
+   ],
+   "id": "118519",
+   "subject": "{{PLAYER}} could defeat {{BLANK}} in a physical fight"
+  },
+  {
+   "buffs": [
+    "Better things to be wary of",
+    "Don’t let this stop you from living!",
+    "I’m built different"
+   ],
+   "fillers": [
+    "quicksand",
+    "a spider bite",
+    "an egg-based diet"
+   ],
+   "flaws": [
+    "I’m not taking the chance!",
+    "But I’m weak and fragile",
+    "Still seems scary"
+   ],
+   "id": "118520",
+   "subject": "We’ve been lied to! {{BLANK}} isn’t that dangerous!"
+  },
+  {
+   "buffs": [
+    "Emotionally? This is true",
+    "Ahh, the silent killer",
+    "This is my nightmare"
+   ],
+   "fillers": [
+    "the animals turning against us",
+    "hackers",
+    "microplastics"
+   ],
+   "flaws": [
+    "I can think of 6 scarier things",
+    "This will sort itself out",
+    "Is this scarier than scorpions?"
+   ],
+   "id": "118521",
+   "subject": "We should be more afraid of {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Should be protecting face anyway",
+    "Turns it into battle of wits!",
+    "If you lose, at least you get a little kiss"
+   ],
+   "fillers": [],
+   "flaws": [
+    "How do we know it’s a real smooch?",
+    "Bigger cheeks at disadvantage",
+    "Sounds anti-climactic"
+   ],
+   "id": "118528",
+   "subject": "Boxers should win the fight if they can sneak a kiss on their opponent’s cheek",
+   "x": true
+  },
+  {
+   "buffs": [
+    "That’s way more fun and whimsical",
+    "I like having a bit of a uniform",
+    "I think balding men would appreciate it"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I want to wear what I want, when I want",
+    "No privacy; people know your job just by looking at you",
+    "Some jobs will have objectively worse hats"
+   ],
+   "id": "118531",
+   "subject": "EVERY job should have its own unique hat, like chefs or pilots do"
+  },
+  {
+   "buffs": [
+    "More arms = more work getting done",
+    "I’d expect the King to be able to camouflage",
+    "I think My Octopus Teacher said it all"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Guess we need a new king every 5 years",
+    "Have you even seen a shark or dolphin?",
+    "How’s a lady octopus supposed to be queen AND raise octo-kids?"
+   ],
+   "id": "118549",
+   "subject": "If the ocean had a government, an octopus would lead it"
+  },
+  {
+   "buffs": [
+    "Let’s be civilized",
+    "No buttery fingers!",
+    "Much quieter big scoop"
+   ],
+   "fillers": [],
+   "flaws": [
+    "You wanna do the dishes?",
+    "Spoons = waste!!!",
+    "I’m still dropping little pieces on me"
+   ],
+   "id": "118551",
+   "subject": "Popcorn should be eaten with a spoon"
+  },
+  {
+   "buffs": [
+    "Talk about a captive audience",
+    "Each show’s a new, exciting story to invest in",
+    "I never get to see live theater"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’m still not paying attention",
+    "Would need flight attendants to audition",
+    "Oh God, get me off this flight, we’re gonna crash!!!!"
+   ],
+   "id": "118554",
+   "subject": "Airline safety presentations should be short, realistic plays about crashing",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Not every gathering is “a party”",
+    "This isn’t a party, it’s a work meeting",
+    "That’s okay, there’s always next time"
+   ],
+   "fillers": [
+    "equal amounts of chips and dip",
+    "an arrest",
+    "celebrities"
+   ],
+   "flaws": [
+    "Okay, but don’t tell the host that... rude",
+    "Fine, give me a not “real” party then",
+    "Sorry my company isn’t good enough!!"
+   ],
+   "id": "118555",
+   "subject": "It’s not a real party unless there’s {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [
+    "This could be a valuable skill",
+    "I would have the ONLY healthy relationship",
+    "A tougher but better life"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I need “little” lies daily",
+    "You’re doing a great job at this debate!",
+    "Seemed tough for Jim Carrey"
+   ],
+   "id": "118556",
+   "subject": "I would trade the ability to lie for ultimate lie-detection powers"
+  },
+  {
+   "buffs": [
+    "Easy thing to bring from home",
+    "More practical than a bottle of wine",
+    "New customs start when someone establishes them"
+   ],
+   "fillers": [
+    "sound advice",
+    "a mortgage contribution",
+    "no shoes on"
+   ],
+   "flaws": [
+    "Look, I didn’t have to come at all",
+    "I hate traditions",
+    "The invite said no gifts!"
+   ],
+   "id": "118557",
+   "subject": "It should be customary to show up to a housewarming with {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Do I get off work??",
+    "Beats tired old St. Patrick’s Day",
+    "I love decorating!"
+   ],
+   "fillers": [
+    "me",
+    "Pedro Pascal",
+    "February"
+   ],
+   "flaws": [
+    "No more holidays! Enough holidays!",
+    "Can’t afford gifts until I get paid on the 15th",
+    "That conflicts with my core values"
+   ],
+   "id": "118558",
+   "subject": "From now on, March 3rd will be known as {{BLANK}} Day"
+  },
+  {
+   "buffs": [
+    "The pranks we could pull",
+    "I could get so much done!",
+    "I always wanted a twin"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Nice try, I’ve seen The Prestige",
+    "Two mouths to feed!",
+    "But I like being special"
+   ],
+   "id": "118559",
+   "subject": "I would clone myself if given the option"
+  },
+  {
+   "buffs": [
+    "So all my hate is channeled at them",
+    "I only trust Johnny B and the Squatch",
+    "Condense all bad news into drive time"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Is this how I’m fired?",
+    "*Loud cow mooo!*",
+    "My therapist would hate this"
+   ],
+   "id": "118560",
+   "subject": "I want all bad news delivered via shock jocks"
+  },
+  {
+   "buffs": [
+    "Can I name them?",
+    "This is contractor Ratatouille",
+    "Finally! A productive pet!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Where are they taking the mold?",
+    "The rat can’t be clean enough",
+    "Can I hear it?"
+   ],
+   "id": "118577",
+   "subject": "I would let a nice rat live in my walls if they removed mold"
+  },
+  {
+   "buffs": [
+    "Such cool webs",
+    "Our town could be pretty metal",
+    "Anything to get the mosquitos"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Increase odds of venomous ones",
+    "Most evil phrase: “Spider breeding farm”",
+    "How about NO spiders"
+   ],
+   "id": "118581",
+   "subject": "We need more spiders!"
+  },
+  {
+   "buffs": [
+    "Action figure size... perfect",
+    "Dollhouse furniture is cheap",
+    "Any smaller and I’d get lost"
+   ],
+   "countrySpecific": true,
+   "fillers": [],
+   "flaws": [
+    "Smaller would be cooler",
+    "Optimal cat prey height",
+    "I want Honey, I Shrunk the Kids size!"
+   ],
+   "id": "118583",
+   "subject": "If you were shrunk down for fun.... 3 inches would be the ideal height"
+  },
+  {
+   "buffs": [
+    "I love looking up spoilers",
+    "Knowledge is power",
+    "Can’t miss the opportunity"
+   ],
+   "fillers": [],
+   "flaws": [
+    "This would drive me mad",
+    "Wait... is fate real?",
+    "I would ruin a good future"
+   ],
+   "id": "118584",
+   "subject": "I want to see a photo from my life 10 years in the future"
+  },
+  {
+   "buffs": [
+    "Butts are all different",
+    "I want to poop while lying down!",
+    "Yeah, why ARE they all the same?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Ain’t broke, don’t fix it",
+    "Don’t think about toilets more than necessary",
+    "Sounds messy"
+   ],
+   "id": "118630",
+   "subject": "Toilets should come in a variety of different shapes"
+  },
+  {
+   "buffs": [
+    "Mutitasking!",
+    "Learn to juggle",
+    "Anything to distract from my terrible torso"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Manicures got more expensive",
+    "Terrible place for it",
+    "The loneliness of trying a high 15!"
+   ],
+   "id": "118633",
+   "subject": "I would like a third arm in the middle of my torso"
+  },
+  {
+   "buffs": [
+    "I want to be a shark",
+    "My needs require more teeth",
+    "Rich from Tooth Fairy"
+   ],
+   "fillers": [],
+   "flaws": [
+    "“Extra teeth” is a creepy statement",
+    "Just take care of them",
+    "Enough for what?"
+   ],
+   "id": "118685",
+   "subject": "Humans don’t have enough teeth"
+  },
+  {
+   "buffs": [
+    "It’s a political statement!",
+    "Like an art piece",
+    "Walking around headless is cool"
+   ],
+   "fillers": [],
+   "flaws": [
+    "It’s life incognito mode",
+    "You’re inherently naked",
+    "The thought does creep me out"
+   ],
+   "id": "118744",
+   "subject": "Only creeps want the power of invsibility",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Only old people say this",
+    "It had a good run",
+    "Not everything can be “cool”"
+   ],
+   "fillers": [
+    "“baby”",
+    "“chillaxin’”",
+    "“peachy keen”"
+   ],
+   "flaws": [
+    "Word police!",
+    "I use this daily",
+    "What a square!"
+   ],
+   "id": "118793",
+   "subject": "As a society, we need to retire saying {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It would make you unique",
+    "I’d pay $5",
+    "I’ll invest"
+   ],
+   "fillers": [
+    "fire",
+    "criticism",
+    "tax"
+   ],
+   "flaws": [
+    "Where are the customers for this?",
+    "In this economy?!",
+    "Money shouldn’t be the end goal"
+   ],
+   "id": "118794",
+   "subject": "I could make a fortune if I was {{BLANK}}-proof"
+  },
+  {
+   "buffs": [
+    "Capitalism would ruin this",
+    "Shouldn’t gamble at all",
+    "Risk is WAY too high"
+   ],
+   "fillers": [
+    "squirrel fights",
+    "milk-based dares",
+    "spelling bees"
+   ],
+   "flaws": [
+    "C’mon, live a little",
+    "It would make it less boring",
+    "Coward!"
+   ],
+   "id": "118795",
+   "subject": "You should never gamble on {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [
+    "I don’t want the role",
+    "They’re dressed for it",
+    "That’s how I see them!"
+   ],
+   "fillers": [
+    "rock",
+    "nanny",
+    "wild card"
+   ],
+   "flaws": [
+    "Don’t box them in",
+    "No! I am!",
+    "No, they’re the Miranda"
+   ],
+   "id": "118796",
+   "subject": "{{PLAYER}} is the {{BLANK}} of the group"
+  },
+  {
+   "buffs": [
+    "MORE than friends",
+    "Yeah, you’re soulmates",
+    "Can I hang out, too?!"
+   ],
+   "fillers": [
+    "Batman",
+    "Garfield",
+    "Flo from Progressive"
+   ],
+   "flaws": [
+    "They’d be too busy",
+    "“Friends” is strong",
+    "Don’t trust their politics"
+   ],
+   "id": "118798",
+   "subject": "I think {{BLANK}} and I would be friends if they were real"
+  },
+  {
+   "buffs": [
+    "They got that dog in them",
+    "Survive and THRIVE",
+    "True, eyes of a killer"
+   ],
+   "fillers": [
+    "The Hunger Games",
+    "A desert",
+    "Any social interaction"
+   ],
+   "flaws": [
+    "Meh, no one would",
+    "No, I would!",
+    "I know their weakness"
+   ],
+   "id": "118799",
+   "subject": "{{PLAYER}} would survive the longest in {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "I’m in. Let’s do it next year",
+    "Def fun, but expensive",
+    "I agree... but not for me."
+   ],
+   "fillers": [
+    "Squid Games",
+    "Times Square NYE",
+    "improv"
+   ],
+   "flaws": [
+    "It looks loud",
+    "I would be terrified",
+    "Boooorrrinngg"
+   ],
+   "id": "118800",
+   "subject": "Videos don’t do it justice, {{BLANK}} is really fun if you’re there",
+   "x": false
+  },
+  {
+   "buffs": [
+    "It activates my sleep mode",
+    "To each their own",
+    "I mean... it’s some kind of care"
+   ],
+   "fillers": [
+    "Doomscrolling",
+    "Frisbee golf",
+    "Petty theft"
+   ],
+   "flaws": [
+    "I don’t know the term means",
+    "It’s “others harm”",
+    "You deserve better"
+   ],
+   "id": "118801",
+   "subject": "{{BLANK}} isn’t “self care”"
+  },
+  {
+   "buffs": [
+    "Vibes-wise, I agree",
+    "Don’t yuck a yum",
+    "I thought we all did"
+   ],
+   "fillers": [
+    "a tree stump",
+    "a scorpion",
+    "How to Lose a Guy in 10 Days"
+   ],
+   "flaws": [
+    "Like... visually?",
+    "Define “cute”",
+    "Take a second look"
+   ],
+   "id": "118802",
+   "subject": "Actually, I believe {{BLANK}} is kinda cute"
+  },
+  {
+   "buffs": [
+    "Disney imagineers do it again!",
+    "I want it in 4D!",
+    "Perfect! Thrills and chills!"
+   ],
+   "fillers": [
+    "the miracle of birth",
+    "the French Revolution",
+    "the movie Twister"
+   ],
+   "flaws": [
+    "I would throw up",
+    "Would not wait in line for this",
+    "Too educational"
+   ],
+   "id": "118803",
+   "subject": "I want to try a 3D ride that simulates {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It’s the only way I’ll learn",
+    "Hit me!",
+    "This softens the blow"
+   ],
+   "fillers": [
+    "a fireworks display",
+    "a nice head pat",
+    "confidence"
+   ],
+   "flaws": [
+    "Waste of time",
+    "Obscures the truth",
+    "Don’t want to hear it anyway"
+   ],
+   "id": "118804",
+   "subject": "You should always begin constructive criticism with {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Finally, something EVERYONE can enjoy",
+    "Low upkeep",
+    "Would increase tourism"
+   ],
+   "fillers": [
+    "Deadpool",
+    "Barn",
+    "Trampoline"
+   ],
+   "flaws": [
+    "Think of the lawsuits",
+    "Targets a small audience",
+    "In the park?"
+   ],
+   "id": "118805",
+   "subject": "Instead of another community pool, we need a community {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "You would rule the place",
+    "But you’d flourish ANYWHERE",
+    "I’d follow you"
+   ],
+   "fillers": [
+    "The 16th century",
+    "A greenhouse",
+    "Modern high school"
+   ],
+   "flaws": [
+    "You’re only seeing the positive",
+    "Not with your weakness... you know the one",
+    "“Flourish” is strong"
+   ],
+   "id": "118806",
+   "subject": "Honestly, I think I would flourish in {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "My goodness, the internet videos!",
+    "I would adopt a cat",
+    "Would they teach me?"
+   ],
+   "fillers": [
+    "Move things with their mind",
+    "Understand me",
+    "Watch movies"
+   ],
+   "flaws": [
+    "They would take over the world",
+    "Sounds irritating",
+    "Do they NOT do this?"
+   ],
+   "id": "118807",
+   "subject": "I wish cats had the ability to {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "My teeth hurt thinking of it",
+    "In the middle of town?!?",
+    "The “constant” is the problem"
+   ],
+   "fillers": [
+    "Grunt",
+    "Disco beat",
+    "Low hum"
+   ],
+   "flaws": [
+    "I can think of MORE annoying ones",
+    "I’d tune it out",
+    "This is my normal day-to-day"
+   ],
+   "id": "118809",
+   "subject": "The most annoying sound would be a constant {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Sounds green",
+    "Good exercise",
+    "We’d go viral"
+   ],
+   "fillers": [
+    "Trampoline",
+    "Gossip",
+    "Plant"
+   ],
+   "flaws": [
+    "For 24 HOURS??!?",
+    "Sounds hard to clean up",
+    "WHERE would we hold this?"
+   ],
+   "id": "118810",
+   "subject": "A good charity event would be a {{BLANK}}-a-thon"
+  },
+  {
+   "buffs": [
+    "Should teach this in schools",
+    "Coolest town ever",
+    "Read it twice... carefully"
+   ],
+   "fillers": [
+    "Escape a sinking car",
+    "Cook 5 basic meals",
+    "Dance in public"
+   ],
+   "flaws": [
+    "Then we’d all be the same",
+    "Waste of time",
+    "Reading? Yuck... give me a video"
+   ],
+   "id": "118811",
+   "subject": "All citizens should read the book “How to {{BLANK}}”"
+  },
+  {
+   "buffs": [
+    "Begins good habits",
+    "This would wake me up",
+    "This is what my doctor says"
+   ],
+   "fillers": [
+    "Affirmations",
+    "Protein",
+    "A jaunty musical number"
+   ],
+   "flaws": [
+    "Who has the time?",
+    "Dangerous when half asleep",
+    "Annoying"
+   ],
+   "id": "118812",
+   "subject": "Every day should begin with {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "At this company we’re more like a family",
+    "I have so few professional photos!",
+    "Let’s keep print alive"
+   ],
+   "countrySpecific": true,
+   "fillers": [],
+   "flaws": [
+    "And will I be paid extra for chairing the committee?",
+    "Everyone I work with is a robot",
+    "Do we get them in December or June?"
+   ],
+   "id": "118821",
+   "subject": "There should be yearbooks for work, too"
+  },
+  {
+   "buffs": [
+    "Taste is subjective.",
+    "It’s fire resistant, so probably hard to cook",
+    "I’m vegan, won’t even discuss it"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Magic makes things taste better",
+    "Probably more similar to alligator than gecko",
+    "Not if you drown it in hollandaise!"
+   ],
+   "id": "118824",
+   "subject": "Dragon meat would taste terrible"
+  },
+  {
+   "buffs": [
+    "Optimizes water usage",
+    "Whole day is pregame for bathtime!",
+    "Good to have variety in cleaning"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What about late-shifters?",
+    "Pry the rubber duckie from my wet dead hands",
+    "Can’t [i]really[/i] sing in the bath"
+   ],
+   "id": "118835",
+   "subject": "Only showers in the morning; only baths at night"
+  },
+  {
+   "buffs": [
+    "Maybe “dang” becomes the worst thing!",
+    "You could maybe get on the council",
+    "A new curse word? About time!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "No way to read the report to kids",
+    "Turns out you have a filthy mouth",
+    "All movies need to get re-rated"
+   ],
+   "id": "118839",
+   "subject": "We need an annual council to upgrade, downgrade, and introduce swears",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Everyone now has something to say",
+    "Accompanying gesture possible?",
+    "Great to add to family crest"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Infinite options, but you get “monkey sauce”",
+    "Everyone’s password is gonna get hacked",
+    "No telling how often it will/won’t be used"
+   ],
+   "id": "118840",
+   "subject": "Upon turning 18, everyone receives a catchphrase"
+  },
+  {
+   "buffs": [
+    "The world could use more class",
+    "Really helps with “what are we?” convo",
+    "Single people could say they’re a blank canvas"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Seems like a pricey barrier",
+    "Ugh, all that sitting",
+    "If you breakup it’s tough to delete"
+   ],
+   "id": "118841",
+   "subject": "Launching a relationship must include a commissioned painting",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’s not that hard. “Side stroke, breaststroke, to shallow end ho...”",
+    "Proves who really wants a pool",
+    "Creativity’s a muscle that must be exercised"
+   ],
+   "fillers": [],
+   "flaws": [
+    "City planner’s not qualified to judge lyricism",
+    "Who’s gonna narc if I didn’t get permission, you?",
+    "Fine, I’ll pay someone and learn NOTHING FROM IT"
+   ],
+   "id": "118874",
+   "subject": "Anyone who wants a pool in their yard must write a worthy shanty"
+  },
+  {
+   "buffs": [
+    "Having a private meltdown is a human right",
+    "Bathroom stalls can be just for potty instead of crying!",
+    "For after work, class, traffic, being in public..."
+   ],
+   "fillers": [],
+   "flaws": [
+    "Not with my tax dollars!",
+    "Probably be huge lines",
+    "I WANT my breakdowns to be seen"
+   ],
+   "id": "118875",
+   "subject": "Our town needs public breakdown rooms"
+  },
+  {
+   "buffs": [
+    "I’d love to live near a river or stream",
+    "Roaring is an effective negotiation tool",
+    "Climbing, running, clawing, you name it!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "You’re forgetting the whole ocean",
+    "Completely depends on which part of who is what",
+    "And lose a whole winter?"
+   ],
+   "id": "118877",
+   "subject": "The best human/animal hybrid is a bear-person"
+  },
+  {
+   "buffs": [
+    "Great road trip activity",
+    "Revives fun for toll booth attendant",
+    "Saving those dollars adds up!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Will 100% hold up traffic",
+    "The tax revenue we lose?",
+    "Answers will be shared online"
+   ],
+   "id": "119009",
+   "subject": "There should be no tolls if you can answer the attendant’s riddles"
+  },
+  {
+   "buffs": [
+    "Encourages fantasy authors to get creative",
+    "All you need is Legolas, really",
+    "Other fantasy creatures can be the fab ones"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Elves are the lynchpin of fantasy",
+    "Who will wield magic? Gnomes? Don’t make me laugh.",
+    "We just need new, different takes on elves"
+   ],
+   "id": "119013",
+   "subject": "No more elves in fantasies. We’ve had enough"
+  },
+  {
+   "buffs": [
+    "The Happy Birthday song is bad anyway",
+    "It’s their birthday! They should get to pick!",
+    "It’s a gift for the guests to learn a new song"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What if it’s a song nobody knows?",
+    "The birthday honoree has enough privileges",
+    "The birthday song is easy to sing, that’s the point"
+   ],
+   "id": "119014",
+   "subject": "The birthday honoree should get to choose what everyone sings during cake"
+  },
+  {
+   "buffs": [
+    "We’re building community here!",
+    "Great way to learn recipes",
+    "Encourages using home kitchen"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Have to list all the allergens",
+    "Some people prefer their privacy",
+    "If no one eats it, you’d be sad"
+   ],
+   "id": "119044",
+   "subject": "If you bring a dish to the park, you can join anyone’s party"
+  },
+  {
+   "buffs": [
+    "“Cartwheels at dawn.”",
+    "It’s not like vengeance went away",
+    "You could safely bring a crowd"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Elevated risk of another [i]Hamilton[/i]",
+    "Still gotta wear old-timey garb",
+    "If you lose, so what?"
+   ],
+   "id": "119045",
+   "subject": "Bring back dueling, but with nonviolent challenges"
+  },
+  {
+   "buffs": [
+    "Look, cheddar’s gonna be okay",
+    "Simplifies charcuterie angst",
+    "Non-cow animals finally at peace"
+   ],
+   "fillers": [],
+   "flaws": [
+    "An apocalypse for artisans",
+    "Quesadilla tastes like pizza now?",
+    "Cottage, cream... what [i]are[/i] they?"
+   ],
+   "id": "119046",
+   "subject": "We only need like four cheeses, tops"
+  },
+  {
+   "buffs": [
+    "Hey, now you know",
+    "Some side effects are good!",
+    "“Polo shirts may result in invites to Top Golf.”"
+   ],
+   "fillers": [],
+   "flaws": [
+    "A bit of a bummer, to be fair",
+    "Fast-talking voice confuses me",
+    "Don’t want to ask my doctor about Pepsi"
+   ],
+   "id": "119049",
+   "subject": "All commercials should end with possible side effects"
+  },
+  {
+   "buffs": [
+    "Storytelling passes time for nervous fliers",
+    "Automatic hot spot once you land",
+    "No longer pretending I can spot Lake Erie"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Awkward when they cry for 10 minutes",
+    "No matter how interesting, half the plane can’t see",
+    "Some people are boring"
+   ],
+   "id": "119050",
+   "subject": "Pilots must provide personal anecdotes when they direct us to look out windows"
+  },
+  {
+   "buffs": [
+    "Robust, diverse array of wardrobes",
+    "Fun to figure out what everyone is!",
+    "You’re your own person, and never forget it"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Now bringing garment rack to party",
+    "Would feel sad to know I’m not creative",
+    "I’m just here for candy"
+   ],
+   "id": "119051",
+   "subject": "If your costume matches a stranger’s at a Halloween party, you both must change"
+  },
+  {
+   "buffs": [
+    "Everyone now has a chance for something",
+    "Even making the Olympics is an achivement",
+    "Fun contest to pick the medal material"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Marathon now taking 30 hours",
+    "We don’t usually reward losers",
+    "Have to build a new podium"
+   ],
+   "id": "119052",
+   "subject": "The Olympics should give a medal to the person who finishes last"
+  },
+  {
+   "buffs": [
+    "I’m more likely to buy when I feel celebrated",
+    "Bells are an outdated, irrelevant sound",
+    "Gets the employee in the back’s attention more easily"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Probably more annoying if you work there",
+    "Waters down the earned value of a cheer",
+    "I despise the sound of joy"
+   ],
+   "id": "119053",
+   "subject": "Instead of a bell ringing, walking into a store should sound like cheering"
+  },
+  {
+   "buffs": [
+    "I am unfamiliar with the word “carpaccio”",
+    "Let’s give more credit to the reason we’re all here",
+    "A picture is worth 1,000 words"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Don’t want to judge a meal by its faded photo",
+    "Sounds more expensive to print",
+    "Whatever happened to the power of imagination?"
+   ],
+   "id": "119054",
+   "subject": "All menus need photos of the food on them"
+  },
+  {
+   "buffs": [
+    "We could perform it at sporting events!",
+    "I prefer learning a dance over learning a tree’s name",
+    "Dance is the most expressive art form"
+   ],
+   "countrySpecific": true,
+   "fillers": [],
+   "flaws": [
+    "I can’t dance and now you’ve shamed me",
+    "Existing or made up?",
+    "I don’t even know the state bird"
+   ],
+   "id": "119055",
+   "subject": "We need official state dance moves"
+  },
+  {
+   "buffs": [
+    "They’ll never confess to their crimes",
+    "Must be terrifyingly strong",
+    "They’re in the streets!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Why are clowns always smiling?!",
+    "Clowns know magic tricks!",
+    "Um... those walls aren’t real"
+   ],
+   "id": "119060",
+   "subject": "Mimes are far, [i]far[/i] scarier than clowns"
+  },
+  {
+   "buffs": [
+    "So hard to open",
+    "Grows on trees, falls on your head",
+    "Often tastes sour"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Clearly you don’t know dragonfruit",
+    "It’s yellow inside, like light or cowardice",
+    "It grows in lovely, tropical, easy-going climates"
+   ],
+   "id": "119061",
+   "subject": "Pineapple has the most hostile energy of all fruits"
+  },
+  {
+   "buffs": [
+    "We probably can’t ever see them ‘cuz they’re in tree holes",
+    "Color, texture seems about right",
+    "Seeing them as apes is just your own ape vanity"
+   ],
+   "fillers": [],
+   "flaws": [
+    "It’s a knuckle-dragger, not a scurry-er",
+    "Haven’t you seen the photos?!",
+    "Squirrels are cowards, Sasquatch is brave"
+   ],
+   "id": "119063",
+   "subject": "Sasquatch would have more in common with squirrels than apes"
+  },
+  {
+   "buffs": [
+    "My dream is to be a werewolf",
+    "Fun to see voice move like a slide whistle",
+    "Great time to visit endless buffet"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Would really mess with ID photos",
+    "Hormone wave like a killer typhoon",
+    "We learn from awkwardness"
+   ],
+   "id": "119262",
+   "subject": "You should be able to do puberty in one day",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Sit up high, can see everything",
+    "Physically fit wingman/woman",
+    "Make bold choices! There’s backup!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "That whistle is so loud",
+    "Being pulled from conversation hurts",
+    "I can melt down at a bar if I want to"
+   ],
+   "id": "119264",
+   "subject": "We need lifeguards who save us from social disasters"
+  },
+  {
+   "buffs": [
+    "Hot drool dripping down",
+    "Can parents see it?",
+    "Means it can fly"
+   ],
+   "fillers": [],
+   "flaws": [
+    "If you can see it, you can defeat it",
+    "They’ll get tired of hanging there",
+    "Cool decor"
+   ],
+   "id": "119265",
+   "subject": "It’s scarier to have a monster OVER the bed"
+  },
+  {
+   "buffs": [
+    "I would like to leave Target with a Bugatti",
+    "Nothing more fun than code words",
+    "A boon for brick and mortar!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Understaffed employees work hard enough",
+    "Significantly increases backroom size",
+    "If you say it wrong, it feels bad"
+   ],
+   "id": "119266",
+   "subject": "Department stores should have a “secret menu”"
+  },
+  {
+   "buffs": [
+    "Celebrates beauty and brains",
+    "Makes sure kids get some exercise",
+    "Sponsored by Nickelodeon"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Spelling is useless!",
+    "Kids get enough pressure",
+    "I’d rather track and field have trivia"
+   ],
+   "id": "119274",
+   "subject": "Spelling bees should also feature physical challenges"
+  },
+  {
+   "buffs": [
+    "It’s got lots of drawers and compartments.",
+    "You’ll never forget about whatever you put in there",
+    "I’m not using groceries anyway"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Less room in fridge for food",
+    "All your stuff is cold",
+    "You’ll have to explain yourself to every houseguest"
+   ],
+   "id": "119276",
+   "subject": "It’s fine to store non-food items in the fridge, like keys"
+  },
+  {
+   "buffs": [
+    "Adds drama",
+    "Something for any non-sports fans in attendance",
+    "Could fight team mascots, which would be fun"
+   ],
+   "fillers": [],
+   "flaws": [
+    "The Phantom is a toxic romantic",
+    "Distracts from real in-game drama",
+    "Will hog the stadium’s pipe organ"
+   ],
+   "id": "119277",
+   "subject": "Every sports arena must have its own Phantom who tries to sabotage the game"
+  },
+  {
+   "buffs": [
+    "You’ll pay for disrespecting the dead",
+    "Maybe the dinosaurs put them there on purpose, you don’t know",
+    "They’re old and boring to look at"
+   ],
+   "fillers": [],
+   "flaws": [
+    "We need those bones for museums",
+    "The ground’s got plenty of stuff in it already",
+    "Digging up dino bones is a whole industry"
+   ],
+   "id": "119301",
+   "subject": "Dinosaur bones should stay in the ground"
+  },
+  {
+   "buffs": [
+    "Yes, including squirrels vs. dogs",
+    "I’m catty and I love drama!!!",
+    "Always good to be informed"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Don’t care",
+    "My feuds are private, butt out",
+    "Wow, that’s really negative"
+   ],
+   "id": "119317",
+   "subject": "Our town newspaper needs a section about local feuds"
+  },
+  {
+   "buffs": [
+    "More predators in the woods",
+    "Don’t underestimate the value of vitamin D",
+    "Fish are easier to catch than deer"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Woods are closer to civilization",
+    "The sea is a harsh mistress",
+    "Coconuts are hard to open"
+   ],
+   "id": "119318",
+   "subject": "It would be much easier to survive on an island than in the woods"
+  },
+  {
+   "buffs": [
+    "And I will lead the charge!!!",
+    "Culture is cyclical",
+    "There’s tons of articles now that say “gone too soon”"
+   ],
+   "fillers": [
+    "disco",
+    "Blockbuster",
+    "horses"
+   ],
+   "flaws": [
+    "No. We learned our lesson",
+    "That’s toxic nostalgia!",
+    "This NEVER left!"
+   ],
+   "id": "119319",
+   "subject": "Mark my words, {{BLANK}} will make a comeback"
+  },
+  {
+   "buffs": [
+    "They make me feel safe",
+    "Comic books are wrong",
+    "Their work benefits us all"
+   ],
+   "fillers": [
+    "librarians",
+    "McDonald’s recipe designers",
+    "spiders"
+   ],
+   "flaws": [
+    "I don’t agree with what they do",
+    "How dare you disrespect our superheroes!",
+    "Actually, they’re cowards"
+   ],
+   "id": "119320",
+   "subject": "{{BLANK}} are the real superheroes"
+  },
+  {
+   "buffs": [
+    "I can do that at home",
+    "My non-refundable deposit, my rules",
+    "This is my precious time off"
+   ],
+   "fillers": [
+    "Wake up early",
+    "Get arrested",
+    "Do dishes"
+   ],
+   "flaws": [
+    "To me, that’s relaxing",
+    "Whatever, I’m on vacation!!",
+    "My routine travels with me"
+   ],
+   "id": "119321",
+   "subject": "I don’t want to {{BLANK}} when I’m on vacation"
+  },
+  {
+   "buffs": [
+    "The system is rigged",
+    "This is a human right",
+    "We have the technology..."
+   ],
+   "fillers": [
+    "a pilot’s license",
+    "concert tickets",
+    "around paywalls"
+   ],
+   "flaws": [
+    "Some things are worth the effort",
+    "It’s a safety issue",
+    "Sounds like a you problem"
+   ],
+   "id": "119322",
+   "subject": "It should be much easier to get {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Security cameras can be hacked",
+    "Look closely at the differences",
+    "It’s a very powerful cover-up"
+   ],
+   "fillers": [
+    "the Eiffel Tower",
+    "Shrek",
+    "the moon"
+   ],
+   "flaws": [
+    "Truth matters in this age of misinformation",
+    "Where’s the original, then??",
+    "Who would possibly do such a thing?"
+   ],
+   "id": "119323",
+   "subject": "It’s not a conspiracy! {{BLANK}} has secretly been replaced with a copy"
+  },
+  {
+   "buffs": [
+    "It’s the only safe option",
+    "The future can recreate past through holograms",
+    "Ask smart future people about time travel!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "But I want to ride a dinosaur",
+    "Change the past, improve the present",
+    "What future?"
+   ],
+   "id": "119327",
+   "subject": "I only want to time travel to the future"
+  },
+  {
+   "buffs": [
+    "Burn off a lot of steam",
+    "I’m halfway there",
+    "I do already and want others to join me"
+   ],
+   "fillers": [],
+   "flaws": [
+    "The livestock?!",
+    "One-person Purge is bad",
+    "How do we schedule?"
+   ],
+   "id": "119328",
+   "subject": "We should each get one night a month where we can go “werewolf mode”",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Change the spelling?",
+    "I fear ALL dentists",
+    "They know what they’re doing"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What’s in a name?",
+    "I’m not a child",
+    "I have perfect dental hygiene"
+   ],
+   "id": "119329",
+   "subject": "I would not visit a dentist named Dr. Pain"
+  },
+  {
+   "buffs": [
+    "There are better puppets",
+    "Send them to a nice dummy farm",
+    "Who dresses like that anymore?!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "It’s an impressive talent",
+    "Then I would have 0 friends",
+    "Horror movies would suffer"
+   ],
+   "id": "119330",
+   "subject": "As a society, we need to retire ventriloquist dummies"
+  },
+  {
+   "buffs": [
+    "Think of the outfits!",
+    "My garden needs a scare-nieghbor",
+    "Raccoons must be humbled"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Scarecrows ONLY scare people",
+    "Human effigies are never the solution",
+    "Animatronics would be better"
+   ],
+   "id": "119331",
+   "subject": "We should make scarecrows for other animals"
+  },
+  {
+   "buffs": [
+    "Freedom of information",
+    "Consider allergies",
+    "Does mystery add flavor?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Ignorance is bliss",
+    "That’s what makes it special",
+    "It’s love... the secret ingredient is always love."
+   ],
+   "id": "119334",
+   "subject": "Sauces should never be “secret”"
+  },
+  {
+   "buffs": [
+    "Upside to losing a finger or toe!",
+    "The Bone Fairy would be awesome",
+    "Exponential value to parts"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Each strand of hair?!?",
+    "I’m not putting organs under pillows",
+    "Already scared of the Tooth Fairy"
+   ],
+   "id": "119335",
+   "subject": "Like teeth, every part needs its own Fairy",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Only game I would understand",
+    "Imagine the drama of EACH flip",
+    "Cheap overhead"
+   ],
+   "fillers": [],
+   "flaws": [
+    "House needs games with worse odds",
+    "What if they drop the coin?!?",
+    "Can’t develop a system"
+   ],
+   "id": "119336",
+   "subject": "Casinos should have a coin flip table",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Mid can be good",
+    "Joy doesn’t have to be extreme",
+    "Can’t I just enjoy a scenic ride?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "That’s called a car ride",
+    "Cowards!",
+    "Not going to Disney for semi-magic"
+   ],
+   "id": "119337",
+   "subject": "We need more mildly thrilling rollercoasters"
+  },
+  {
+   "buffs": [
+    "Can I clean the book?",
+    "This will save a lot of time",
+    "Fun party game!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Unhygienic",
+    "I want a mystery!",
+    "Impossible standards"
+   ],
+   "id": "119338",
+   "subject": "I want a cookbook where you can sample results by licking pages"
+  },
+  {
+   "buffs": [
+    "Haunted houses would look AWESOME",
+    "Would notice injuries faster",
+    "Anything to change how blood looks"
+   ],
+   "fillers": [],
+   "flaws": [
+    "No, that makes it easier to see",
+    "Sounds VERY unhealthy",
+    "Would blind surgeons"
+   ],
+   "id": "119339",
+   "subject": "Blood would be less scary if it was glittery",
+   "x": true
+  },
+  {
+   "buffs": [
+    "JUST a misdemeanor",
+    "Tough but fair",
+    "I know the first person to arrest"
+   ],
+   "fillers": [
+    "spamming review sites",
+    "squishing cool bugs",
+    "lying in debates"
+   ],
+   "flaws": [
+    "I do this all the time",
+    "How about no laws instead?",
+    "What happened to freedom?"
+   ],
+   "id": "119340",
+   "subject": "{{BLANK}} should be a misdemeanor",
+   "x": true
+  },
+  {
+   "buffs": [
+    "There HAD to be a better way",
+    "How did it survive?",
+    "Probably, a human experiment gone wrong"
+   ],
+   "fillers": [
+    "duck",
+    "Height of giraffes",
+    "human knee"
+   ],
+   "flaws": [
+    "It has its charms",
+    "Are we sure evolution is real?",
+    "Why question biology"
+   ],
+   "id": "119341",
+   "subject": "Evolution really messed up with the {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Technology will replace it",
+    "Try 50",
+    "And I’ll miss it!"
+   ],
+   "fillers": [
+    "AI",
+    "Currency",
+    "Ducks"
+   ],
+   "flaws": [
+    "Naw, there’ll be twice as many",
+    "People don’t let go",
+    "They’ll be a different version"
+   ],
+   "id": "119342",
+   "subject": "In 100 years, there won’t be any more {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It ruins the film for me",
+    "Yeah, no way this happens in the future",
+    "Cinema sin!"
+   ],
+   "fillers": [
+    "The fashion",
+    "Teleportation",
+    "Robots are stupid"
+   ],
+   "flaws": [
+    "I trust sci-fi writers",
+    "Naw, they nailed it",
+    "Creative license"
+   ],
+   "id": "119344",
+   "subject": "The one thing movies about the future always get wrong is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "I’d eat the whole thing",
+    "Adventure!",
+    "The final food frontier"
+   ],
+   "fillers": [
+    "A survivable amount of poison",
+    "Pokémon",
+    "Dinosaur eggs"
+   ],
+   "flaws": [
+    "Not even a taste!",
+    "Sounds unethical",
+    "Gross"
+   ],
+   "id": "119345",
+   "subject": "I would eat {{BLANK}} (at least try it)",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Cute pet costumes",
+    "Imagine the Instagram pics",
+    "It needs love"
+   ],
+   "fillers": [
+    "A dragon",
+    "AI",
+    "Lizards"
+   ],
+   "flaws": [
+    "Dangerous",
+    "Should be free!",
+    "Can’t be domesticated"
+   ],
+   "id": "119346",
+   "subject": "{{BLANK}} should be named the best pet"
+  },
+  {
+   "buffs": [
+    "Think of the science!",
+    "Better than golf",
+    "Humanity’s ultimate triumph"
+   ],
+   "fillers": [
+    "Drive there",
+    "Leave a guy",
+    "Perform a song"
+   ],
+   "flaws": [
+    "Money can be better spent",
+    "That’s not what the Moon is for",
+    "NASA would never approve"
+   ],
+   "id": "119347",
+   "subject": "The next time we go to the Moon, we should {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Adorable",
+    "Would be shorter",
+    "The novelty!"
+   ],
+   "fillers": [
+    "Horse racing",
+    "Pickleball",
+    "Boxing"
+   ],
+   "flaws": [
+    "Shrinking it won’t make it more fun",
+    "Who would build this?",
+    "Don’t they have this?"
+   ],
+   "id": "119348",
+   "subject": "A fun new activity would be miniature {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "This would help the ouchies",
+    "Least they could do",
+    "I would finally get a checkup"
+   ],
+   "fillers": [
+    "Personalized nutrition chart",
+    "Hug",
+    "Pep talk"
+   ],
+   "flaws": [
+    "Not the doctor’s job",
+    "There has to be a better plan",
+    "Free?"
+   ],
+   "id": "119349",
+   "subject": "Every doctor visit should end with a free {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "So decadent",
+    "Served on a silver platter",
+    "I dream of this... some day"
+   ],
+   "fillers": [
+    "Not worth it",
+    "Gold bars",
+    "Cloned dinosaur"
+   ],
+   "flaws": [
+    "Not THAT fancy",
+    "I eat this weekly",
+    "Is this even food?"
+   ],
+   "id": "119350",
+   "subject": "The fanciest food to eat is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "You’d really have a signature scent",
+    "Attracts people who also like that smell!",
+    "The classic floral and woody scents are boring!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Wouldn’t that be super expensive?",
+    "Not if you’re allergic",
+    "It’s not about the scent, it’s about how much you apply"
+   ],
+   "id": "119363",
+   "subject": "The best perfume reminds you of {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "As long as it’s not Wildcats",
+    "Would really psych out opponents",
+    "Think of the mascot!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Why fighting?",
+    "No one would fear us",
+    "Basketball is serious business"
+   ],
+   "id": "119364",
+   "subject": "The best name for our high school basketball team would be the Fighting {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "The people demand it!",
+    "This is what local government was designed to provide",
+    "Could be a communal gathering place"
+   ],
+   "fillers": [],
+   "flaws": [
+    "EVERY corner?",
+    "Would cost taxpayers so much money",
+    "The townsfolk would riot!"
+   ],
+   "id": "119365",
+   "subject": "Our town needs a public {{BLANK}} on every corner"
+  },
+  {
+   "buffs": [
+    "Cash in hand ASAP stimulates economy",
+    "Start day in studio, end it in Fiji",
+    "Quick fix if any issues in brand new car"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Year’s supply of cakes = tummy ache",
+    "Game show experience overwhelming enough",
+    "Really makes the loser feel bad"
+   ],
+   "id": "119409",
+   "subject": "Game show winners must immediately use their prize"
+  },
+  {
+   "buffs": [
+    "12 channels = enough friends",
+    "Fun to end sentence with “OVER”",
+    "No need to shop, there’s one model"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Can’t settle arguments using Wikipedia",
+    "What am I gonna stare at now?",
+    "Easier for jerks to interrupt your convo"
+   ],
+   "id": "119410",
+   "subject": "Fewer phones, more walkie-talkies"
+  },
+  {
+   "buffs": [
+    "Could be very unique challenges",
+    "Great bonding experience for patrons",
+    "Never seen anyone eat 40 brioche"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Michelin challenges could cost $1,700",
+    "More buildings smell like vomit",
+    "Sounds like food waste"
+   ],
+   "id": "119413",
+   "subject": "Every restaurant should have a photo-on-the-wall eating challenge"
+  },
+  {
+   "buffs": [
+    "First song BPM finally dialed up a bit",
+    "Bridal parties become instant crews",
+    "She backflips? I love her more!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "No one wants a torn bridal meniscus",
+    "All sweaty the rest of the night",
+    "No battles on a day of love"
+   ],
+   "id": "119415",
+   "subject": "Newlyweds should share a first dance battle"
+  },
+  {
+   "buffs": [
+    "It’s just a recording",
+    "We all scream at pie-eating contests",
+    "Each flavor has a different scream"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Is it saying words?!?",
+    "Just too loud",
+    "Do they have families?"
+   ],
+   "id": "119423",
+   "subject": "Pie-eating contests would be more exciting if the food was screaming"
+  },
+  {
+   "buffs": [
+    "Look out salad bar",
+    "Affordable addiction",
+    "Doctors hate this one simple trick..."
+   ],
+   "fillers": [],
+   "flaws": [
+    "Does it fix the taste?",
+    "ALL vegetables",
+    "Farmer’s market gets shadier"
+   ],
+   "id": "119424",
+   "subject": "I would be happy if they made vegetables addictive",
+   "x": true
+  },
+  {
+   "buffs": [
+    "The pranks!",
+    "Feed a rope through it",
+    "I can make evidence 1x1 inch"
+   ],
+   "countrySpecific": true,
+   "fillers": [],
+   "flaws": [
+    "My rice!",
+    "This would be dangerous",
+    "A teleporter for ants?!"
+   ],
+   "id": "119427",
+   "subject": "A 1x1-inch teleporter would be very useful"
+  },
+  {
+   "buffs": [
+    "Perfect bath music",
+    "Made for Celtic singers",
+    "What rhymes with “krill”?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "You can’t beat nature",
+    "They HAVE lyrics. Whale lyrics!",
+    "Subs not dubs"
+   ],
+   "id": "119428",
+   "subject": "We need to write lyrics to whale songs"
+  },
+  {
+   "buffs": [
+    "Yes! And order of boarding!",
+    "I love fun destination facts!",
+    "Yeah! Meritocracy!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’m on vacation",
+    "As a rich person, give me the best seat",
+    "This will take MORE time"
+   ],
+   "id": "119429",
+   "subject": "We should answer trivia questions about the destination to assign plane seats"
+  },
+  {
+   "buffs": [
+    "Would add drama",
+    "Tired of Sherlock’s ego",
+    "Yes, more murders should be perfect"
+   ],
+   "fillers": [],
+   "flaws": [
+    "But real police are perfect",
+    "I’m trying to escape here",
+    "I don’t watch failures"
+   ],
+   "id": "119430",
+   "subject": "TV detectives should get one wrong every once in a while",
+   "x": true
+  },
+  {
+   "buffs": [
+    "“Put on your fluffies! It’s cold!”",
+    "Tops, overalls, underwear... we’re halfway there!",
+    "What the heck is a “trouser”?!?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Shorts is taken... what do you call skirts?!?",
+    "But sock is the perfect word!",
+    "Can’t we just be naked?!"
+   ],
+   "id": "119431",
+   "subject": "All clothes should follow the naming convention of “shorts”"
+  },
+  {
+   "buffs": [
+    "It would unite us",
+    "Godzilla slumbers for hundreds of years, right?",
+    "We’ve got drones"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I dread Zilla-truthers",
+    "I dunno... seems pretty bad",
+    "I think it’d hit #4"
+   ],
+   "id": "119432",
+   "subject": "Giant monsters being real would not make the top 5 global issues"
+  },
+  {
+   "buffs": [
+    "Really problematic",
+    "He’s the 1% for sure",
+    "Gaslighting is one of his powers"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Respect dietary restrictions",
+    "I could change him",
+    "Which one?"
+   ],
+   "id": "119433",
+   "subject": "If Dracula was real, he’d be cancelled"
+  },
+  {
+   "buffs": [
+    "And themes!",
+    "The deceased in different eras!",
+    "Bury me as Shrek"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’m already pretty spooked",
+    "Whimsy is for the living!",
+    "Pallbearer trips on cape"
+   ],
+   "id": "119434",
+   "subject": "Funerals should feature more costumes",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Variety’s the spice of life!",
+    "And they should look similar from a distance",
+    "My cheeks are waiting for either!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Anti-mistletoe... yes! Violence... no!",
+    "Let’s not introduce more rules to Xmas parties",
+    "...what carol would this inspire?"
+   ],
+   "id": "119435",
+   "subject": "We should have anti-mistletoe that encourages slapping",
+   "x": true
+  },
+  {
+   "buffs": [
+    "I DON’T SEE A SWAN!!!",
+    "Shouldn’t need to know Latin to navigate",
+    "The sky’s different now, right?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Let the Greeks have this",
+    "Only sailors care",
+    "Nerd!"
+   ],
+   "id": "119436",
+   "subject": "We need to start over with naming the constellations"
+  },
+  {
+   "buffs": [
+    "Just mixed stuff together",
+    "At least one animal’s gotta be fake",
+    "Nature would never!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Science would never make this",
+    "To what end?",
+    "As an Australian, I’m insulted"
+   ],
+   "id": "119437",
+   "subject": "I believe the platypus was made in a lab"
+  },
+  {
+   "buffs": [
+    "Presto! You’re dead",
+    "They travel around the world",
+    "Nothin’ showy, just sleight of hand"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Couldn’t trust them",
+    "Glittery outfit is very noticeable",
+    "Death is just an illusion"
+   ],
+   "id": "119438",
+   "subject": "A magician would make the ultimate assassin",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Know who’s really from the city or suburbs",
+    "Community!",
+    "Just want to know some secret handshakes!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What if you move a lot?",
+    "My neighbors can’t keep secrets",
+    "Each interaction just got longer"
+   ],
+   "id": "119439",
+   "subject": "Every town should have their own secret handshake"
+  },
+  {
+   "buffs": [
+    "How would I survive?",
+    "Would I still crave victims?",
+    "Imagine running into me at night"
+   ],
+   "fillers": [
+    "Whale",
+    "Baby",
+    "Mayor"
+   ],
+   "flaws": [
+    "At least you’re unique",
+    "Offers a new perspective",
+    "It’s only once a month"
+   ],
+   "id": "119482",
+   "subject": "Being a were-{{BLANK}} would be worse than being a werewolf"
+  },
+  {
+   "buffs": [
+    "Weirder meal = more for me",
+    "It’s about the atmosphere",
+    "Hear them out!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Does that really pair with enough stuff?",
+    "Food is just fuel",
+    "The dishes?!"
+   ],
+   "id": "119677",
+   "subject": "Hear me out: {{BLANK}} makes every meal better"
+  },
+  {
+   "buffs": [
+    "He’s probably sick of cookies now",
+    "It would make your house more memorable",
+    "Santa contains multitudes!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Cookies & milk are pretty easy to come by.",
+    "Seems like he still likes ‘em."
+   ],
+   "id": "119678",
+   "subject": "We should be leaving {{BLANK}} for Santa instead"
+  },
+  {
+   "buffs": [
+    "It’s educational",
+    "The gift shop is my favorite part anyway",
+    "As long as the animals are happy"
+   ],
+   "fillers": [],
+   "flaws": [
+    "This will just cause problems",
+    "Even petting zoos?",
+    "Messing with nature"
+   ],
+   "id": "119679",
+   "subject": "Every zoo should have {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Everything down there is TERRIFYING",
+    "This is how you get Cthulhu",
+    "Too dangerous"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Why anti-exploration?",
+    "We don’t know that until we check",
+    "What if we find Atlantis?"
+   ],
+   "id": "119685",
+   "subject": "Stop deep-sea exploration; it’s none of our business."
+  },
+  {
+   "buffs": [
+    "Ancient Egypt rules",
+    "You get buried with all your stuff",
+    "Maybe end up in a museum"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Mummification is gnarly",
+    "What!? More curses?",
+    "Probably expensive"
+   ],
+   "id": "119686",
+   "subject": "Why did we stop making mummies? Bring it back"
+  },
+  {
+   "buffs": [
+    "I want to collect my friends",
+    "A fun thing to give to new friends",
+    "Could do a fun photoshoot for it"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Who judges?",
+    "Why gamify everything",
+    "Prefer paperless"
+   ],
+   "id": "119687",
+   "subject": "Everyone should get a baseball card displaying their basic stats"
+  },
+  {
+   "buffs": [
+    "It’s quicker",
+    "I would like to design the spanker’s uniform",
+    "Some criminals are just naughty"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Government can’t be trusted with this power",
+    "Could encourage crime",
+    "Some people are padded"
+   ],
+   "id": "119688",
+   "subject": "More crimes should be punished with spankings",
+   "x": true
+  },
+  {
+   "buffs": [
+    "This explains UFO sightings",
+    "We live in “exciting” times",
+    "They can’t interfere"
+   ],
+   "fillers": [],
+   "flaws": [
+    "They would fix stuff",
+    "I can spot a future person",
+    "Better decades to visit"
+   ],
+   "id": "119689",
+   "subject": "We are surrounded by time-traveling tourists"
+  },
+  {
+   "buffs": [
+    "Hard to get upset while floating",
+    "Speed things up (before we get wrinkly)",
+    "Just want to wear my new suit"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Can’t hear over splashing",
+    "Don’t distract from my complaints!",
+    "What about the winter?!"
+   ],
+   "id": "119690",
+   "subject": "Community meetings should happen in a pool"
+  },
+  {
+   "buffs": [
+    "Can we add that to this game?",
+    "Can’t lie to the timer",
+    "Gotta be fit enough to take it"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Punishes us long-winded people",
+    "Enough fervor can ignore a shock",
+    "Who controls the shock machine?!"
+   ],
+   "id": "119691",
+   "subject": "Political debaters should get shocked for going long",
+   "x": true
+  },
+  {
+   "buffs": [
+    "The greatest teacher",
+    "I’m tired of being shown up by historical figures",
+    "Enough Lincoln already!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I don’t want to be in a museum",
+    "History is written by the non-failures",
+    "So... just a buncha Titanics"
+   ],
+   "id": "119692",
+   "subject": "Our town must open a museum dedicated to history’s failures"
+  },
+  {
+   "buffs": [
+    "Easy to start a fire",
+    "Isn’t it just a matter of minutes?",
+    "At least bring extra inflatable rafts"
+   ],
+   "fillers": [],
+   "flaws": [
+    "They don’t listen to poor people",
+    "Do you know nautical terms?",
+    "You’d be distracted by romance"
+   ],
+   "id": "119693",
+   "subject": "I could have saved the Titanic"
+  },
+  {
+   "buffs": [
+    "Gold shouldn’t be hoarded in pots",
+    "It’s generational wealth",
+    "Fairies are outside laws"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Targeting myths",
+    "Don’t pilfer a miracle",
+    "Honor their culture"
+   ],
+   "id": "119694",
+   "subject": "It’s ethical to rob a leprechaun",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Take a break",
+    "Never on Sundays",
+    "OR every week for that matter"
+   ],
+   "fillers": [
+    "check social media",
+    "panic",
+    "run"
+   ],
+   "flaws": [
+    "It’s part of my routine",
+    "It’s self-care",
+    "I’m not hurting nobody"
+   ],
+   "id": "119695",
+   "subject": "There is no need to {{BLANK}} every day"
+  },
+  {
+   "buffs": [
+    "Should be like 80% honest",
+    "The full truth is jarring",
+    "Artistic license!"
+   ],
+   "fillers": [
+    "flirting",
+    "interviewing for a job",
+    "raising kids"
+   ],
+   "flaws": [
+    "Lies come back around",
+    "I’m NEVER dishonest",
+    "Vital to find a trustworthy person"
+   ],
+   "id": "119696",
+   "subject": "You should never be completely honest when {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "We need proof",
+    "Photo lasts forever",
+    "Scroll memories, not doom"
+   ],
+   "fillers": [
+    "our meals",
+    "cryptids",
+    "our friends"
+   ],
+   "flaws": [
+    "Live in the moment",
+    "Let false memory improve it",
+    "I’d rather draw it"
+   ],
+   "id": "119697",
+   "subject": "We should take more photos of {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Otherwise, why bother?",
+    "It’s what makes it unique",
+    "For the ‘gram!"
+   ],
+   "fillers": [
+    "an outfit change",
+    "lighting effects",
+    "a squad"
+   ],
+   "flaws": [
+    "Stargazing is MY great night out!",
+    "Who can afford that?",
+    "I don’t go out"
+   ],
+   "id": "119699",
+   "subject": "A great night out must feature {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Imagine living with that",
+    "Plenty of fish",
+    "Gotta screen ‘em"
+   ],
+   "fillers": [
+    "Garlic",
+    "Complaining",
+    "Flexing"
+   ],
+   "flaws": [
+    "Give ‘em a chance!",
+    "This is my move",
+    "It’s, honestly, what I’m looking for"
+   ],
+   "id": "119700",
+   "subject": "{{BLANK}} on a first date is a deal-breaker",
+   "x": true
+  },
+  {
+   "buffs": [
+    "I, too, have my suspicions",
+    "At the very least, claims are overblown",
+    "I blame the media"
+   ],
+   "fillers": [
+    "Australia",
+    "the ozone layer",
+    "a black hole"
+   ],
+   "flaws": [
+    "What’s gained by lying?",
+    "We can see the effects",
+    "Maybe it’s just invisible... you could taste it"
+   ],
+   "id": "119701",
+   "subject": "I’ve never seen {{BLANK}}, so I’m not sure it’s real"
+  },
+  {
+   "buffs": [
+    "Core memories",
+    "And the sound of the surf in the background",
+    "Makes me yearn for summer"
+   ],
+   "fillers": [
+    "grilling",
+    "using my big, cool towel",
+    "chasing crabs"
+   ],
+   "flaws": [
+    "But the sand!",
+    "Too hot for that",
+    "Not worth the effort"
+   ],
+   "id": "119702",
+   "subject": "The BEST part about a beach day is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Otherwise it’s a fair at best",
+    "My childhood!",
+    "Essential to the vibes"
+   ],
+   "fillers": [
+    "terror",
+    "apathetic teenage employees",
+    "fried monstrosities"
+   ],
+   "flaws": [
+    "Sounds unhealthy",
+    "This ruins it for me",
+    "Oh look, the carnival critic is here"
+   ],
+   "id": "119703",
+   "subject": "It’s not a real carnival if it doesn’t have {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "We’re missing parts of the story!",
+    "It’s none of our business",
+    "It could drop all at once on Netflix"
+   ],
+   "fillers": [
+    "Kermit and Miss Piggy’s relationship",
+    "Zendaya’s outfits",
+    "people raised by wolves"
+   ],
+   "flaws": [
+    "Too much to watch already",
+    "Eh, I’d rather read about it",
+    "Naw, that’s boring as heck"
+   ],
+   "id": "119704",
+   "subject": "There needs to be a whole docuseries about {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "I’m an adult and no one can stop me",
+    "What happened to whimsy?",
+    "Society is wrong about a LOT"
+   ],
+   "fillers": [
+    "A peanut butter & jelly sandwich",
+    "Bluey",
+    "The playground"
+   ],
+   "flaws": [
+    "Grow up!",
+    "Sounds immature",
+    "Blame marketing"
+   ],
+   "id": "119705",
+   "subject": "{{BLANK}} is not just for kids"
+  },
+  {
+   "buffs": [
+    "They BEYOND deserve it",
+    "Future generations must learn the story",
+    "People love taking pictures with monuments!"
+   ],
+   "fillers": [
+    "cake",
+    "Alex Trebek",
+    "everyone who’s ever died"
+   ],
+   "flaws": [
+    "On whose dime?!",
+    "Monuments are the worst way to honor",
+    "They get enough attention as is"
+   ],
+   "id": "119708",
+   "subject": "We need a monument to honor {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "We ignored the warnings...",
+    "We needed to [i]start[/i] preparing years ago",
+    "The infrastructure isn’t there"
+   ],
+   "fillers": [
+    "a Godzilla attack",
+    "the next Olympics",
+    "8th period history"
+   ],
+   "flaws": [
+    "There’s still time",
+    "What should we have done to prepare?",
+    "You’re totally projecting"
+   ],
+   "id": "119709",
+   "subject": "We are all underprepared for {{BLANK}}!"
+  },
+  {
+   "buffs": [
+    "It was an innovative time",
+    "Judging by the paintings",
+    "The Halloween costume supply doesn’t lie"
+   ],
+   "fillers": [
+    "the old west",
+    "Victorian England",
+    "the Ice Age"
+   ],
+   "flaws": [
+    "Really depends on your opinion on collars",
+    "Fashion isn’t objective!!!",
+    "You’re ignoring all the best decades"
+   ],
+   "id": "119710",
+   "subject": "{{BLANK}} was the best era for fashion."
+  },
+  {
+   "buffs": [
+    "They just cause injuries",
+    "It’s the bed of the everyman!",
+    "Only used after yardwork!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What about camping?",
+    "Encourages them to plant more trees",
+    "No one enjoys hammocks"
+   ],
+   "id": "119711",
+   "subject": "Rich people shouldn’t be allowed to enjoy hammocks"
+  },
+  {
+   "buffs": [
+    "Finally showing a little pride here!",
+    "Good enough for Portugal, good enough for me",
+    "Can you imagine the remixes?"
+   ],
+   "fillers": [
+    "Moods",
+    "Zoos",
+    "Bodies of water"
+   ],
+   "flaws": [
+    "Tough to get everyone to stand up",
+    "But when [i]do[/i] we sing it?",
+    "Picking the exact one a real pain"
+   ],
+   "id": "119715",
+   "subject": "{{BLANK}} should have their own anthem"
+  },
+  {
+   "buffs": [
+    "You know you’re taken care of",
+    "Fun by yourself or with friends",
+    "Better than vacation itself?"
+   ],
+   "fillers": [
+    "arcades",
+    "trampolines",
+    "hugs"
+   ],
+   "flaws": [
+    "Pricey, pricey, pricey",
+    "I’m just there to sleep and eat eggs",
+    "I think the Bates Motel had that, too"
+   ],
+   "id": "119716",
+   "subject": "The best hotels are ones that offer {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Leave the crowd with a memory",
+    "Great demo of hard work and talent",
+    "Fun to spend afternoons at an auditorium"
+   ],
+   "fillers": [
+    "Tapdancing",
+    "Magic",
+    "Anything with a handstand"
+   ],
+   "flaws": [
+    "How often are we doing talent shows",
+    "Injury risk! INJURY! RISK!",
+    "Such skill begets arrogance."
+   ],
+   "id": "119717",
+   "subject": "{{BLANK}} will always win the talent show"
+  },
+  {
+   "buffs": [
+    "“The cardinals have spoken.”",
+    "Just [i]gorgeous[/i] immunity idols",
+    "You know they have enough smoke"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Potential language barriers",
+    "Tribes create another needless schism",
+    "Vatican appears to have zero islands"
+   ],
+   "id": "119718",
+   "subject": "Popes should be selected Survivor-style",
+   "x": true
+  },
+  {
+   "buffs": [
+    "We all tire of little jokes",
+    "At last say exactly how you feel",
+    "Finally, some peace and quiet"
+   ],
+   "fillers": [],
+   "flaws": [
+    "A prank on this day would be murderous",
+    "Let people like what they like",
+    "Hurts clown, fireworks, toilet industries"
+   ],
+   "id": "119719",
+   "subject": "April 2nd should be the most serious day of the year"
+  },
+  {
+   "buffs": [
+    "Time has come to tell the true story",
+    "Bet they look all jacked",
+    "Let me have the simple story I love"
+   ],
+   "fillers": [
+    "Santa",
+    "the Monopoly guy",
+    "Princess Diana"
+   ],
+   "flaws": [
+    "Can you make everyone an antihero?",
+    "Movie, streamer, comic... too many choices",
+    "They always ruin the sidekicks"
+   ],
+   "id": "119720",
+   "subject": "The next gritty reboot should be {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "We’re sure there’s no razor blades",
+    "Instantly coolest house on the block",
+    "The real sweetness is feeling your best"
+   ],
+   "countrySpecific": true,
+   "fillers": [
+    "inspirational words",
+    "professional references",
+    "boomerangs"
+   ],
+   "flaws": [
+    "Look, I came here for treats",
+    "Feels like a lot to supply",
+    "Classic overthinking it mindset"
+   ],
+   "id": "119721",
+   "subject": "Homes should give out {{BLANK}} at Halloween"
+  },
+  {
+   "buffs": [
+    "We need more causal exchanges",
+    "We’re all a sucker for an accent",
+    "My bowling team needs Nordic talent"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Time to negotiate immigration law!",
+    "Every country has bros",
+    "I can’t offer enticing “hangs”"
+   ],
+   "id": "119722",
+   "subject": "Let’s start a student-exchange program, but for friend groups"
+  },
+  {
+   "buffs": [
+    "They can see our social media content",
+    "Who wants to talk to strangers?",
+    "History is written by the mean"
+   ],
+   "fillers": [],
+   "flaws": [
+    "There’s no proof of aliens",
+    "No, they’re even less smart than us",
+    "Aliens exist, but they don’t know that we do"
+   ],
+   "id": "119734",
+   "subject": "Aliens haven’t contacted us yet because we’re mean"
+  },
+  {
+   "buffs": [
+    "Cheaper that way",
+    "Makes them relatable, but not mutinous",
+    "Emotion can vary by android"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Which one?",
+    "Give it one, it’ll want another...",
+    "You’re mad, it can’t be done!"
+   ],
+   "id": "119742",
+   "subject": "Robots should experience exactly one emotion"
+  },
+  {
+   "buffs": [
+    "Too much singing",
+    "I hate the colors yellow and green",
+    "Doesn’t seem like they have TV"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Can’t see it all in one day!",
+    "The energy is infectious!",
+    "You get to ride a tornado and live!"
+   ],
+   "id": "119777",
+   "subject": "I would not have fun in Oz"
+  },
+  {
+   "buffs": [
+    "Hear them out...",
+    "They had a rough upbringing",
+    "Define “evil”"
+   ],
+   "fillers": [
+    "Bowser",
+    "the Iceberg",
+    "Moby Dick"
+   ],
+   "flaws": [
+    "Did you see the end?",
+    "That’s just contrarian",
+    "They’re a literal monster"
+   ],
+   "id": "119920",
+   "subject": "They’re called the villain, but {{BLANK}} wasn’t that bad"
+  },
+  {
+   "buffs": [
+    "It could reveal info I don’t have",
+    "Makes things seem significant?",
+    "My thoughts could use better writing"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Do I get to choose the voice?",
+    "That’d get old",
+    "Seems distracting"
+   ],
+   "id": "119921",
+   "subject": "I would like a life narrator only I can hear"
+  },
+  {
+   "buffs": [
+    "It’s done more harm than good",
+    "It was better as a secret",
+    "Priorities!"
+   ],
+   "fillers": [
+    "math",
+    "the engine",
+    "space"
+   ],
+   "flaws": [
+    "It can be used for good!",
+    "Knowledge can’t be forbidden",
+    "Even I would have found it"
+   ],
+   "id": "119922",
+   "subject": "Science was wrong for discovering {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Especially during the Olympics",
+    "Distracts from the action",
+    "Yes, please!"
+   ],
+   "fillers": [
+    "mascots",
+    "phones",
+    "falcons"
+   ],
+   "flaws": [
+    "They need sports most of all",
+    "But it’s fun",
+    "Can’t watch baseball without it"
+   ],
+   "id": "119923",
+   "subject": "They should ban {{BLANK}} in sports stadiums"
+  },
+  {
+   "buffs": [
+    "I’m listening...",
+    "Fine, I’ll take a subscription",
+    "Imagine this on glossy paper"
+   ],
+   "fillers": [
+    "Singing ads",
+    "More coffee tables",
+    "Adding pages to Cat Fancy"
+   ],
+   "flaws": [
+    "Print is dead",
+    "This has been tried",
+    "Sounds wasteful"
+   ],
+   "id": "119925",
+   "subject": "{{BLANK}} would make magazines popular again"
+  },
+  {
+   "buffs": [
+    "I have the perfect outfit!",
+    "Now that’s an occasion",
+    "It has something for everyone"
+   ],
+   "fillers": [
+    "dinosaurs",
+    "Roaring ’20s",
+    "Tax Day"
+   ],
+   "flaws": [
+    "I’m still staying home",
+    "Can’t we just hang out",
+    "Sounds TOO clever"
+   ],
+   "id": "119926",
+   "subject": "The party theme that never fails is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Man could never make this",
+    "I wept",
+    "We don’t appreciate wonder"
+   ],
+   "fillers": [
+    "an active volcano",
+    "butterflies",
+    "a nice plum"
+   ],
+   "flaws": [
+    "Meh",
+    "There’s beautiful-er",
+    "It’s actually kinda gross"
+   ],
+   "id": "119927",
+   "subject": "The most beautiful sight in nature is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It’s very useful",
+    "Waste not, want not",
+    "Recycle it"
+   ],
+   "fillers": [
+    "old tires",
+    "constructive criticism",
+    "electronics"
+   ],
+   "flaws": [
+    "Don’t like clutter",
+    "You only THINK you’ll use it",
+    "Hoarder-like"
+   ],
+   "id": "119928",
+   "subject": "You should think twice before throwing {{BLANK}} away"
+  },
+  {
+   "buffs": [
+    "I failed miserably",
+    "Respect",
+    "And dangerous"
+   ],
+   "fillers": [
+    "Babysitting",
+    "Being an influencer",
+    "Granite"
+   ],
+   "flaws": [
+    "Give me a week... I could do it",
+    "Looks pretty hard",
+    "Then why do losers do it?"
+   ],
+   "id": "119929",
+   "subject": "{{BLANK}} is harder than it looks"
+  },
+  {
+   "buffs": [
+    "Be grateful",
+    "Imagine life without ‘em",
+    "Yes! Starting today!"
+   ],
+   "fillers": [
+    "clouds",
+    "bicycles",
+    "everything"
+   ],
+   "flaws": [
+    "Overrated",
+    "I don’t use it",
+    "They betrayed me"
+   ],
+   "id": "119930",
+   "subject": "We should appreciate {{BLANK}} more"
+  },
+  {
+   "buffs": [
+    "Least not in a way I understand",
+    "It tried and failed",
+    "The human mind isn’t ready"
+   ],
+   "fillers": [
+    "dreams",
+    "the great taste of Apple Jacks",
+    "most things"
+   ],
+   "flaws": [
+    "It will someday",
+    "Um... do you have Google?",
+    "We know enough about it"
+   ],
+   "id": "119931",
+   "subject": "Science can’t explain {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It inspires and teaches",
+    "and I’m its patron",
+    "It belongs in a museum"
+   ],
+   "fillers": [
+    "A spider web",
+    "Where’s Waldo",
+    "Baking"
+   ],
+   "flaws": [
+    "Not EVERYTHING is art",
+    "Where’s the intent",
+    "But it’s hideous"
+   ],
+   "id": "119932",
+   "subject": "{{BLANK}} should be considered art"
+  },
+  {
+   "buffs": [
+    "We’d be doomed without this",
+    "We ignore all the hard work",
+    "This separates us from the animals"
+   ],
+   "fillers": [
+    "The toilet",
+    "Streaming",
+    "Spider-Man"
+   ],
+   "flaws": [
+    "How much good does it do?",
+    "It gets PLENTY of praise",
+    "I avoid it at all costs"
+   ],
+   "id": "119933",
+   "subject": "{{BLANK}} is the unsung hero of modern life"
+  },
+  {
+   "buffs": [
+    "Almost got me",
+    "It’s in your house!",
+    "Now I’m terrified"
+   ],
+   "fillers": [
+    "mice",
+    "water bottles under brake pedals",
+    "the Predator"
+   ],
+   "flaws": [
+    "Can’t hurt me",
+    "I’m sure it’s fine",
+    "Not that hidden"
+   ],
+   "id": "119934",
+   "subject": "People underestimate the hidden danger of {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "It’s creepy",
+    "Parents take notice",
+    "Night is for adults!"
+   ],
+   "fillers": [
+    "scream joyfully",
+    "Big Wheel",
+    "stand in dark hallways"
+   ],
+   "flaws": [
+    "Can’t put a clock on kids",
+    "Need to wind down before bed",
+    "Let them be!"
+   ],
+   "id": "119935",
+   "subject": "After sunset, children are not allowed to {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "The least you can do...",
+    "So easy to misunderstand tone",
+    "Coward!!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Times have changed, grandpa",
+    "Emoji’s worth 1,000 words",
+    "Not seeing their face is the point"
+   ],
+   "id": "119942",
+   "subject": "Never {{BLANK}} over text"
+  },
+  {
+   "buffs": [
+    "Practically twins!",
+    "Of course!",
+    "Not exactly, but the closest"
+   ],
+   "fillers": [
+    "Channing Tatum",
+    "Martha Stewart",
+    "Big Bird"
+   ],
+   "flaws": [
+    "I don’t see it",
+    "More like their Wario",
+    "Only spiritually"
+   ],
+   "id": "119943",
+   "subject": "The celebrity most like {{PLAYER}} is {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "They’ve earned it",
+    "I’ll deliver it",
+    "At the very least"
+   ],
+   "fillers": [
+    "a little treat",
+    "national recognition",
+    "a swift kick in the rear"
+   ],
+   "flaws": [
+    "How dare you!",
+    "Who are we to judge?",
+    "For what?"
+   ],
+   "id": "119948",
+   "subject": "I believe {{PLAYER}} deserves {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "At least make it better",
+    "Fits their skils",
+    "And then some"
+   ],
+   "fillers": [
+    "the MCU",
+    "our tax system",
+    "the roads"
+   ],
+   "flaws": [
+    "They don’t have a plan",
+    "It’s unfixable",
+    "They’d put it off"
+   ],
+   "id": "119951",
+   "subject": "If {{PLAYER}} was in charge, they would fix {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "And they will win",
+    "It is their dark reflection",
+    "I’ve heard them curse the name!"
+   ],
+   "fillers": [
+    "Traffic",
+    "Responsibility",
+    "The minotaur"
+   ],
+   "flaws": [
+    "I thought they were besties",
+    "They have LOTS of foes",
+    "Frenemies at best"
+   ],
+   "id": "119954",
+   "subject": "{{BLANK}} is {{PLAYER}}’s ultimate foe"
+  },
+  {
+   "buffs": [
+    "They’re basically the mascot",
+    "An insidious alliance",
+    "This explains everything!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "They’re just a fan",
+    "A conspiracy theory",
+    "Too independent"
+   ],
+   "id": "119955",
+   "subject": "{{PLAYER}} is in the pocket of big {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "A perfect quality in a leader",
+    "Just name them King",
+    "I trust them implicitly"
+   ],
+   "fillers": [
+    "not evil",
+    "environmental",
+    "a capricorn"
+   ],
+   "flaws": [
+    "Kinda political",
+    "Too compromised",
+    "They would never run"
+   ],
+   "id": "119956",
+   "subject": "I’m voting for {{PLAYER}} next election because they’re {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "The pain is enough to learn a lesson",
+    "Fun for others to watch!",
+    "We already use pepper spray in law enforcement"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Some people [i]like[/i] it",
+    "Hot sauce in non-mouth orifices feels cruel",
+    "Some crimes deserve jail"
+   ],
+   "id": "119973",
+   "subject": "Getting dunked in hot sauce should be a jail alternative",
+   "x": true
+  },
+  {
+   "buffs": [
+    "They can’t get a job!",
+    "They live 100 years",
+    "Feeling of pride!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "They can't pass a civics test",
+    "Should they vote too?!",
+    "Cheap to feed"
+   ],
+   "id": "119976",
+   "subject": "Talking birds count as dependents",
+   "x": true
+  },
+  {
+   "buffs": [
+    "I’m too tired to smell",
+    "Denotes cleanliness",
+    "Until I’m woken by smell of continental breakfast"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Not all hotels can do this",
+    "They can’t smell nice?",
+    "How?"
+   ],
+   "id": "119977",
+   "subject": "Hotels must strive to be the most scent-less buildings"
+  },
+  {
+   "buffs": [
+    "Just like a wedding",
+    "And FOREVER is legal",
+    "Throw a fun party!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Kinda corny",
+    "I like my friends arms-length",
+    "I have a lot of best friends"
+   ],
+   "id": "119980",
+   "subject": "BFFs should get a special ceremony too"
+  },
+  {
+   "buffs": [
+    "Kids get heavy",
+    "Cooking while helping with homework",
+    "In the near-future?"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Who’s paying for this",
+    "Are robots historically good with kids?",
+    "No robots for the childless?!"
+   ],
+   "id": "119983",
+   "subject": "All parents get a free robot nanny once they have three children"
+  },
+  {
+   "buffs": [
+    "Don’t gotta look at some old dead guy",
+    "I want be on money!",
+    "Spotlights country’s citizens"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Those are the Founding Fathers!",
+    "Hamilton has been snubbed enough",
+    "Stranger could be a creep"
+   ],
+   "id": "119986",
+   "subject": "Money should have pictures of random people on it"
+  },
+  {
+   "buffs": [
+    "They might still call you back",
+    "You need to sleep on it",
+    "Time to find pics of last time"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What happened to spontaneity",
+    "Girl, I need to just do [i]something[/i]",
+    "But what if I KNOW"
+   ],
+   "id": "119989",
+   "subject": "Mandatory three-day waiting period to get bangs"
+  },
+  {
+   "buffs": [
+    "Finally, a real threat",
+    "Could lighten up a tense scene",
+    "Opens seat for more courteous moviegoer"
+   ],
+   "fillers": [],
+   "flaws": [
+    "How does it know the movie’s started",
+    "Seems harsh",
+    "Would further distract from movie"
+   ],
+   "id": "119990",
+   "subject": "If you use your phone at the movies, your seat ejects"
+  },
+  {
+   "buffs": [
+    "I must see this",
+    "The Olympics need a makeover",
+    "Absolutely an athletic pursuit"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Who wants to see this?",
+    "Desecrates the Olympics",
+    "If I can do it, it’s not an Olympic event"
+   ],
+   "id": "119991",
+   "subject": "There should be an Olympic event for {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Advances science",
+    "Brings us closer to colonizing Moon",
+    "Yes! More Artemis missions!"
+   ],
+   "countrySpecific": true,
+   "fillers": [],
+   "flaws": [
+    "That is a bad idea in zero gravity",
+    "Would it survive?",
+    "Okay, it’s on the moon. Then what?"
+   ],
+   "id": "119992",
+   "subject": "It’s time for NASA to send {{BLANK}} to space"
+  },
+  {
+   "buffs": [
+    "Waste of resources",
+    "Everything’s digital now",
+    "Time is an illusion"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I like a functional decoration",
+    "Save the clock tower!",
+    "I’m not wearing a watch"
+   ],
+   "id": "119993",
+   "subject": "There’s no need to make new clocks"
+  },
+  {
+   "buffs": [
+    "Something’s gotta hold up the pants",
+    "Shows you’re not to be messed with",
+    "Deters attackers"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Won’t match most outfits",
+    "Inviting a challenge to fight?",
+    "Not business casual"
+   ],
+   "id": "119994",
+   "subject": "If you’re good at karate, it’s fine to wear your belt around"
+  },
+  {
+   "buffs": [
+    "I’ll keep my profile locked away in my attic",
+    "Mine would get more beautiful",
+    "Only magic can fix modern dating"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What a horror show to scroll through",
+    "Shouldn’t bare soul on first date",
+    "I don’t read"
+   ],
+   "id": "120003",
+   "subject": "Dating profile pics should make Dorian-Gray-like changes based on your activities",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Widen the emotional palatte",
+    "Fun to do a subtle one",
+    "Combine with anger hug!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Touching? Eww",
+    "Use your words!",
+    "With my dad that’s every handshake"
+   ],
+   "id": "120044",
+   "subject": "There should be a handshake that conveys displeasure"
+  },
+  {
+   "buffs": [
+    "Whimsy in the skies!",
+    "Great for the indecisive",
+    "Super off-the-grid"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Like... is it safe?",
+    "I’ve already been to Duluth",
+    "Snacks better not be random"
+   ],
+   "id": "120045",
+   "subject": "Airlines can offer a random destination option"
+  },
+  {
+   "buffs": [
+    "Get that money!",
+    "“The official backpack of Jimmy’s team”",
+    "Couldn’t be worse than the pros"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Let them be kids",
+    "Not everyone uses the orthodontist",
+    "Performance quality? Childish"
+   ],
+   "id": "120048",
+   "subject": "Youth sports teams should do commercials for corporate sponsors"
+  },
+  {
+   "buffs": [
+    "The coolest gift-giver on the block",
+    "We know! No need for commercials",
+    "Year after year equals timelessness"
+   ],
+   "fillers": [
+    "Build-A-Bear",
+    "actual money",
+    "slime"
+   ],
+   "flaws": [
+    "We don’t want parents to fight over it",
+    "Gifts of service are valuable too!",
+    "Must everything be seasonal?"
+   ],
+   "id": "120053",
+   "subject": "This year’s most popular holiday gift will be {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Sometimes we’re hurtful",
+    "This is played out",
+    "Surely we’ll get more creative"
+   ],
+   "fillers": [
+    "Christopher Walken",
+    "Gollum",
+    "me"
+   ],
+   "flaws": [
+    "My best material, ruined!",
+    "This is how I make friends",
+    "The voice decides, not me"
+   ],
+   "id": "120054",
+   "subject": "Forevermore we shall ban all impressions of {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Makes the monarchy more personable",
+    "Even kings and queens gotta be silly",
+    "Gives the items majesty"
+   ],
+   "fillers": [
+    "cute headbands",
+    "cheese",
+    "balloons"
+   ],
+   "flaws": [
+    "What to do with the gold?",
+    "Their walk might get silly",
+    "Inadvertently start fashion trend"
+   ],
+   "id": "120055",
+   "subject": "Global leaders shall now wear {{BLANK}} on their heads"
+  },
+  {
+   "buffs": [
+    "There’s probably a second somewhere",
+    "But [i]why[/i] are they [i]there[/i]?",
+    "No one will ever believe you"
+   ],
+   "fillers": [
+    "clown",
+    "drummer",
+    "velociraptor"
+   ],
+   "flaws": [
+    "I’ve seen things you won’t believe",
+    "Creepy is in the eye of the wuss",
+    "Not as creepy as my uncle"
+   ],
+   "id": "120056",
+   "subject": "There’s nothing creepier than seeing one solitary {{BLANK}}"
+  },
+  {
+   "buffs": [
+    "Fits an active lifestyle",
+    "Your hand softens it as you hold it",
+    "One less utensil to clean"
+   ],
+   "fillers": [],
+   "flaws": [
+    "You'll never get it all",
+    "I'll mistake it for toothpaste",
+    "I like butter knives"
+   ],
+   "id": "120109",
+   "subject": "Butter should come in a tube"
+  },
+  {
+   "buffs": [
+    "I want worry-free investments",
+    "Jobs, jobs, jobs",
+    "Let's make the bank fun"
+   ],
+   "fillers": [
+    "a dragon",
+    "a grade-school bully",
+    "traps"
+   ],
+   "flaws": [
+    "Withdrawals are a pain now",
+    "The bank will make you pay for this somehow",
+    "I don't even like banks"
+   ],
+   "id": "120110",
+   "subject": "Banks should have {{BLANK}} guarding the money"
+  },
+  {
+   "buffs": [
+    "Big makes me feel safe",
+    "If we stop growing, we die",
+    "More means more to love"
+   ],
+   "fillers": [
+    "heart",
+    "mind",
+    "bank account"
+   ],
+   "flaws": [
+    "Being big means being a big target",
+    "Not very demure of you",
+    "Prove it"
+   ],
+   "id": "120111",
+   "subject": "{{PLAYER}} has the biggest {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [
+    "At least you know the message was received",
+    "Something is better than nothing",
+    "Sometimes all I can muster is 👍"
+   ],
+   "fillers": [],
+   "flaws": [
+    "👎👎👎",
+    "A meaningless response",
+    "Even a voicemail is better"
+   ],
+   "id": "120112",
+   "subject": "Better to be ghosted than receive 👍",
+   "x": false
+  },
+  {
+   "buffs": [
+    "Fanfiction will fill the gap",
+    "It's not forever",
+    "Give people time to think about good sequels"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What if I want more superheroes?",
+    "Tradition is what binds the human experience",
+    "Let the good stories flourish"
+   ],
+   "id": "120113",
+   "subject": "Five-year ban on sequels"
+  },
+  {
+   "buffs": [
+    "Time limit not specified",
+    "You can do anything you set your mind to",
+    "We all want to see it"
+   ],
+   "fillers": [
+    "zero",
+    "a bunch",
+    "five"
+   ],
+   "flaws": [
+    "You'd get sweaty and gross",
+    "No one owes anyone displays of physical prowess",
+    "Too many."
+   ],
+   "id": "120114",
+   "subject": "{{PLAYER}} could do {{BLANK}} push-ups"
+  },
+  {
+   "buffs": [
+    "Can teach fun tricks",
+    "Dogs were bred over thousands of years to love us",
+    "Dogs can go out and about"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Cats are self-cleaning",
+    "Cats understand personal space",
+    "Litterboxes are easy"
+   ],
+   "id": "120115",
+   "subject": "🐕 > 🐈"
+  },
+  {
+   "buffs": [
+    "If you don't want the second thing you can always give it away",
+    "More stuff is better",
+    "Feels like a little gift"
+   ],
+   "fillers": [
+    "Everything",
+    "Hamburgers",
+    "Tires"
+   ],
+   "flaws": [
+    "I didn’t even want one",
+    "Consumerism in its darkest form",
+    "They’d just raise the price"
+   ],
+   "id": "120116",
+   "subject": "{{BLANK}} should always be “buy one, get one free”"
+  },
+  {
+   "buffs": [
+    "They have knife mouths!",
+    "Any bug honestly",
+    "They’re real vampires"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Too real",
+    "Too small to film",
+    "Can be stopped with candles"
+   ],
+   "id": "120134",
+   "subject": "We need to make more horror movies about mosquitos"
+  },
+  {
+   "buffs": [
+    "Peace is priority",
+    "Lots of hippies in STEM",
+    "Anything but capitalists"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Are there still hippies?",
+    "Not enough motivation",
+    "But I want to do it"
+   ],
+   "id": "120136",
+   "subject": "Only hippies should be allowed in the first Mars colony"
+  },
+  {
+   "buffs": [
+    "Artistic and educational",
+    "Nothing cooler than knowledge",
+    "Like U-Haul vans!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "There’s apps for that",
+    "Rebels don’t need encouragement",
+    "You’d get bored of that fact"
+   ],
+   "id": "120138",
+   "subject": "Let’s encourage graffiti that shares interesting trivia"
+  },
+  {
+   "buffs": [
+    "Cool! Free horse!",
+    "All tricks work on me",
+    "I never assume there are guys in things"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I don’t trust any horse",
+    "Naw, I don’t accept gifts",
+    "It’s literally the oldest trick in the book"
+   ],
+   "id": "120139",
+   "subject": "The Trojan Horse would have fooled me"
+  },
+  {
+   "buffs": [
+    "Great cross-cultural event",
+    "Game designers are the REAL rock stars",
+    "Get a candid interview with Sonic"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Too busy to plan outfits",
+    "Have to hit release dates",
+    "Don’t want to see magic behind Mario"
+   ],
+   "id": "120141",
+   "subject": "We need red carpet interviews for game releases"
+  },
+  {
+   "buffs": [
+    "Think of the outfits",
+    "The reindeer are women too!",
+    "Time for new snow shapes"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Snow is genderless",
+    "Who makes snowmen these days?",
+    "Tradition!"
+   ],
+   "id": "120142",
+   "subject": "Can we please make some snow-women?!",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’s the dark arts!",
+    "Turning people into chickens willy-nilly",
+    "The mind is the most powerful weapon"
+   ],
+   "fillers": [],
+   "flaws": [
+    "It’s just my hobby",
+    "Hypnosis isn’t real",
+    "Gov: stay out of Vegas acts"
+   ],
+   "id": "120143",
+   "subject": "Learning hypnosis should get you on a government list"
+  },
+  {
+   "buffs": [
+    "Like horoscope in newspaper",
+    "Weather plays a huge part in vibes",
+    "Fun way to start morning"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Radar can’t detect that",
+    "They’re wrong anyway",
+    "Vibes are personal"
+   ],
+   "id": "120144",
+   "subject": "Weather reports should include vibes"
+  },
+  {
+   "buffs": [
+    "We thought giant squid was fake",
+    "The deer with a trunk is real!",
+    "I saw one!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "What’s the advantage of single horn?",
+    "Why hide it?",
+    "Not magical though so who cares"
+   ],
+   "id": "120146",
+   "subject": "Unicorns might have existed at some point"
+  },
+  {
+   "buffs": [
+    "It can catch a fish, it can catch a felon",
+    "Reusable",
+    "You’d be amazed by modern net tech"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Where?",
+    "No criminals fear nets!",
+    "I’d get tangled"
+   ],
+   "id": "120148",
+   "subject": "More security systems should utilize nets"
+  },
+  {
+   "buffs": [
+    "Let’s. Start. Digging",
+    "All old stuff is treasure",
+    "Or oil!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "The real treasure is our friendship",
+    "They checked before building",
+    "Classic metal detector mentality"
+   ],
+   "id": "120150",
+   "subject": "There is probably treasure buried beneath our feet right now"
+  },
+  {
+   "buffs": [
+    "We got brains, muscle and looks",
+    "We have the outfits",
+    "We’re the Ocean’s 11 of game groups"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’d squeal",
+    "EVERYONE thinks that",
+    "Have to work on communication"
+   ],
+   "id": "120151",
+   "subject": "We would make a good heist team"
+  },
+  {
+   "buffs": [
+    "Only way to get the job done",
+    "Clothes fresh out of dryer",
+    "We should have nude versions of most businesses"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I came here to get clean",
+    "Too distracting",
+    "No one looks good doing chores"
+   ],
+   "id": "120152",
+   "subject": "We should have nude laundromats",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’s in the name",
+    "The ocean is a rich biome",
+    "The animal I see the MOST at the beach"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Not in aquariums",
+    "Can Aquaman control them?",
+    "They don’t live in the water!"
+   ],
+   "id": "120154",
+   "subject": "Seagulls qualify as sea creatures"
+  },
+  {
+   "buffs": [
+    "Crows pay rent",
+    "It’s nice",
+    "I can only make tiny houses"
+   ],
+   "fillers": [],
+   "flaws": [
+    "The have nests!",
+    "I want fewer birds in my yard",
+    "Why are they the only animal with human real estate"
+   ],
+   "id": "120155",
+   "subject": "We don’t need to build houses for birds"
+  },
+  {
+   "buffs": [
+    "Let’s outlaw them",
+    "Try the “It’s a prank bro” defense in court",
+    "Inherently involves deception"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Shaving cream on the hand?!",
+    "I really THOUGHT there was peanut brittle in there",
+    "Police have no jurisdiction over fart sounds"
+   ],
+   "id": "120157",
+   "subject": "Most pranks are crimes"
+  },
+  {
+   "buffs": [
+    "Just keep it simple",
+    "I would befriend the monkey’s paw",
+    "People misuse irony"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I wish you wouldn’t",
+    "Try it right now",
+    "Genie’s got thousands of years on you"
+   ],
+   "id": "120159",
+   "subject": "I could make a wish that wouldn’t have an ironic twist"
+  },
+  {
+   "buffs": [
+    "Riding a horse is always extra",
+    "Good coverage",
+    "Adds whimsy & wonder to life"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Cloak is not safety gear",
+    "Where do I get a cloak these days",
+    "Even police?"
+   ],
+   "id": "120161",
+   "subject": "I could make a wish that wouldn’t have an ironic twist"
+  },
+  {
+   "buffs": [
+    "I want 5",
+    "Parties need variety",
+    "And then mix them together!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "So many bowls to clean",
+    "2 is enough",
+    "I’m not made of dip!"
+   ],
+   "id": "120163",
+   "subject": "You must always serve at least three dips"
+  },
+  {
+   "buffs": [
+    "They’ve taught us to avoid them",
+    "Pick a disguise that is seasonal",
+    "Long neck, hates people... makes sense"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Seems random",
+    "Are they that short?",
+    "Aliens are pooping everwhere?"
+   ],
+   "id": "120164",
+   "subject": "Aliens probably walk among us disguised as geese"
+  },
+  {
+   "buffs": [
+    "It’s what the monsters are protecting",
+    "There are lots... but one is definitely there",
+    "Explains what I saw on my walkabout"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Big does not mean mysterious",
+    "It’s at the bottom of the ocean",
+    "Nope. I’ve seen every inch of Australia"
+   ],
+   "id": "120166",
+   "subject": "If there’s a hole in reality, it’s in Australia"
+  },
+  {
+   "buffs": [
+    "Just wouldn’t be the first tour group",
+    "All vacations are kinda dangerous",
+    "I can do the Chris Pratt hand thing"
+   ],
+   "fillers": [],
+   "flaws": [
+    "“Functioning” is not the best adjective",
+    "I do not want to eaten by dinosaurs",
+    "Yay, science! Boo, money making ventures!"
+   ],
+   "id": "120167",
+   "subject": "I would visit a functioning Jurassic Park"
+  },
+  {
+   "buffs": [
+    "Merit-based title",
+    "Honestly, I’d bow to lots of kings",
+    "More global appeal than the burger one"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I bend the knee to none!",
+    "Meh too much cholesterol",
+    "Tube is the lowest form of meat"
+   ],
+   "id": "120168",
+   "subject": "I only bow to the Sausage King"
+  },
+  {
+   "buffs": [
+    "The ideal partner",
+    "Imagine having 3 good qualities",
+    "This is what job interviews are looking for"
+   ],
+   "fillers": [
+    "very funny",
+    "a good runner",
+    "ginger"
+   ],
+   "flaws": [
+    "I don’t need smart",
+    "Personal preference",
+    "I don’t have any of these"
+   ],
+   "id": "120169",
+   "subject": "The three most admirable qualities are: smart, funny and {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "NYE party",
+    "government",
+    "revenge plot"
+   ],
+   "flaws": [],
+   "id": "120170",
+   "subject": "{{PLAYER}} would plan the best {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "being a cutie",
+    "comedy treason",
+    "cheating at this game"
+   ],
+   "flaws": [],
+   "id": "120171",
+   "subject": "{{PLAYER}} is guilty of {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "Being an influencer",
+    "Hollywood",
+    "My life"
+   ],
+   "flaws": [],
+   "id": "120172",
+   "subject": "{{BLANK}} isn’t as glamorous as it appears"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "mini golf",
+    "salad bars",
+    "garden strolls"
+   ],
+   "flaws": [],
+   "id": "120173",
+   "subject": "Getting coffee is out; the new getting-to-know-you activity is {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "Surgery assistant",
+    "Judge",
+    "Birthday clown"
+   ],
+   "flaws": [],
+   "id": "120174",
+   "subject": "{{BLANK}} would be a good job for a monkey"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "Hamburgers",
+    "Movie theater sizes",
+    "Cars"
+   ],
+   "flaws": [],
+   "id": "120175",
+   "subject": "{{BLANK}} are entirely too big"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "King Arthur",
+    "video rental stores",
+    "Rihanna"
+   ],
+   "flaws": [],
+   "id": "120176",
+   "subject": "It’s time for the triumphant return of {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "Getting up early",
+    "The Godfather",
+    "Taffy"
+   ],
+   "flaws": [],
+   "id": "120177",
+   "subject": "I’m going to say it! {{BLANK}} is overrated"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "social media",
+    "hard work",
+    "ska music"
+   ],
+   "flaws": [],
+   "id": "120178",
+   "subject": "Nobody actually enjoys {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "a movie theater",
+    "a historical mansion",
+    "a laser tag arena"
+   ],
+   "flaws": [],
+   "id": "120179",
+   "subject": "The best building to haunt as a ghost would be {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "more colors",
+    "a poem",
+    "a cartoon mascot"
+   ],
+   "flaws": [],
+   "id": "120180",
+   "subject": "Our country’s flag should include {{BLANK}}",
+   "x": false
+  },
+  {
+   "buffs": [
+    "It’s wasting space",
+    "There’s a better way",
+    "As a society, we need more productive options"
+   ],
+   "fillers": [
+    "a car spoiler",
+    "a neck tie",
+    "learning to juggle"
+   ],
+   "flaws": [
+    "It’s a good habit",
+    "Aesthetics have benefits",
+    "Looking cool is my use"
+   ],
+   "id": "120230",
+   "subject": "It looks cool, but {{BLANK}} is useless"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "luck",
+    "the banshee",
+    "quantum immortality"
+   ],
+   "flaws": [],
+   "id": "120232",
+   "subject": "It’s not just a myth; {{BLANK}} is real"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "A snowball fight",
+    "Fried chicken",
+    "A bedsheet"
+   ],
+   "flaws": [],
+   "id": "120235",
+   "subject": "{{BLANK}} is more enjoyable when it’s cold"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "red Solo cups",
+    "newspapers",
+    "bones"
+   ],
+   "flaws": [],
+   "id": "120237",
+   "subject": "They should make an edible version of {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "bad poetry",
+    "memes",
+    "recipes"
+   ],
+   "flaws": [],
+   "id": "120238",
+   "subject": "There should be Nobel prize for {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "Yoda",
+    "Miss Piggy",
+    "Slender Man"
+   ],
+   "flaws": [],
+   "id": "120240",
+   "subject": "{{BLANK}} is the wisest fictional character"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "YouTube celebrities",
+    "non-Titanic ships",
+    "its mistakes"
+   ],
+   "flaws": [],
+   "id": "120241",
+   "subject": "History will never remember {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "nature facts",
+    "realistic bodies",
+    "sweet backflips"
+   ],
+   "flaws": [],
+   "id": "120242",
+   "subject": "We need more {{BLANK}} in movies"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "dry clothes",
+    "be very loud",
+    "raise bees"
+   ],
+   "flaws": [],
+   "id": "120243",
+   "subject": "Back yards are the ideal place to {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "QR codes at restaurants",
+    "paper straws",
+    "each other, at the same time"
+   ],
+   "flaws": [],
+   "id": "120244",
+   "subject": "The public will never embrace {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "gravity",
+    "“don’t drink milk post-expiration date”",
+    "“no cutting in line”"
+   ],
+   "flaws": [],
+   "id": "120245",
+   "subject": "The one rule you can never break is {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "Shoes",
+    "Bunnies",
+    "My babies"
+   ],
+   "flaws": [],
+   "id": "120247",
+   "subject": "{{BLANK}} are cuter than most babies"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "Juice",
+    "Getting swole",
+    "Making a 3-hour movie"
+   ],
+   "flaws": [],
+   "id": "120248",
+   "subject": "{{BLANK}} isn’t worth the effort"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "kick a flower",
+    "punch a bee",
+    "be mean to me"
+   ],
+   "flaws": [],
+   "id": "120249",
+   "subject": "Only a real jerk would {{BLANK}}"
+  },
+  {
+   "buffs": [],
+   "fillers": [
+    "puzzles",
+    "desserts",
+    "time"
+   ],
+   "flaws": [],
+   "id": "120250",
+   "subject": "The best way to get over a breakup is {{BLANK}}",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’s brain and body exercise",
+    "We could form a troupe",
+    "We’re all beautiful"
+   ],
+   "fillers": [],
+   "flaws": [
+    "There’s a better dance style",
+    "Outfit does nothing for me",
+    "Too many student shows for me to attend"
+   ],
+   "id": "120251",
+   "subject": "Everyone could benefit from ballet classes"
+  },
+  {
+   "buffs": [
+    "You’re a star",
+    "At least",
+    "Grass is always more glamorous on either side"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I know myself",
+    "I could not get more fabulous",
+    "Define “fabulous”"
+   ],
+   "id": "120253",
+   "subject": "On average, we’re all about 10% more fabulous than we think"
+  },
+  {
+   "buffs": [
+    "It has a soul and it’s broken",
+    "It invented allergies",
+    "Make honey... or anything useful!"
+   ],
+   "fillers": [],
+   "flaws": [
+    "It’s just territorial",
+    "They’re cute!",
+    "Nature is full of evil"
+   ],
+   "id": "120254",
+   "subject": "The only truly evil animal is the wasp"
+  },
+  {
+   "buffs": [
+    "Genie rules",
+    "“How do I win in court?”",
+    "I ask for 100 lawyers"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I would mess up the questions",
+    "I’ll represent you in court",
+    "They’d just lie"
+   ],
+   "id": "120256",
+   "subject": "All lawyers should answer 3 questions for free"
+  },
+  {
+   "buffs": [
+    "Random chance can’t hurt our justice system",
+    "There are a LOT of beans in that jar",
+    "The guilty are often overconfident"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I’d rather just appeal",
+    "Now we’re wasting money on jars",
+    "Bribe a bean counter"
+   ],
+   "id": "120259",
+   "subject": "New court rule: Guess the number of beans in this jar, and you’re acquitted",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Love Island would never lie",
+    "It’s where we met",
+    "Maximum beachwear"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I desire a volcanic relationship",
+    "Love? or lust?",
+    "Australia is an island"
+   ],
+   "id": "120260",
+   "subject": "An island IS the best geographical location to find love",
+   "x": true
+  },
+  {
+   "buffs": [
+    "Want to create more savvy consumers",
+    "1 lie is a lot less than average",
+    "Gamify marketing"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Who watches commercials?",
+    "Can’t they be 100% honest, like me?",
+    "Of equal measure?"
+   ],
+   "id": "120263",
+   "subject": "New rule: Commercials must contain 2 truths and 1 lie"
+  },
+  {
+   "buffs": [
+    "Want to punish procrastination",
+    "Make a scene, so no one falls in",
+    "Cut out middle man"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Please don’t do this",
+    "Doesn’t seem comfy",
+    "How often does this happen?"
+   ],
+   "id": "120266",
+   "subject": "If manholes are left open, they can be used as toilets",
+   "x": true
+  },
+  {
+   "buffs": [
+    "It’s the social meal",
+    "Must come with gossip",
+    "Late breakfast alone is just poor time management"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I got berries and cream",
+    "Based on time",
+    "Says so on the menu"
+   ],
+   "id": "120299",
+   "subject": "If you’re eating alone, it’s not brunch"
+  },
+  {
+   "buffs": [
+    "Inherent romantic lighting",
+    "Perfect third location",
+    "Return to our origins"
+   ],
+   "fillers": [],
+   "flaws": [
+    "Nature doesn’t like to party",
+    "We’ll wake the bats",
+    "Dancing on slippery rocks?"
+   ],
+   "id": "120311",
+   "subject": "We should have more parties in caves"
+  },
+  {
+   "buffs": [
+    "Instant team building",
+    "Rolling chairs!",
+    "Lava burns both CEOS and interns... the great equalizer"
+   ],
+   "fillers": [],
+   "flaws": [
+    "I work from home",
+    "Hard to be agile in business casual",
+    "Don’t want to face-plant in front of colleagues"
+   ],
+   "id": "120339",
+   "subject": "Every office should have a “Floor is Lava” day"
+  }
+ ]
+}

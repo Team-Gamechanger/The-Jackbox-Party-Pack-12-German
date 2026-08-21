@@ -1,0 +1,907 @@
+{
+ "content": [
+  {
+   "category": "EMOTIVE",
+   "id": "115898",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when your boss texts “call me”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115899",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you’ve sat in something wet on the train"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115971",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the puppy does a biiiiig yawn!!"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115980",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you find the banana you left in your coat last winter"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115982",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the bidet water is set to an extreme temperature"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "115994",
+   "position": "THIRD",
+   "prompts": [
+    "As a children’s TV show host"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116018",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the tickle fest has finally gone too far"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116057",
+   "position": "FIRST",
+   "prompts": [
+    "Your reaction when someone says your joke, but louder, and everybody laughs"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116126",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the T-shirt cannon is aimed right at you"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116127",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you get your sleeve wet while washing dishes"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116131",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when they start doing construction on your street at 7 AM"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116180",
+   "position": "FIRST",
+   "prompts": [
+    "Your face after doing the “Chug the Lemon Juice Challenge”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116181",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the paper you spent all night writing didn’t save"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116259",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the game show host reveals a brand new car"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116355",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the masseuse goes to town on your glutes"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116372",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you discover you have a shellfish allergy on a date to Red Lobster"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116516",
+   "position": "THIRD",
+   "prompts": [
+    "As one of the Muppets"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "116543",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “You call zis bernaise?! Get aus of my kitchen!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "116544",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “Ten seconds! I’m hacking into the mainframe!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "116548",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “Throw this filthy scoundrel in the dungeons!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "116607",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “I want to talk to your manager!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116673",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you’re strutting the runway and you hear a big riiiiiip"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116686",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the magician had your card the whole time!"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116687",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you’re seventh place in the beauty pageant"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116869",
+   "position": "THIRD",
+   "prompts": [
+    "As a cute new droid in a [i]Star Wars[/i] show"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "116870",
+   "position": "THIRD",
+   "prompts": [
+    "As the Little League coach leading a ragtag team to glory"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116871",
+   "position": "THIRD",
+   "prompts": [
+    "As a high school bully in an ’80s movie"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116873",
+   "position": "THIRD",
+   "prompts": [
+    "As a new monster on [i]Sesame Street[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116875",
+   "position": "THIRD",
+   "prompts": [
+    "As one of [i]The Simpsons[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116876",
+   "position": "THIRD",
+   "prompts": [
+    "As the new Joker"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116883",
+   "position": "THIRD",
+   "prompts": [
+    "As one of Winnie The Pooh’s friends"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116887",
+   "position": "THIRD",
+   "prompts": [
+    "As the monster living under a kid’s bed"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116957",
+   "position": "THIRD",
+   "prompts": [
+    "As a cursed household object in [i]Beauty & the Beast[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "117190",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “UGH! MOM! I hate you!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "117224",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “Hot dogs! Get your hot dogs here!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117227",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when your sister leaves her triplets with you for a week"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117229",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you wake up to the smell of someone cooking bacon"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117414",
+   "position": "THIRD",
+   "prompts": [
+    "As the cute mascot for a diaper brand"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117421",
+   "position": "THIRD",
+   "prompts": [
+    "As an old-timey circus strongman"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117435",
+   "position": "THIRD",
+   "prompts": [
+    "As the eccentric psychic who helps the police"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117512",
+   "position": "THIRD",
+   "prompts": [
+    "As a hippie who’s ready to share the love"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117525",
+   "position": "THIRD",
+   "prompts": [
+    "As a Dr. Seuss character"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117530",
+   "position": "THIRD",
+   "prompts": [
+    "As one of Santa’s elves"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117776",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when a mighty eagle lands right outside your office window"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117777",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when another little kid has a better balloon than you"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117796",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you only have 4 seconds to cut the right wire and stop the bomb"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117879",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you discover mice living in your pantry"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118246",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when your hair stylist had too much fun with your haircut"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118248",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when an eagle swoops down and takes your child away"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118253",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when the toilet won’t flush at this intimate dinner party"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118255",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when your Uber driver keeps racing other drivers"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118257",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when you meet your actor friend in the lobby after their terrible play"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118260",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when you’re the most popular attraction in this Alien Interstellar Zoo"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118268",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when your doctor looks at your test results and says, “huh”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118343",
+   "position": "THIRD",
+   "prompts": [
+    "As a new improved mascot to a Fast Food chain"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118344",
+   "position": "THIRD",
+   "prompts": [
+    "As a hip modernized Monopoly man"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118411",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “This town ain’t big enough for the both of us.”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118433",
+   "position": "THIRD",
+   "prompts": [
+    "As a mascot for a tuna brand"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118440",
+   "position": "THIRD",
+   "prompts": [
+    "As a creature from ancient Greek mythology"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118458",
+   "position": "FIRST",
+   "prompts": [
+    "Your face when birdsong awakens you at dawn"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118474",
+   "position": "THIRD",
+   "prompts": [
+    "As the live-action Charlie Brown"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118495",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “Hell’s Angels! We ride!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118497",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “Is that li’l Johnny? My you got big!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118563",
+   "position": "THIRD",
+   "prompts": [
+    "As a french mime"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118564",
+   "position": "THIRD",
+   "prompts": [
+    "As the president in an asteroid movie"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118565",
+   "position": "THIRD",
+   "prompts": [
+    "As the rat who squeals under pressure"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118567",
+   "position": "THIRD",
+   "prompts": [
+    "As a frumpy teenager who learns she’s a princess"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118571",
+   "position": "THIRD",
+   "prompts": [
+    "As a new creature who fights Godzilla"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118580",
+   "position": "THIRD",
+   "prompts": [
+    "As a character in [i]Romeo & Juliet[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118587",
+   "position": "THIRD",
+   "prompts": [
+    "As the lead singer of a punk band"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118588",
+   "position": "THIRD",
+   "prompts": [
+    "As a salty old sea captain with scurvy"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118594",
+   "position": "THIRD",
+   "prompts": [
+    "As one of the cats in the movie [i]Cats[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118611",
+   "position": "THIRD",
+   "prompts": [
+    "As a character from [i]The Nightmare Before Christmas[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118612",
+   "position": "THIRD",
+   "prompts": [
+    "As an ugly Nosferatu-style vampire"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118725",
+   "position": "THIRD",
+   "prompts": [
+    "As the Queen in a French Revolution film"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118743",
+   "position": "SECOND",
+   "prompts": [
+    "The face of someone saying, “That was a gnarly wave dude!”"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118930",
+   "position": "THIRD",
+   "prompts": [
+    "As the grizzled detective who’s seen it all"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118932",
+   "position": "THIRD",
+   "prompts": [
+    "As the new, sexier Steve Urkel"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119088",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when you’re lifting a car to save the stray cat trapped under it"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119089",
+   "position": "SECOND",
+   "prompts": [
+    "Your face after a cartoon piano falls on top of you"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119141",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when the love of your life turns into a cactus when you kiss them"
+   ],
+   "selfieDirection": "",
+   "starterContent": true,
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119155",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when suddenly every inch of your entire body develops taste buds"
+   ],
+   "selfieDirection": "",
+   "starterContent": true,
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119159",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when you accidentally run over a minion"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119177",
+   "position": "THIRD",
+   "prompts": [
+    "As the woodland animal frontman of an animatronic band"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119179",
+   "position": "THIRD",
+   "prompts": [
+    "As a minor character from [i]Game of Thrones[/i]"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119194",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when your sandwich moans every time you touch it"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119237",
+   "position": "THIRD",
+   "prompts": [
+    "As a civil war wife whose husband has yet to return"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119238",
+   "position": "THIRD",
+   "prompts": [
+    "As a tough chick who can shoot pool just as good as the boys"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119383",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when you ate a seed six weeks ago and now you’re pooping a watermelon"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119389",
+   "position": "SECOND",
+   "prompts": [
+    "Your face when everything you touch turns to beef"
+   ],
+   "selfieDirection": "",
+   "starterContent": true
+  }
+ ]
+}
