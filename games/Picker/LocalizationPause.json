@@ -20,7 +20,8 @@
       "PAUSE_CONFIRMATION_BACK_TO_PACK": "Möchtest du ein anderes Spiel auswählen?",
       "PAUSE_CHOOSE_ON_DEVICE": "Wähle auf deinem Gerät",
       "BACK": "Zurück",
-      "SELECT": "Auswählen"
+      "SELECT": "Auswählen",
+      "SLIDER_OFF": "AUS"
     },
     "fr": {
       "PAUSE_PAUSED": "En pause",

@@ -68,6 +68,7 @@
     "Regale könnten einheitlich hoch sein",
     "Das würde irre aussehen"
    ],
+   "countrySpecific": true,
    "fillers": [],
    "flaws": [
     "Ich will aus der Masse herausragen",
@@ -266,9 +267,9 @@
     "Hunde würden mich lieben"
    ],
    "fillers": [
-      "nichts",
-      "frisch gebackene Kekse",
-      "Gefahr"
+    "nichts",
+    "frisch gebackene Kekse",
+    "Gefahr"
    ],
    "flaws": [
     "Willst du wirklich, dass die Leute dir näherkommen?",
@@ -4262,7 +4263,11 @@
     "Der Tonfall wird so leicht missverstanden",
     "Feigling!!"
    ],
-   "fillers": [],
+   "fillers": [
+    "einen Praktikanten einstellen",
+    "einen Heiratsantrag machen",
+    "mich ärgern"
+   ],
    "flaws": [
     "Die Zeiten haben sich geändert, Opa",
     "Ein Emoji sagt mehr als tausend Worte",
@@ -4353,7 +4358,11 @@
     "Eine heimtückische Allianz",
     "Das erklärt alles!"
    ],
-   "fillers": [],
+   "fillers": [
+    "Gummibärchen",
+    "Filme-für-Nerds",
+    "Zukunfts-Roboter"
+   ],
    "flaws": [
     "Die Person ist nur ein Fan",
     "Eine Verschwörungstheorie",
