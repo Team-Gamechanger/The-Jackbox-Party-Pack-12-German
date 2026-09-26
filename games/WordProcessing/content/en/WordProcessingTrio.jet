@@ -51,7 +51,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116595",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -100,7 +100,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116596",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -157,63 +157,63 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116697",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
    "buckets": [
     {
      "answers": [
-      "Hearts",
-      "Operation",
-      "Apples to Apples",
+      "Skat",
+      "Phase 10",
+      "Skip-Bo",
       "Codenames",
-      "Candy Land",
-      "Go Fish",
-      "Ticket to Ride",
-      "Cribbage",
-      "Pandemic",
-      "Dominion"
+      "Dobble",
+      "Blackjack",
+      "UNO",
+      "Mau-Mau",
+      "Bohnanza",
+      "6 nimmt!"
      ],
-     "bucketTitle": "Board Game with Cards",
-     "shorthand": "Card Game"
+     "bucketTitle": "Gesellschaftsspiel mit Karten",
+     "shorthand": "Kartenspiel"
     },
     {
      "answers": [
-      "Yahtzee",
-      "Trouble",
-      "Boggle",
-      "Parcheesi",
-      "Bunco",
-      "Craps",
+      "Kniffel",
+      "Ludo",
+      "Das verrückte Labyrinth",
+      "Qwixx",
+      "Malefiz",
+      "Fang den Hut",
       "Backgammon",
-      "Farkle"
+      "Leiterspiel"
      ],
-     "bucketTitle": "Board Game with Dice",
-     "shorthand": "Dice Game"
+     "bucketTitle": "Gesellschaftsspiel mit Würfeln",
+     "shorthand": "Würfelspiel"
     },
     {
      "answers": [
       "Monopoly",
       "King of Tokyo",
-      "Risk",
-      "Clue",
-      "Pictionary",
-      "Scattergories",
-      "Catan",
-      "Warhammer",
-      "Cranium",
-      "Wingspan"
+      "Risiko",
+      "Cluedo",
+      "Machi Koro",
+      "Das MAD Spiel",
+      "Die Siedler von Catan",
+      "Talisman",
+      "HeroQuest",
+      "Make 'N' Break"
      ],
-     "bucketTitle": "Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "116699",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -263,7 +263,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "116706"
+   "id": "116706",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -314,7 +315,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116707",
-   "starterContent": true,
+   "starterContent": false,
    "x": false
   },
   {
@@ -365,47 +366,51 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "116709"
+   "id": "116709",
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "Holding",
-      "Clipping",
-      "Kicking",
-      "Tripping",
-      "Grounding",
-      "Concealing",
-      "Roughing"
+      "Schloss Einstein",
+      "Die Pfefferkörner",
+      "Bernd das Brot",
+      "PUR+",
+      "Checker Tobi",
+      "Durch die Wildnis",
+      "Ein Fall für die Erdmännchen"
      ],
-     "bucketTitle": "Gridiron Football Penalty",
-     "shorthand": "Football Penalty"
+     "bucketTitle": "KiKA",
+     "shorthand": "KiKA"
     },
     {
      "answers": [
-      "Piping",
-      "Drumming",
-      "Dancing",
-      "Calling",
-      "Swimming",
-      "Milking"
+      "Angelo!",
+      "Woozle Goozle",
+      "Ninjago",
+      "Sally Bollywood",
+      "Dragons",
+      "Coop gegen Kat",
+      "Kickers"
      ],
-     "bucketTitle": "“12 Days of Christmas” Activity",
-     "shorthand": "12 Days of Christmas"
+     "bucketTitle": "Super RTL",
+     "shorthand": "Super RTL"
     },
     {
      "answers": [
-      "Coupling",
-      "Shrinking",
-      "Moonlighting",
-      "Bonding",
-      "Thirtysomething",
-      "Homecoming",
-      "The Following"
+      "SpongeBob Schwammkopf",
+      "iCarly",
+      "Drake & Josh",
+      "Danny Phantom",
+      "Hey Arnold!",
+      "Jimmy Neutron",
+      "Avatar",
+      "Cosmo und Wanda",
+      "Neds ultimativer Schulwahnsinn"
      ],
-     "bucketTitle": "TV Show Ending in “-ing”",
-     "shorthand": "TV Show"
+     "bucketTitle": "Nickelodeon",
+     "shorthand": "Nickelodeon"
     }
    ],
    "countrySpecific": true,
@@ -468,22 +473,23 @@
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "116717"
+   "id": "116717",
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "Flygon",
-      "Snorlax",
-      "Tyranitar",
+      "Libelldra",
+      "Relaxo",
+      "Despotar",
       "Lucario",
       "Gengar",
-      "Bulbasaur",
-      "Eevee",
+      "Bisasam",
+      "Evoli",
       "Pikachu"
      ],
-     "bucketTitle": "Pokémon Character",
+     "bucketTitle": "Pokémon-Charakter",
      "shorthand": "Pokémon"
     },
     {
@@ -497,128 +503,128 @@
       "Daisy",
       "Bowser Jr."
      ],
-     "bucketTitle": "Mario Kart World Character",
+     "bucketTitle": "Mario Kart World Charakter",
      "shorthand": "Mario Kart"
     },
     {
      "answers": [
-      "Blossom",
-      "Buttercup",
-      "Bubbles",
-      "Mojo Jojo",
-      "Fuzzy Lumpkins",
-      "Professor Utonium",
-      "Sedusa",
-      "HIM"
+      "Ryder",
+      "Zuma",
+      "Chase",
+      "Rocky",
+      "Marshall",
+      "Rex",
+      "Tuck",
+      "Skye"
      ],
-     "bucketTitle": "Powerpuff Girls Character",
-     "shorthand": "Powerpuff Girls"
+     "bucketTitle": "PAW Patrol Charakter",
+     "shorthand": "PAW Patrol"
     }
    ],
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116718"
+   "id": "116718",
+   "starterContent": true
   },
   {
    "buckets": [
     {
      "answers": [
-      "The Twins",
-      "The Water-Bearer",
-      "The Virgin",
-      "The Crab",
-      "The Lion",
-      "The Scales",
-      "The Goat"
+      "Die Zwillinge",
+      "Der Wassermann",
+      "Die Jungfrau",
+      "Der Krebs",
+      "Der Löwe",
+      "Die Waage",
+      "Der Steinbock"
      ],
-     "bucketTitle": "Zodiac Symbol",
-     "shorthand": "Zodiac"
+     "bucketTitle": "Ein Sternzeichen",
+     "shorthand": "Sternzeichen"
     },
     {
      "answers": [
-      "Mixed Nuts",
-      "Zookeeper",
-      "The Wedding Singer",
-      "The Cobbler",
-      "The Waterboy",
-      "Leo",
-      "Spaceman"
+      "Phoenix",
+      "Undine",
+      "Yella",
+      "Barbara",
+      "Transit",
+      "Jerichow",
+      "Gespenster"
      ],
-     "bucketTitle": "Adam Sandler Movie",
-     "shorthand": "Sandler"
+     "bucketTitle": "Christian-Petzold-Film",
+     "shorthand": "Petzold-Film"
     },
     {
      "answers": [
-      "The Ice Queen",
-      "The Reaper",
-      "The Visitor",
-      "Twyn",
-      "Wild Card",
-      "Cuddle Team Leader",
-      "Galaxy Scout",
-      "Dynamo Dancer"
+      "Die Eiskönigin",
+      "Totenschütze",
+      "Walküre",
+      "Rabe",
+      "Leviathan",
+      "Kuscheloberbeauftragte",
+      "Himmelsjäger",
+      "Dämonica"
      ],
-     "bucketTitle": "Legendary Fortnite Skin",
+     "bucketTitle": "Legendärer Fortnite-Skin",
      "shorthand": "Fortnite"
     }
    ],
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "116719"
+   "id": "116719",
+   "starterContent": true
   },
   {
    "buckets": [
     {
      "answers": [
-      "Darius",
-      "Elijah",
-      "Methuselah",
-      "Amos",
-      "Gideon",
-      "Isaac",
-      "Jethro",
-      "Abraham"
+      "Adam",
+      "Sara",
+      "Jakob",
+      "Josef",
+      "David",
+      "Jesaja",
+      "Johannes",
+      "Martha"
      ],
-     "bucketTitle": "Name from the Bible",
-     "shorthand": "Bible Name"
+     "bucketTitle": "Name aus der Bibel",
+     "shorthand": "Bibel-Name"
     },
     {
      "answers": [
-      "Colton",
-      "Clayton",
-      "Grant",
-      "Sean",
-      "Juan Pablo",
-      "Christopher",
-      "Arie",
-      "Travis",
-      "Lorenzo"
+      "Pietro",
+      "Aneta",
+      "Davin",
+      "Ramon",
+      "Jan-Marten",
+      "Harry",
+      "Menowin",
+      "Beatrice",
+      "Severino"
      ],
-     "bucketTitle": "Name of [i]The Bachelor[/i]",
-     "shorthand": "Bachelor Name"
+     "bucketTitle": "Gewinner von DSDS",
+     "shorthand": "DSDS-Gewinner"
     },
     {
      "answers": [
-      "Jesse",
-      "Matthew",
-      "Aaron",
-      "Peter",
-      "Jacob",
-      "Andrew",
-      "Benjamin",
-      "Jason"
+      "Alexander",
+      "Tobias",
+      "Thomas",
+      "Daniel",
+      "Sem"
      ],
-     "bucketTitle": "Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "countrySpecific": true,
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "116720"
+   "id": "116720",
+   "starterContent": true
   },
   {
    "buckets": [
@@ -669,7 +675,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "116721"
+   "id": "116721",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -685,8 +692,8 @@
       "Enhypen",
       "Ateez"
      ],
-     "bucketTitle": "K-Pop Group",
-     "shorthand": "K-Pop Group"
+     "bucketTitle": "K-Pop-Gruppe",
+     "shorthand": "K-Pop-Gruppe"
     },
     {
      "answers": [
@@ -700,13 +707,13 @@
       "MATLAB",
       "Visual Basic"
      ],
-     "bucketTitle": "Programming Language",
-     "shorthand": "Programming Language"
+     "bucketTitle": "Programmiersprache",
+     "shorthand": "Programmiersprache"
     },
     {
      "answers": [
-      "E.l.f.",
-      "Avon",
+      "Catrice",
+      "Essence",
       "OPI",
       "MAC",
       "Garnier",
@@ -714,10 +721,10 @@
       "Fenty",
       "CoverGirl",
       "Maybelline",
-      "Clinique"
+      "NIVEA"
      ],
-     "bucketTitle": "Cosmetic Brand",
-     "shorthand": "Cosmetic Brand"
+     "bucketTitle": "Kosmetikmarke",
+     "shorthand": "Kosmetikmarke"
     }
    ],
    "difficulty": "Hard",
@@ -739,8 +746,8 @@
       "Shalom",
       "Oi"
      ],
-     "bucketTitle": "“Hello”",
-     "shorthand": "“Hello”"
+     "bucketTitle": "“Hallo”",
+     "shorthand": "“Hallo”"
     },
     {
      "answers": [
@@ -751,11 +758,11 @@
       "Haan",
       "Na’am",
       "Sim",
-      "Ja",
+      "Yes",
       "Shì"
      ],
-     "bucketTitle": "“Yes”",
-     "shorthand": "“Yes”"
+     "bucketTitle": "“Ja”",
+     "shorthand": "“Ja”"
     },
     {
      "answers": [
@@ -769,14 +776,15 @@
       "Aniyo",
       "Nej"
      ],
-     "bucketTitle": "“No”",
-     "shorthand": "“No”"
+     "bucketTitle": "“Nein”",
+     "shorthand": "“Nein”"
     }
    ],
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116723"
+   "id": "116723",
+   "starterContent": true
   },
   {
    "buckets": [
@@ -824,21 +832,22 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "116740"
+   "id": "116740",
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "Millie Bobby Brown",
-      "Spinal Tap amp",
-      "KFC herbs & spices",
+      "Ordnungszahl von Natrium",
+      "Jane aus Stranger Things",
+      "Russlands Zeitzonen",
       "XI",
-      "Factor of 121",
+      "Teiler von 121",
       "November",
-      "Starters for a soccer team",
-      "Starters for a U.S. football team",
-      "Michael Jordan’s # minus 12"
+      "Aufstellung einer Fußballmannschaft",
+      "Aufstellung einer US-Football-Mannschaft",
+      "Manuel Neuers Nummer plus 10"
      ],
      "bucketTitle": "11",
      "shorthand": "11"
@@ -846,12 +855,13 @@
     {
      "answers": [
       "II",
-      "Turtle doves in a carol",
-      "in binary, “10”",
-      "Outkast members",
-      "Femurs in body",
-      "“Zwei,” in German",
-      "February"
+      "Schulnote “Gut”",
+      "“10” in Binärschreibweise",
+      "Monde vom Mars",
+      "Mitglieder von Modern Talking",
+      "Lungenflügel im Körper",
+      "“deux” auf Französisch",
+      "Februar"
      ],
      "bucketTitle": "2",
      "shorthand": "2"
@@ -859,13 +869,13 @@
     {
      "answers": [
       "XII",
-      "Dodecahedron",
-      "Zodiac signs",
-      "Tom Brady’s #",
-      "Stars on the EU flag",
-      "Disciples",
-      "Baker’s dozen minus one",
-      "Dozen"
+      "Dodekaeder",
+      "Sternzeichen",
+      "Apostel",
+      "Sterne auf der EU-Flagge",
+      "Aufgaben des Herakles",
+      "Halbtöne in einer Oktave",
+      "Dutzend"
      ],
      "bucketTitle": "12",
      "shorthand": "12"
@@ -874,7 +884,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116792"
+   "id": "116792",
+   "starterContent": true
   },
   {
    "buckets": [
@@ -888,8 +899,8 @@
       "G",
       "Q"
      ],
-     "bucketTitle": "Letter in Latin Alphabet",
-     "shorthand": "Latin Alphabet"
+     "bucketTitle": "Buchstabe im lateinischen Alphabet",
+     "shorthand": "Lateinisches Alphabet"
     },
     {
      "answers": [
@@ -900,8 +911,8 @@
       "Π",
       "Γ"
      ],
-     "bucketTitle": "Letter in Greek Alphabet",
-     "shorthand": "Greek Alphabet"
+     "bucketTitle": "Buchstabe im griechischen Alphabet",
+     "shorthand": "Griechisches Alphabet"
     },
     {
      "answers": [
@@ -915,14 +926,15 @@
       "T",
       "I"
      ],
-     "bucketTitle": "In Latin & Greek Alphabet",
-     "shorthand": "Both"
+     "bucketTitle": "Im lateinischen & griechischen Alphabet",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Easy",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "116795"
+   "id": "116795",
+   "starterContent": true
   },
   {
    "buckets": [
@@ -974,7 +986,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116798"
+   "id": "116798",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1024,7 +1037,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116799",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1076,50 +1089,51 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116800"
+   "id": "116800",
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "iPod introduced",
-      "George W. Bush ducks shoe",
-      "Beijing Summer Olympics",
-      "“American Idol” premiere",
-      "First Facebook poke",
-      "First Euro banknotes",
-      "Pluto demoted to dwarf planet",
-      "Great Recession"
+      "iPod erscheint",
+      "YouTube startet",
+      "Sommermärchen",
+      "Euro-Bargeld kommt",
+      "Facebook startet",
+      "Pluto wird Zwergplanet",
+      "Harry-Potter-Hype",
+      "Finanzkrise"
      ],
-     "bucketTitle": "Occurred in 2000s",
-     "shorthand": "2000s"
+     "bucketTitle": "Passierte in den 2000ern",
+     "shorthand": "2000er"
     },
     {
      "answers": [
-      "Snapchat launched",
-      "Thanos snaps fingers",
-      "Cubs win World Series",
-      "Prince George of Wales born",
-      "First photo of black hole",
-      "Wall Street occupied",
+      "Snapchat startet",
+      "Gangnam Style",
+      "Pokémon Go",
       "Brexit",
-      "Simone Biles wins Rio gold"
+      "Elbphilharmonie eröffnet",
+      "Erstes Foto von schwarzem Loch",
+      "Thanos schnippt",
+      "Simone Biles gewinnt in Rio gold"
      ],
-     "bucketTitle": "Occurred in 2010s",
-     "shorthand": "2010s"
+     "bucketTitle": "Passierte in den 2010ern",
+     "shorthand": "2010er"
     },
     {
      "answers": [
-      "ChatGPT unveiled",
-      "Leo XIV elected Pope",
-      "Beijing Winter Olympics",
-      "Wordle takes over planet",
-      "“iCarly” revived",
-      "Artemis II orbits moon",
-      "Bennifer 2.0"
+      "ChatGPT startet",
+      "Papst Leo XIV gewählt",
+      "Olympische Winterspiele in Peking",
+      "Wordle-Hype",
+      "Squid Game",
+      "Barbenheimer",
+      "Stefan Raab Comeback"
      ],
-     "bucketTitle": "Occurred in 2020s",
-     "shorthand": "2020s"
+     "bucketTitle": "Passierte in den 2020ern",
+     "shorthand": "2020er"
     }
    ],
    "difficulty": "Medium",
@@ -1133,42 +1147,42 @@
     {
      "answers": [
       "Elmo",
-      "Stop sign",
-      "Arrogant M&M",
-      "“Love”",
+      "Stoppschild",
+      "Feuerlöscher",
+      "“Liebe”",
       "Ketchup",
-      "2012 Taylor Swift album",
-      "Cardinal"
+      "Briefkasten in London",
+      "Hagebutte"
      ],
-     "bucketTitle": "Red Stuff",
-     "shorthand": "Red"
+     "bucketTitle": "Rote Dinge",
+     "shorthand": "Rot"
     },
     {
      "answers": [
-      "Big Bird",
-      "American school bus",
-      "Dopey M&M",
-      "Mustard",
-      "2000 Coldplay single",
-      "Citrine",
-      "Starfruit",
-      "Macaroni"
+      "Bibo",
+      "Sternenfrucht",
+      "Löwenzahn",
+      "Senf",
+      "Amerikanischer Schulbus",
+      "Citrin",
+      "Kanarienvogel",
+      "Makkaroni"
      ],
-     "bucketTitle": "Yellow Stuff",
-     "shorthand": "Yellow"
+     "bucketTitle": "Gelbe Dinge",
+     "shorthand": "Gelb"
     },
     {
      "answers": [
-      "Barney the Dinosaur",
-      "“Royalty”",
+      "Milka-Verpackung",
+      "Rotkohl",
       "Fanta Grape",
-      "Grimace",
-      "Wisteria",
-      "Prince album {{BLANK}} Rain",
-      "Elderberry"
+      "Tinky-Winky",
+      "Veilchen",
+      "Thanos",
+      "Holunder"
      ],
-     "bucketTitle": "Purple Stuff",
-     "shorthand": "Purple"
+     "bucketTitle": "Lila Dinge",
+     "shorthand": "Lila"
     }
    ],
    "countrySpecific": true,
@@ -1226,7 +1240,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "116836"
+   "id": "116836",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1278,7 +1293,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116837",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1334,7 +1349,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116838"
+   "id": "116838",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1382,7 +1398,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116841"
+   "id": "116841",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1433,7 +1450,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116842",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1477,7 +1494,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116843"
+   "id": "116843",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1527,7 +1545,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116846"
+   "id": "116846",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1576,7 +1595,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116888",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1631,7 +1650,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116890",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1684,7 +1703,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116893",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1735,7 +1754,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116895",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1785,55 +1804,56 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "117050"
+   "id": "117050",
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "Enter Sandman",
-      "For Whom the Bell Tolls",
-      "One",
-      "Sad But True",
-      "Master of Puppets",
-      "Nothing Else Matters",
-      "Jump in the Fire",
-      "Damage, Inc.",
-      "Spit Out the Bone"
+      "Traum",
+      "Einmal um die Welt",
+      "Bye Bye",
+      "Unendlichkeit",
+      "Whatever",
+      "Baum",
+      "Erinnerung",
+      "Bad Chick",
+      "Nie mehr"
      ],
-     "bucketTitle": "Metallica Song",
-     "shorthand": "Metallica"
+     "bucketTitle": "CRO-Song",
+     "shorthand": "CRO"
     },
     {
      "answers": [
-      "Bad Blood",
-      "Better Than Revenge",
-      "Castles Crumbling",
-      "Death by a Thousand Cuts",
-      "Today Was a Fairytale",
-      "Look What You Made Me Do",
-      "Illicit Affairs",
-      "No Body, No Crime",
-      "Style",
-      "‘Tis the Damn Season",
-      "Vigilante Shit"
+      "Herzbeben",
+      "Achterbahn",
+      "Null auf 100",
+      "Fehlerfrei",
+      "Phänomen",
+      "Marathon",
+      "Rausch",
+      "Blitz",
+      "Flieger",
+      "Mitten im Paradies",
+      "Von hier bis unendlich"
      ],
-     "bucketTitle": "Taylor Swift Song",
-     "shorthand": "Taylor Swift"
+     "bucketTitle": "Helene Fischer-Song",
+     "shorthand": "Helene Fischer"
     },
     {
      "answers": [
-      "Beautiful",
-      "Young, Wild & Free",
-      "Who Am I (What’s My Name)?",
-      "Drop It Like It’s Hot",
-      "Gin and Juice",
-      "Sensual Seduction",
-      "Still a G Thang",
-      "Lodi Dodi"
+      "Tage wie diese",
+      "Alles aus Liebe",
+      "Altes Fieber",
+      "Unter den Wolken",
+      "Nur zu Besuch",
+      "Bonnie & Clyde",
+      "Freunde",
+      "Laune der Natur"
      ],
-     "bucketTitle": "Snoop Dogg Song",
-     "shorthand": "Snoop Dogg"
+     "bucketTitle": "Die Toten Hosen-Song",
+     "shorthand": "Tote Hosen"
     }
    ],
    "difficulty": "Hard",
@@ -1891,7 +1911,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "117068"
+   "id": "117068",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1900,42 +1921,42 @@
       "Halloumi",
       "Dubliner",
       "Fontina",
-      "Chèvre",
       "Gruyère",
       "Paneer",
       "Cotija",
-      "Manchego"
+      "Manchego",
+      "Taleggio"
      ],
-     "bucketTitle": "Cheese",
-     "shorthand": "Cheese"
+     "bucketTitle": "Käse",
+     "shorthand": "Käse"
     },
     {
      "answers": [
-      "Burmese",
+      "Burmesisch",
       "Gujarati",
-      "Creole",
-      "Cantonese",
+      "Kantonesisch",
+      "Javanisch",
       "Braille",
       "Yoruba",
       "Farsi",
       "Esperanto"
      ],
-     "bucketTitle": "Language",
-     "shorthand": "Language"
+     "bucketTitle": "Sprache",
+     "shorthand": "Sprache"
     },
     {
      "answers": [
-      "Havanese",
+      "Malteser",
+      "Havaneser",
       "Leonberger",
-      "Whippet",
       "Barbet",
-      "Bichon Frisé",
+      "Basenji",
       "Boerboel",
-      "Brittany",
+      "Papillon",
       "Pekingese"
      ],
-     "bucketTitle": "Dog Breed",
-     "shorthand": "Dog Breed"
+     "bucketTitle": "Hunderasse",
+     "shorthand": "Hunderasse"
     }
    ],
    "difficulty": "Medium",
@@ -1948,43 +1969,43 @@
    "buckets": [
     {
      "answers": [
-      "Diaper",
-      "Used tissue",
-      "Ceramic mug",
-      "Coffee pod",
-      "Plastic straw",
-      "Chip bag",
-      "Toothpaste tubes",
-      "Contact lens"
+      "Kassenbon",
+      "Zahnbürste",
+      "Kugelschreiber",
+      "Pflaster",
+      "Katzenstreu",
+      "Staubsaugerbeutel",
+      "Foto",
+      "Strumpfhose"
      ],
-     "bucketTitle": "Trash",
-     "shorthand": "Trash"
+     "bucketTitle": "Restmüll",
+     "shorthand": "Restmüll"
     },
     {
      "answers": [
-      "Beer can",
-      "Crude oil",
-      "Detergent bottle",
-      "Empty trash bag",
-      "Magazine",
-      "Aluminum foil",
-      "Glass jar"
+      "Kronkorken",
+      "Zahnpastatube",
+      "Müsliriegelfolie",
+      "Chips-Tüte",
+      "Senftube",
+      "Konservendose",
+      "Aludeckel"
      ],
-     "bucketTitle": "Recycle",
-     "shorthand": "Recycle"
+     "bucketTitle": "Gelber Sack",
+     "shorthand": "Gelber Sack"
     },
     {
      "answers": [
-      "Eggshells",
-      "Twig",
-      "Coffee grounds",
-      "Broccoli stalk",
-      "Chopsticks",
-      "Grass clipping",
-      "Avocado pit"
+      "Kaffeefilter",
+      "Brotreste",
+      "Verwelkte Blumen",
+      "Knochen",
+      "Teebeutel",
+      "Haare",
+      "Stroh"
      ],
-     "bucketTitle": "Compost",
-     "shorthand": "Compost"
+     "bucketTitle": "Biomüll",
+     "shorthand": "Biomüll"
     }
    ],
    "difficulty": "Easy",
@@ -2042,7 +2063,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117093",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2096,7 +2117,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117191"
+   "id": "117191",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2145,7 +2167,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "117246"
+   "id": "117246",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2198,7 +2221,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "117285"
+   "id": "117285",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2251,7 +2275,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117289",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2299,7 +2323,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117298"
+   "id": "117298",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2356,7 +2381,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117319",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2410,7 +2435,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117343",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2460,7 +2485,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117344"
+   "id": "117344",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2507,7 +2533,8 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117351",
-   "x": true
+   "x": true,
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2564,7 +2591,7 @@
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "117384",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2616,7 +2643,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117388"
+   "id": "117388",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2668,7 +2696,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117392",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2714,7 +2742,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117437",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
@@ -2764,7 +2792,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117578",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
@@ -2813,7 +2841,8 @@
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "117620"
+   "id": "117620",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2860,6 +2889,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117638",
+   "starterContent": false,
    "x": true
   },
   {
@@ -2911,7 +2941,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117665",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2965,7 +2995,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117667"
+   "id": "117667",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3014,7 +3045,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117746",
-   "starterContent": true,
+   "starterContent": false,
    "x": false
   },
   {
@@ -3022,45 +3053,45 @@
     {
      "answers": [
       "Rizz",
-      "Ate",
-      "Skibidi",
-      "Sigma",
+      "Slay",
+      "Aura",
+      "Goofy",
       "Delulu",
-      "Yeet",
-      "No cap",
-      "Cheugy",
-      "Karen",
-      "Baddie"
+      "Cringe",
+      "Lost",
+      "Läuft bei dir",
+      "Babo",
+      "Das crazy"
      ],
-     "bucketTitle": "Generation Z Slang",
+     "bucketTitle": "Gen-Z-Slang",
      "shorthand": "Gen Z"
     },
     {
      "answers": [
-      "Catch some rays",
-      "Tubular",
-      "Stoked",
-      "Bodacious",
-      "As if",
-      "Gnarly",
-      "Radical",
-      "Whatever"
+      "Null Bock",
+      "Geil",
+      "Ätzend",
+      "Cool",
+      "Ausflippen",
+      "Krass",
+      "Kein Plan",
+      "Abgefahren"
      ],
-     "bucketTitle": "Generation X Slang",
+     "bucketTitle": "Generation-X-Slang",
      "shorthand": "Gen X"
     },
     {
      "answers": [
-      "Far out",
-      "Groovy",
-      "Boob tube",
-      "The fuzz",
-      "Can you dig it?",
-      "Male chauvinist pig",
-      "Keep on truckin’",
-      "Sock it to me!"
+      "Dufte",
+      "Steiler Zahn",
+      "Gammeln",
+      "Kumpel",
+      "Kutte",
+      "Wuchtbrumme",
+      "Schuppen",
+      "Sich beölen"
      ],
-     "bucketTitle": "Baby Boomer Slang",
+     "bucketTitle": "Babyboomer-Slang",
      "shorthand": "Boomer"
     }
    ],
@@ -3121,7 +3152,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117799",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3173,7 +3204,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117800",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3224,7 +3255,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117805",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3277,7 +3308,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117808",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3329,56 +3360,57 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117811",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "Big Mac",
-      "Quarter Pounder",
-      "Snack Wrap",
-      "Daily Double",
-      "Sausage McGriddles",
+      "Big Tasty Bacon",
+      "Hamburger Royal TS",
+      "Double Beef Classic",
       "Filet-O-Fish",
-      "Small World Famous Fries"
+      "Big Mac",
+      "Chickenburger",
+      "McRib"
      ],
-     "bucketTitle": "McDonald’s Item",
+     "bucketTitle": "McDonald’s",
      "shorthand": "McDonald’s"
     },
     {
      "answers": [
-      "Croissan’wich",
+      "Crispy Chicken",
       "Whopper Jr.",
-      "Egg-normous Burrito",
-      "Royal Crispy Chicken",
-      "Have-sies",
-      "Rodeo Cheeseburger",
-      "Big Fish",
-      "Chicken Fries"
+      "Long Chicken",
+      "Onion Rings",
+      "Chili Cheese Burger",
+      "Cheesy BBQ Fries",
+      "X-tra Long Chili Cheese",
+      "Double Crispy Chicken"
      ],
-     "bucketTitle": "Burger King Item",
+     "bucketTitle": "Burger King",
      "shorthand": "Burger King"
     },
     {
      "answers": [
-      "Dave’s Single",
-      "Vanilla Frosty",
-      "Son of Baconator",
-      "Homestyle French Toast Sticks",
-      "Crispy Chicken BLT",
-      "Chili Cheese Fries",
-      "Cinnabon Pull-Apart"
+      "Classic Original Burger",
+      "Cheese & Bacon Fries",
+      "Hot Wings",
+      "Crispys",
+      "Chicken Mix",
+      "Veggie Tender",
+      "Original Bites"
      ],
-     "bucketTitle": "Wendy’s Item",
-     "shorthand": "Wendy’s"
+     "bucketTitle": "KFC",
+     "shorthand": "KFC"
     }
    ],
    "countrySpecific": true,
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117818"
+   "id": "117818",
+   "starterContent": true
   },
   {
    "buckets": [
@@ -3428,7 +3460,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117853",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3479,7 +3511,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117855",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3530,7 +3562,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117861",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3582,6 +3614,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117864",
+   "starterContent": false,
    "x": true
   },
   {
@@ -3630,7 +3663,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117880"
+   "id": "117880",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3682,56 +3716,57 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117885"
+   "id": "117885",
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "Soccer",
+      "Kicker",
       "Tennis",
-      "Water polo",
-      "Basketball",
-      "Ping pong",
-      "Foosball",
       "Golf",
-      "Bocce",
-      "Jai alai"
+      "Billard",
+      "Bowling",
+      "Cricket",
+      "Squash",
+      "Tischtennis",
+      "Polo"
      ],
-     "bucketTitle": "Played With a Sphere",
-     "shorthand": "Sphere"
+     "bucketTitle": "Mit einer Kugel gespielt",
+     "shorthand": "Kugel"
     },
     {
      "answers": [
-      "Shuffleboard",
-      "American football",
-      "Ice hockey",
+      "Eishockey",
       "Ultimate Frisbee",
       "Darts",
       "Badminton",
       "Rugby",
-      "Tug of war",
-      "Archery",
+      "Bogenschießen",
       "Cornhole",
-      "Horseshoes"
+      "Tauziehen",
+      "Curling",
+      "Kubb",
+      "Speerwurf"
      ],
-     "bucketTitle": "Played With a Non-Sphere",
-     "shorthand": "Non-Sphere"
+     "bucketTitle": "Mit etwas Nicht-Rundem gespielt",
+     "shorthand": "Nicht rund"
     },
     {
      "answers": [
-      "Duck duck goose",
-      "Hide-and-seek",
-      "Marco Polo",
-      "Simon Says",
-      "Red Light, Green Light",
-      "Charades",
-      "I Spy",
-      "Tag",
-      "Rock paper scissors"
+      "Verstecken",
+      "Fangen",
+      "Scharade",
+      "Schnick, Schnack, Schnuck",
+      "Ochs am Berg",
+      "Stille Post",
+      "Wer lacht, verliert",
+      "Ich sehe was was du nicht siehst",
+      "Nicht blinzeln"
      ],
-     "bucketTitle": "Played With Nothing",
-     "shorthand": "Played With Nothing"
+     "bucketTitle": "Mit gar nichts gespielt",
+     "shorthand": "Mit gar nichts"
     }
    ],
    "difficulty": "Easy",
@@ -3787,7 +3822,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118076",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
@@ -3839,7 +3874,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118081",
-   "starterContent": true,
+   "starterContent": false,
    "x": false
   },
   {
@@ -3890,7 +3925,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "118082"
+   "id": "118082",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3941,7 +3977,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "118083"
+   "id": "118083",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3994,7 +4031,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "118084"
+   "id": "118084",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4045,7 +4083,7 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "118085",
-   "starterContent": true,
+   "starterContent": false,
    "x": false
   },
   {
@@ -4096,7 +4134,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "118087"
+   "id": "118087",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4200,7 +4239,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118089",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4253,7 +4292,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118090",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4304,7 +4343,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118091",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4355,7 +4394,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118092",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4404,7 +4443,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118179",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4459,7 +4498,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118180",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4509,7 +4548,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "118188"
+   "id": "118188",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4567,7 +4607,7 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "118191",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4618,7 +4658,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118193",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4671,7 +4711,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118197",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4728,7 +4768,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118198",
-   "starterContent": true,
+   "starterContent": false,
    "x": false
   },
   {
@@ -4780,7 +4820,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "118199"
+   "id": "118199",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4831,7 +4872,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118200",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -4938,7 +4979,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118202",
-   "starterContent": true,
+   "starterContent": false,
    "x": false
   },
   {
@@ -4992,6 +5033,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118203",
+   "starterContent": false,
    "x": true
   },
   {
@@ -5045,7 +5087,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118211",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5102,7 +5144,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "118213"
+   "id": "118213",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5155,7 +5198,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "118240"
+   "id": "118240",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5208,7 +5252,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118241",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5259,7 +5303,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118394",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5310,6 +5354,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118413",
+   "starterContent": false,
    "x": true
   },
   {
@@ -5365,7 +5410,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "118540"
+   "id": "118540",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5412,7 +5458,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "118541"
+   "id": "118541",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5464,51 +5511,51 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118547",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
     {
      "answers": [
-      "Wayne Gretzky",
-      "Justin Trudeau",
-      "Sandra Oh",
-      "Keanu Reeves",
-      "Michael Bublé",
-      "Céline Dion",
-      "Terry Fox",
-      "Simu Liu"
+      "Falco",
+      "Niki Lauda",
+      "David Alaba",
+      "Christoph Waltz",
+      "Conchita Wurst",
+      "Sigmund Freud",
+      "Mozart",
+      "Anna Gasser"
      ],
-     "bucketTitle": "Canadian",
-     "shorthand": "Canadian"
+     "bucketTitle": "Österreicher",
+     "shorthand": "Österreicher"
     },
     {
      "answers": [
-      "Maya Rudolph",
-      "Melissa McCarthy",
-      "Quinta Brunson",
-      "Will Ferrell",
-      "Chris Rock",
-      "John Mulaney",
-      "Robin Williams",
-      "Maria Bamford"
+      "Michael Mittermeier",
+      "Carolin Kebekus",
+      "Felix Lobrecht",
+      "Atze Schröder",
+      "Hazel Brugger",
+      "Mirja Boes",
+      "Olaf Schubert",
+      "Bülent Ceylan"
      ],
      "bucketTitle": "Comedian",
      "shorthand": "Comedian"
     },
     {
      "answers": [
-      "John Candy",
-      "Eugene Levy",
-      "Samantha Bee",
-      "Seth Rogen",
-      "Katherine Ryan",
-      "Catherine O’Hara",
-      "Jim Carrey",
-      "Veronika Slowikowska"
+      "Josef Hader",
+      "Michael Niavarani",
+      "Thomas Stipsits",
+      "Alfred Dorfer",
+      "Lukas Resetarits",
+      "Viktor Gernot",
+      "Lisa Eckhart",
+      "Klaus Eckel"
      ],
-     "bucketTitle": "Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Hard",
@@ -5566,7 +5613,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118613",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5617,6 +5664,7 @@
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "118670",
+   "starterContent": false,
    "x": true
   },
   {
@@ -5670,7 +5718,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118674",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
@@ -5723,7 +5771,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118723",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5829,7 +5877,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118777",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5881,7 +5929,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "118778"
+   "id": "118778",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -5932,101 +5981,102 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118888",
+   "starterContent": false
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Dein Geburtstag",
+      "G7-Gipfel",
+      "Berlinale",
+      "Eurovision Song Contest",
+      "Tour de France",
+      "Formel-1-Saison",
+      "Malle",
+      "Champions-League-Finale"
+     ],
+     "bucketTitle": "Einmal im Jahr",
+     "shorthand": "Einmal im Jahr"
+    },
+    {
+     "answers": [
+      "Zeitumstellung",
+      "Reifenwechsel",
+      "Semester",
+      "Fashion Week Berlin",
+      "Schulzeugnisse",
+      "Empfohlener Zahnarztbesuch",
+      "Eid-Fest im Islam",
+      "Tagundnachtgleiche"
+     ],
+     "bucketTitle": "Zweimal im Jahr",
+     "shorthand": "Zweimal im Jahr"
+    },
+    {
+     "answers": [
+      "Schalttag",
+      "Olympische Sommerspiele",
+      "Winter-Paralympics",
+      "Fußball-WM",
+      "Bundestagswahl",
+      "Europawahl",
+      "US-Präsidentschaftswahl",
+      "1.461 Tage"
+     ],
+     "bucketTitle": "Alle vier Jahre",
+     "shorthand": "Alle vier Jahre"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "118889",
    "starterContent": true
   },
   {
    "buckets": [
     {
      "answers": [
-      "Your birthday",
-      "G7 Summit",
-      "U.S. Memorial Day",
-      "Eurovision",
-      "Super Bowl",
-      "Scripps Spelling Bee",
-      "Rosh Hashanah",
-      "Your half-birthday"
-     ],
-     "bucketTitle": "Once a Year",
-     "shorthand": "Once a Year"
-    },
-    {
-     "answers": [
-      "Equinox",
-      "Solstice",
-      "College semester",
-      "Paris Fashion Week",
-      "Change clocks for Daylight Saving",
-      "Dental cleanings, per ADA",
-      "Eid, in Islam",
-      "Semi-annual sale"
-     ],
-     "bucketTitle": "Twice a Year",
-     "shorthand": "Twice a Year"
-    },
-    {
-     "answers": [
-      "Leap Day",
-      "Summer Olympics",
-      "Winter Olympics",
-      "FIFA World Cup",
-      "U.S. Presidential election",
-      "Summer Paralympics",
-      "Winter Paralympics",
-      "1,461 days"
-     ],
-     "bucketTitle": "Every Four Years",
-     "shorthand": "4 Years"
-    }
-   ],
-   "difficulty": "Easy",
-   "hasBothBucket": false,
-   "host": "QUIZTAR",
-   "id": "118889"
-  },
-  {
-   "buckets": [
-    {
-     "answers": [
-      "Basalt",
       "Darth Vader",
-      "Charcoal",
-      "Raven",
-      "Shadows",
+      "8 beim Billard",
+      "Lakritz",
+      "Rabe",
+      "Schatten",
       "Obsidian",
-      "The {{BLANK}} Dahlia",
-      "Coffee without additives"
+      "Klaviertaste links vom D",
+      "Basalt"
      ],
-     "bucketTitle": "Black",
-     "shorthand": "Black"
+     "bucketTitle": "Schwarz",
+     "shorthand": "Schwarz"
     },
     {
      "answers": [
-      "Alabaster",
-      "Beluga whale",
-      "Silk",
-      "{{BLANK}} Cliffs of Dover",
-      "Billiards cue ball",
-      "Flag of surrender",
-      "Flour",
-      "Santa’s beard"
+      "Mozzarella",
+      "Kokosfleisch",
+      "Kreide",
+      "Zuckerwürfel",
+      "Nikolausbart",
+      "Kapitulationsflagge",
+      "Mehl",
+      "Brautschleier"
      ],
-     "bucketTitle": "White",
-     "shorthand": "White"
+     "bucketTitle": "Weiß",
+     "shorthand": "Weiß"
     },
     {
      "answers": [
       "Oreo",
-      "The Jolly Roger",
-      "Pepé Le Pew",
-      "Dalmatian",
-      "QR code",
-      "Crossword",
-      "Rorschach test",
-      "Piano keys"
+      "Stinktier",
+      "Elster",
+      "Dalmatiner",
+      "QR-Code",
+      "Kreuzworträtsel",
+      "Rorschachtest",
+      "Klaviatur"
      ],
-     "bucketTitle": "Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Easy",
@@ -6085,7 +6135,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "118918"
+   "id": "118918",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6134,7 +6185,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118919",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6186,7 +6237,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "118921"
+   "id": "118921",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6237,7 +6289,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118922",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6288,7 +6340,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "118923"
+   "id": "118923",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6341,7 +6394,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118924",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6396,7 +6449,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119007",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6450,7 +6503,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "119020"
+   "id": "119020",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6500,7 +6554,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "119022"
+   "id": "119022",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6555,7 +6610,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119023",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6605,7 +6660,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "119024"
+   "id": "119024",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6653,7 +6709,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "119056"
+   "id": "119056",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6706,7 +6763,7 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "119057",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6757,7 +6814,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119058",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6804,7 +6861,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119081",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6854,7 +6911,8 @@
    "difficulty": "Easy",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "119197"
+   "id": "119197",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6907,7 +6965,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119198",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -6958,7 +7016,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "119199"
+   "id": "119199",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7007,7 +7066,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119200",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7060,7 +7119,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119216",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7108,7 +7167,8 @@
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "119249"
+   "id": "119249",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7162,7 +7222,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "119267"
+   "id": "119267",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7209,7 +7270,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119367",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
@@ -7257,7 +7318,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119419",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7312,7 +7373,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119458",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
@@ -7367,7 +7428,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "119459"
+   "id": "119459",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7416,7 +7478,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119460",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7466,7 +7528,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "119461"
+   "id": "119461",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -7519,6 +7582,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119588",
+   "starterContent": false,
    "x": true
   },
   {
@@ -7568,6 +7632,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119620",
+   "starterContent": false,
    "x": true
   },
   {
@@ -7583,8 +7648,8 @@
       "1.2 ÷ 0.3",
       "1 + 3"
      ],
-     "bucketTitle": "Equals 4",
-     "shorthand": "Equals 4"
+     "bucketTitle": "Ergibt 4",
+     "shorthand": "Ergibt 4"
     },
     {
      "answers": [
@@ -7598,8 +7663,8 @@
       "12 ÷ 1.5",
       "1 + 7"
      ],
-     "bucketTitle": "Equals 8",
-     "shorthand": "Equals 8"
+     "bucketTitle": "Ergibt 8",
+     "shorthand": "Ergibt 8"
     },
     {
      "answers": [
@@ -7613,8 +7678,8 @@
       "7.0 ÷ 0.5",
       "1.4 ÷ 0.1"
      ],
-     "bucketTitle": "Equals 14",
-     "shorthand": "Equals 14"
+     "bucketTitle": "Ergibt 14",
+     "shorthand": "Ergibt 14"
     }
    ],
    "difficulty": "Hard",
@@ -7627,59 +7692,55 @@
    "buckets": [
     {
      "answers": [
-      "PPE",
-      "Social distancing",
-      "Shelter in place",
-      "WFH",
-      "Essential worker",
-      "Lockdown",
-      "Coronials",
-      "Zoombombing",
-      "Elbow bump",
-      "N95"
+      "Wellenbrecher",
+      "FFP2",
+      "AHA",
+      "R-Wert",
+      "Booster",
+      "Absonderung",
+      "3G",
+      "Hamsterkauf",
+      "Aerosol",
+      "Superspreader"
      ],
-     "bucketTitle": "COVID-19 Terminology",
-     "shorthand": "COVID Term"
+     "bucketTitle": "Corona-Begriff",
+     "shorthand": "Corona"
     },
     {
      "answers": [
-      "Vichy",
-      "Blitz",
-      "Panzer",
-      "Manhattan Project",
-      "Rationing",
-      "Rosie the Riveter",
-      "V-E Day",
-      "Appeasement",
-      "FUBAR"
+      "Westwall",
+      "Endsieg",
+      "Gleichschaltung",
+      "Fall Barbarossa",
+      "Unternehmen Merkur",
+      "Atlantikwall",
+      "Achsenmächte",
+      "Wolfsschanze",
+      "Volkssturm"
      ],
-     "bucketTitle": "WWII Terminology",
-     "shorthand": "WWII Term"
+     "bucketTitle": "Begriff aus dem 2. Weltkrieg",
+     "shorthand": "2. Weltkrieg"
     },
     {
      "answers": [
-      "Vibe check",
+      "Beige Flag",
       "NPC",
-      "OPP List",
-      "Morning shed",
-      "Main Character Energy",
+      "Delulu",
+      "Aura",
+      "Rizz",
       "Looksmaxxing",
-      "Hawk Tuah",
-      "Holding space",
-      "Girl math",
-      "Bones Day",
-      "Beige flag",
-      "BDE"
+      "Side Quest",
+      "Römisches Reich"
      ],
-     "bucketTitle": "TikTok Terminology",
-     "shorthand": "TikTok Term"
+     "bucketTitle": "TikTok-Sprache",
+     "shorthand": "TikTok"
     }
    ],
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119706",
-   "starterContent": false,
+   "starterContent": true,
    "x": true
   },
   {
@@ -7730,7 +7791,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "119979"
+   "id": "119979",
+   "starterContent": false
   }
  ]
 }
