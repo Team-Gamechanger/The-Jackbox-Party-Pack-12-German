@@ -1,0 +1,405 @@
+{
+ "content": [
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "mit den Augen zu lächeln.",
+     "setupDecoy": "Tag der Models"
+    },
+    {
+     "punchlineDecoy": "zu weinen.",
+     "setupDecoy": "Tag der Steuererklärung"
+    },
+    {
+     "punchlineDecoy": "den Häftlingsanzug loszuwerden.",
+     "setupDecoy": "Tag des Gefängnisausbruchs"
+    }
+   ],
+   "id": "119303",
+   "prompt": "Alles Gute zum {{BLANK}}!",
+   "punchline": "Vergiss nicht,"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "du sie zurückbekommst.",
+     "setupDecoy": "ich deine Identität geklaut habe"
+    },
+    {
+     "punchlineDecoy": "es okay ist, dir das auf diesem Weg zu sagen.",
+     "setupDecoy": "wir uns getrennt haben"
+    }
+   ],
+   "id": "119304",
+   "prompt": "Tut mir leid, dass {{BLANK}}.",
+   "punchline": "Ich drücke die Daumen, dass"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Beiß zu. Und zwar fest.",
+     "setupDecoy": "deinen neuen Zähnen"
+    },
+    {
+     "punchlineDecoy": "Kreuz C an. Oder war es D?",
+     "setupDecoy": "der großen Prüfung"
+    }
+   ],
+   "id": "119307",
+   "prompt": "Viel Glück mit {{BLANK}}!",
+   "punchline": "Im Zweifel gilt:"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Das ist echt Mist.",
+     "setupDecoy": "gestorben bist"
+    },
+    {
+     "punchlineDecoy": "Ja, das wollten wir dir nur sagen.",
+     "setupDecoy": "es so richtig vermasselt hast"
+    }
+   ],
+   "id": "119308",
+   "prompt": "Wir haben gehört, dass du {{BLANK}}.",
+   "punchline": "Wir wollten dir nur sagen:"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Nimm mich mit, wenn es die Geschenktüten gibt.",
+     "setupDecoy": "einen Oscar"
+    },
+    {
+     "punchlineDecoy": "Das hält nicht lange an.",
+     "setupDecoy": "mein Herz"
+    }
+   ],
+   "id": "119309",
+   "prompt": "Du hast {{BLANK}} gewonnen!",
+   "punchline": "Denk dran:"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Ritalin gibt.",
+     "setupDecoy": "das Studium"
+    },
+    {
+     "punchlineDecoy": "dich noch gibt. Das ist wirklich eine Leistung!",
+     "setupDecoy": "die Apokalypse"
+    }
+   ],
+   "id": "119311",
+   "prompt": "Du hast {{BLANK}} überlebt!",
+   "punchline": "Gut, dass es",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "ist sie cooler als die erste.",
+     "setupDecoy": "deiner geheimen Zweitfamilie"
+    },
+    {
+     "punchlineDecoy": "hat sonst niemand etwas bemerkt.",
+     "setupDecoy": "deinem peinlichen Riesenpatzer"
+    }
+   ],
+   "id": "119312",
+   "prompt": "Wir haben von {{BLANK}} gehört.",
+   "punchline": "Hoffentlich",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "einem Brunch!",
+     "setupDecoy": "sind schwul"
+    },
+    {
+     "punchlineDecoy": "einem Aufenthalt auf Lebenszeit!",
+     "setupDecoy": "entführen dich"
+    }
+   ],
+   "id": "119313",
+   "prompt": "Jetzt ist es offiziell: Wir {{BLANK}}.",
+   "punchline": "Wir laden dich ein zu",
+   "x": true
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "endlich herumspuken!",
+     "setupDecoy": "deinem Tod"
+    },
+    {
+     "punchlineDecoy": "endlich jonglieren! Oder machen Clowns das gar nicht mehr? Ich will hier keine Klischees bedienen.",
+     "setupDecoy": "deinem Abschluss an der Clownschule"
+    }
+   ],
+   "id": "119314",
+   "prompt": "Herzlichen Glückwunsch zu {{BLANK}}!",
+   "punchline": "Jetzt kannst du"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "echt das Letzte.",
+     "setupDecoy": "nichts"
+    },
+    {
+     "punchlineDecoy": "ab jetzt mein Raubopfer.",
+     "setupDecoy": "das Geld"
+    }
+   ],
+   "id": "119523",
+   "prompt": "Danke für {{BLANK}}!",
+   "punchline": "Du bist"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Butter zum Verwechseln ähnlich!",
+     "setupDecoy": "das keine Butter ist"
+    },
+    {
+     "punchlineDecoy": "echt verrückt!",
+     "setupDecoy": "ich in diesem Gegenstand eingeschlossen bin"
+    }
+   ],
+   "id": "119525",
+   "prompt": "Wow, kaum zu glauben, dass {{BLANK}}!",
+   "punchline": "Das ist"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "Werde von reichen Eltern geboren.",
+     "setupDecoy": "deinem Leben"
+    },
+    {
+     "punchlineDecoy": "Weniger Zunge!",
+     "setupDecoy": "dem Kundenempfang"
+    }
+   ],
+   "id": "119526",
+   "prompt": "Das mit {{BLANK}} hast du ja völlig vermasselt!",
+   "punchline": "Beim nächsten Mal:"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "die nächste To-do-Liste!",
+     "setupDecoy": "deine To-do-Liste"
+    },
+    {
+     "punchlineDecoy": "Sodbrennen, Übelkeit, Verdauungsprobleme, Magenverstimmung, DURCHFALL!",
+     "setupDecoy": "das Abendessen"
+    }
+   ],
+   "id": "119527",
+   "prompt": "Du hast {{BLANK}} geschafft!",
+   "punchline": "Als Nächstes:"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "die Blätter schon aufgegessen.",
+     "setupDecoy": "das Laubharken"
+    },
+    {
+     "punchlineDecoy": "den Plan schon in Gang gesetzt.",
+     "setupDecoy": "die Entschuldigung"
+    }
+   ],
+   "id": "119530",
+   "prompt": "Keine Sorge, {{BLANK}} übernehme ich!",
+   "punchline": "Ich habe"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "das sei das Beste.",
+     "setupDecoy": "ich die Bienen freigelassen habe"
+    },
+    {
+     "punchlineDecoy": "die Serie wäre mir zu gruselig.",
+     "setupDecoy": "ich noch nie Tatort gesehen habe"
+    }
+   ],
+   "id": "119531",
+   "prompt": "Ich muss gestehen, dass {{BLANK}}.",
+   "punchline": "Ich dachte einfach,"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "dein Pausengeld.",
+     "setupDecoy": "dich nicht verprügelt habe"
+    },
+    {
+     "punchlineDecoy": "Robux. Die Währung der Zukunft.",
+     "setupDecoy": "dir die Zeitmaschine gebaut habe"
+    }
+   ],
+   "id": "119532",
+   "prompt": "Dafür, dass ich {{BLANK}}, schuldest du mir was.",
+   "punchline": "Ich nehme auch"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "ein peinlicher Moment, der dich jahrelang verfolgen wird.",
+     "setupDecoy": "Kumpel"
+    },
+    {
+     "punchlineDecoy": "eine zehnjährige Verbannung.",
+     "setupDecoy": "meine Königin"
+    }
+   ],
+   "id": "119534",
+   "prompt": "Kopf hoch, {{BLANK}}!",
+   "punchline": "Es ist doch nur"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "einen Aufstand!",
+     "setupDecoy": "die Wahl"
+    },
+    {
+     "punchlineDecoy": "Tauschhandel.",
+     "setupDecoy": "dein ganzes Geld"
+    }
+   ],
+   "id": "119535",
+   "prompt": "Tut mir leid, dass du {{BLANK}} verloren hast.",
+   "punchline": "Es gibt immer noch"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "unsere dünne Atmosphäre lieben.",
+     "setupDecoy": "auf dem Mars"
+    },
+    {
+     "punchlineDecoy": "der Ausstrahlung zustimmen, oder?",
+     "setupDecoy": "bei Verstehen Sie Spaß"
+    }
+   ],
+   "id": "119536",
+   "prompt": "Willkommen {{BLANK}}!",
+   "punchline": "Du wirst"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "keine 30 Jahre Knast wert.",
+     "setupDecoy": "den Überfall"
+    },
+    {
+     "punchlineDecoy": "ein echt cooler Weg zum Chefsessel.",
+     "setupDecoy": "die feindliche Übernahme"
+    },
+    {
+     "punchlineDecoy": "langsam nötig. Kapitän zu sein wurde öde.",
+     "setupDecoy": "die Meuterei"
+    }
+   ],
+   "id": "119538",
+   "prompt": "Danke, dass du {{BLANK}} geplant hast.",
+   "punchline": "Das war"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "ihm Schimpfwörter beizubringen!",
+     "setupDecoy": "Baby"
+    },
+    {
+     "punchlineDecoy": "Krümel darin zu verteilen.",
+     "setupDecoy": "Auto"
+    }
+   ],
+   "id": "119539",
+   "prompt": "Glückwunsch zu deinem neuen {{BLANK}}!",
+   "punchline": "Ich kann es kaum erwarten,"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "schiefe Musik!",
+     "setupDecoy": "Doktor Jazz"
+    },
+    {
+     "punchlineDecoy": "Feuer!",
+     "setupDecoy": "Zwinki"
+    }
+   ],
+   "id": "120292",
+   "prompt": "Ich heiße {{BLANK}}!",
+   "punchline": "Ich liebe"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "überall Käfer rumkrabbeln.",
+     "setupDecoy": "Käfer"
+    },
+    {
+     "punchlineDecoy": "ich nicht immer gut mit meinen Gefühlen umgehe.",
+     "setupDecoy": "Gefühle"
+    }
+   ],
+   "id": "120293",
+   "prompt": "Ich bin voller {{BLANK}}!",
+   "punchline": "Tut mir leid, dass"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "ich ins Klo gefallen bin.",
+     "setupDecoy": "schmutzig"
+    },
+    {
+     "punchlineDecoy": "ich voller Diamanten stecke!",
+     "setupDecoy": "teuer"
+    }
+   ],
+   "id": "120294",
+   "prompt": "Ich bin ein bisschen {{BLANK}}.",
+   "punchline": "Das liegt daran, dass"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "jede Menge Ware in der Garage!",
+     "setupDecoy": "einer Investitionsmöglichkeit"
+    },
+    {
+     "punchlineDecoy": "jede Menge Zeit und kann trotzdem nichts richtig!",
+     "setupDecoy": "meinen Hobbys"
+    }
+   ],
+   "id": "120295",
+   "prompt": "Frag mich nach {{BLANK}}!",
+   "punchline": "Ich habe"
+  },
+  {
+   "decoys": [
+    {
+     "punchlineDecoy": "kauf mir bloß keinen schicken Neuwagen!",
+     "setupDecoy": "Auto fahren"
+    },
+    {
+     "punchlineDecoy": "erwarte nicht zu viel von mir. Ich höre jetzt auf zu reden.",
+     "setupDecoy": "mit Fremden sprechen"
+    }
+   ],
+   "id": "120296",
+   "prompt": "Ich darf nicht {{BLANK}}.",
+   "punchline": "Also"
+  }
+ ]
+}

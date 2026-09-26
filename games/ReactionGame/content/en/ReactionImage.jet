@@ -1,0 +1,1370 @@
+{
+ "content": [
+  {
+   "altText": "Foto einer comicartigen Wikinger-Maske aus Plastik mit buschigem schwarzem Bart.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115754"
+  },
+  {
+   "altText": "Foto eines kräftigen weißen Mannes mit leicht geöffnetem Mund und hochgezogenen Augenbrauen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "115755"
+  },
+  {
+   "altText": "Foto eines älteren, verwirrt wirkenden weißen Mannes mit Schnurrbart in einem violetten Poloshirt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115756"
+  },
+  {
+   "altText": "Foto eines lächelnden Orang-Utans, der eine Hand um sein Kinn legt.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115757"
+  },
+  {
+   "altText": "Eine Brotscheibe mit Löchern, die wie ein lächelndes Gesicht aussehen.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115759"
+  },
+  {
+   "altText": "Foto einer schockierten, verwirrten Frau mit langen Haaren in einem grün karierten Flanellhemd.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "115760"
+  },
+  {
+   "altText": "Foto einer älteren weißen Frau mit überraschtem Blick und blond gefärbten Haaren.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "115761"
+  },
+  {
+   "altText": "Foto eines sehr überraschten Schwarzen Mannes mit offenem Mund.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115762"
+  },
+  {
+   "altText": "Foto eines fröhlichen älteren Mannes mit weißem Bart, einer Toga mit Leopardenmuster und einer Knochenkette.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115763"
+  },
+  {
+   "altText": "Schwarz-Weiß-Foto einer viktorianischen Frau in einem aufwendigen Kleid mit hohem Kragen und perlenbesetzter Hochsteckfrisur.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115765"
+  },
+  {
+   "altText": "Gemälde eines entsetzten blonden Mannes im roten Anzug, der die Hände an sein Gesicht legt.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115915"
+  },
+  {
+   "altText": "Foto eines gelangweilten weißen Mannes mit offenem Mund, sehr kurzem Haar, Bartstoppeln und runder Brille.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "115916"
+  },
+  {
+   "altText": "Altes Foto von Miss Julia J. Thomas, einer ernst blickenden Frau mit unordentlichen Locken und einem hochgeschlossenen Kleid.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "115917"
+  },
+  {
+   "altText": "Zeichnung einer älteren Dame mit Halskrause und von Gaze bedecktem Haar.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115932"
+  },
+  {
+   "altText": "Skizzenhafte Zeichnung von Rembrandt mit Federbarett und Säbel.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115933"
+  },
+  {
+   "altText": "Alte Zeichnung eines Renaissance-Mannes mit prächtigem Bart und kunstvollem Hut.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115934"
+  },
+  {
+   "altText": "Zeichnung des Malers Tizian, eines älteren bärtigen Mannes mit großen Augen und Pelzstola.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115935"
+  },
+  {
+   "altText": "Zeichnung eines lächelnden Geschäftsmanns, der vor kindlicher Begeisterung die Hände zusammenpresst.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115936"
+  },
+  {
+   "altText": "Foto eines blonden Mannes mit einem leicht albernen, überraschten Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115937"
+  },
+  {
+   "altText": "Foto eines bärtigen Mannes mit leicht geöffnetem Mund, stechenden blauen Augen und kurz geschorenem Haar.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "115938"
+  },
+  {
+   "altText": "Foto einer jungen Schwarzen Frau mit kurzem naturbelassenem Haar und ratlosem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "115939"
+  },
+  {
+   "altText": "Foto eines älteren, leicht lächelnden Geschäftsmanns in weicher Beleuchtung im Stil der 1980er-Jahre.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "115941"
+  },
+  {
+   "altText": "Foto eines bärtigen Hipsters mit langen Haaren und leicht hochgezogenen Augenbrauen, schwarzer Brille, Fliege und Hosenträgern.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "115942"
+  },
+  {
+   "altText": "Altes lithografisches Porträt von Ulysses S. Grant, einem ernst blickenden, gepflegt wirkenden Mann mit Bart im formellen Anzug.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115944"
+  },
+  {
+   "altText": "Foto eines hübschen, fröhlichen schwarzen Labradors mit herausgestreckter rosa Zunge.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115945"
+  },
+  {
+   "altText": "Foto eines gelangweilten, müden jungen Mannes mit zerzaustem Haar und leerem Blick.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "115946"
+  },
+  {
+   "altText": "Foto eines überraschten Mannes, der mit leicht geöffneten Lippen etwas nach unten schaut und dessen Haare nach oben gestylt sind.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115947"
+  },
+  {
+   "altText": "Foto eines fröhlichen, kräftigen jungen Mannes mit braunem Haar und einem weit geöffneten, lächelnden Mund.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115948"
+  },
+  {
+   "altText": "Foto einer fröhlichen orangefarbenen Katze mit großen, weit geöffneten Augen und einem breiten lächelnden Mund.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115949"
+  },
+  {
+   "altText": "Foto einer langhaarigen Frau mit großen grünen Augen und besorgtem Blick.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "115950"
+  },
+  {
+   "altText": "Foto eines fröhlich wirkenden hellblauen Cabrios mit großen runden Scheinwerfern und einem Kühlergrill, der wie ein breites Lächeln aussieht.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115951"
+  },
+  {
+   "altText": "Foto eines grinsenden jungen asiatischen Mannes im violetten Hemd mit einer auffälligen Irokesenfrisur-Imitation.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115952"
+  },
+  {
+   "altText": "Altes koloriertes Foto von Präsident Abraham Lincoln, einem Mann im Anzug mit Bart, aber ohne Schnurrbart, der eine Augenbraue leicht hochzieht.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NONE",
+   "gender": "MALE",
+   "id": "115953"
+  },
+  {
+   "altText": "Foto eines dunkelhaarigen Mannes mittleren Alters, der mit weit aufgerissenen Augen und herausgestreckter Zunge eine Grimasse zieht.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "115955"
+  },
+  {
+   "altText": "Nahaufnahme des Gesichts einer fröhlichen Robbe mit großen schwarzen Augen, leichtem Lächeln und Doppelkinn.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115956"
+  },
+  {
+   "altText": "Kunstvoller Türklopfer aus Messing in Form einer romanisch dargestellten Frau mit gelockter Hochsteckfrisur und seitlichen Federn, die sich zum Griff hinunterbiegen.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115958"
+  },
+  {
+   "altText": "Foto einer braunen Kuh mit überraschtem Gesichtsausdruck und leicht geöffnetem Maul.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115959"
+  },
+  {
+   "altText": "Zeichnung von Leonardo da Vinci, einem Mann mit neutralem Gesichtsausdruck, langem gewelltem weißem Bart und weichem Renaissance-Hut.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "115960"
+  },
+  {
+   "altText": "Bemalte, gesprungene und schlecht geklebte Kachel mit dem Bild eines gelangweilt wirkenden jungen Mannes mit geschürzten Lippen.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116021"
+  },
+  {
+   "altText": "Zeichnung der jungen französischen Kaiserin Eugénie mit nackten Schultern, zurückgebundenem Haar, einem leichten Lächeln und Perlenkette.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116022"
+  },
+  {
+   "altText": "Selbstporträt von Vincent van Gogh mit wilden Pinselstrichen: ein müde wirkender Mann mit kurzem Haar und rotem Bart.",
+   "category": "WILDCARD-ART",
+   "expression": "NEUTRAL",
+   "gender": "NONE",
+   "id": "116023"
+  },
+  {
+   "altText": "Foto eines überraschten Emus, eines dunkelbraunen Vogels mit riesigen runden orangefarbenen Augen und leicht geöffnetem, bläulich getöntem Schnabel.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116025"
+  },
+  {
+   "altText": "Foto eines überraschten jungen Mannes mit weit geöffneten hellen Augen und Rollkragenpullover.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116026"
+  },
+  {
+   "altText": "Foto eines überraschten jungen Mannes mit kräftigen Augenbrauen in einem Hemd aus Oxford-Gewebe.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116027"
+  },
+  {
+   "altText": "Foto eines angenehm überraschten jungen Mannes mit langem, zerzaustem Emo-Haar im Stil der 2000er-Jahre.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116028"
+  },
+  {
+   "altText": "Statue von Dante Alighieri, einem ernst blickenden Mann mit Kapuze und Lorbeerkranz, der nach oben schaut.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116029"
+  },
+  {
+   "altText": "Foto einer Frau im kräftig grünen Anzug, die eine Hand flach unter das Kinn und die andere neben den Kopf hält. Ihr Mund steht offen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116030"
+  },
+  {
+   "altText": "Foto einer jungen Frau, die vor rotem Hintergrund in einem schwarzen Rollkragenpullover breit lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116031"
+  },
+  {
+   "altText": "Foto eines einfachen geschnitzten Halloweenkürbisses mit runder Form, dreieckigen Augen und dreieckiger Nase sowie einem lächelnden Mund mit drei eckigen Zähnen.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116032"
+  },
+  {
+   "altText": "Foto eines traurigen, überraschten jungen Mannes mit kurz geschorenem Haar und geröteten Augen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116033"
+  },
+  {
+   "altText": "Zeichnung eines mittelalterlichen europäischen Kaufmanns mit Topfschnitt, kurzem buschigem Bart und ernstem Blick.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116034"
+  },
+  {
+   "altText": "Foto eines jungen bärtigen Mannes in grauem Henley-Hemd, der mit gerunzelter Stirn albern überrascht aussieht.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116035"
+  },
+  {
+   "altText": "Foto einer fröhlichen, hechelnden Französischen Bulldogge: ein weißer Hund mit flacher Schnauze, breitem rundem Kopf, riesigem Maul und großen spitzen Ohren.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116036"
+  },
+  {
+   "altText": "Foto eines struppigen Mannes, der glücklich lächelt. Ihm fehlen Schneidezähne, und er hat ein blaues Auge.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116037"
+  },
+  {
+   "altText": "Foto eines Hipsters mit Vokuhila, Schnurrbart und großer Brille im Stil der 1980er-Jahre.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116038"
+  },
+  {
+   "altText": "Ein Stück weiße Baumrinde sieht wie ein Gesicht aus: Astlöcher bilden riesige eulenartige Augen und eine dunkle Öffnung den Mund.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116039"
+  },
+  {
+   "altText": "Zeichnung einer Büste von Perikles, einem gutaussehenden Mann mit lockigem Bart und hochgeschobenem Helm.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116040"
+  },
+  {
+   "altText": "Foto einer schreienden weißen Ziege mit leicht herausgestreckter Zunge und sichtbaren unteren Zähnen.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116042"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit leuchtend blauen Augen, die mit gerunzelter Stirn und zusammengebissenen Zähnen zusammenzuckt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116043"
+  },
+  {
+   "altText": "Foto einer überraschten glamourösen Frau mit rosa Make-up, rosa Jacke und Perlen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116045"
+  },
+  {
+   "altText": "Zeichnung eines streng blickenden mittelalterlichen Kaufmanns mit langem lockigem Haar, Pelzstola und kunstvoll geformtem Bart.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116048"
+  },
+  {
+   "altText": "Zeichnung von Napoleon Bonaparte, einem breitschädeligen Mann mit weit geöffneten Augen und kleinem Mund in einer Militärjacke mit Schulterfransen.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116050"
+  },
+  {
+   "altText": "Zeichnung eines nachdenklichen Mannes im Anzug des 18. Jahrhunderts mit langem gewelltem Haar und Bart am Hals.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116052"
+  },
+  {
+   "altText": "Foto eines glatzköpfigen Mannes mit hochgezogenen Augenbrauen, grauen Augen und geöffnetem Mund, der zu einem Knurren oder Schrei verzogen ist.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116089"
+  },
+  {
+   "altText": "Foto einer gepflegt wirkenden Frau mit braunem Haar und braunen Augen, die vor Überraschung mit weit geöffnetem Mund schreit.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116090"
+  },
+  {
+   "altText": "Foto einer langhalsigen Frau mit auffallend hellblauen Augen und weit geöffnetem Mund bei einem überraschten Lächeln.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116091"
+  },
+  {
+   "altText": "Foto einer jungen Person mit langem, fransig geschnittenem Pony im Stil der 2000er-Jahre, die mit dem rechten Auge zwinkert und lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116092"
+  },
+  {
+   "altText": "Foto einer geschminkten Ärztin mit braunem Haar und dunklen Augen, die neutral überrascht aussieht.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116093"
+  },
+  {
+   "altText": "Foto eines Mannes im grünen Rollkragenpullover mit durchdringendem Blick und einem Finger an der Schläfe, als versuche er Gedanken zu übertragen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116094"
+  },
+  {
+   "altText": "Nahaufnahme eines älteren, wettergegerbten Mannes mit Mütze und einem verkniffenen Grinsen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116095"
+  },
+  {
+   "altText": "Foto einer fröhlichen jungen Asiatin mit wachen Augen in einem niedlichen Anime-Kostüm mit Haarschleifen und violett-blauer Perücke.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116097"
+  },
+  {
+   "altText": "Foto einer jungen dunkelhaarigen Frau mit braunen Augen, die mit verwirrtem Blick, gerunzelten Brauen und offenem Mund nach oben schaut.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116098"
+  },
+  {
+   "altText": "Foto einer grauen Katze mit leuchtend gelben Augen und leicht geöffnetem Maul, als hätte sie etwas zu sagen.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116099"
+  },
+  {
+   "altText": "Foto eines älteren weißen Mannes in englischer Kolonialkleidung mit weichem Dreispitz und zufriedener Miene.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116100"
+  },
+  {
+   "altText": "Foto eines grünäugigen Mannes mit nacktem Oberkörper, der überrascht und leicht empört schaut.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116101"
+  },
+  {
+   "altText": "Foto eines Schwarzen Mannes mit engen blonden Locken, der mit weit geöffnetem Mund schreit.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116103"
+  },
+  {
+   "altText": "Foto eines Nasenaffen, eines hellgoldenen Affen mit großer, herabhängender ovaler Nase, der verwirrt aussieht.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116104"
+  },
+  {
+   "altText": "Foto eines Darstellers in elisabethanischem Kostüm, der seine Sonnenbrille hochschiebt und schockiert schaut.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116106"
+  },
+  {
+   "altText": "Foto eines bärtigen Schwarzen Mannes mit fröhlichem Gesicht, der ein Mikrofon hält, als würde er Stand-up-Comedy machen oder singen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116107"
+  },
+  {
+   "altText": "Foto eines verwitterten steinernen Gebäudeschmucks: ein Menschengesicht mit großen Augen und offenem Lächeln unter einer mittelalterlichen Kapuze und einem Kragen.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116108"
+  },
+  {
+   "altText": "Foto einer schockiert blickenden Frau mit weißem Hemd, schwarzer Weste, starkem Gothic-Make-up und stachelig frisierten Haaren.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116109"
+  },
+  {
+   "altText": "Foto einer überraschten Schwarzen Frau mit voluminösem naturbelassenem Haar, grün gestreiftem Hemd und Brille.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116110"
+  },
+  {
+   "altText": "Zeichnung eines Medaillons mit dem Bild eines jungen Mannes in Kleidung des 18. Jahrhunderts. Er hat große Augen, eine markante Nase und einen leicht besorgten Blick.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116112"
+  },
+  {
+   "altText": "Gemälde eines Mannes in Kleidung des späten 18. Jahrhunderts mit offener Jacke, hohem Kragen, Halstuch und weißem Lockenhaar.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116114"
+  },
+  {
+   "altText": "Gemälde einer Frau aus dem 19. Jahrhundert mit Rüschenkragen und langen, eng gelockten Haarsträhnen, die ihr Gesicht einrahmen.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116115"
+  },
+  {
+   "altText": "Gemälde einer ernst blickenden Frau mit großem Spitzenkragen. Ihr Haar ist an beiden Seiten des Kopfes zu großen, knotenartigen Locken frisiert.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116116"
+  },
+  {
+   "altText": "Gemälde von Königin Elisabeth I. mit einem Kranz roter, perlenbesetzter Locken, gewaltigem Spitzenkragen und juwelenbesetztem Kleid.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116313"
+  },
+  {
+   "altText": "Foto eines lächelnden jungen Mannes mit wildem, fluffigem blondem Haar und freundlichen Augen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116314"
+  },
+  {
+   "altText": "Foto eines fröhlichen jungen Mannes mit sehr hochgegeltetem Haar, der so lächelt, dass obere und untere Zahnreihe zu sehen sind.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116315"
+  },
+  {
+   "altText": "Foto eines lässig wirkenden jungen Mannes mit hohem braunem Fake-Iro und kleinem Nasenpiercing.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116316"
+  },
+  {
+   "altText": "Foto eines jungen Mannes mit Brille, einem gesprungenen Brillenglas, Nasenring und seitlich rasierten Haaren. Er wirkt auf alberne Weise alternativ.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116317"
+  },
+  {
+   "altText": "Foto eines fröhlichen jungen Mannes im alternativen Stil mit spitzen Lippen- und Ohrpiercings, stacheligem Pony über den Augen und kleinem Kinnbart.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116319"
+  },
+  {
+   "altText": "Foto einer jungen Frau im alternativen Stil mit starkem Make-up und wilden rot-schwarzen Haaren. Sie reißt die Augen auf und fletscht die Zähne.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116320"
+  },
+  {
+   "altText": "Zeichnung von William Shakespeare, einem Mann mit schweren Lidern, einem Ohrpiercing, langem gewelltem Haar und gepflegtem Bart.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116321"
+  },
+  {
+   "altText": "Goldener, verzierter Sarkophag von Tutanchamun, der als junger Mann mit umrandeten Augen, starken Augenbrauen, großem Kopfschmuck und künstlichem Bart dargestellt ist.",
+   "category": "WILDCARD-OBJECT",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116322"
+  },
+  {
+   "altText": "Foto eines jungen Mannes im alternativen Stil mit zerzaustem Haar, starkem Lidstrich und kleinem Kinnbart, der eindringlich starrt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116323"
+  },
+  {
+   "altText": "Foto einer Frau mit Lockenwicklern und albernem Gesichtsausdruck: Die Augen sind weit geöffnet, die oberen Zähne liegen auf der Unterlippe.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116324"
+  },
+  {
+   "altText": "Gemälde von Karl dem Großen, König des Fränkischen Reichs, mit langem lockigem Haar und Bart, juwelenbesetzter Krone, prächtigen Gewändern und Schwert.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116325"
+  },
+  {
+   "altText": "Zeichnung von Jeanne d’Arc, einer jungen langhaarigen Frau mit großen Augen in Rüstung.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116326"
+  },
+  {
+   "altText": "Foto eines fröhlichen kleinen Ferkels, das in den Händen einer Person gehalten wird.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116327"
+  },
+  {
+   "altText": "Foto einer fröhlichen jungen Frau mit braunem Haar und zufriedenem Lächeln.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116328"
+  },
+  {
+   "altText": "Foto einer fröhlichen jungen Frau mit sehr langem braunem Haar, die ihr geschminktes Gesicht mit beiden Händen unter dem Kinn präsentiert.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116329"
+  },
+  {
+   "altText": "Foto eines jungen Mannes im Retro-Stil der 1980er-Jahre mit Anzugjacke, offenem Hemdkragen, lockerer Krawatte und flirtendem Blick.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116330"
+  },
+  {
+   "altText": "Foto eines ernst blickenden jungen Mannes im grauen Anzug mit schwarzem Hemd und Krawatte. Seine Haare mit hellen Spitzen sind wie Flammen hochgegelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116331"
+  },
+  {
+   "altText": "Kupferstich des Entdeckers Ferdinand Magellan, eines Mannes mit großem weichem Hut, langem schwarzem Bart und leicht gelangweiltem Blick.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116332"
+  },
+  {
+   "altText": "Foto einer Schauspielerin als Kleopatra mit schwarzem Bob, auffälligem Lidstrich, Perlenkragen und sinnlichem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "116334"
+  },
+  {
+   "altText": "Foto eines rundlichen, zotteligen Braunbären mit leicht herausgestreckter Zunge.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116335"
+  },
+  {
+   "altText": "Foto einer hübschen jungen blonden Frau, die so breit lächelt, dass sich ihre Augenfältchen zeigen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116336"
+  },
+  {
+   "altText": "Foto eines rothaarigen jugendlichen Models im lässigen, modischen blauen Anzug. Die Finger liegen an seiner Schläfe, als hätte er übersinnliche Kräfte.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116337"
+  },
+  {
+   "altText": "Kupferstich von Julius Cäsar, einem ernst blickenden jungen Mann mit markanter Nase und kurz geschnittenen Locken, der nach links schaut.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116338"
+  },
+  {
+   "altText": "Foto einer zufriedenen jungen Frau im Schlafanzug mit einem Handtuch um die Haare und einer Schlammmaske im Gesicht. Eine Hand liegt unter ihrem Kinn.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "116339"
+  },
+  {
+   "altText": "Foto einer hübschen Schwarzen Frau mit neutralem Blick, zurückgebundenen Zöpfen und mehreren goldenen Halsreifen übereinander.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "116340"
+  },
+  {
+   "altText": "Foto eines fröhlichen bärtigen Schwarzen Mannes im T-Shirt mit hoher Frisur aus kleinen, engen Locken. Er lächelt mit offenem Mund.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116342"
+  },
+  {
+   "altText": "Foto eines fröhlichen jungen Mannes mit dicker orangefarbener Brillenfassung, glitzernder Smokingjacke, orangefarbenem Hemd und bunter Krawatte.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116343"
+  },
+  {
+   "altText": "Gemälde von Präsident George Washington, einem leicht die Stirn runzelnden Mann mit roten Wangen, tiefliegenden Augen und frisierten weißen Locken.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116344"
+  },
+  {
+   "altText": "Foto eines fröhlich lachenden Schwarzen Mannes mit weit geöffnetem Mund und vor Freude halb geschlossenen Augen in einem rosa-blauen Batikshirt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "116345"
+  },
+  {
+   "altText": "Foto einer fröhlichen braunhaarigen Frau mit Lächeln und großen Creolen in einem weißen Hemd mit Knöpfen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "116346"
+  },
+  {
+   "altText": "Foto einer Schauspielerin in einem aufwendigen Wikingerkostüm mit Schwert, stechenden blauen Augen und durchdringendem Blick.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "116347"
+  },
+  {
+   "altText": "Foto eines fröhlichen Roten Pandas, eines flauschigen fuchsähnlichen Tiers mit rundem Gesicht und kurzer Schnauze, das die Zunge leicht herausstreckt.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116348"
+  },
+  {
+   "altText": "Zeichnung von König Georg III., einem vornehm gekleideten Mann mit sorgfältig gelockter Perücke, Nerzstola und leicht hochmütigem Lächeln.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "116351"
+  },
+  {
+   "altText": "Sepiafarbenes Foto des jungen Thomas Alva Edison, glatt rasiert und mit ernstem Blick, in einem eleganten Anzug.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "116352"
+  },
+  {
+   "altText": "Foto einer Frau mit Kapuzenpullover, kurzem Bob mit leicht nach außen gebogenen Spitzen, Ohrringen und neutralem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117100"
+  },
+  {
+   "altText": "Foto einer lächelnden Frau mittleren Alters mit einem blau karierten Kopftuch im Bauernstil.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117103"
+  },
+  {
+   "altText": "Foto eines jungen Mannes mit brauner Haut, neutralem Gesichtsausdruck, kurz geschnittenem Haar und kleinem Kinnbart.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117104"
+  },
+  {
+   "altText": "Foto eines philippinischen Mannes in einem karierten Hemd, mit Bartstoppeln, neutralem Gesichtsausdruck und leicht aufgestelltem Haar.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117105"
+  },
+  {
+   "altText": "Foto eines jungen lateinamerikanischen Teenagers mit lässigem Auftreten, Mütze und Lippenpiercing.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117107"
+  },
+  {
+   "altText": "Foto eines jungen Mannes mit blondem Haar und Schnurrbart, der fragend eine Augenbraue hochzieht.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "117108"
+  },
+  {
+   "altText": "Foto einer jungen Japanerin mit nach hinten gebundenem langem Haar und einem leichten Schmunzeln, die einen weißen Gi trägt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117110"
+  },
+  {
+   "altText": "Foto eines jungen Schwarzen Mannes in einem weißen Hemd, mit gepflegtem Kinnbart, kurzem Haar und neutralem, leicht lächelndem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117111"
+  },
+  {
+   "altText": "Foto eines philippinischen Mannes mit runder Drahtbrille, leicht geöffnetem Mund und überrascht hochgezogenen Augenbrauen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "117112"
+  },
+  {
+   "altText": "Foto einer Frau in einem weißen Hemd mit langem, gewelltem braunem Haar, leicht geöffneten Lippen und einem etwas besorgten Blick.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117113"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit rötlich braunem Haar und Pony. Sie hält den Kopf leicht nach oben geneigt, blickt etwas nach unten und hat den Mund leicht geöffnet.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117114"
+  },
+  {
+   "altText": "Foto einer asiatischen Frau mit langem grau-weißem Haar in einem weißen Hemd mit Knöpfen, die ganz leicht lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117116"
+  },
+  {
+   "altText": "Foto eines jungen Mannes aus dem Nahen Osten mit dichtem, gestutztem Bart, stilvoll nach hinten frisiertem Haar und neutralem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117117"
+  },
+  {
+   "altText": "Foto eines jungen Schwarzen Mannes mit Glatze und sehr kurzem Bart, grauem Hemd und neutralem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117118"
+  },
+  {
+   "altText": "Foto eines älteren asiatischen Mannes mit weißem Haar, Kinnbart und Schnurrbart in einem karierten Hemd, der ganz leicht lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117119"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit rotem Lockenhaar und vielen Sommersprossen, die ihr Kinn auf eine Hand stützt und zur Seite blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117120"
+  },
+  {
+   "altText": "Foto eines jungen asiatischen Mannes mit Bart, modischem Kurzhaarschnitt und neutralem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117121"
+  },
+  {
+   "altText": "Foto einer lächelnden jungen Frau mit brauner Haut, zu einem Dutt gebundenem glattem Haar und strahlendem Teint.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117123"
+  },
+  {
+   "altText": "Foto einer jungen rothaarigen Frau mit blauen Augen und sehr langen schwarzen Wimpern, die lächelt und nach oben blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117124"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit glattem, langem schwarzem Haar und Pony, leicht geöffneten Lippen und nachdenklichem Blick.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117125"
+  },
+  {
+   "altText": "Foto einer sanft lächelnden jungen Schwarzen Frau mit langen Zöpfen, Creolen, kleinem Nasenpiercing und leuchtend orangefarbenem T-Shirt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117126"
+  },
+  {
+   "altText": "Foto eines glatt rasierten Mannes mittleren Alters aus dem Nahen Osten mit weit geöffneten Augen, aber neutralem Gesichtsausdruck, in einem schwarzen Hemd.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117127"
+  },
+  {
+   "altText": "Foto einer Frau mit rotem Haar und hellen Augen, neutralem Gesichtsausdruck und zartrosa Lippenstift.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117128"
+  },
+  {
+   "altText": "Foto einer jungen lächelnden Frau mit einem kleinen Klecks Creme auf der rechten Wange, die mit den Fingern ihr Kinn berührt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117129"
+  },
+  {
+   "altText": "Foto einer kahlköpfigen, weiblich wirkenden Person mit dunklem Eyeliner, strahlendem Blick, einem ganz leichten Lächeln und stilvoller schwarzer Kleidung.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117132"
+  },
+  {
+   "altText": "Foto einer rothaarigen Frau in einem prachtvollen Prinzessinnenkostüm im Renaissancestil, die mit einer ihrer Haarlocken spielt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117449"
+  },
+  {
+   "altText": "Foto einer braunhaarigen Frau mit unglaublich überraschter Miene, weit aufgerissenen Augen und weit geöffnetem Mund.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117451"
+  },
+  {
+   "altText": "Foto einer Frau mit hellbraunen Augen, rotem Lippenstift und einem Chambray-Hemd, deren Mund zu einem überraschten Lächeln geöffnet ist.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117452"
+  },
+  {
+   "altText": "Foto einer asiatischen Frau mit auffälligem High-Fashion-Make-up in Blau und Rosa und einem hochgesteckten Dutt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117454"
+  },
+  {
+   "altText": "Foto einer Frau mit braunem Haar, hellen Augen und einem breiten Lächeln. Ihr Oberteil lässt eine Schulter frei.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117455"
+  },
+  {
+   "altText": "Foto einer Frau mit braunem Lockenhaar, die völlig verblüfft ist und Augen und Mund weit aufgerissen hat.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117456"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit rötlich braunem Haar in einem Rollkragenpullover, die die Nase rümpft und die Zähne leicht zusammenbeißt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117457"
+  },
+  {
+   "altText": "Foto einer jungen Schwarzen Frau in einer Jeansjacke mit einem charmanten, frechen Gesichtsausdruck und einem leicht schiefen Lächeln.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117460"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit Ohrringen und hellbraunem Haar im Dutt, die sich leicht zur Kamera dreht und etwas lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117462"
+  },
+  {
+   "altText": "Foto einer Person mit kurzem braunem Haar in einem dunkelblauen Blazer und weißem Hemd, die eine Hand an die Brust legt und ernst blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117463"
+  },
+  {
+   "altText": "Foto einer Schwarzen Frau mit langem blondem Haar und einem hübschen, sanften Lächeln.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117465"
+  },
+  {
+   "altText": "Foto einer Frau mit einem eigenwillig schelmischen Blick und einem breiten Lächeln, weit geöffnetem Mund und hochgezogenen Augenbrauen.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117466"
+  },
+  {
+   "altText": "Foto einer sanft lächelnden jungen Frau mit langen, offenen Locken, die eine gestrickte Bommelmütze trägt und mit beiden Händen einen Schal hält.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117467"
+  },
+  {
+   "altText": "Foto einer lächelnden jungen südostasiatischen Frau mit markanten Augenbrauen, gelber Bluse und Nasenring.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117475"
+  },
+  {
+   "altText": "Foto einer Schwarzen Frau mit auffallend kurzem platinblondem Haar, goldenen Ohrringen und selbstbewusstem Gesichtsausdruck.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117477"
+  },
+  {
+   "altText": "Foto einer Frau mit auffälligen, unordentlichen Augenbrauen und kurzem Bob, die mit leicht geöffnetem Mund in die Kamera blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117478"
+  },
+  {
+   "altText": "Foto einer völlig verblüfften jungen Frau im Hawaiihemd, die beide Hände an den Kopf hält und den Mund weit aufgerissen hat.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117480"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit hellen Augen und weißem Hemd, die aussieht, als hätte sie gerade eine seltsame Nachricht erhalten.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117481"
+  },
+  {
+   "altText": "Foto einer jungen Schwarzen Frau im Flanellhemd, die verspielt die Zunge herausstreckt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "117483"
+  },
+  {
+   "altText": "Foto einer jungen asiatischen Frau mit Perlenohrringen und langem Haar, die draußen steht und leicht lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117490"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit hellem Blick und rötlich braunem Haar, auf dem Schnee liegt. Ihr Gesichtsausdruck ist neutral.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "117493"
+  },
+  {
+   "altText": "Foto eines blassen, völlig kahlköpfigen, rundlichen Mannes, der mit beunruhigend weit aufgerissenen Augen und leicht geöffnetem Mund in die Kamera starrt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "117633"
+  },
+  {
+   "altText": "Foto eines wütenden bärtigen Mannes mit langem Haar und weißem T-Shirt, der die Zähne fletscht und kampfbereit wirkt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "117634"
+  },
+  {
+   "altText": "Illustration aus den 1950er-Jahren: Eine weiße Frau mit blondem Beehive-Haarschnitt lächelt mit strahlend weißen Zähnen und roten Lippen in die Kamera.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "117635"
+  },
+  {
+   "altText": "Schwarz-Weiß-Foto eines jungen Mannes mit Bartstoppeln und markanter Hakennase, der ernst direkt in die Kamera blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117636"
+  },
+  {
+   "altText": "Foto eines rothaarigen Mannes mit Bart und orangefarbenem Hemd, der vor Überraschung Augen und Mund weit aufgerissen hat.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "117637"
+  },
+  {
+   "altText": "Foto eines asiatischen Mannes mit Brille und Kinnbart, der vor Freude den Mund öffnet und triumphierend eine Faust hebt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "117639"
+  },
+  {
+   "altText": "Historisches Foto von Edgar Allan Poe, einem etwas besorgt wirkenden Mann mit hohem Kragen, Krawatte, kleinem Schnurrbart und zerzaustem Haar.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "117640"
+  },
+  {
+   "altText": "Foto eines bärtigen Mannes mit langem Lockenhaar in einem gemütlich wirkenden grauen Rollkragenpullover, der nachdenklich blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "117819"
+  },
+  {
+   "altText": "Illustration aus den 1950er-Jahren: Ein überraschter Mann mit nach hinten gegeltem Haar und Schnurrbart trägt eine Fliege und ein gelbes Jackett.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120258"
+  },
+  {
+   "altText": "Gemälde von Jane Austen mit einer für die Regency-Zeit typischen Haube. Sie blickt mit neutralem Gesichtsausdruck zur Seite.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120262"
+  },
+  {
+   "altText": "Gemälde von Vlad dem Pfähler, dem Woiwoden der Walachei im 15. Jahrhundert, mit langem Lockenhaar, traditioneller Kopfbedeckung und außergewöhnlichem Schnurrbart.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120264"
+  },
+  {
+   "altText": "Stich von John Brown, dem amerikanischen Gegner der Sklaverei, mit strengem, entschlossenem Gesicht, adlerähnlichen Zügen und hohem Kragen aus dem 19. Jahrhundert.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120265"
+  },
+  {
+   "altText": "Illustration aus der Mitte des 20. Jahrhunderts: Eine hübsche junge Frau mit kurzem Haarschnitt im Stil der 1950er-Jahre, rotem Lippenstift, dunklem Haar und grauen Augen.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120267"
+  },
+  {
+   "altText": "Foto einer Schauspielerin im Kostüm einer elisabethanischen Königin, mit Perlenohrringen, aufwendiger Kopfbedeckung und einer weinrot-goldenen Halskrause.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "FEMALE",
+   "id": "120268"
+  },
+  {
+   "altText": "Leonardo da Vincis Gemälde der Mona Lisa: Eine italienische Adlige mit langem braunem Haar unter einem dünnen Schleier lächelt geheimnisvoll.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120270"
+  },
+  {
+   "altText": "Johannes Vermeers Gemälde [i]Das Mädchen mit dem Perlenohrring[/i]: Ein Mädchen mit blauer Kopfbedeckung blickt über die Schulter.",
+   "category": "WILDCARD-ART",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120271"
+  },
+  {
+   "altText": "Fotografie von Chester A. Arthur, dem 21. Präsidenten der Vereinigten Staaten: ein rundlicher Mann mit ausgeprägten Koteletten und Schnurrbart.",
+   "category": "WILDCARD-HISTORY",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120272"
+  },
+  {
+   "altText": "Foto eines asiatisch-amerikanischen Mannes mittleren Alters in einem schwarzen Poloshirt, der verlegen und verwirrt lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "120281"
+  },
+  {
+   "altText": "Foto eines freundlich wirkenden Mannes mit blauer Baseballkappe, gelbem Hemd und struppigem Bart, der in die Kamera lächelt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "120282"
+  },
+  {
+   "altText": "Foto eines wütenden Mannes in einem blauen Hemd mit meliertem Haar, der mit gerunzelter Stirn und geöffnetem Mund die Kamera anschreit.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "120283"
+  },
+  {
+   "altText": "Schwarz-Weiß-Porträt eines jungen Mannes mit Kinnbart, weit geöffneten Augen und Anzug.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "120284"
+  },
+  {
+   "altText": "Foto einer jungen Person mit leichtem Bart und Lockenhaar, die ein Netz-Tanktop und auffälliges, silbrig schimmerndes Punk-Augen-Make-up trägt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "120285",
+   "x": false
+  },
+  {
+   "altText": "Foto eines flauschigen weißen Hundes mit herausgestreckter Zunge und weinrotem Halsband. Er sitzt auf dem Schoß einer Person in einem Adirondack-Stuhl.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120300"
+  },
+  {
+   "altText": "Nahaufnahme einer orange getigerten Katze mit langen weißen Schnurrhaaren und weit herausgestreckter rosa Zunge.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120301"
+  },
+  {
+   "altText": "Foto eines schwarz-weißen Kätzchens mit rosa Nase und rosa Maul, langen weißen Schnurrhaaren und überraschtem Blick.",
+   "category": "WILDCARD-ANIMAL",
+   "expression": "NONE",
+   "gender": "NONE",
+   "id": "120302"
+  },
+  {
+   "altText": "Foto einer jungen Frau mit langem braunem Haar in einem weiß-rosa Pullover, die mit weit aufgerissenen Augen überrascht nach oben blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "FEMALE",
+   "id": "121185"
+  },
+  {
+   "altText": "Foto eines Mannes in einem schwarzen Poloshirt mit roten Streifen, der schockiert direkt in die Kamera blickt.",
+   "category": "PHOTO-HUMAN",
+   "expression": "EXPRESSIVE",
+   "gender": "MALE",
+   "id": "121186"
+  },
+  {
+   "altText": "Foto eines jungen Mannes mit zerzaustem braunem Haar, grünen Augen, Bartstoppeln und leicht geöffnetem Mund. Er trägt ein schwarzes Hemd und scheint sich in einer Bar zu befinden.",
+   "category": "PHOTO-HUMAN",
+   "expression": "NEUTRAL",
+   "gender": "MALE",
+   "id": "121394"
+  }
+ ]
+}

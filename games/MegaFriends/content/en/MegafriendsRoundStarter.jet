@@ -1,0 +1,400 @@
+{
+ "content": [
+  {
+   "id": "116811",
+   "starter": "That place you get to go to if you do all your homework."
+  },
+  {
+   "id": "116812",
+   "starter": "The thing YOU'RE not scared of, but other people are."
+  },
+  {
+   "id": "116814",
+   "starter": "The one thing parents like that kids HATE HATE HATE."
+  },
+  {
+   "id": "116818",
+   "starter": "That thing that’s fun! But makes a mess."
+  },
+  {
+   "id": "116819",
+   "starter": "That big thing most people never see in real life."
+  },
+  {
+   "id": "116824",
+   "starter": "That thing that’s LONG and BORINGGGGG."
+  },
+  {
+   "id": "116825",
+   "starter": "That one old thing that nobody uses anymore."
+  },
+  {
+   "id": "116896",
+   "starter": "That thing you used to see a lot, but don't really see anymore."
+  },
+  {
+   "id": "116904",
+   "starter": "That place that’s far, but worth the trip!"
+  },
+  {
+   "id": "116907",
+   "starter": "That one yellow thing that's squishy."
+  },
+  {
+   "id": "116908",
+   "starter": "That thing that’s painful, but important."
+  },
+  {
+   "id": "117150",
+   "starter": "That really, really old thing in museums."
+  },
+  {
+   "id": "117151",
+   "starter": "That thing at a restaurant that you can slurp."
+  },
+  {
+   "id": "117152",
+   "starter": "That edible thing that’s VERY messy."
+  },
+  {
+   "id": "117154",
+   "starter": "That complicated thing that you, unfortunately, gotta learn."
+  },
+  {
+   "id": "117207",
+   "starter": "That thing that is sticky and deeeeelicious!"
+  },
+  {
+   "id": "117209",
+   "starter": "That thing you often do in your 20s but NOT in your 40s.",
+   "x": true
+  },
+  {
+   "id": "117210",
+   "starter": "That one thing that is shiny and full of wealth."
+  },
+  {
+   "id": "117213",
+   "starter": "That one place where you feel like you can be yourself."
+  },
+  {
+   "id": "117245",
+   "starter": "That thing with metal in it that you simply can’t live without."
+  },
+  {
+   "id": "117248",
+   "starter": "That thing you CAN make, but it’s better when someone else does it."
+  },
+  {
+   "id": "117249",
+   "starter": "That one friendly person or character who YOU find annoying."
+  },
+  {
+   "id": "117258",
+   "starter": "That fancy thing you put on for a big night."
+  },
+  {
+   "id": "117261",
+   "starter": "That one gross thing at your grandparents’ house."
+  },
+  {
+   "id": "117262",
+   "starter": "That thing that’s easy, but no one wants to do it."
+  },
+  {
+   "id": "117538",
+   "starter": "The place you have to visit every year and do not like."
+  },
+  {
+   "id": "117539",
+   "starter": "That one activity that is quiet and a little difficult."
+  },
+  {
+   "id": "117540",
+   "starter": "The thing that is exciting, but also has a lot of rules."
+  },
+  {
+   "id": "117545",
+   "starter": "That one thing people offer each other before they part ways."
+  },
+  {
+   "id": "117548",
+   "starter": "The thing you receive that proves you are a grown-up."
+  },
+  {
+   "id": "117549",
+   "starter": "The place that is boring... but everyone’s gotta go there!"
+  },
+  {
+   "id": "117551",
+   "starter": "The job or person everyone nods at and thinks, “Impressive!”"
+  },
+  {
+   "id": "117552",
+   "starter": "That one person who has good opinions and speaks calmly."
+  },
+  {
+   "id": "117556",
+   "starter": "That thing that is LOUD and involves lots and lots of people."
+  },
+  {
+   "id": "117557",
+   "starter": "That one place with all the clothes and NONE of the help."
+  },
+  {
+   "id": "117563",
+   "starter": "That exciting thing that you just HAVE to stop and look at."
+  },
+  {
+   "id": "117569",
+   "starter": "That thing that is cold, and and is very fun."
+  },
+  {
+   "id": "117683",
+   "starter": "That one fast thing that doesn’t have wheels."
+  },
+  {
+   "id": "117690",
+   "starter": "That edible thing that comes in many different colors."
+  },
+  {
+   "id": "117695",
+   "starter": "That one thing that calls for a celebration!"
+  },
+  {
+   "id": "117704",
+   "starter": "That thing that’s SO fun, and totally okay to do every day."
+  },
+  {
+   "id": "117707",
+   "starter": "That thing that’s often risky, but might be worth it!"
+  },
+  {
+   "countrySpecific": false,
+   "id": "117708",
+   "starter": "That thing that’s great, but requires a lot of waiting."
+  },
+  {
+   "id": "117712",
+   "starter": "That thing that’s fun, but you have to leave the house to do it."
+  },
+  {
+   "id": "117713",
+   "starter": "That thing you could easily beat in a fight, but would NEVER get into a fight with."
+  },
+  {
+   "id": "117715",
+   "starter": "That thing that you like AND your mom likes."
+  },
+  {
+   "id": "117732",
+   "starter": "That thing that isn’t a living thing, but it DOES run your life."
+  },
+  {
+   "id": "117736",
+   "starter": "That thing that’s improved over the years, but still kinda sucks.",
+   "x": true
+  },
+  {
+   "id": "117743",
+   "starter": "That thing you put things INTO, but rarely take things OUT of."
+  },
+  {
+   "id": "117745",
+   "starter": "That thing you buy, but make sure to hide that you did."
+  },
+  {
+   "id": "117761",
+   "starter": "That thing you can hold in your hand that comes in a set of two."
+  },
+  {
+   "id": "117763",
+   "starter": "That one thing you use to touch other things."
+  },
+  {
+   "id": "117765",
+   "starter": "That thing that YOU buy, but you’re expected to share."
+  },
+  {
+   "id": "117769",
+   "starter": "That important thing you have to fill out paperwork for."
+  },
+  {
+   "id": "117771",
+   "starter": "That one thing that keeps a bunch of other things together."
+  },
+  {
+   "id": "117835",
+   "starter": "That one green thing with a smell."
+  },
+  {
+   "id": "117838",
+   "starter": "That one thing that goes inside of your body.",
+   "x": true
+  },
+  {
+   "id": "117839",
+   "starter": "That one place where you spend a little too much money, but it's okay!"
+  },
+  {
+   "id": "117841",
+   "starter": "That thing that's kinda scary, but also kinda cool?"
+  },
+  {
+   "id": "117936",
+   "starter": "The thing you use every day, but you don’t REALLY know how it works."
+  },
+  {
+   "id": "117939",
+   "starter": "That one thing you could probably see on TV right now."
+  },
+  {
+   "id": "117944",
+   "starter": "That one thing that bad weather can ruin."
+  },
+  {
+   "id": "117956",
+   "starter": "That one thing you don’t want to be caught in."
+  },
+  {
+   "id": "117961",
+   "starter": "That one thing you don’t want to be accidentally stuck inside."
+  },
+  {
+   "id": "117967",
+   "starter": "That one now-important thing that didn’t exist 25 years ago."
+  },
+  {
+   "id": "117978",
+   "starter": "That one person who makes your dreams come true!"
+  },
+  {
+   "countrySpecific": true,
+   "id": "117987",
+   "starter": "The thing that is often a Halloween costume for babies."
+  },
+  {
+   "id": "117988",
+   "starter": "The thing you need to grab when you've made mistakes."
+  },
+  {
+   "id": "117990",
+   "starter": "That thing that is colorful and makes people smile!"
+  },
+  {
+   "id": "117993",
+   "starter": "That thing they sometimes throw in for free when you buy something."
+  },
+  {
+   "id": "117997",
+   "starter": "That thing that is COOL and FUN and if you eat it you DIE.",
+   "x": true
+  },
+  {
+   "id": "118000",
+   "starter": "That thing that is green, but not necessarily from nature."
+  },
+  {
+   "id": "118002",
+   "starter": "That one thing that requires absolutely no skill to use or operate."
+  },
+  {
+   "id": "118003",
+   "starter": "That one person who had a lot of power a loooooong time ago."
+  },
+  {
+   "id": "118007",
+   "starter": "That one machine that not just anyone is allowed to operate!"
+  },
+  {
+   "id": "118008",
+   "starter": "That thing that CAN harm you, but no one’s afraid of it."
+  },
+  {
+   "id": "118009",
+   "starter": "That one practical thing you learned from the internet."
+  },
+  {
+   "id": "118012",
+   "starter": "That one thing you step on, on purpose."
+  },
+  {
+   "id": "118018",
+   "starter": "That thing that regularly falls down, and that’s okay."
+  },
+  {
+   "id": "118021",
+   "starter": "That one thing you have to deal with suuuper carefully."
+  },
+  {
+   "id": "118022",
+   "starter": "That thing you take for granted, but would DEFINITELY notice if it was gone."
+  },
+  {
+   "id": "118024",
+   "starter": "That one thing that dangles from that other thing."
+  },
+  {
+   "id": "118027",
+   "starter": "That thing of yours you’d feel uncomfortable letting someone else borrow."
+  },
+  {
+   "id": "118029",
+   "starter": "That thing you should always read the reviews about first."
+  },
+  {
+   "countrySpecific": false,
+   "id": "118051",
+   "starter": "That one large thing you can see from very far away."
+  },
+  {
+   "id": "118052",
+   "starter": "That thing you reeeeeally don’t wanna stand too close to."
+  },
+  {
+   "id": "118648",
+   "starter": "That thing you sometimes need to shake a little."
+  },
+  {
+   "id": "118716",
+   "starter": "That thing you hit, because you’re supposed to!"
+  },
+  {
+   "id": "118717",
+   "starter": "That thing you try to get rid of but it keeps coming back."
+  },
+  {
+   "id": "118718",
+   "starter": "That one thing OTHER things move through.",
+   "starterContent": false
+  },
+  {
+   "id": "118719",
+   "starter": "That thing that one person starts and then everyone joins in."
+  },
+  {
+   "id": "118763",
+   "starter": "That one place you’ve never been to, and probably won’t ever go to."
+  },
+  {
+   "id": "118768",
+   "starter": "That one thing that takes a looooong time to plan."
+  },
+  {
+   "id": "118771",
+   "starter": "That one thing you have to wear a special outfit for."
+  },
+  {
+   "id": "118860",
+   "starter": "That one place with the nice older people."
+  },
+  {
+   "id": "118866",
+   "starter": "That one place you go when you've run out of options."
+  },
+  {
+   "id": "118867",
+   "starter": "That one person who gets thanked in the big speech."
+  }
+ ]
+}

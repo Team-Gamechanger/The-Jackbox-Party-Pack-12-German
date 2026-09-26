@@ -1,0 +1,60 @@
+{
+ "content": [
+  {
+   "id": "119443",
+   "prompt": "{{BLANK}} sagt..."
+  },
+  {
+   "id": "119444",
+   "prompt": "{{BLANK}} ist am besten"
+  },
+  {
+   "id": "119445",
+   "prompt": "Wir brauchen mehr {{BLANK}}"
+  },
+  {
+   "id": "119446",
+   "prompt": "Zieh dir mal {{BLANK}} rein"
+  },
+  {
+   "id": "119447",
+   "prompt": "Alles Gute zum {{BLANK}} Tag!"
+  },
+  {
+   "id": "119448",
+   "prompt": "Fühlst dich {{BLANK}}?"
+  },
+  {
+   "id": "119449",
+   "prompt": "Was würde {{BLANK}} tun?"
+  },
+  {
+   "id": "119450",
+   "prompt": "Zeit für {{BLANK}}"
+  },
+  {
+   "id": "119451",
+   "prompt": "So viel {{BLANK}}!!"
+  },
+  {
+   "id": "120286",
+   "prompt": "Besser als {{BLANK}}"
+  },
+  {
+   "id": "120287",
+   "prompt": "Denkst du an {{BLANK}}?"
+  },
+  {
+   "id": "120288",
+   "prompt": "Was ein {{BLANK}}"
+  },
+  {
+   "id": "120289",
+   "prompt": "Du bist mein {{BLANK}}"
+  },
+  {
+   "id": "120291",
+   "prompt": "#1 {{BLANK}}"
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "content": [
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117163",
+   "text": "Mount {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117167",
+   "text": "Happy {{BLANK}} Day!"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117169",
+   "text": "It's a {{BLANK}} party!"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117170",
+   "text": "{{BLANK}} Land"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117203",
+   "text": "The Lord of {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117232",
+   "text": "{{BLANK}} School"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117234",
+   "text": "{{BLANK}} of the Year"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117241",
+   "text": "Self-{{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117244",
+   "text": "The Museum of {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117828",
+   "text": "Doctor {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "117829",
+   "text": "What's that thing in your wallet?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "117830",
+   "text": "What's that one thing from the vending machine?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "117832",
+   "text": "Captain {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118148",
+   "text": "{{BLANK}} Sauce"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118156",
+   "text": "{{BLANK}} Job"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118166",
+   "text": "What’s that one thing in your bedroom?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118167",
+   "text": "What's that one sticky thing?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118168",
+   "text": "What is that one thing that’s REAL big?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118170",
+   "text": "What’s that thing that's out at night?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118172",
+   "text": "What's that event that all those people go to?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118174",
+   "text": "What’s that one thing that uses batteries?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118297",
+   "text": "World's #1 {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118301",
+   "text": "A Big {{BLANK}} Collection"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118303",
+   "text": "A {{BLANK}} Machine"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118304",
+   "text": "Whoa, what’s that thing I see way up there?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118306",
+   "text": "What’s that one thing on your computer?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118308",
+   "text": "What’s that thing that goes in a bowl?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118310",
+   "text": "So, what did YOU bring to college?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118313",
+   "text": "What’s that thing in the trunk of your car?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118331",
+   "text": "{{BLANK}} Night"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118333",
+   "text": "A {{BLANK}} Sign"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118335",
+   "text": "{{BLANK}} City"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118337",
+   "text": "What’s that thing you have to plug in to use?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118357",
+   "text": "What’s that thing on your shirt?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118360",
+   "text": "What’s in that there cup?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118619",
+   "text": "What’s that thing you rent?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118624",
+   "text": "What’s a thing you always put off?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118631",
+   "text": "What’s that thing you’re always losing?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118649",
+   "text": "{{BLANK}} Club"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118653",
+   "text": "www.{{BLANK}}.com"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118654",
+   "text": "The {{BLANK}} Show"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118682",
+   "text": "What’s that thing that requires particular footwear?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118683",
+   "text": "What’s that thing that often falls under the car seat?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118689",
+   "text": "What’s that thing you need to hire someone to fix?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118697",
+   "text": "What’s that thing they keep in a display case?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118709",
+   "text": "{{BLANK}}-Free"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118762",
+   "text": "What’s that thing a person does on stage?"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118772",
+   "text": "What’s that thing you give to someone you love?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118773",
+   "text": "King {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118831",
+   "text": "What’s that edible thing that smells really good?"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118850",
+   "text": "Winter {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118853",
+   "text": "Baby {{BLANK}}"
+  },
+  {
+   "category": "FILL-IN-BLANK",
+   "id": "118854",
+   "text": "Pocket {{BLANK}}"
+  },
+  {
+   "category": "SMALL-STARTER",
+   "id": "118865",
+   "text": "What’s that thing people line up for?"
+  }
+ ]
+}
