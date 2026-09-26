@@ -8,7 +8,7 @@
     "Dein Gesicht, wenn dein Chef schreibt: „Ruf mich an.“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "EMOTIVE",
@@ -18,7 +18,63 @@
     "Dein Gesicht, wenn du dich im Zug in etwas Nasses gesetzt hast"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115904",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du ein herrliches Geheimnis kennst … und es NIEMALS verraten wirst!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115928",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht auf der Beerdigung deines Erzfeindes"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115930",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du die verlorene Bundeslade öffnest"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115964",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht am Strand, wenn du den herannahenden Orkan anschreist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115965",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn niemand dein Botox bemerkt"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115970",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Schiff im Sturm gesunken ist und du dich an einen Felsen klammerst"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -28,7 +84,34 @@
     "Dein Gesicht, wenn der Welpe gaaaanz groß gähnt!!"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "115973",
+   "position": "THIRD",
+   "prompts": [
+    "Als Maskottchen für einen Energydrink"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115976",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du nach Tagen in der Wüste endlich eine Oase erreichst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115979",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn ein Wespenschwarm unbedingt mit dir befreundet sein will"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -38,7 +121,16 @@
     "Dein Gesicht, wenn du die Banane findest, die seit letztem Winter in deiner Jacke steckt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115981",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du aufwachst und ein Bär in deinem Zelt steht"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -48,7 +140,46 @@
     "Dein Gesicht, wenn das Wasser im Bidet eine extreme Temperatur hat"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115984",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Date furchtbar kocht, du aber höflich bleiben willst"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "115985",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dir dein Erzfeind ein Glas Sekt reicht"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "115988",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht nach dem Urlaub im sonnigen Tschernobyl"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "115992",
+   "position": "THIRD",
+   "prompts": [
+    "Als charmanter britischer Geheimagent"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -58,7 +189,16 @@
     "Als Moderator einer Kindersendung"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "116005",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Bro, NFTs sind die Zukunft!“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -68,7 +208,26 @@
     "Dein Gesicht, wenn die Kitzelattacke endgültig zu weit geht"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116020",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du nackt über den Rasen beim Fußballspiel rennst und die Ordner dich einkreisen"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116056",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn die extra starke Mundspülung so richtig brennt"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -78,7 +237,53 @@
     "Deine Reaktion, wenn jemand deinen Witz lauter wiederholt und alle lachen"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116060",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der Hotdog-Wettkampf dir endlich den Rest gibt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116121",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Hund Durchfall auf dem Sofa hat"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116122",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht direkt nach dem Sushi von der Autobahnraststätte"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116124",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht bei Kilometer 37 eines Marathons, für den du nicht trainiert hast"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116125",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn das Flugzeug plötzlich heftig durchgeschüttelt wird"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -88,7 +293,7 @@
     "Dein Gesicht, wenn die T-Shirt-Kanone genau auf dich zielt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "EMOTIVE",
@@ -98,7 +303,16 @@
     "Dein Gesicht, wenn beim Abwaschen dein Ärmel nass wird"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116129",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Vater genau in der stillen Szene eines Horrorfilms niest"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -108,7 +322,71 @@
     "Dein Gesicht, wenn die Bauarbeiten vor deinem Haus um 7 Uhr morgens beginnen"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "116165",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der Kellner den bestellten Sieben-Kilo-„Herzinfarkt-Burger“ bringt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116166",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn jemand deine originalverpackte Asterix-Sammelfigur auspackt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116168",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du dir das Knie an der verdammten Tischkante stößt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116169",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dir der Polizeichef Dienstmarke und Waffe abnimmt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116173",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der Mathelehrer beim Schüler-Lehrer-Basketball einen Dunk hinlegt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116175",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dich die Kamera mitten beim Niesen erwischt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116178",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dir ein Haar im Hals steckt"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -118,7 +396,7 @@
     "Dein Gesicht nach der „Zitronensaft-auf-Ex-Challenge“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "EMOTIVE",
@@ -128,7 +406,16 @@
     "Dein Gesicht, wenn die Hausarbeit, an der du die ganze Nacht geschrieben hast, nicht gespeichert wurde"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116258",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn Mama sagt: „Erst zwei Bissen Rosenkohl, dann gibt’s Nachtisch.“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -138,7 +425,56 @@
     "Dein Gesicht, wenn der Showmaster einen nagelneuen Wagen enthüllt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116260",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du im Chemieunterricht mit dem Klassenfaulpelz zusammenarbeiten musst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116261",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du mit deinen Eltern einen Film schaust und plötzlich eine Sexszene kommt"
+   ],
+   "selfieDirection": "",
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116264",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du mit deiner Gesangsstimme die Welt rettest"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116353",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Kind mit jemandem namens „Viper“ durchbrennen will"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116354",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn SIE dir einen Heiratsantrag macht!"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "EMOTIVE",
@@ -148,7 +484,54 @@
     "Dein Gesicht, wenn sich der Masseur so richtig an deinen Gesäßmuskeln austobt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116357",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du den Böller eine Sekunde zu spät weggeworfen hast"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116359",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht mit einem Jahr, wenn Mama den Löffel als Flugzeug angeflogen kommen lässt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116360",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du nach 40 Jahren in der Firma einen Gutschein als Dankeschön bekommst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "116362",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Partner eine offene Beziehung vorschlägt"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "116363",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn auf der Restaurantrechnung sogar das Wasser steht"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -158,7 +541,98 @@
     "Dein Gesicht, wenn du bei einem Date im Fischrestaurant deine Meeresfrüchteallergie entdeckst"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116377",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, nachdem du in einen Bottich Säure gefallen bist – und überlebt hast"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116378",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur im Remake von [i]Der Herr der Ringe[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116379",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur in einer Realverfilmung von [i]Die Monster AG[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116380",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur in [i]Grease 3[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116381",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur im Reboot von [i]Fluch der Karibik[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116383",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Ähm, also genau genommen gibt es einen großen Unterschied zwischen Protonen und Photonen.“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116482",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Bitte bleiben Sie ruhig, wir haben das Monster unter Kontrolle!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116486",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Ruhe, ihr Gören! Ich telefoniere!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116488",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Also, ähm, magst du mich? Oder magst du mich [i]wirklich[/i]?“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116515",
+   "position": "THIRD",
+   "prompts": [
+    "Als Alien in einer neuen [i]Star-Trek[/i]-Serie"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -168,7 +642,34 @@
     "Als einer der Muppets"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116517",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur im Bühnenmusical zu [i]Ich – Einfach unverbesserlich[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116536",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Hey, belästigt der Kerl Sie?“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116537",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Herrn Schnurrbart das Nassfutter bitte [i]von Hand[/i] füttern!“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CAPTION",
@@ -178,7 +679,7 @@
     "Das Gesicht von jemandem, der sagt: „Du nennst das Béarnaise?! Raus aus meiner Küche!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CAPTION",
@@ -188,7 +689,7 @@
     "Das Gesicht von jemandem, der sagt: „Noch zehn Sekunden! Ich hacke mich in den Zentralrechner!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CAPTION",
@@ -198,7 +699,34 @@
     "Das Gesicht von jemandem, der sagt: „Werft diesen dreckigen Schurken in den Kerker!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "116602",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der ruft: „Los, Tiger, zeigt eure Krallen! Los, Tiger, kämpfen, kämpfen, kämpfen!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116604",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Gurg Oog nicht mögen. Oog Gurgs besten Stein klauen.“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "116605",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Wissen Sie eigentlich, wer mein Vater ist?“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CAPTION",
@@ -208,7 +736,16 @@
     "Das Gesicht von jemandem, der sagt: „Ich will mit Ihrem Vorgesetzten sprechen!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116672",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn deine Eier schlüpfen und die Kleinen dir überhaupt nicht ähnlich sehen"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -218,7 +755,7 @@
     "Dein Gesicht, wenn du über den Laufsteg stolzierst und es laut raaaaatsch macht"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "EMOTIVE",
@@ -228,7 +765,7 @@
     "Dein Gesicht, wenn der Zauberer deine Karte die ganze Zeit hatte!"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "EMOTIVE",
@@ -238,7 +775,52 @@
     "Dein Gesicht, wenn du beim Schönheitswettbewerb den siebten Platz belegst"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116695",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du auf dem Mars landest und für die Aussicht den Helm abnimmst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116727",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du über Nacht 100 Jahre gealtert bist – ausgerechnet am Tag des Klassenfotos!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "116732",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du verflucht wurdest, diesen Felsbrocken bis in alle Ewigkeit den Berg hochzuschieben"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116867",
+   "position": "THIRD",
+   "prompts": [
+    "Als Engel, der uns zeigt, was wir falsch gemacht haben"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116868",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur in einem Remake von Charlie und die Schokoladenfabrik"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -248,7 +830,7 @@
     "Als niedlicher neuer Droide in einer [i]Star-Wars[/i]-Serie"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -259,7 +841,7 @@
     "Als Jugendtrainer, der eine chaotische Fußballmannschaft zum Sieg führt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -269,7 +851,7 @@
     "Als Schulhofschläger in einem Film aus den 80ern"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -279,7 +861,16 @@
     "Als neues Monster in der [i]Sesamstraße[/i]"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116874",
+   "position": "THIRD",
+   "prompts": [
+    "Als alberner Geist im neuen [i]Ghostbusters[/i]-Film"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -289,7 +880,7 @@
     "Als Figur aus [i]Die Simpsons[/i]"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -299,7 +890,28 @@
     "Als der neue Joker"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "116880",
+   "position": "THIRD",
+   "prompts": [
+    "Als Gast in einer neuen Staffel von [i]The White Lotus[/i]"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116882",
+   "position": "THIRD",
+   "prompts": [
+    "Als Mitglied eines internationalen Geheimbunds von Auftragskillern"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "CASTING-CALL",
@@ -309,7 +921,25 @@
     "Als einer von Winnie Puuhs Freunden"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116884",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur aus [i]SpongeBob Schwammkopf[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116885",
+   "position": "THIRD",
+   "prompts": [
+    "Als Profi-Wrestler"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -319,7 +949,25 @@
     "Als das Monster unter dem Bett eines Kindes"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116953",
+   "position": "THIRD",
+   "prompts": [
+    "Als Mitglied einer Boyband aus den 2000ern"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116956",
+   "position": "THIRD",
+   "prompts": [
+    "Als beliebtes, aber fieses Mädchen an der Schule"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -329,7 +977,25 @@
     "Als verfluchter Haushaltsgegenstand in [i]Die Schöne und das Biest[/i]"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "116958",
+   "position": "THIRD",
+   "prompts": [
+    "Als Frosch mitten in der Verwandlung zum Prinzen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "117189",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht als heiß geliebtes Kind einer Bulldogge und eines Ochsenfroschs"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CAPTION",
@@ -339,7 +1005,7 @@
     "Das Gesicht von jemandem, der sagt: „BOAH! MAMA! Ich hasse dich!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CAPTION",
@@ -349,7 +1015,25 @@
     "Das Gesicht von jemandem, der ruft: „Heiße Würstchen! Hier gibt’s heiße Würstchen!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "117225",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der ruft: „JAAA! Partyvolk! Hände hoch!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117226",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Baby braucht frische Windel! Wäääh!“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -359,7 +1043,17 @@
     "Dein Gesicht, wenn deine Schwester dir ihre Drillinge für eine Woche überlässt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117228",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn die Studenten-WG nebenan an einem Dienstag eine Abrissparty schmeißt"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "EMOTIVE",
@@ -369,7 +1063,106 @@
     "Dein Gesicht, wenn du vom Duft gebratenen Specks aufwachst"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117251",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn deine Schulklasse ihre Hausaufgaben anzündet"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117253",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Mädel, lass bloß die Finger von meinem Mann!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117254",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} als dein neuer Chef eingestellt wird"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117255",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} beim gemeinsamen Abendessen ausgerechnet DEINE Rechnung übernimmt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117256",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir „Zum Geburtstag viel Glück“ mit vollem Körpereinsatz vorsingt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117257",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir etwas auf der Posaune vorspielen möchte"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117278",
+   "position": "THIRD",
+   "prompts": [
+    "Als griesgrämiger Pfarrer, der Tanzen hasst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117302",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Lieblingsstar den Sommerhit des Jahres veröffentlicht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117369",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Verbeugt euch vor mir, kümmerliche Menschen!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117406",
+   "position": "THIRD",
+   "prompts": [
+    "Als quirliger bester Freund in einer romantischen Komödie"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117413",
+   "position": "THIRD",
+   "prompts": [
+    "Als kränkliches Waisenkind im viktorianischen Zeitalter"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -379,7 +1172,27 @@
     "Als niedliches Maskottchen einer Windelmarke"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "117415",
+   "position": "THIRD",
+   "prompts": [
+    "Als kleines Mädchen, das von einem Dämon besessen ist"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117417",
+   "position": "THIRD",
+   "prompts": [
+    "Als grüblerischer Teenager, der den ganzen Unsinn der Gesellschaft durchschaut"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "CASTING-CALL",
@@ -389,7 +1202,34 @@
     "Als altmodischer Kraftprotz im Zirkus"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117422",
+   "position": "THIRD",
+   "prompts": [
+    "Als neue Disney-Prinzessin"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "117423",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Verdammich! Wer hat schon wieder das Klo verstopft?!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117433",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du bei der Geburt eines Kalbs mithilfst"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -399,7 +1239,26 @@
     "Als exzentrisches Medium, das der Polizei hilft"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117441",
+   "position": "THIRD",
+   "prompts": [
+    "Als feinfühliger Yeti"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117443",
+   "position": "THIRD",
+   "prompts": [
+    "Als feiger Soldat in einem Kriegsfilm"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "CASTING-CALL",
@@ -409,7 +1268,35 @@
     "Als Hippie, der bereit ist, Liebe zu verbreiten"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117513",
+   "position": "THIRD",
+   "prompts": [
+    "Als letzter überlebender Krieger Spartas"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117514",
+   "position": "THIRD",
+   "prompts": [
+    "Als eingebildete Freundin, die einfach nicht zum Filmhelden passt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117519",
+   "position": "THIRD",
+   "prompts": [
+    "Als Maskottchen einer mittelmäßigen Pizzeria"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -419,7 +1306,25 @@
     "Als Figur aus einem verrückten gereimten Kinderbuch"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117526",
+   "position": "THIRD",
+   "prompts": [
+    "Als YouTube-Star mit Schminktutorials"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117527",
+   "position": "THIRD",
+   "prompts": [
+    "Als Monster der Woche bei den [i]Power Rangers[/i]"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -429,7 +1334,98 @@
     "Als einer der Weihnachtswichtel"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117643",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht nach elf Tassen Kaffee – und es ist erst zehn Uhr morgens"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117644",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du aus Versehen den Suchverlauf deines Vaters siehst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "117668",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir ein geheimes „Geschenk“ hinterlässt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117749",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht bei der Beerdigung deines Goldfischs in der Toilettenschüssel"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117750",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du ohne Schutzbrille direkt in eine Sonnenfinsternis schaust"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117757",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dich gerade jemand umarmt, dessen Namen du vergessen hast"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117758",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Kind schreit und du das Passwort für Disney+ vergessen hast"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117759",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du auf einer Party in einem endlosen Gespräch über Wirtschaft festhängst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117774",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dir jemand gratuliert und du automatisch antwortest: „Dir auch!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117775",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn ein Großmaul das Ende des Films verrät, den du gerade schaust"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -439,7 +1435,7 @@
     "Dein Gesicht, wenn direkt vor deinem Bürofenster ein mächtiger Adler landet"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "EMOTIVE",
@@ -449,7 +1445,55 @@
     "Dein Gesicht, wenn ein anderes Kind einen besseren Luftballon hat als du"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "117778",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, nachdem du mitten in Brennnesseln gefallen bist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117779",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der Schulhofschläger „Um drei hinter der Turnhalle“ gesagt hat und es 14:59 Uhr ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "117780",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du deinen alten Teddybären auf einem Flohmarkt entdeckst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117783",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du mit Kater die Frühstücksschicht im Café überstehen musst"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117794",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du dich beim Bäcker vordrängelst und keiner es merkt"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -459,7 +1503,34 @@
     "Dein Gesicht, wenn du nur vier Sekunden hast, um den richtigen Draht durchzuschneiden und die Bombe zu entschärfen"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117797",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn die fiesen Mädchen tuscheln, kichern und dabei auf dich zeigen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117876",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn zwei Kleinkinder anfangen, sich zu prügeln"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117877",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dich im Stau NIEMAND einfädeln lässt"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -469,7 +1540,201 @@
     "Dein Gesicht, wenn du Mäuse in deiner Speisekammer entdeckst"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117881",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dir jemand ins Auto fährt und [i]du[/i] das Knöllchen bekommst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "117882",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn der Himmel aussieht wie ein Fachmarktzentrum an der Autobahn"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "117883",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du auf einer Hochzeit den Brautstrauß fängst"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "117968",
+   "position": "THIRD",
+   "prompts": [
+    "Als Wissenschaftler, dem niemand zuhört – obwohl er recht hat"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118030",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du auf einem Roadtrip mit {{PLAYER}} ein Hotelzimmer teilen musst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118113",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dich in einen komplett selbst geplanten Urlaub einlädt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118116",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht bei zwanzig verpassten Anrufen von {{PLAYER}}"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118118",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir ein selbst aufgenommenes Rap-Album vorspielen will"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118119",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir dasselbe Outfit kauft, damit ihr im Partnerlook geht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118120",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} auf einer Harley vorfährt und sagt: „Steig auf, Kleiner.“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118162",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein Wurf daneben geht und {{PLAYER}} den Ball doch noch reintippt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118163",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} vor ein Taxi springt, um deinen entlaufenen Hund zu retten"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118177",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn der Gefängniswärter „Sie haben Besuch“ sagt – und {{PLAYER}} hereinkommt"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "PLAYER",
+   "id": "118207",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} auf deiner Hochzeit spontan eine Rede hält"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118209",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir unbedingt einen Handstand zeigen will"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118216",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir einen Traum erzählen möchte"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "countrySpecific": true,
+   "id": "118217",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dich fragt, ob du bis morgen 10.000 Euro leihen kannst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118242",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn das erste Wort deines Babys „Vorladung“ ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118243",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn eine riesige Biene mit dir im Aufzug ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118244",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du deinen Chef im Club triffst, obwohl du dich krankgemeldet hast"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118245",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du ein winziges Haar in deinem Eis findest"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -479,7 +1744,17 @@
     "Dein Gesicht, wenn dein Friseur bei deinem Haarschnitt etwas zu viel Spaß hatte"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118247",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Schwarm lacht und sagt: „Du bist echt ein guter Freund!“"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "TRANSFORMATIVE",
@@ -489,7 +1764,34 @@
     "Dein Gesicht, wenn ein Adler herabstößt und dein Kind davonträgt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118249",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn deine Schwiegermutter auf deiner Hochzeit ein weißes Kleid trägt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118251",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du nach einem Nickerchen bei IKEA aufwachst und der Laden schon zu ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118252",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du als Einziger verkleidet zur Halloweenparty gekommen bist"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -499,7 +1801,16 @@
     "Dein Gesicht, wenn bei dieser kleinen Dinnerparty die Toilettenspülung nicht funktioniert"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118254",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du auf ein Kind aufpasst, das GANZ offensichtlich krank ist"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -509,7 +1820,16 @@
     "Dein Gesicht, wenn dein Taxifahrer ständig Wettrennen gegen andere Fahrer veranstaltet"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118256",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn Muttertag ist und niemand ein Geschenk für Mama hat"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "EMOTIVE",
@@ -519,7 +1839,17 @@
     "Dein Gesicht, wenn du deinen Schauspielerfreund nach seinem schrecklichen Theaterstück im Foyer triffst"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118259",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der beste Freund deines Partners mit in die Flitterwochen fährt"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "TRANSFORMATIVE",
@@ -529,7 +1859,45 @@
     "Dein Gesicht, wenn du die beliebteste Attraktion in diesem interstellaren Alien-Zoo bist"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118262",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Date dich noch auf einen „Kaffee“ mit nach oben einlädt"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118265",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Nachbar jede Nacht um Mitternacht Schlagzeug übt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118266",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn die Dentalhygienikerin dir direkt ins Gesicht Kaugummi kaut"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118267",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn auf dem Einkaufszettel deines Partners „Schwangerschaftstest“ steht"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "EMOTIVE",
@@ -539,7 +1907,25 @@
     "Dein Gesicht, wenn dein Arzt auf deine Testergebnisse schaut und „Hm“ sagt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118341",
+   "position": "THIRD",
+   "prompts": [
+    "Als Gangster in einem unveröffentlichten Scorsese-Film"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118342",
+   "position": "THIRD",
+   "prompts": [
+    "Als Maskottchen eines miserablen Fußballvereins"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -549,7 +1935,7 @@
     "Als neues, verbessertes Maskottchen einer Fast-Food-Kette"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -559,7 +1945,81 @@
     "Als hippe, modernisierte Version des Monopoly-Männchens"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118345",
+   "position": "THIRD",
+   "prompts": [
+    "Als Maskottchen eines billigen Freizeitparks"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118346",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur, die alle nur „den Dunklen Lord“ nennen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118359",
+   "position": "THIRD",
+   "prompts": [
+    "Als unheimliche Puppe in einem Horrorfilm"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118397",
+   "position": "THIRD",
+   "prompts": [
+    "Als reiche Drama-Queen aus einer Realityshow"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118404",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht nach dem Training, wenn diese Banane GENAU das Richtige ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118405",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du zum allerersten Mal Pizza probierst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118408",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Ich werde ewig leben!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "countrySpecific": true,
+   "id": "118410",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der fragt: „W-willst du mit mir zum Abiball gehen?“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CAPTION",
@@ -569,7 +2029,25 @@
     "Das Gesicht von jemandem, der sagt: „Diese Stadt ist nicht groß genug für uns beide.“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "118412",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Wenn ihr nicht aufhört zu streiten, dreh ich um!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118432",
+   "position": "THIRD",
+   "prompts": [
+    "Als neues Mitglied der X-Men"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -579,7 +2057,62 @@
     "Als Maskottchen einer Thunfischmarke"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118434",
+   "position": "THIRD",
+   "prompts": [
+    "Als Maskottchen für ein Mittel gegen Erkältung und verstopfte Nasen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118435",
+   "position": "THIRD",
+   "prompts": [
+    "Als Maskottchen für Kinderzahnpasta"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118436",
+   "position": "THIRD",
+   "prompts": [
+    "Als Maskottchen für eine Marke scharfer Chips"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118437",
+   "position": "THIRD",
+   "prompts": [
+    "Als strenger Richter bei einem Surfwettbewerb"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118438",
+   "position": "THIRD",
+   "prompts": [
+    "Als völlig überdrehter Sprengstoffexperte einer Bankräuberbande"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118439",
+   "position": "THIRD",
+   "prompts": [
+    "Als witziger Alien in einem Science-Fiction-Film"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -589,7 +2122,35 @@
     "Als Wesen aus der griechischen Mythologie"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118441",
+   "position": "THIRD",
+   "prompts": [
+    "Als bester Freund von Superman"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118442",
+   "position": "THIRD",
+   "prompts": [
+    "Als viel zu mächtiger Bösewicht in einem Anime"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118443",
+   "position": "THIRD",
+   "prompts": [
+    "Als chaotischer bester Freund und Sofahocker"
+   ],
+   "selfieDirection": "",
+   "x": false
   },
   {
    "category": "EMOTIVE",
@@ -599,7 +2160,61 @@
     "Dein Gesicht, wenn dich im Morgengrauen Vogelgezwitscher weckt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118459",
+   "position": "THIRD",
+   "prompts": [
+    "Als Händler mit exotischen Waren aus aller Welt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118461",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn das Gericht dich freispricht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118464",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn Oma dich mit einem Ausflug ins Spaßbad überrascht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "118465",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du eine Dose Thunfisch öffnest und zehntausend Katzen in deiner Küche auftauchen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118468",
+   "position": "THIRD",
+   "prompts": [
+    "Als schmieriger Gebrauchtwagenhändler"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118471",
+   "position": "THIRD",
+   "prompts": [
+    "Als vierter Geist, der Ebenezer Scrooge besucht"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -609,7 +2224,34 @@
     "Als Charlie Brown in einer Realverfilmung"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118483",
+   "position": "THIRD",
+   "prompts": [
+    "Als Kreatur aus [i]Alice im Wunderland[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "118484",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir ungefragt ein Sandwich macht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118494",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Das ist der schönste Tag meines Lebens!“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CAPTION",
@@ -619,7 +2261,8 @@
     "Das Gesicht von jemandem, der ruft: „Hells Angels! Wir fahren los!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false,
+   "x": true
   },
   {
    "category": "CAPTION",
@@ -629,7 +2272,89 @@
     "Das Gesicht von jemandem, der sagt: „Ist das der kleine Jonas? Meine Güte, bist du groß geworden!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "118498",
+   "position": "THIRD",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Aah! Ich wurde vergiftet!“"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118499",
+   "position": "THIRD",
+   "prompts": [
+    "Als Regierungschef eines erfundenen Landes"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118505",
+   "position": "THIRD",
+   "prompts": [
+    "Als Polizist mit bionischen Körperteilen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118509",
+   "position": "THIRD",
+   "prompts": [
+    "Als lebendig gewordener Wasserspeier einer uralten Kathedrale"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118512",
+   "position": "THIRD",
+   "prompts": [
+    "Als Stand-up-Comedian, der „nur mal die Wahrheit sagt“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118513",
+   "position": "THIRD",
+   "prompts": [
+    "Als Backgroundtänzer in einem Hip-Hop-Video"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118514",
+   "position": "THIRD",
+   "prompts": [
+    "Als Preisboxer in der zwölften Runde"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118532",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du nachts allein zu Hause bist und eine Tür gaaaaanz langsam aufgeht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118562",
+   "position": "THIRD",
+   "prompts": [
+    "Als niedliches Maskottchen eines Ölkonzerns"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -639,17 +2364,18 @@
     "Als französischer Pantomime"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
+   "countrySpecific": true,
    "id": "118564",
    "position": "THIRD",
    "prompts": [
     "Als Staatsoberhaupt in einem Asteroidenfilm"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -659,7 +2385,16 @@
     "Als Ratte, die unter Druck alles ausplaudert"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118566",
+   "position": "THIRD",
+   "prompts": [
+    "Als einsamer neuer Pixar-Held"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -669,7 +2404,25 @@
     "Als unscheinbares Mädchen, das erfährt, dass es eine Prinzessin ist"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118569",
+   "position": "THIRD",
+   "prompts": [
+    "Als letzte Entwicklungsstufe eines Pokémon"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118570",
+   "position": "THIRD",
+   "prompts": [
+    "Als neuer Indiana Jones"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -679,7 +2432,52 @@
     "Als neues Monster, das gegen Godzilla kämpft"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118572",
+   "position": "THIRD",
+   "prompts": [
+    "Als wilder Mann, der im Dschungel aufgewachsen ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118574",
+   "position": "THIRD",
+   "prompts": [
+    "Als einer der Trolls"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118576",
+   "position": "THIRD",
+   "prompts": [
+    "Als überraschend gutaussehender Fred Feuerstein in einer Realverfilmung"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118578",
+   "position": "THIRD",
+   "prompts": [
+    "Als steifer Komponist, der auf Mozart neidisch ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118579",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur aus Arthur Millers [i]Hexenjagd[/i]"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -689,7 +2487,16 @@
     "Als Figur aus [i]Romeo und Julia[/i]"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "PLAYER",
+   "id": "118585",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} sich dein Gesicht auf den unteren Rücken tätowieren lässt"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -699,7 +2506,7 @@
     "Als Leadsänger einer Punkband"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -709,7 +2516,16 @@
     "Als raubeiniger alter Kapitän mit Skorbut"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118592",
+   "position": "THIRD",
+   "prompts": [
+    "Als jemand, der gerade einen Elektrozaun angefasst hat"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -719,7 +2535,139 @@
     "Als eine der Katzen aus dem Film [i]Cats[/i]"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "PLAYER",
+   "id": "118596",
+   "position": "THIRD",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dir völlig unerwartet Blumen schenkt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118597",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du dieses Starrduell gewinnen wirst – komme, was wolle"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118598",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du es mit „sanfter Erziehung“ versuchst, dein Kleinkind aber ein Messer hat"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118599",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der Löffel Suppe in deinem Mund kochend heiß ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118600",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn die Lehrerin mit den Fingernägeln über die Tafel kratzt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118602",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn deine Mutter deinen Vater vor dir „Daddy“ nennt"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118603",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du merkst, dass dein Schwarm vielleicht dein Cousin ersten Grades ist"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118604",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dir die 80-jährige Bibliothekarin ihr Zungenpiercing zeigt"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118605",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, nachdem du einen Kampf mit einem Känguru überlebt hast"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118606",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du heute nichts vorhast außer in einer Hängematte am See zu liegen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118607",
+   "position": "THIRD",
+   "prompts": [
+    "Als sexy Maskottchen für eine Küchenrollenmarke"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118608",
+   "position": "THIRD",
+   "prompts": [
+    "Als Ölbaron um 1900"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118609",
+   "position": "THIRD",
+   "prompts": [
+    "Als durchgeknallter Nachbar in einer Sitcom"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118610",
+   "position": "THIRD",
+   "prompts": [
+    "Als Werwolf, der sich selbst hasst"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -729,7 +2677,7 @@
     "Als Figur aus [i]Nightmare Before Christmas[/i]"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -739,7 +2687,80 @@
     "Als hässlicher Vampir im Stil von Nosferatu"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CAPTION",
+   "id": "118637",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Du warst ein böser kleiner Junge, nicht wahr?“"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "118639",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Willkommen in meinem Rätselkeller. Spielen wir ein Spiel?“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118640",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der brüllt: „RUNTER UND 30 LIEGESTÜTZE, IHR MADEN!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118698",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Sprich in mein gutes Ohr, Jungchen.“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118699",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Ich hab dein Taschengeld geklaut. Und was willst du jetzt [i]dagegen[/i] tun?“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118702",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Einspruch, Euer Ehren!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118707",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Der Motor ist hin. Das wird nicht billig.“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118708",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Schön haben Sie es hier. Wäre schade, wenn etwas passieren würde.“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -749,7 +2770,53 @@
     "Als Königin in einem Film über die Französische Revolution"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
+   "id": "118726",
+   "position": "THIRD",
+   "prompts": [
+    "Als einer der Väter des Grundgesetzes"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118727",
+   "position": "THIRD",
+   "prompts": [
+    "Als römischer Gladiator mit einem Herz aus Gold"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118737",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der ruft: „HALLOOO BERLIN! SEID IHR BEREIT ZU ROCKEN?!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118740",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Psst, wir sprechen jetzt mal [i]ganz leise[/i].“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "118741",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Hier endet deine Reise! An mir kommst du nicht vorbei.“"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CAPTION",
@@ -759,7 +2826,62 @@
     "Das Gesicht von jemandem, der sagt: „Das war eine krasse Welle, Alter!“"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118886",
+   "position": "THIRD",
+   "prompts": [
+    "Als Bösewicht aus dem [i]Dune[/i]-Universum"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118925",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du beim Pferderennen richtig viel Geld gewinnst"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118926",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dir jemand die Regeln eines völlig verwirrenden Kartenspiels erklärt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118927",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn sich ein Turner bei Olympia live im Fernsehen etwas bricht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "118928",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn die Bedienung ein bisschen Schweiß auf dein Essen tropfen lässt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118929",
+   "position": "THIRD",
+   "prompts": [
+    "Als Killerroboter, der lieben lernt"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -769,7 +2891,16 @@
     "Als abgebrühter Ermittler, der schon alles gesehen hat"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118931",
+   "position": "THIRD",
+   "prompts": [
+    "Als atemberaubende Femme fatale mit dunkler Vergangenheit"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -779,7 +2910,230 @@
     "Als neuer, heißerer Steve Urkel"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118933",
+   "position": "THIRD",
+   "prompts": [
+    "Als verstorbene Ehefrau auf dem Foto, das der Held ständig betrachtet"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118934",
+   "position": "THIRD",
+   "prompts": [
+    "Als Sportstar im Ruhestand, der es fast ganz nach oben geschafft hätte"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118935",
+   "position": "THIRD",
+   "prompts": [
+    "Als verängstigter Neuling in einem Gefängnisfilm"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118936",
+   "position": "THIRD",
+   "prompts": [
+    "Als furchteinflößender Leibwächter des Hauptbösewichts"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118937",
+   "position": "THIRD",
+   "prompts": [
+    "Als nerdiger Technikexperte eines Geheimagenten"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118938",
+   "position": "THIRD",
+   "prompts": [
+    "Als schmieriger Schleimer, der den Haupthelden verrät"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "118939",
+   "position": "THIRD",
+   "prompts": [
+    "Als uralter Mystiker auf einem Berggipfel"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119017",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn sich beim Biss in den Salat plötzlich etwas darin bewegt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119025",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn jemand deinen peinlichen Blog von 2005 ausgräbt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119026",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn deine Sonntagsklamotten viel zu eng sind und überall kratzen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "119027",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du im Schlussverkauf zum Berserker wirst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119064",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der Bräutigam am Altar aus Versehen den Namen seiner Ex sagt"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "PLAYER",
+   "id": "119065",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du einen viel zu intimen Post über den Partner von {{PLAYER}} liest"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119066",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dich deine Frau und deine [i]Freundin[/i] gleichzeitig zur Rede stellen"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119067",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du versehentlich den Zahnstocher einatmest, auf dem du herumgekaut hast"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119069",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn genau vor der Siegerehrung beim ESC der Fernseher ausfällt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119070",
+   "position": "FIRST",
+   "prompts": [
+    "Dein „Ich hab’s dir doch gesagt“-Gesicht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119071",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht in der ersten Klasse, während sich alle anderen im Flugzeug an dir vorbeiquetschen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119072",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, nachdem du mit voller Wucht gegen eine Glastür gelaufen bist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119073",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du ins vermeintliche Auto deiner Mutter steigst – und ein Fremder am Steuer sitzt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119074",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du allen frisch geschlüpften Schildkröten auf dem Weg zum Meer hilfst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119085",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht unter der Dusche, wenn ein Schatten den Vorhang verdunkelt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119086",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn sich aus der Achterbahn eine ziemlich wichtige Schraube löst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119087",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du die Autotür auf deinem kleinen Finger zuschlägst"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "TRANSFORMATIVE",
@@ -789,7 +3143,7 @@
     "Dein Gesicht, wenn du ein Auto anhebst, um die darunter eingeklemmte Katze zu retten"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "TRANSFORMATIVE",
@@ -799,7 +3153,136 @@
     "Dein Gesicht, nachdem dir ein Zeichentrickklavier auf den Kopf gefallen ist"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119091",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du merkst, dass die Paprika in Wirklichkeit eine Geisterchili war"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119093",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du mit deiner großen Liebe über eine Blumenwiese hüpfst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119094",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht beim 60. Liegestütz"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119096",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn die Person auf dem Sitz neben dir im Flugzeug barfuß ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119098",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du das Licht anmachst und gefühlt zehn Millionen Kakerlaken davorkrabbeln"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119117",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du dich in den Mund übergeben hast und weder schlucken noch ausspucken kannst"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119121",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du dabei erwischt wirst, wie du jemand anderem das Mittagessen klaust"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119122",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn der Schiedsrichter beim Spiel deines Kindes ein klares Foul übersieht"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "119123",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du für 20 Euro einen ganzen Klumpen Wasabi isst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119126",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du eingeschlafen bist und die Kinder dich geschminkt haben"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119129",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du direkt in ein Spinnennetz läufst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119138",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn das uralte Grauen, das du erweckt hast, dich als Haustier behalten will"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119139",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht als erster Mensch, der von einem Schwarzen Loch verschluckt wird"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119140",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht auf der Streckbank, wenn die Folter endlich deinen Rücken einrenkt"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "category": "TRANSFORMATIVE",
@@ -809,8 +3292,73 @@
     "Dein Gesicht, wenn sich die Liebe deines Lebens beim Küssen in einen Kaktus verwandelt"
    ],
    "selfieDirection": "",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119143",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn deine Freunde eine Überraschungsparty für dich organisiert haben!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119144",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du deine große Liebe nach 20 Jahren endlich wiedersiehst"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119146",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn deine Mutter dir deinen Lieblingsgeburtstagskuchen backt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "countrySpecific": true,
+   "id": "119147",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du beim Abiball zur Ballkönigin gekrönt wirst!"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119149",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn der Dschinn deinen Wunsch erfüllt – aber auf SEHR seltsame Weise"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119150",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dich um Hilfe beim Umzug bittet"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119151",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} das erste Kind nach dir benannt hat!"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "TRANSFORMATIVE",
@@ -820,7 +3368,7 @@
     "Dein Gesicht, wenn plötzlich jeder Zentimeter deines Körpers Geschmacksknospen entwickelt"
    ],
    "selfieDirection": "",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
   },
   {
@@ -831,7 +3379,106 @@
     "Dein Gesicht, wenn du versehentlich einen Minion überfährst"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119165",
+   "position": "THIRD",
+   "prompts": [
+    "Als Hase, der gegen die Schildkröte verloren hat"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119167",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur im neuen LEGO-Film"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119168",
+   "position": "THIRD",
+   "prompts": [
+    "Als neue böse Hexe des Westens"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119169",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur in einem neuen Zombiefilm"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119170",
+   "position": "THIRD",
+   "prompts": [
+    "Als Gothic-Teenager, der im Einkaufszentrum jobbt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119171",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur aus [i]Thomas, die kleine Lokomotive[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119172",
+   "position": "THIRD",
+   "prompts": [
+    "Als Weihnachtsmann von heute"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119173",
+   "position": "THIRD",
+   "prompts": [
+    "Als neuer Grinch"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119174",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur aus [i]Toy Story[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119175",
+   "position": "THIRD",
+   "prompts": [
+    "Als fieser Drill Sergeant in einem Kriegsfilm"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119176",
+   "position": "THIRD",
+   "prompts": [
+    "Als neues Monster von Frankenstein"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
@@ -841,7 +3488,7 @@
     "Als Waldtier und Frontmann einer Animatronik-Band"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -851,7 +3498,16 @@
     "Als Nebenfigur aus [i]Game of Thrones[/i]"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119192",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn du ein Stück feinste handgemachte Schokolade genüsslich auf der Zunge zergehen lässt"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "TRANSFORMATIVE",
@@ -861,17 +3517,122 @@
     "Dein Gesicht, wenn dein Sandwich bei jeder Berührung stöhnt"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false,
+   "x": true
+  },
+  {
+   "category": "PLAYER",
+   "id": "119195",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} bei einem Tanzwettbewerb dein Partner ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119196",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du mit {{PLAYER}} in einem Brunnen feststeckst"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "CASTING-CALL",
+   "id": "119202",
+   "position": "THIRD",
+   "prompts": [
+    "Als Figur aus [i]Mad Max[/i]"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119203",
+   "position": "THIRD",
+   "prompts": [
+    "Als junge, naive Frau, die gerade nach Berlin gezogen ist, um ein Star zu werden"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119212",
+   "position": "THIRD",
+   "prompts": [
+    "Als Tennisspieler mit einem Wutanfall mitten im Finale"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119215",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht, wenn dein Schwarm in der Kneipe euer Lied auflegt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119222",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein Date aus der Dating-App buchstäblich ein Wels ist"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119233",
+   "position": "THIRD",
+   "prompts": [
+    "Als riesiger Häftling, vor dem selbst die Wärter Angst haben"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119234",
+   "position": "THIRD",
+   "prompts": [
+    "Als milliardenschwerer Playboy, über den jede Klatschzeitung berichtet"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": false,
+   "id": "119235",
+   "position": "THIRD",
+   "prompts": [
+    "Als empörter Politiker vor einem Untersuchungsausschuss"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119236",
+   "position": "THIRD",
+   "prompts": [
+    "Als geheimnisvoller alter Hausmeister"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "countrySpecific": true,
    "id": "119237",
    "position": "THIRD",
    "prompts": [
     "Als Ehefrau in einem Kriegsdrama, deren Mann noch immer nicht zurückgekehrt ist"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "category": "CASTING-CALL",
@@ -881,7 +3642,117 @@
     "Als harte Frau, die genauso gut Billard spielt wie die Jungs"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119242",
+   "position": "THIRD",
+   "prompts": [
+    "Als Chef des einzigen Konzerns, dem in der Zukunft alles gehört"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119243",
+   "position": "THIRD",
+   "prompts": [
+    "Als Schülerin, von der niemand ahnt, dass sie eine Auftragskillerin ist"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119244",
+   "position": "THIRD",
+   "prompts": [
+    "Als das Wesen, das die Kinder im Dorf für ein Märchen hielten"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119269",
+   "position": "THIRD",
+   "prompts": [
+    "Als schräge Kunststudentin, die sooo spontan ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119271",
+   "position": "THIRD",
+   "prompts": [
+    "Als raubeiniger Cowboy mit weichem Herzen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119272",
+   "position": "THIRD",
+   "prompts": [
+    "Als ruppiger, aber liebenswerter Berggnom"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "119273",
+   "position": "THIRD",
+   "prompts": [
+    "Als ehrbarer Verehrer, der einen Vater um die Hand seiner Tochter bittet"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119298",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} fragt: „Darf ich dir ein Gedicht vorlesen, das ich für dich geschrieben habe?“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119371",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du dich in Batmans Höhle schleichst und ihn beim Baden erwischst"
+   ],
+   "selfieDirection": "",
+   "x": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119374",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn deine Hausschuhe weglaufen, sobald du nach ihnen greifst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "119378",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht kurz vor der Narkose, wenn du erfährst, dass {{PLAYER}} dich operieren wird"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119380",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein verdammtes Skelett schon wieder versucht, aus deinem Mund zu springen"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "TRANSFORMATIVE",
@@ -891,7 +3762,35 @@
     "Dein Gesicht, wenn du vor sechs Wochen einen Kern gegessen hast und jetzt eine Wassermelone ausscheidest"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119384",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du herausfindest, dass die „Ehefrau“ deines Freundes eine Schaufensterpuppe ist"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119385",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du kurz in der Matrix-Schleimkapsel aufwachst – und dann wieder bei der Arbeit sitzt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119388",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du dich plötzlich schneller als das Licht bewegen kannst"
+   ],
+   "selfieDirection": ""
   },
   {
    "category": "TRANSFORMATIVE",
@@ -901,7 +3800,209 @@
     "Dein Gesicht, wenn alles, was du berührst, zu Rindfleisch wird"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119391",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn deine Waldfreunde dir ein wunderschönes Kleid nähen"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119398",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du ahnst, dass dieses heiße Bad in Wahrheit ein Eintopf ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119399",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht vor Gericht, wenn der Richter dein bester Freund aus der Grundschule ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119400",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Ich glaube, ich wurde im falschen Jahrhundert geboren.“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119401",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Darf ich Ihnen unsere Tagesgerichte empfehlen?“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119402",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der ruft: „Alle auf den Boden!“"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119626",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du nach unten schaust und feststellst, dass du längst über den Klippenrand gelaufen bist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119627",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein riesiger Pickel platzt und Spinnen herausströmen"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "EMOTIVE",
+   "id": "119645",
+   "position": "FIRST",
+   "prompts": [
+    "Dein Gesicht in einem Traum, in dem du nackt zur Arbeit kommst"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "CAPTION",
+   "id": "119698",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Zu viele Katzen gibt es nicht!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119741",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn der Hypnotiseur schnippt und du plötzlich ein Huhn bist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CAPTION",
+   "id": "119781",
+   "position": "SECOND",
+   "prompts": [
+    "Das Gesicht von jemandem, der sagt: „Ähm, ENTSCHULDIGUNG, hier ist eine Schlange!“"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119946",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du in ein Baumloch schaust und darin ein ganzes Volk winziger Leute entdeckst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119947",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn der Teekessel nicht pfeift, sondern mit Männerstimme schreit"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "TRANSFORMATIVE",
+   "id": "119950",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du in einen Pool voller benutzter, nasser Pflaster fällst"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120273",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dir {{PLAYER}} voller Stolz künstlichen Fleischersatz serviert"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "category": "PLAYER",
+   "id": "120275",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} im Musical laut jedes Lied mitsingt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120276",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du erfährst, dass {{PLAYER}} der maskierte Verbrechensbekämpfer der Stadt ist"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120277",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} kurz verschwindet und in einem selbst gebastelten Hobbit-Kostüm zurückkommt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120278",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn {{PLAYER}} dich in einem selbst gebauten Auto mitnimmt"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "CASTING-CALL",
+   "id": "120360",
+   "position": "THIRD",
+   "prompts": [
+    "Als freundliches altes Nutztier mit jeder Menge Lebensweisheit"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "category": "PLAYER",
+   "id": "120850",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du hörst, dass {{PLAYER}} es jetzt „mit Stand-up-Comedy versucht“"
+   ],
+   "selfieDirection": ""
   }
  ]
 }

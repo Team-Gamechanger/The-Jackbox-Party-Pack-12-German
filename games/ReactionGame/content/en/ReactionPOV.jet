@@ -1,6 +1,17 @@
 {
  "content": [
   {
+   "altText": "Eine Katze übergibt sich auf einer Rasenfläche im Garten.",
+   "category": "POV",
+   "id": "116301",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein Spaziergang mit diesem Anblick beginnt:"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
    "altText": "Ein tätowierter weißer Mann verschlingt aggressiv scharfe Chicken Wings. Sein weißes Unterhemd ist mit Soße bekleckert.",
    "category": "POV",
    "id": "116302",
@@ -9,8 +20,48 @@
     "Dein Gesicht, wenn das hier dein Date ist:"
    ],
    "selfieDirection": "",
-   "starterContent": true,
+   "starterContent": false,
    "x": true
+  },
+  {
+   "altText": "Eine lange Menschenschlange führt zu einer Tür oben an einer Treppe in einem unscheinbaren, fensterlosen Gebäude.",
+   "category": "POV",
+   "id": "116303",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht nach 50 Minuten in dieser Schlange:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Von unten gesehen greifen zwei Ärzte mit OP-Masken und bereitgehaltenen chirurgischen Instrumenten nach vorn.",
+   "category": "POV",
+   "id": "116304",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du aufwachst und das hier über dir siehst:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein vor Wut außer sich geratener Mann im Anzug zeigt mit dem Finger direkt in die Kamera und schreit.",
+   "category": "POV",
+   "id": "116305",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn DAS dein neuer Chef ist:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "In einem kargen Zimmer steht eine Tür offen. Im Flur starrt eine furchterregende, blutverschmierte Gestalt mit langen Haaren und einem Kleid in den Raum.",
+   "category": "POV",
+   "id": "116306",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du bei Freunden übernachtest und das hier im Flur steht:"
+   ],
+   "selfieDirection": ""
   },
   {
    "altText": "Ein farbenfroher, lächelnder Clown kauert bedrohlich in einer überfluteten Gosse.",
@@ -21,7 +72,17 @@
     "Dein Gesicht, wenn du unvermittelt auf diese Szene stößt:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "altText": "Blick nach unten auf zwei Füße, die hoch über der Küste in der Luft hängen. Dahinter ist die Skyline einer Küstenstadt zu sehen.",
+   "category": "POV",
+   "id": "116308",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du nach unten schaust und zwischen dir und dem Boden SEHR viel Luft ist:"
+   ],
+   "selfieDirection": ""
   },
   {
    "altText": "Eine Küchenspüle ist unter einem Berg schmutzigen Geschirrs begraben und wird von einer Unterbauleuchte angestrahlt.",
@@ -32,7 +93,28 @@
     "Dein Gesicht, wenn du nach einem langen Tag nach Hause kommst und das hier vorfindest:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "altText": "Von oben fotografierter junger Mann mit freiem Oberkörper, der beim Bankdrücken geheimnisvoll lächelt.",
+   "category": "POV",
+   "id": "116310",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein Kumpel dich SO bittet, ihn beim Bankdrücken abzusichern:"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "altText": "Eine spärlich ausgestattete, schmutzige öffentliche Toilette in einem Keller.",
+   "category": "POV",
+   "id": "116311",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn das die einzige Toilette in deinem Hotel ist:"
+   ],
+   "selfieDirection": ""
   },
   {
    "altText": "Ein junger Mann in einem schlecht sitzenden Anzug präsentiert einen großen Geldstapel und einen Koffer voller Geld.",
@@ -43,7 +125,7 @@
     "Dein Gesicht, wenn du zur Arbeit kommst und dich das hier erwartet:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "altText": "Ein übermäßig begeisterter junger Mann in einer beigefarbenen Strickjacke hält beide Hände der betrachtenden Person fest.",
@@ -54,7 +136,27 @@
     "Dein Gesicht, wenn das gerade dein Blickwinkel ist:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "altText": "Ein modisch gekleideter junger Mann sitzt in einem gemütlichen Bett im Heck eines Campers. Die geöffneten Hecktüren geben den Blick auf einen See frei. Er hebt einen Becher zum Anstoßen.",
+   "category": "POV",
+   "id": "116388",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein Kumpel dir seine „bescheidene Unterkunft“ fürs Wochenende zeigt:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein einfaches, schmutziges Bettgestell mit verschiedenen schäbigen Kleidungsstücken in einem kleinen, schmutzigen Zimmer.",
+   "category": "POV",
+   "id": "116389",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn deine Ferienwohnung für eine Nacht SO aussieht:"
+   ],
+   "selfieDirection": ""
   },
   {
    "altText": "Aus der Ich-Perspektive sind ängstlich erhobene Hände vor einer offenen Kerkertür zu sehen.",
@@ -65,7 +167,7 @@
     "Dein Gesicht, wenn du am 27. Tag im Labyrinth das hier siehst:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "altText": "Über einer Stadtsilhouette fallen riesige Felsbrocken und Feuer vom Himmel.",
@@ -76,7 +178,17 @@
     "Dein Gesicht, wenn das die Aussicht aus deiner Wohnung ist:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "altText": "Eine enttäuscht wirkende junge Frau legt eine Hand an den Kopf und betrachtet eine herzförmige Ringschachtel.",
+   "category": "POV",
+   "id": "117266",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn das ihre Reaktion auf deinen Heiratsantrag ist:"
+   ],
+   "selfieDirection": ""
   },
   {
    "altText": "Ein schlammverschmiertes Kleinkind mit blonden Zöpfen zieht an seinen Haaren und hat einen Wutanfall.",
@@ -87,7 +199,37 @@
     "Dein Gesicht, wenn das schon seit 30 Minuten so geht:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "altText": "Die Silhouetten einer Menschenmenge vor einem gewaltigen Dämon oder Drachen, der aus rotem Rauch emporsteigt.",
+   "category": "POV",
+   "id": "117268",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du für Samstagabend „was ganz Entspanntes“ geplant hattest:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein glücklicher kahlköpfiger Mann mit gelber Krawatte liegt auf dem Bauch und benutzt einen Laptop. Seine Beine sind an den Knöcheln überkreuzt.",
+   "category": "POV",
+   "id": "118523",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht am ersten Arbeitstag, wenn dein Chef SO arbeitet:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Eine Gruppe Paparazzi hinter einer roten Absperrkordel. Ihre Kamerablitze leuchten auf.",
+   "category": "POV",
+   "id": "118524",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dich vor der Toilette plötzlich DAS erwartet:"
+   ],
+   "selfieDirection": ""
   },
   {
    "altText": "Eine blonde Frau beißt in ein großes rohes Rindersteak.",
@@ -98,7 +240,28 @@
     "Dein Gesicht, wenn sich deine Kollegin so über ihr Mittagessen hermacht:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "altText": "Ein sichtlich verunsicherter Tätowierer hält sich bereit, einen Arm zu tätowieren.",
+   "category": "POV",
+   "id": "118548",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn sogar dein Tätowierer vor deinem Tattoo nervös wird:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Drei Freunde trinken Bier in einer Bar und lächeln in die Kamera.",
+   "category": "POV",
+   "id": "119029",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dich diese drei an der Bar anlächeln, als würden sie dich kennen:"
+   ],
+   "selfieDirection": "",
+   "x": true
   },
   {
    "altText": "Ein wütend aussehender Boxer steht im Ring und holt zu einem Schlag in Richtung Kamera aus.",
@@ -109,7 +272,229 @@
     "Dein Gesicht, wenn du gegen diesen Kerl antreten musst:"
    ],
    "selfieDirection": "",
-   "starterContent": true
+   "starterContent": false
+  },
+  {
+   "altText": "Ein Junge in einem Pullunder mit Rautenmuster zertritt an Weihnachten einen neuen Spielzeuglaster.",
+   "category": "POV",
+   "id": "119033",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein Sohn SO auf sein Weihnachtsgeschenk reagiert:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Aus dem Inneren eines Lochs sieht man eine Hand, die hineingreift.",
+   "category": "POV",
+   "id": "119034",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn plötzlich eine Hand in dein Versteck greift:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein unheimlich wirkender Weihnachtsmann mit Gummimaske begrüßt ein kleines Kind in einem Wohnzimmer.",
+   "category": "POV",
+   "id": "119183",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du erfährst, dass der Weihnachtsmann SO aussieht:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein Paar nähert sich der Kamera, um gleichzeitig einen Kuss zu geben.",
+   "category": "POV",
+   "id": "119293",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn die beiden dich gleichzeitig mit einem Küsschen begrüßen wollen:"
+   ],
+   "selfieDirection": "",
+   "x": true
+  },
+  {
+   "altText": "Von hinten fotografierter Fischer in einem Ruderboot, der bei starkem Wellengang auf das Ufer zusteuert.",
+   "category": "POV",
+   "id": "119294",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn aus einer einstündigen Bootstour acht Stunden DAS werden:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein Frettchen als Haustier.",
+   "category": "POV",
+   "id": "120854",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein neues Date beiläufig erwähnt, sechs davon zu Hause zu haben:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein zerstörter Schokoladenkuchen. Daneben liegt ein mit Kuchenresten bedeckter Meißel.",
+   "category": "POV",
+   "id": "120855",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn gleich die Gäste kommen und die Konditorei DAS liefert:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Blick vom Pilotensitz in das komplizierte Cockpit eines Kampfflugzeugs aus dem Zweiten Weltkrieg.",
+   "category": "POV",
+   "id": "120856",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du im Traum plötzlich dieses Ding fliegen sollst:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein sehr albern aussehender winziger Hund mit heraushängender Zunge.",
+   "category": "POV",
+   "id": "120857",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein Partner mit diesem Hund nach Hause kommt:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Eine Sammlung unheimlich wirkender viktorianischer Puppen.",
+   "category": "POV",
+   "id": "120858",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du jeden Morgen neben DIESEN Puppen aufwachst:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein Ledersessel und ein hoher Stapel sehr dicker Bücher.",
+   "category": "POV",
+   "id": "120859",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn das dein einziger Plan fürs Wochenende ist:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Eine einfache Hütte mitten in einem weitläufigen Wald.",
+   "category": "POV",
+   "id": "120860",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dir jemand sagt: „Hier wohnst du jetzt.“"
+   ],
+   "selfieDirection": "www.gettyimages.com/detail/photo/aerial-view-of-boreal-nature-forest-river-and-log-royalty-free-image/1340350864?slot=2&adppopup=true"
+  },
+  {
+   "altText": "Ein junger Arzt mit blondiertem Haar, Clownsnase und mehreren Piercings. Sein Mund steht vor Begeisterung offen.",
+   "category": "POV",
+   "id": "120861",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn DAS dein neuer Hausarzt ist:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Die verstreuten Teile eines unfertigen, komplizierten Puzzles.",
+   "category": "POV",
+   "id": "120862",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du für dieses Puzzle nur noch drei Stunden hast:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein Mikrofon aus Sicht einer Person, die dahinter steht und in ein voll besetztes Stadion blickt.",
+   "category": "POV",
+   "id": "120863",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du ans Mikro trittst und ein ganzes Stadion auf dich wartet:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein Kernkraftwerk bei Sonnenuntergang mit zwei riesigen Betonschornsteinen in der Mitte.",
+   "category": "POV",
+   "id": "120864",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn deine neue Traumwohnung direkt neben diesem Kraftwerk liegt:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein Nachthimmel voller roter und gelber Feuerwerkskörper.",
+   "category": "POV",
+   "id": "120865",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn über dir plötzlich dieses Feuerwerk losgeht:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein freundlich wirkender älterer Mann mit Bart und ländlicher Kleidung, der ein großes landwirtschaftliches Werkzeug hält.",
+   "category": "POV",
+   "id": "121292",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn Opa wieder mit „Damals auf dem Hof …“ anfängt:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Ein leuchtender, futuristischer Computerwürfel, an den verschiedene Kabel angeschlossen sind.",
+   "category": "POV",
+   "id": "121293",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dein neuer Chef ein leuchtender Computerwürfel ist:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Eine Gruppe von sieben Krähen auf dem Boden.",
+   "category": "POV",
+   "id": "121294",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn dir diese Krähen ÜBERALLHIN folgen:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Blick in die Wölbung einer großen, bedrohlich wirkenden Meereswelle.",
+   "category": "POV",
+   "id": "121295",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du vom Surfbrett aus diese Welle auf dich zukommen siehst:"
+   ],
+   "selfieDirection": ""
+  },
+  {
+   "altText": "Auf einem sauberen Teller mit Silberbesteck liegt eine winzige Portion würfelförmiges Essen.",
+   "category": "POV",
+   "countrySpecific": true,
+   "id": "121296",
+   "position": "SECOND",
+   "prompts": [
+    "Dein Gesicht, wenn du für 250 Euro DAS auf den Teller bekommst:"
+   ],
+   "selfieDirection": ""
   }
  ]
 }
