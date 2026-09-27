@@ -3,62 +3,62 @@
   {
    "category": "FILL-IN-BLANK",
    "id": "117163",
-   "text": "Mount {{BLANK}}"
+   "text": "{{BLANK}}berg"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117167",
-   "text": "Happy {{BLANK}} Day!"
+   "text": "Alles Gute zur/zum {{BLANK}}!"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117169",
-   "text": "It's a {{BLANK}} party!"
+   "text": "Heute feiern wir {{BLANK}}!"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117170",
-   "text": "{{BLANK}} Land"
+   "text": "{{BLANK}}land"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117203",
-   "text": "The Lord of {{BLANK}}"
+   "text": "Meister {{BLANK}}"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117232",
-   "text": "{{BLANK}} School"
+   "text": "{{BLANK}}schule"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117234",
-   "text": "{{BLANK}} of the Year"
+   "text": "{{BLANK}} des Jahres"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117241",
-   "text": "Self-{{BLANK}}"
+   "text": "{{BLANK}}zimmer"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117244",
-   "text": "The Museum of {{BLANK}}"
+   "text": "Museum für {{BLANK}}"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "117828",
-   "text": "Doctor {{BLANK}}"
+   "text": "Doktor {{BLANK}}"
   },
   {
    "category": "SMALL-STARTER",
    "id": "117829",
-   "text": "What's that thing in your wallet?"
+   "text": "Was ist das in deinem Portemonnaie?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "117830",
-   "text": "What's that one thing from the vending machine?"
+   "text": "Was ist das für ein Ding aus dem Automaten?"
   },
   {
    "category": "FILL-IN-BLANK",
@@ -68,132 +68,132 @@
   {
    "category": "FILL-IN-BLANK",
    "id": "118148",
-   "text": "{{BLANK}} Sauce"
+   "text": "{{BLANK}}soße"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118156",
-   "text": "{{BLANK}} Job"
+   "text": "{{BLANK}}haus"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118166",
-   "text": "What’s that one thing in your bedroom?"
+   "text": "Was ist das da in deinem Schlafzimmer?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118167",
-   "text": "What's that one sticky thing?"
+   "text": "Was ist klebrig?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118168",
-   "text": "What is that one thing that’s REAL big?"
+   "text": "Welche eine Sache ist echt RIESIG?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118170",
-   "text": "What’s that thing that's out at night?"
+   "text": "Was ist nachts unterwegs?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118172",
-   "text": "What's that event that all those people go to?"
+   "text": "Zu welcher Veranstaltung gehen richtig viele Leute?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118174",
-   "text": "What’s that one thing that uses batteries?"
+   "text": "Was braucht Batterien?"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118297",
-   "text": "World's #1 {{BLANK}}"
+   "text": "Weltmeister im {{BLANK}}"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118301",
-   "text": "A Big {{BLANK}} Collection"
+   "text": "Eine große {{BLANK}} Sammlung"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118303",
-   "text": "A {{BLANK}} Machine"
+   "text": "Eine {{BLANK}}maschine"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118304",
-   "text": "Whoa, what’s that thing I see way up there?"
+   "text": "Wow, was ist das da ganz weit oben?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118306",
-   "text": "What’s that one thing on your computer?"
+   "text": "Was hast du da auf deinem Computer?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118308",
-   "text": "What’s that thing that goes in a bowl?"
+   "text": "Was kommt in eine Schüssel?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118310",
-   "text": "So, what did YOU bring to college?"
+   "text": "Was studiert man denn am besten?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118313",
-   "text": "What’s that thing in the trunk of your car?"
+   "text": "Was liegt da im Kofferraum?"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118331",
-   "text": "{{BLANK}} Night"
+   "text": "{{BLANK}} Nacht"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118333",
-   "text": "A {{BLANK}} Sign"
+   "text": "Ein {{BLANK}}schild"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118335",
-   "text": "{{BLANK}} City"
+   "text": "{{BLANK}}wagen"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118337",
-   "text": "What’s that thing you have to plug in to use?"
+   "text": "Was muss man erst einstecken, um es zu benutzen?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118357",
-   "text": "What’s that thing on your shirt?"
+   "text": "Was ist da auf deinem T-Shirt?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118360",
-   "text": "What’s in that there cup?"
+   "text": "Was ist da in deiner Tasse?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118619",
-   "text": "What’s that thing you rent?"
+   "text": "Was kann man mieten?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118624",
-   "text": "What’s a thing you always put off?"
+   "text": "Was schiebst du ständig vor dir her?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118631",
-   "text": "What’s that thing you’re always losing?"
+   "text": "Was verlierst du ständig?"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118649",
-   "text": "{{BLANK}} Club"
+   "text": "{{BLANK}}ball"
   },
   {
    "category": "FILL-IN-BLANK",
@@ -203,57 +203,57 @@
   {
    "category": "FILL-IN-BLANK",
    "id": "118654",
-   "text": "The {{BLANK}} Show"
+   "text": "Die {{BLANK}} Show"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118682",
-   "text": "What’s that thing that requires particular footwear?"
+   "text": "Wofür braucht man spezielle Schuhe?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118683",
-   "text": "What’s that thing that often falls under the car seat?"
+   "text": "Was fällt ständig unter den Autositz?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118689",
-   "text": "What’s that thing you need to hire someone to fix?"
+   "text": "Was muss meistens ein Profi reparieren?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118697",
-   "text": "What’s that thing they keep in a display case?"
+   "text": "Was bewahrt man in einer Vitrine auf?"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118709",
-   "text": "{{BLANK}}-Free"
+   "text": "Ohne {{BLANK}}"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118762",
-   "text": "What’s that thing a person does on stage?"
+   "text": "Was macht man auf einer Bühne?"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118772",
-   "text": "What’s that thing you give to someone you love?"
+   "text": "Was schenkt man jemandem, den man liebt?"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118773",
-   "text": "King {{BLANK}}"
+   "text": "König {{BLANK}}"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118831",
-   "text": "What’s that edible thing that smells really good?"
+   "text": "Welche essbare Sache riecht richtig gut?"
   },
   {
    "category": "FILL-IN-BLANK",
    "id": "118850",
-   "text": "Winter {{BLANK}}"
+   "text": "{{BLANK}}zeug"
   },
   {
    "category": "FILL-IN-BLANK",
@@ -263,12 +263,12 @@
   {
    "category": "FILL-IN-BLANK",
    "id": "118854",
-   "text": "Pocket {{BLANK}}"
+   "text": "Tschen{{BLANK}}"
   },
   {
    "category": "SMALL-STARTER",
    "id": "118865",
-   "text": "What’s that thing people line up for?"
+   "text": "Wofür stehen die Leute Schlange?"
   }
  ]
 }

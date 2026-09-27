@@ -4,1187 +4,1187 @@
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "117907",
-   "prompt": "Hey, you! Over there! Show us your wallet! We know it’s full of {{BLANK}}!"
+   "prompt": "He, du da! Zeig uns deinen Geldbeutel! Wir wissen genau, was drin ist: {{BLANK}}!"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "117911",
-   "prompt": "Our pal scraped their knee! Let’s give them {{BLANK}} so they’ll feel better."
+   "prompt": "Unser Freund hat sich das Knie aufgeschürft! Zur Aufmunterung bekommt er: {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "117919",
-   "prompt": "We’re sending our friend on a trip! Here’s an economy flight to {{BLANK}}."
+   "prompt": "Wir schicken unseren Freund auf Reisen! Ziel seines Flugs in der Holzklasse: {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "117923",
-   "prompt": "Let's make a candle for our friend here. It smells powerfully of {{BLANK}}."
+   "prompt": "Wir gießen für unseren Freund eine Duftkerze. Ihre Duftnote: {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "117927",
-   "prompt": "What’s something this person probably has a picture of on their phone?"
+   "prompt": "Wovon hat dieser Spieler vermutlich ein Foto auf dem Handy?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "117928",
-   "prompt": "Let’s give our pal a tattoo while they sleep! What do you wanna ink ‘em with?",
+   "prompt": "Wir verpassen unserem Freund im Schlaf ein Tattoo! Was soll drauf?",
    "x": true
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119324",
-   "prompt": "Let’s get our friend here a bouquet of something. It’s full of {{BLANK}}!"
+   "prompt": "Wir schenken unserem Freund einen Blumenstrauß – nur ohne Blumen. Was steckt drin? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119325",
-   "prompt": "What’s a yucky word that would make our two pals here squirm?"
+   "prompt": "Welches eklige Wort würde die beiden so richtig zusammenzucken lassen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119326",
-   "prompt": "Let’s distract these two by putting a delicious {{BLANK}} on the windowsill."
+   "prompt": "Auf dem Fensterbrett steht etwas Leckeres, das die beiden ablenkt: {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119351",
-   "prompt": "Our friends are on the loose! What item will lure them into a trap?"
+   "prompt": "Die beiden sind ausgebüxt! Womit locken wir sie in die Falle?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119352",
-   "prompt": "Let’s sign our friend's yearbook. What would you like to say to our graduate?"
+   "prompt": "Unser Freund hat den Abschluss geschafft! Was schreiben wir in sein Abibuch?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119354",
-   "prompt": "These two just got jobs on the Home Shopping Network. What are they sellin’?"
+   "prompt": "Die beiden haben einen Job beim Teleshopping ergattert. Was verkaufen sie?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119355",
-   "prompt": "Let’s go to the mall to cheer our friend up. Where we going first, champ?"
+   "prompt": "Unser Freund braucht Aufmunterung, also geht's ins Einkaufszentrum. Welcher Laden ist zuerst dran?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119356",
-   "prompt": "This duo needs a new look. What jaunty accessories do they need?"
+   "prompt": "Die beiden brauchen einen neuen Look. Welche Accessoires stehen ihnen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119357",
-   "prompt": "Our friend is getting their last meal. What’s a good food to go out on?",
+   "prompt": "Unser Freund darf sich seine Henkersmahlzeit aussuchen. Was kommt auf den Teller?",
    "x": true
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119358",
-   "prompt": "These two need a boost. Inspire them with quotes from {{BLANK}}!"
+   "prompt": "Wir motivieren die beiden mit Zitaten. Die Quelle: {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119359",
-   "prompt": "How would our pals answer this: “What’s a hard thing that goes away over time?”"
+   "prompt": "Was würden die beiden auf diese Frage antworten: „Was ist schwierig, geht aber mit der Zeit vorbei?“"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119462",
-   "prompt": "If our friend could turn into ANY animal, what would you like them to be?"
+   "prompt": "Wenn unser Freund sich in JEDES Tier verwandeln könnte: Welches würdet ihr ihm wünschen?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119465",
-   "prompt": "Our friend got a job at the ballpark! What baseball-type job do they have?"
+   "prompt": "Unser Freund arbeitet jetzt im Fußballstadion! Was macht er dort?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119467",
-   "prompt": "Our pal has tons and tons of {{BLANK}} in their house!"
+   "prompt": "Das Haus unseres Freundes ist bis unters Dach voll. Womit? {{BLANK}}!"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119469",
-   "prompt": "If our pal came into money, we would know by the sudden purchase of {{BLANK}}!"
+   "prompt": "Unser Freund ist plötzlich reich! Sein erster verdächtiger Kauf: {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119471",
-   "prompt": "Our friend here is a saint. But what place are they the patron saint of?"
+   "prompt": "Unser Freund ist heiliggesprochen! Von welchem Ort ist er der Schutzpatron?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119515",
-   "prompt": "Let’s cheer up our friend with a caricature! What should we draw them holding?"
+   "prompt": "Wir zeichnen eine Karikatur, um unseren Freund aufzuheitern. Was hält er darauf in der Hand?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119516",
-   "prompt": "Our friend needs motivation, so they're being chased by a pack of {{BLANK}}!"
+   "prompt": "Unser Freund braucht Motivation. Hinter ihm ist plötzlich eine ganze Meute: {{BLANK}}!"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119517",
-   "prompt": "Our friend has an inanimate object come to life! What’s their new bestie?"
+   "prompt": "Ein lebloser Gegenstand ist plötzlich der beste Kumpel unseres Freundes. Welcher?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119520",
-   "prompt": "Our friend can pick a fun outdoor activity we do next. What are we doing?"
+   "prompt": "Unser Freund sucht die nächste Aktivität im Freien aus. Was machen wir?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119521",
-   "prompt": "What’s something around here our pal should look at instead?"
+   "prompt": "Worauf hier in der Nähe sollte unser Freund stattdessen schauen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119550",
-   "prompt": "What's something that will tickle our friend here? Literally or figuratively."
+   "prompt": "Womit kann man unseren Freund kitzeln – im wörtlichen oder übertragenen Sinn?"
   },
   {
    "category": "SOLO",
    "countrySpecific": true,
    "familiarity": "FRIENDS",
    "id": "119551",
-   "prompt": "If we get our friend a $300 food gift card, what should they buy with it?"
+   "prompt": "Unser Freund bekommt einen 300-Euro-Gutschein fürs Essen. Wofür gibt er ihn aus?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119553",
-   "prompt": "Let’s give these two a little scare! What’s a word that would freak them out?"
+   "prompt": "Wir erschrecken die beiden ein bisschen! Welches Wort würde sie in Panik versetzen?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119554",
-   "prompt": "Our friend here is throwing a movie-themed birthday party. What’s the theme?"
+   "prompt": "Unser Freund feiert Geburtstag mit Filmthema. Welcher Film gibt das Motto vor?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119555",
-   "prompt": "Our pals are opening up a mall kiosk together! What are they selling?"
+   "prompt": "Die beiden eröffnen einen Stand im Einkaufszentrum! Was verkaufen sie?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119556",
-   "prompt": "What’s an activity these two might do that’s perfect for two people?"
+   "prompt": "Was könnten die beiden unternehmen, das zu zweit am meisten Spaß macht?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119557",
-   "prompt": "These two decided to take an extracurricular class together. What’s it about?"
+   "prompt": "Die beiden melden sich gemeinsam zu einem Freizeitkurs an. Worum geht's?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119560",
-   "prompt": "Our pals went to the field day family reunion and won a contest. What contest?"
+   "prompt": "Beim Familiensportfest haben die beiden einen Wettbewerb gewonnen. Welchen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119561",
-   "prompt": "These two have declared a new holiday. Happy International {{BLANK}} Day!"
+   "prompt": "Die beiden haben einen Feiertag erfunden: den Welt-{{BLANK}}-Tag!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119562",
-   "prompt": "What fast-casual restaurant will our pals take us to?"
+   "prompt": "In welches Schnellrestaurant schleppen uns die beiden?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119563",
-   "prompt": "Our pal doesn't need us. What's a solo activity we can suggest for them?"
+   "prompt": "Unser Freund braucht uns gar nicht. Welche Beschäftigung kann er ganz allein machen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119566",
-   "prompt": "Show you’re not bitter about this friendship by naming cute things they’d like."
+   "prompt": "Zeig, dass du den beiden ihre Freundschaft gönnst: Welche süßen Dinge mögen sie wohl?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119567",
-   "prompt": "Our friend is stuck in this game. What's something else they could be stuck in?"
+   "prompt": "Unser Freund steckt in diesem Spiel fest. Worin könnte er stattdessen feststecken?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119568",
-   "prompt": "Let's ship our friend a monthly subscription to {{BLANK}}!"
+   "prompt": "Wir schenken unserem Freund ein Monatsabo. Wofür? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119569",
-   "prompt": "What job do you think these two dreamed of doing when they were kids?"
+   "prompt": "Von welchem Beruf haben die beiden wohl als Kinder geträumt?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119570",
-   "prompt": "Trip up these friends with words that are... sticky."
+   "prompt": "Mit welchen KLEBRIGEN Wörtern bringen wir die beiden ins Stolpern?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119589",
-   "prompt": "We’re giving our friend a bag to fill at the candy store! What’s going inside?"
+   "prompt": "Unser Freund darf im Süßwarenladen eine Tüte füllen. Was kommt rein?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119590",
-   "prompt": "Our friend is the closing act for our talent show! What are they going to do?"
+   "prompt": "Unser Freund tritt bei der Talentshow zum Schluss auf. Was zeigt er?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119591",
-   "prompt": "We’re taking stuff from our friend's junk drawer! What should we grab?"
+   "prompt": "Wir plündern die Krimskrams-Schublade unseres Freundes. Was nehmen wir mit?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119592",
-   "prompt": "Our friend needs some quiet time. That's why we're sending them to {{BLANK}}!"
+   "prompt": "Unser Freund braucht Ruhe. Wir schicken ihn an diesen Ort: {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119594",
-   "prompt": "Our pal is working the stadium concession stand! What are they selling?"
+   "prompt": "Unser Freund verkauft Snacks im Stadion. Was gibt's an seinem Stand?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119595",
-   "prompt": "We just took something out of our friend's hands. What is it?"
+   "prompt": "Wir haben unserem Freund gerade etwas aus der Hand genommen. Was war es?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119596",
-   "prompt": "Surprise pet! What animal does our friend here now need to be responsible for?"
+   "prompt": "Überraschung! Unser Freund bekommt ein Haustier. Um welches Tier muss er sich jetzt kümmern?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119599",
-   "prompt": "Yikes, our pal’s got a tummy ache from eating {{BLANK}} at the fair."
+   "prompt": "Oh je, unserem Freund ist schlecht – er hat auf dem Jahrmarkt {{BLANK}} gegessen."
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119600",
-   "prompt": "Our pal here is so strong that they once lifted up a... what was it again?"
+   "prompt": "Unser Freund ist so stark, dass er mal etwas hochgehoben hat ... was war das noch mal?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119601",
-   "prompt": "We're pretty sure that our friend could convince us {{BLANK}} is real.",
+   "prompt": "Unser Freund könnte uns davon überzeugen, dass es {{BLANK}} wirklich gibt.",
    "x": true
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119602",
-   "prompt": "Our friend won't stop throwing {{BLANK}} on the trampoline to see if it'll bounce!"
+   "prompt": "Unser Freund testet, was auf dem Trampolin hüpft. Sein nächster Kandidat: {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119603",
-   "prompt": "Our pals just had a sandwich named after them! What’s the key ingredient?"
+   "prompt": "Nach den beiden wurde ein Sandwich benannt! Was ist die wichtigste Zutat?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119604",
-   "prompt": "What’s a simple outdoor thing that could bring a smile to our pals’ faces?"
+   "prompt": "Welche kleine Freude im Freien würde den beiden ein Lächeln ins Gesicht zaubern?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119605",
-   "prompt": "Our friends have a plan for world domination. Where is their secret lair?"
+   "prompt": "Die beiden planen die Weltherrschaft. Wo liegt ihr geheimes Hauptquartier?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119606",
-   "prompt": "Pal one and pal two, sittin’ in a tree. What are they D-O-I-N-G?"
+   "prompt": "Die beiden sitzen auf einem Baum. Was stellen sie da oben an?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119607",
-   "prompt": "Our pals have gone Hollywood! What style of movie should they make?"
+   "prompt": "Die beiden wollen ins Filmgeschäft. Was für einen Film sollten sie drehen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119608",
-   "prompt": "When these two team up at the town park, where’s the first place they go?"
+   "prompt": "Wenn die beiden zusammen in den Stadtpark gehen, wo laufen sie als Erstes hin?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119612",
-   "prompt": "What sport are these two looking to dominate?"
+   "prompt": "In welcher Sportart wollen die beiden alles abräumen?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119613",
-   "prompt": "Instead of gold, everything our friend touches turns to {{BLANK}}!"
+   "prompt": "Alles, was unser Freund berührt, verwandelt sich. Gold? Von wegen! Das Ergebnis: {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119615",
-   "prompt": "These two are baking a cake! What special flavor does it have?"
+   "prompt": "Die beiden backen einen Kuchen! Welche besondere Geschmacksrichtung hat er?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119617",
-   "prompt": "Peep this noble pair! What symbol should go on their friendship coat of arms?"
+   "prompt": "Diese edlen Gestalten brauchen ein Freundschaftswappen. Welches Symbol kommt drauf?"
   },
   {
    "category": "MEGAPALS",
    "countrySpecific": true,
    "familiarity": "FRIENDS",
    "id": "119618",
-   "prompt": "Tsk, tsk! What did this pair do to get detention?"
+   "prompt": "Tss, tss! Warum mussten die beiden nachsitzen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119619",
-   "prompt": "What can we get for these pals from the airport gift shop?"
+   "prompt": "Was holen wir den beiden im Souvenirshop am Flughafen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119629",
-   "prompt": "These pals are partners-in-crime. But what valuables will they steal first?"
+   "prompt": "Die beiden sind Komplizen. Welche Wertsachen klauen sie zuerst?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119630",
-   "prompt": "If we had to describe our friend in one inspirational word, it's {{BLANK}}."
+   "prompt": "Wenn wir unseren Freund mit einem einzigen inspirierenden Wort beschreiben müssten, wäre es: {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119631",
-   "prompt": "These two are working on an active construction site. What are they building?"
+   "prompt": "Die beiden arbeiten auf einer Baustelle. Was bauen sie?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119632",
-   "prompt": "These two are taking a watercolor class together! What are they painting?"
+   "prompt": "Die beiden besuchen einen Aquarellkurs. Was malen sie?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119635",
-   "prompt": "These two are running mates! Their campaign promise: everybody gets {{BLANK}}!"
+   "prompt": "Die beiden treten gemeinsam zur Wahl an! Ihr Wahlversprechen: Alle bekommen {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119637",
-   "prompt": "What word are these two pals writing in the sky up there?"
+   "prompt": "Welches Wort schreiben die beiden da oben an den Himmel?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119638",
-   "prompt": "BREAKING: These two were just seen trying to climb {{BLANK}}!"
+   "prompt": "EILMELDUNG: Die beiden klettern auf etwas herum. Worauf? {{BLANK}}!"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119785",
-   "prompt": "Let’s take our friend to the casino! What activity are we doing first?",
+   "prompt": "Wir nehmen unseren Freund mit ins Casino! Womit fangen wir an?",
    "x": true
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119826",
-   "prompt": "What ACTUAL treasure should we give to our friends here?"
+   "prompt": "Welchen ECHTEN Schatz sollen wir den beiden schenken?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119827",
-   "prompt": "This friendship is now proudly sponsored by: {{BLANK}}."
+   "prompt": "Offizieller Sponsor dieser Freundschaft: {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "countrySpecific": true,
    "familiarity": "STRANGERS",
    "id": "119828",
-   "prompt": "If we gave our pals $25, what would they get from the museum gift shop?"
+   "prompt": "Die beiden haben 25 Euro für den Museumsshop. Was kaufen sie?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119829",
-   "prompt": "What’s a non-car thing you think our pals would look SO COOL driving?"
+   "prompt": "Auf welchem Gefährt außer einem Auto würden die beiden SO COOL aussehen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119830",
-   "prompt": "What evening drink would pair the best with this pair’s friendship?"
+   "prompt": "Welches Getränk am Abend passt perfekt zu dieser Freundschaft?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119831",
-   "prompt": "Let’s make a statue in honor of these friends! It is made of {{BLANK}}."
+   "prompt": "Wir bauen den beiden ein Denkmal! Das Material: {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119832",
-   "prompt": "Our pals here have formed a new streaming channel! They only play {{BLANK}}."
+   "prompt": "Die beiden starten einen Streamingkanal. Sie spielen dort NUR {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119833",
-   "prompt": "Let’s smash these two’s names together. Their new FRIENDSHIP name is {{BLANK}}!"
+   "prompt": "Wir verschmelzen die Namen der beiden. Ihr neuer FREUNDSCHAFTSNAME: {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119835",
-   "prompt": "These two are going to do our chores! Have fun cleaning our {{BLANK}}!"
+   "prompt": "Heute putzen die beiden für uns: {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119836",
-   "prompt": "Let’s take our friends to the Renaissance fair and dress them up as {{BLANK}}."
+   "prompt": "Auf dem Mittelaltermarkt verkleiden wir die beiden als {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119843",
-   "prompt": "Our buddy is prepared for anything! What did we find in their toolbox?"
+   "prompt": "Unser Freund ist auf alles vorbereitet! Was finden wir in seinem Werkzeugkasten?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119844",
-   "prompt": "What did our friend see in the store window that made them stop in their tracks?"
+   "prompt": "Was hat unser Freund im Schaufenster gesehen, sodass er wie angewurzelt stehen blieb?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119845",
-   "prompt": "What's something our friend has that they would happily share with us all?"
+   "prompt": "Was besitzt unser Freund, das er gerne mit uns allen teilen würde?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119850",
-   "prompt": "Our friend saved us a seat at an expensive event. Where are we?"
+   "prompt": "Unser Freund hat uns bei einer teuren Veranstaltung einen Platz freigehalten. Wo sind wir?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119851",
-   "prompt": "Our friend pointed out something cool from the airplane window. What is it?"
+   "prompt": "Unser Freund zeigt begeistert aus dem Flugzeugfenster. Was hat er entdeckt?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119852",
-   "prompt": "Our buddy is choosing to try something out before they buy it. What is it?"
+   "prompt": "Unser Freund will vor dem Kauf erst mal etwas ausprobieren. Was?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119854",
-   "prompt": "What did our friend accidentally leave in their coat pocket?"
+   "prompt": "Was hat unser Freund versehentlich in seiner Jackentasche vergessen?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119855",
-   "prompt": "We all made a snowman! What did this pal add to it?"
+   "prompt": "Wir haben einen Schneemann gebaut! Was hat unser Freund noch drangebastelt?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119864",
-   "prompt": "What are things at the buffet we KNOW our friends shouldn’t eat?"
+   "prompt": "Was am Buffet sollten die beiden AUF KEINEN FALL essen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119865",
-   "prompt": "Our friend’s getting a phone call. Who is someone that might be calling them?"
+   "prompt": "Unser Freund bekommt einen Anruf. Wer könnte dran sein?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119866",
-   "prompt": "What are some economics words we can say to impress our friends?"
+   "prompt": "Mit welchen Begriffen aus der Wirtschaft können wir die beiden beeindrucken?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119869",
-   "prompt": "What are some things our friends LOVE about summer?"
+   "prompt": "Was lieben die beiden am Sommer?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119870",
-   "prompt": "What’s something that’s likely in the background of our buddy’s video call?"
+   "prompt": "Was steht bei unserem Freund wohl im Hintergrund, wenn er einen Videoanruf macht?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119872",
-   "prompt": "What is something that our friend might pin to their refrigerator?"
+   "prompt": "Was würde unser Freund an den Kühlschrank pinnen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119873",
-   "prompt": "What are some science-y words we think our friends here would like?"
+   "prompt": "Welche wissenschaftlichen Begriffe würden den beiden wohl gefallen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119875",
-   "prompt": "Our buddy rented a limo for a special event! Where are we going?"
+   "prompt": "Unser Freund hat für einen besonderen Anlass eine Limousine gemietet. Wohin fahren wir?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119876",
-   "prompt": "Let’s whisper some soothing words into our friends’ ears, like {{BLANK}}."
+   "prompt": "Welche beruhigenden Worte flüstern wir den beiden zu? Zum Beispiel: {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119877",
-   "prompt": "What are some of our friends’ favorite words in the song “Mambo No. 5”?"
+   "prompt": "Welche Wörter aus „Mambo No. 5“ feiern die beiden ganz besonders?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119878",
-   "prompt": "How would our friends fill in the following phrase? “{{BLANK}} Star”"
+   "prompt": "Wie würden die beiden diesen Titel ergänzen? „{{BLANK}}-Star“"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119879",
-   "prompt": "Our friends are sensitive! That’s why we make sure their food is {{BLANK}}-free."
+   "prompt": "Die beiden sind empfindlich. Auf ihrem Essen steht deshalb ganz groß: „OHNE {{BLANK}}“."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "119880",
-   "prompt": "Let’s cuddle up with our friends and watch {{BLANK}} for the hundredth time."
+   "prompt": "Wir machen es uns mit den beiden gemütlich und schauen zum hundertsten Mal {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119881",
-   "prompt": "What's a soothing word that would immediately make our friend here feel comfy?"
+   "prompt": "Welches beruhigende Wort würde unserem Freund sofort ein wohliges Gefühl geben?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119884",
-   "prompt": "We're letting our friend pick ONE thing at the toy store. What is it?"
+   "prompt": "Unser Freund darf sich im Spielzeugladen GENAU EINE Sache aussuchen. Welche?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119886",
-   "prompt": "Our friend wants us to see this video they found online. What's the video of?"
+   "prompt": "Unser Freund will uns unbedingt ein Video aus dem Internet zeigen. Was ist darauf zu sehen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119887",
-   "prompt": "Our friend asked: “Can you hold this for a sec?” What did they just hand us?"
+   "prompt": "Unser Freund sagt: „Hältst du das mal kurz?“ Was hat er uns in die Hand gedrückt?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119894",
-   "prompt": "Our friend is taking D.I.Y. seriously. They're even making their own {{BLANK}}."
+   "prompt": "Unser Freund macht ALLES selbst. Wirklich alles. Sogar: {{BLANK}}!"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119896",
-   "prompt": "It’s camp activities sign-up day! What is our friend signing up for?"
+   "prompt": "Heute meldet man sich fürs Ferienlager an! Welche Aktivität wählt unser Freund?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119897",
-   "prompt": "What’s our friend’s favorite thing the ocean has to offer?"
+   "prompt": "Was liebt unser Freund am Meer am meisten?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119898",
-   "prompt": "Our super cool friend got us something awesome for our backyard. What is it?"
+   "prompt": "Unser supercooler Freund hat uns etwas Tolles für den Garten besorgt. Was?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119899",
-   "prompt": "We wrote a song about our friend. What words describe the genre of that song?"
+   "prompt": "Wir haben ein Lied über unseren Freund geschrieben. Welches Genre passt dazu?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119900",
-   "prompt": "Our friend is a kind soul, so we signed them up to donate their {{BLANK}}!"
+   "prompt": "Unser Freund ist eine gute Seele. Also haben wir ihn ungefragt als Spender eingetragen. Was spendet er? {{BLANK}}!"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119902",
-   "prompt": "Our buddy just became President! Of what?"
+   "prompt": "Unser Freund wurde gerade Präsident! Aber wovon eigentlich?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119903",
-   "prompt": "What special event does our friend look forward to every year?"
+   "prompt": "Auf welches besondere Ereignis freut sich unser Freund jedes Jahr?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119960",
-   "prompt": "What are some impressive business words we think our friends will like?"
+   "prompt": "Welche beeindruckenden Wörter aus der Geschäftswelt würden die beiden feiern?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119961",
-   "prompt": "What game show grand prize for our pals is behind Friendship Door Number 3?"
+   "prompt": "Hinter Tor 3 wartet der Hauptgewinn für die beiden! Was ist es?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119963",
-   "prompt": "What website tabs do our friends probably have open right now?"
+   "prompt": "Welche Tabs haben die beiden wohl gerade im Browser offen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119964",
-   "prompt": "With these two plus ME, we can do three-person activities, like {{BLANK}}."
+   "prompt": "Wir sind zu dritt: die beiden und ICH. Was machen wir? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119966",
-   "prompt": "What petty crime do you think our friends would be VERY good at?",
+   "prompt": "Welche kleine Straftat würden die beiden erschreckend gut beherrschen?",
    "x": true
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119967",
-   "prompt": "At a school for superpowered kids, what superpowers do our pals here share?"
+   "prompt": "Auf einer Schule für Kinder mit Superkräften: Welche Fähigkeit haben die beiden gemeinsam?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119969",
-   "prompt": "Let’s scare our pals by writing reasonable phobias, like {{BLANK}}!"
+   "prompt": "Machen wir den beiden Angst mit ganz vernünftigen Phobien. Zum Beispiel: {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119970",
-   "prompt": "What are we leaving in our pals’ dressing room for their BIG performance?"
+   "prompt": "Die beiden haben einen GROSSEN Auftritt. Was legen wir in ihre Künstlergarderobe?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119972",
-   "prompt": "Our friends are hyper. What’s an indoor activity that will settle them down?"
+   "prompt": "Die beiden sind völlig aufgedreht. Welche Beschäftigung drinnen würde sie beruhigen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "119974",
-   "prompt": "What are some old technologies you think our friends might miss?"
+   "prompt": "Welche Technik von früher vermissen die beiden wohl?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "119995",
-   "prompt": "Our pal is a winner! What sort of shiny thing should we give them as a reward?"
+   "prompt": "Unser Freund ist ein Gewinner! Welchen glänzenden Preis sollen wir ihm geben?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "119996",
-   "prompt": "What beach activities do you think our pal here would enjoy?"
+   "prompt": "Welche Aktivitäten am Strand würden unserem Freund gefallen?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "FRIENDS",
    "id": "119997",
-   "prompt": "Let’s distract our pal with a billboard advertising {{BLANK}}."
+   "prompt": "Wir lenken unseren Freund mit einer Plakatwand ab. Was wird darauf beworben? {{BLANK}}!"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "FRIENDS",
    "id": "119998",
-   "prompt": "What animal do you think would be our friend’s magical witch familiar?"
+   "prompt": "Wenn unser Freund zaubern könnte: Welches Tier wäre sein magischer Begleiter?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "119999",
-   "prompt": "Our pal here is shopping at the roadside gift shop. What are they gonna get?"
+   "prompt": "Unser Freund stöbert im Souvenirshop an der Raststätte. Was kauft er?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "FRIENDS",
    "id": "120000",
-   "prompt": "What \"cool guy\" accessory should our pal incorporate into their look?"
+   "prompt": "Welches Accessoire macht unseren Freund zum RICHTIG COOLEN TYPEN?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120001",
-   "prompt": "Let’s make our friend their own perfume. It has strong notes of {{BLANK}}."
+   "prompt": "Wir mischen für unseren Freund ein eigenes Parfum. Die stärkste Duftnote: {{BLANK}}."
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120002",
-   "prompt": "Our friend got us a bottle of wine! They say the flavor has notes of {{BLANK}}.",
+   "prompt": "Unser Freund schenkt uns Wein! Auf dem Etikett steht als Geschmacksnote: {{BLANK}}.",
    "x": true
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "FRIENDS",
    "id": "120004",
-   "prompt": "In middle school, our pal was voted “Most Likely to {{BLANK}}.”"
+   "prompt": "Die Klasse hat unserem Freund damals einen Titel verliehen: „Wird später bestimmt {{BLANK}}“."
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120005",
-   "prompt": "How would our friend finish this phrase: “Slow! {{BLANK}} Crossing”"
+   "prompt": "Wie würde unser Freund dieses Warnschild vervollständigen? „Vorsicht! {{BLANK}} auf der Straße!“"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120033",
-   "prompt": "Let’s design a personal flag for this pal. What’s the main color on it?"
+   "prompt": "Wir entwerfen für unseren Freund eine eigene Flagge. Welche Farbe dominiert?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120036",
-   "prompt": "We’re printing money with this friend’s face on it, but how much is it worth?"
+   "prompt": "Wir drucken Geld mit dem Gesicht unseres Freundes. Wie viel ist ein Schein wert?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120037",
-   "prompt": "This friend just had a cocktail named after them! What is it garnished with?",
+   "prompt": "Nach unserem Freund wurde ein Cocktail benannt! Womit wird er garniert?",
    "x": true
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120038",
-   "prompt": "If our pal here were a ghost, where would be a good place for them to haunt?"
+   "prompt": "Wäre unser Freund ein Geist: Wo sollte er spuken?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120041",
-   "prompt": "Our friend has gotten into exotic pets. They've recently acquired {{BLANK}}."
+   "prompt": "Unser Freund steht neuerdings auf exotische Haustiere. Sein neuester Mitbewohner: {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120066",
-   "prompt": "Our pal just opened their own restaurant! The one thing on the menu: {{BLANK}}."
+   "prompt": "Unser Freund hat ein Restaurant eröffnet! Auf der Speisekarte steht nur: {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120068",
-   "prompt": "If this player wrote a novel, what genre would it be in?"
+   "prompt": "Wenn dieser Spieler einen Roman schreiben würde: Welches Genre hätte er?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120075",
-   "prompt": "Our magical friend can pull anything out of a hat. What’s next?"
+   "prompt": "Unser magischer Freund zaubert ALLES aus einem Hut. Was kommt als Nächstes?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120076",
-   "prompt": "Our friend is promising to play a game with us when we’re all done! What game??"
+   "prompt": "Unser Freund verspricht, nach dieser Runde mit uns etwas zu spielen. Welches Spiel??"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120077",
-   "prompt": "What spice is an ESSENTIAL part of our friend's spice rack?"
+   "prompt": "Welches Gewürz darf im Gewürzregal unseres Freundes AUF KEINEN FALL fehlen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120078",
-   "prompt": "Our friend has some neato antiques! What are they showing off to us?"
+   "prompt": "Unser Freund besitzt ziemlich coole Antiquitäten! Was zeigt er uns?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120079",
-   "prompt": "Roses are red, our friend is blue! What kind of flower should we pick for you?"
+   "prompt": "Rosen sind rot, unser Freund ist bedrückt. Mit welcher Blume wird er beglückt?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120083",
-   "prompt": "We’re staying up all night at a 24-hour diner! What’s our friend ordering?"
+   "prompt": "Wir sitzen die ganze Nacht im 24-Stunden-Imbiss. Was bestellt unser Freund?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120086",
-   "prompt": "Sleepover time! What late night activity is our friend here planning for us?"
+   "prompt": "Übernachtungsparty! Was hat unser Freund für die Nacht geplant?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120087",
-   "prompt": "Who at the wedding reception is our friend pulling out on the dance floor?"
+   "prompt": "Wen zieht unser Freund auf der Hochzeitsfeier auf die Tanzfläche?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120088",
-   "prompt": "Leftovers! What of yesterday's dinner are we warming up for our friend here?"
+   "prompt": "Resteessen! Was vom gestrigen Abendessen wärmen wir unserem Freund auf?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120090",
-   "prompt": "Let’s reward our friend with a nighttime activity! What hobby would they like?"
+   "prompt": "Als Belohnung darf unser Freund abends etwas unternehmen. Welche Abendbeschäftigung würde ihm gefallen?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120091",
-   "prompt": "Our friend got a brand deal, and now they only moisturize with {{BLANK}}."
+   "prompt": "Unser Freund hat einen Werbedeal! Seine Haut pflegt er ab jetzt nur noch mit {{BLANK}}."
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120092",
-   "prompt": "Let’s admire this friend's daily regimen! What’s one thing they do every day?"
+   "prompt": "Bewundern wir die tägliche Routine unseres Freundes! Was macht er jeden Tag?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120093",
-   "prompt": "We bothered our friend and they got ANGRY. What animal might they morph into?"
+   "prompt": "Wir haben unseren Freund genervt, und jetzt ist er STINKSAUER. In welches Tier verwandelt er sich?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120095",
-   "prompt": "We dared our friend to eat 50 of something in 10 minutes. What are they eating?"
+   "prompt": "Wir haben unseren Freund herausgefordert, in zehn Minuten 50 Stück von etwas zu essen. Was?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120096",
-   "prompt": "Our friend built us a hideout in an abandoned... what was it again?"
+   "prompt": "Unser Freund hat ein Versteck eingerichtet – an einem völlig verlassenen Ort. Wo?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120098",
-   "prompt": "Our friend looks so angelic sleeping. What nice things are they dreaming about?"
+   "prompt": "Unser Freund sieht im Schlaf aus wie ein Engel. Was für schöne Träume hat er?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120099",
-   "prompt": "Road trippin'! What musical artist is our friend putting on the aux?"
+   "prompt": "Roadtrip! Wessen Musik legt unser Freund auf?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120100",
-   "prompt": "We all need a screen break. What app would our pal delete for 30 days?"
+   "prompt": "Wir brauchen alle eine Bildschirmpause. Welche App würde unser Freund für 30 Tage löschen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120102",
-   "prompt": "What's an actually GOOD trait that our friend here possesses?"
+   "prompt": "Welche WIRKLICH gute Eigenschaft hat unser Freund?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120103",
-   "prompt": "Our friend's fridge is empty. What are we putting IN there that they might like?"
+   "prompt": "Der Kühlschrank unseres Freundes ist leer. Womit füllen wir ihn, damit er sich freut?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120104",
-   "prompt": "Our dear friend is a robot. What specific task were they created to do?"
+   "prompt": "Unser lieber Freund ist ein Roboter. Für welche ganz bestimmte Aufgabe wurde er gebaut?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120105",
-   "prompt": "Where does our friend want to travel to with our time machine?"
+   "prompt": "Wohin möchte unser Freund mit unserer Zeitmaschine reisen?"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120106",
-   "prompt": "Our pal is throwing darts to see where we should travel! Who did they hurt with the darts?"
+   "prompt": "Unser Freund wirft Dartpfeile auf eine Landkarte, um das Reiseziel zu wählen. Wen hat er dabei getroffen?"
   },
   {
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "120107",
-   "prompt": "We commissioned a painting of our friend. What object are they holding?"
+   "prompt": "Wir haben ein Gemälde von unserem Freund in Auftrag gegeben. Welchen Gegenstand hält er darauf?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "FRIENDS",
    "id": "120121",
-   "prompt": "What’s something that would make our friend here jump out of their seat?"
+   "prompt": "Was würde unseren Freund sofort vom Stuhl reißen?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120122",
-   "prompt": "What are some adjectives that you think our friend here would enjoy?"
+   "prompt": "Welche Adjektive würde unser Freund hier gern über sich hören?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120123",
-   "prompt": "Our friend here loves cinema! What are film terms we can say to impress them?"
+   "prompt": "Unser Freund liebt Filme! Mit welchen Fachbegriffen aus dem Kino beeindrucken wir ihn?"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120127",
-   "prompt": "Let’s distract our friend with a sparkly, shining thing, like {{BLANK}}!"
+   "prompt": "Wir lenken unseren Freund mit etwas Glitzerndem ab. Zum Beispiel: {{BLANK}}!"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120129",
-   "prompt": "Our pal is so young, they don’t know how to work THIS old-timey thing: {{BLANK}}."
+   "prompt": "Unser Freund ist sooo jung, dieses Gerät von früher sagt ihm nichts: {{BLANK}}."
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120130",
-   "prompt": "Let's list a bunch of bald men we think our friend might like!"
+   "prompt": "Zählen wir glatzköpfige Männer auf, die unserem Freund gefallen könnten!"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "STRANGERS",
    "id": "120131",
-   "prompt": "Our friend here is so safe! They always make sure to stop, drop and {{BLANK}}."
+   "prompt": "Unser Freund ist supervorsichtig. Sein Motto: „Vorsicht ist besser als {{BLANK}}!“"
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "FRIENDS",
    "id": "120132",
-   "prompt": "Our friend thinks that the greatest natural thing on Earth is {{BLANK}}."
+   "prompt": "Unser Freund kürt das Schönste, was die Natur zu bieten hat: {{BLANK}}."
   },
   {
    "category": "SOLO-MEGAPAL",
    "familiarity": "FRIENDS",
    "id": "120133",
-   "prompt": "Fetch our friend their emergency beverage, an ice-cold {{BLANK}}."
+   "prompt": "Das Notfallgetränk unseres Freundes, eiskalt serviert: {{BLANK}}!"
   },
   {
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120187",
-   "prompt": "Our pal's Halloween costume based on this year’s biggest character: {{BLANK}}"
+   "prompt": "Unser Freund verkleidet sich zu Halloween als DIE Figur des Jahres: {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120340",
-   "prompt": "What are some fonts that would make our friends’ hearts sing?"
+   "prompt": "Welche Schriftarten lassen die Herzen der beiden höherschlagen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120341",
-   "prompt": "What small toy will we grab for these friends out of the dentist prize bucket?"
+   "prompt": "Die beiden waren beim Zahnarzt so tapfer! Welches kleine Spielzeug bekommen sie als Belohnung?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120342",
-   "prompt": "What’s that one thing from the ’90s that our friends here loooooove?"
+   "prompt": "Welches Ding aus den Neunzigern lieben die beiden immer noch heiß und innig?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120343",
-   "prompt": "These two’s alliance has been an epic tale, much like the epic film {{BLANK}}!"
+   "prompt": "Die Freundschaft der beiden ist ein Epos – fast so episch wie der Film {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120345",
-   "prompt": "Our friends INSISTED we visit Times Square. What are they desperate to see?"
+   "prompt": "Die beiden BESTEHEN darauf, zum Alexanderplatz zu fahren. Was wollen sie dort unbedingt sehen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120346",
-   "prompt": "What are other materials this friendship is stronger than?"
+   "prompt": "Welche Materialien sind NICHT so stark wie diese Freundschaft?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120347",
-   "prompt": "These two will look fab in their new denim-based clothing item: {{BLANK}}."
+   "prompt": "Neues Outfit für die beiden! Das edelste Stück aus Jeansstoff: {{BLANK}}."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120348",
-   "prompt": "These two fashionista friends won’t stop saying the word “{{BLANK}}.”"
+   "prompt": "Die beiden Modefans können ein Wort einfach nicht oft genug sagen: „{{BLANK}}“."
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "120349",
-   "prompt": "We’ll miss our friends, so we make sure to {{BLANK}} before they go to work!"
+   "prompt": "Wir werden die beiden vermissen! Was machen wir, bevor sie zur Arbeit gehen? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "FRIENDS",
    "id": "120350",
-   "prompt": "Put our friends in the hall of GOATs, alongside people like {{BLANK}}."
+   "prompt": "Diese beiden gehören in die Ruhmeshalle. Neben welchen Legenden sollten sie stehen? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120351",
-   "prompt": "Our pals are throwing a dinner party! We should be sure to bring {{BLANK}}."
+   "prompt": "Die beiden laden zum Abendessen ein! Was bringen wir mit? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120353",
-   "prompt": "Did you know that our two friends here have certified {{BLANK}} licenses?"
+   "prompt": "Die beiden sind offiziell lizenziert. Wofür? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120354",
-   "prompt": "We’re over these two getting matches. Let’s name our favorite bridges!!"
+   "prompt": "Genug mit den Übereinstimmungen der beiden. Nennen wir lieber unsere Lieblingsbrücken!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120355",
-   "prompt": "Our friends got promoted at work. They are now the Chief {{BLANK}} Officers!"
+   "prompt": "Die beiden wurden befördert! Ihre neue Position: Chief {{BLANK}} Officers!"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120356",
-   "prompt": "How would our friends would respond to the following? “Keep Calm & {{BLANK}}”"
+   "prompt": "Wie würden die beiden diesen Spruch ergänzen? „Ruhe bewahren und {{BLANK}}“"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120357",
-   "prompt": "What words in the local language should our friends learn before they travel?"
+   "prompt": "Welche Wörter der Landessprache sollten die beiden vor ihrer Reise lernen?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120358",
-   "prompt": "Our pals are a wrestling tag team! What gear do they ALWAYS have in the ring?"
+   "prompt": "Die beiden sind ein Wrestling-Team! Welche Ausrüstung haben sie IMMER im Ring dabei?"
   },
   {
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120359",
-   "prompt": "Our friends are stuck in space! Let’s say a bunch of space words!"
+   "prompt": "Die beiden hängen im All fest! Welche Weltraumwörter rufen wir ihnen zu?"
   }
  ]
 }
