@@ -563,6 +563,56 @@
    "buckets": [
     {
      "answers": [
+      "Jever",
+      "Kozel",
+      "Peroni",
+      "Asahi",
+      "Singha",
+      "Efes",
+      "Köstritzer",
+      "Tsingtao"
+     ],
+     "bucketTitle": "Bier",
+     "shorthand": "Bier"
+    },
+    {
+     "answers": [
+      "Quokka",
+      "Okapi",
+      "Kudu",
+      "Nandu",
+      "Marabu",
+      "Kakapo",
+      "Axolotl",
+      "Wombat"
+     ],
+     "bucketTitle": "Tier",
+     "shorthand": "Tier"
+    },
+    {
+     "answers": [
+      "Kawai",
+      "Petrof",
+      "Fazioli",
+      "Sauter",
+      "Bechstein",
+      "Bösendorfer",
+      "Steinway",
+      "Blüthner"
+     ],
+     "bucketTitle": "Klavier",
+     "shorthand": "Klavier"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "116846"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
       "Traum",
       "Einmal um die Welt",
       "Bye Bye",
@@ -713,6 +763,57 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117076",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Habanero",
+      "Cayenne",
+      "Harissa",
+      "Gochujang",
+      "Cholula",
+      "Piri-Piri",
+      "Peperoncino",
+      "Mirch"
+     ],
+     "bucketTitle": "Scharfes Essen",
+     "shorthand": "Scharf"
+    },
+    {
+     "answers": [
+      "Flamenco",
+      "Kizomba",
+      "Calypso",
+      "Paso Doble",
+      "Zouk",
+      "Krump",
+      "Kathak",
+      "Merengue"
+     ],
+     "bucketTitle": "Tanzstil",
+     "shorthand": "Tanz"
+    },
+    {
+     "answers": [
+      "Abessinier",
+      "Sphynx",
+      "Bombay",
+      "Lykoi",
+      "Bengal",
+      "Burma",
+      "Ragamuffin",
+      "Munchkin"
+     ],
+     "bucketTitle": "Katzenrasse",
+     "shorthand": "Katze"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "117093",
    "starterContent": true
   },
   {
