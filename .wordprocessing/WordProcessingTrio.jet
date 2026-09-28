@@ -233,10 +233,10 @@
    "id": "116699",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Gather ‘round, children, it’s game time! Tell me if each item is...",
-   "TitleAudio0": "a Board Game with Cards...",
-   "TitleAudio1": "a Board Game with Dice...",
-   "TitleAudio2": "...or the best of both worlds, a Board Game with Cards and Dice.",
+   "IntroAudio": "Kommt her, Kinder, es ist Zeit für einen Spieleabend! Sagt mir, ist der Begriff...",
+   "TitleAudio0": "ein Gesellschaftsspiel mit Karten...",
+   "TitleAudio1": "ein Gesellschaftsspiel mit Würfeln...",
+   "TitleAudio2": "...oder das beste aus beiden Welten, ein Gesellschaftsspiel mit Karten und Würfeln.",
    "OutroAudio": ""
   },
   {
@@ -460,10 +460,10 @@
    "id": "116714",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Okay humans, here is what I’m think-ING! Tell me if each item is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Gridiron Football Penalty...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a 12 Days of Christmas Activity... you know, from the song...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Television Show Ending in the letters I-N-G.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Okay Menschen, ihr schaut doch so gerne fern. Sagt mir, lief diese Sendung...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] bei KIKA...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] bei Super RTL bzw. TOGGO...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder bei Nickelodeon.",
    "OutroAudio": ""
   },
   {
@@ -577,10 +577,10 @@
    "host": "CEREBRIEL",
    "id": "116718",
    "done": true,
-   "IntroAudio": "Let’s venture into the world of animation. Tell me, of the character names you’re about to see, is each one...",
-   "TitleAudio0": "a Pokémon Character...",
-   "TitleAudio1": "a Mario Kart World Character...",
-   "TitleAudio2": "...or a Powerpuff Girls Character.",
+   "IntroAudio": "Begeben wir uns in die Welt der Animation. Sagt mir: Sind die Figuren, deren Namen ihr gleich sehen werdet...",
+   "TitleAudio0": "ein Pokémon-Charakter...",
+   "TitleAudio1": "ein Mario Kart World Charakter...",
+   "TitleAudio2": "...oder ein PAW Patrol Charakter.",
    "OutroAudio": ""
   },
   {
@@ -631,10 +631,10 @@
    "host": "QUIZTAR",
    "id": "116719",
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will see a series of named things. Tell me if each one refers to...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Zodiac Symbol... not the sign, mind you, but the SYMBOL...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Movie featuring Adam Sandler...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fortnite Skin from the Legendary collection.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet eine Reihe von Namen sehen. Sagt mir, handelt es sich dabei...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] um ein Sternzeichen...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] um einen Film vom Regisseur Christian Petzold...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um einen legendären Skin aus dem Computerspiel Fortnite.",
    "OutroAudio": ""
   },
   {
@@ -686,11 +686,11 @@
    "host": "QUIZTAR",
    "id": "116720",
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will soon encounter a number of first names. Tell me, is each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Name from the Bible...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Name of one of the featured hunks from TV’s The Bachelor...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or BOTH a Bible Name AND a Bachelor Name. Anything is possible!",
-   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] (Nervously clears throat) My name is Quiztar, I’m 25 eons old, and I am the bachelor. Forgive me, I’ve been holding this rose so long, it’s basically dust."
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Euch begegnet gleich eine Vielzahl von Vornamen. Sagt mir, handelt es sich um...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einen Namen aus der Bibel...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] den Namen eines Gewinners von Deutschland sucht den Superstar...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder SOWOHL um einen Namen aus der Bibel ALS AUCH um den Namen eines Gewinners von DSDS. Alles ist möglich!",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -804,10 +804,10 @@
    "id": "116722",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Now this is a curious mix of groupings! For each answer you see, tell me, does it refer to...",
-   "TitleAudio0": "a K-Pop Group...",
-   "TitleAudio1": "a Programming Language...",
-   "TitleAudio2": "...or a Cosmetic Brand.",
+   "IntroAudio": "Das ist ja mal eine interessante Themenmischung! Sagt mir bitte zu jeder Antwort, die ihr seht: Handelt es sich um…",
+   "TitleAudio0": "eine K-Pop-Gruppe...",
+   "TitleAudio1": "eine Programmiersprache...",
+   "TitleAudio2": "...oder um eine Kosmetikmarke.",
    "OutroAudio": ""
   },
   {
@@ -823,8 +823,8 @@
       "Shalom",
       "Oi"
      ],
-     "bucketTitle": "“Hallo”",
-     "shorthand": "“Hallo”"
+     "bucketTitle": "„Hallo“",
+     "shorthand": "„Hallo“"
     },
     {
      "answers": [
@@ -838,8 +838,8 @@
       "Yes",
       "Shì"
      ],
-     "bucketTitle": "“Ja”",
-     "shorthand": "“Ja”"
+     "bucketTitle": "„Ja“",
+     "shorthand": "„Ja“"
     },
     {
      "answers": [
@@ -853,8 +853,8 @@
       "Aniyo",
       "Nej"
      ],
-     "bucketTitle": "“Nein”",
-     "shorthand": "“Nein”"
+     "bucketTitle": "„Nein“",
+     "shorthand": "„Nein“"
     }
    ],
    "difficulty": "Hard",
@@ -862,10 +862,10 @@
    "host": "CEREBRIEL",
    "id": "116723",
    "done": true,
-   "IntroAudio": "Isn’t human language adorable? Let’s see how much you know about ways to say...",
-   "TitleAudio0": "“Hello!”",
-   "TitleAudio1": "“Yes!”",
-   "TitleAudio2": "...or “No!”",
+   "IntroAudio": "Ist die menschliche Sprache nicht putzig?  Mal sehen, wie viel ihr über die verschiedenen Arten wisst...",
+   "TitleAudio0": "„Hallo!“",
+   "TitleAudio1": "„Ja!“",
+   "TitleAudio2": "...oder „Nein!“ zu sagen.",
    "OutroAudio": ""
   },
   {
@@ -973,10 +973,10 @@
    "host": "CEREBRIEL",
    "id": "116792",
    "done": true,
-   "IntroAudio": "Words, words, words! Let’s put NUMBERS in the spotlight! Of the items you’ll come across, tell me if you’d associate each with...",
-   "TitleAudio0": "the Number 11...",
-   "TitleAudio1": "the Number 2...",
-   "TitleAudio2": "...or the Number 12.",
+   "IntroAudio": "Worte, Worte, Worte! Rücken wir doch mal die ZAHLEN in den Mittelpunkt! Sagt mir, ob ihr die einzelnen Begriffe, denen ihr begegnet, jeweils mit…",
+   "TitleAudio0": "der Zahl 11...",
+   "TitleAudio1": "der Zahl 2...",
+   "TitleAudio2": "...oder der Zahl 12 in Verbindung bringt.",
    "OutroAudio": ""
   },
   {
@@ -1027,10 +1027,10 @@
    "host": "QUIZTAR",
    "id": "116795",
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I hope you didn’t skip Humanities class! Of the letters you will soon encounter, is each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Letter in the Latin Alphabet...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Letter in the the Greek Alphabet...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Letter that appears in Both alphabets, Latin and Greek.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ich hoffe, ihr habt alle in Geschichte gut aufgepasst. Handelt es sich bei den Buchstaben, denen ihr gleich begegnen werdet, jeweils um...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einen Buchstaben im lateinischen Alphabet...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] einen Buchstaben im griechischen Alphabet...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um einen Buchstaben, der in beiden Alphabeten, dem lateinischen und dem griechischen, vorkommt.",
    "OutroAudio": ""
   },
   {
@@ -1082,10 +1082,10 @@
    "host": "CEREBRIEL",
    "id": "116798",
    "done": true,
-   "IntroAudio": "I dedicate this one to my old friend Mother Nature. Here’s to you, girl! Tell me, are the animals you’re about to see...",
-   "TitleAudio0": "Birds...",
-   "TitleAudio1": "Bees...",
-   "TitleAudio2": "...or sweet, little Baby Animals. Aww, witto babies!",
+   "IntroAudio": "Diese Aufgabe widme ich meiner alten Freundin Mutter Natur. Grüße gehen raus, Liebes! Sagt mir, sind die Tiere, die ihr gleich sehen werdet...",
+   "TitleAudio0": "Vögel...",
+   "TitleAudio1": "Bienen...",
+   "TitleAudio2": "...oder süße, kleine Jungtiere. Ach, wie süß, diese kleinen Babys!",
    "OutroAudio": ""
   },
   {
@@ -1139,10 +1139,10 @@
    "id": "116799",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Nature lovers, rejoice! Very good; stop rejoicing. Now tell me if each item you’re about to see...",
-   "TitleAudio0": "Grows Underground...",
-   "TitleAudio1": "Grows On Trees...",
-   "TitleAudio2": "...or Grows in an Egg.",
+   "IntroAudio": "Naturliebhaber, freut euch! Sehr gut; hört wieder auf, euch zu freuen. Sagt mir nun, ob jeder Begriff, den ihr gleich sehen werdet...",
+   "TitleAudio0": "unter der Erde wächst...",
+   "TitleAudio1": "am Baum wächst...",
+   "TitleAudio2": "...oder in einem Ei wächst.",
    "OutroAudio": ""
   },
   {
@@ -1253,10 +1253,10 @@
    "id": "116803",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Let’s talk about history. Recent history. You will encounter a series of events. Tell me if each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Occurred in the 2000s...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Occurred in the 2010s...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Occurred in the 2020s.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Lass uns über die Vergangenheit sprechen. Über die jüngste Vergangenheit. Ihr werdet einer Reihe von Ereignissen begegnen. Sagt mir, ob jede Einzelne davon...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] in den 2000ern passierte...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] in den 2010ern passierte...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder in den 2020ern passierte.",
    "OutroAudio": ""
   },
   {
@@ -1309,10 +1309,10 @@
    "id": "116805",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Try these colors on for size! When you see each item, tell me, does it fall under the heading...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Red Stuff...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Yellow Stuff...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Purple Stuff.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Jetzt wird es kunterbunt! Wenn ihr die Begriffe seht, sagt mir , ob sie unter die Rubrik…",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] rote Dinge...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] gelbe Dinge...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder lila Dinge fallen.",
    "OutroAudio": ""
   },
   {
@@ -1485,10 +1485,10 @@
    "host": "CEREBRIEL",
    "id": "116838",
    "done": true,
-   "IntroAudio": "Time for a tricky one... about TIME! For each word that you come across, tell me if it is...",
-   "TitleAudio0": "a Word that appears BEFORE “Time” as part of a common phrase...",
-   "TitleAudio1": "a Unit of Time...",
-   "TitleAudio2": "...or a word that appears AFTER “Time” as part of a common phrase.",
+   "IntroAudio": "Zeit für eine knifflige Frage... zur ZEIT! Sagt mir bei jedem Begriff, auf den ihr stoßt, ob es...",
+   "TitleAudio0": "ein Begriff ist, der als Teil einer gängigen Redensart VOR „Zeit“ steht...",
+   "TitleAudio1": "eine Zeiteinheit ist...",
+   "TitleAudio2": "...oder ein Begriff, der als Teil einer gängigen Redensart NACH „Zeit“ steht.",
    "OutroAudio": ""
   },
   {
