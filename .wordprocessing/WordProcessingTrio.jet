@@ -1646,10 +1646,10 @@
    "host": "CEREBRIEL",
    "id": "116843",
    "done": true,
-   "IntroAudio": "For this one, please know your geography and your animal kingdom. Tell me if each ANIMAL is...",
-   "TitleAudio0": "Native to Africa...",
-   "TitleAudio1": "Native to Asia...",
-   "TitleAudio2": "...or Native to South America.",
+   "IntroAudio": "Für diese Aufgabe müsst ihr tierisch viel Wissen in Geografie haben. Sagt mir, ob die folgenden Tiere...",
+   "TitleAudio0": "in Afrika heimisch...",
+   "TitleAudio1": "in Asien heimisch...",
+   "TitleAudio2": "...oder in Südafrika heimisch sind.",
    "OutroAudio": ""
   },
   {
@@ -1702,10 +1702,10 @@
    "host": "CEREBRIEL",
    "id": "116846",
    "done": true,
-   "IntroAudio": "Every answer belongs in one of these categories. Tell me, is it a...",
-   "TitleAudio0": "a Type of Pepper...",
-   "TitleAudio1": "a form of Musical Notation...",
-   "TitleAudio2": "...or a Nissan Car Model.",
+   "IntroAudio": "Jede Antwort lässt sich einer dieser Kategorien zuordnen. Sagt mir, handelt es sich um",
+   "TitleAudio0": "eine Biermarke...",
+   "TitleAudio1": "eine Tierart...",
+   "TitleAudio2": "...oder eine Klaviermarke.",
    "OutroAudio": ""
   },
   {
@@ -1757,10 +1757,10 @@
    "id": "116888",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Darlings, you will see the names of creatures great and small. Tell me if each one has...",
-   "TitleAudio0": "No Legs...",
-   "TitleAudio1": "Four Legs...",
-   "TitleAudio2": "...or More Than Four Legs.",
+   "IntroAudio": "Ihr, meine Lieben, werdet die Namen von Tieren, groß und klein, sehen. Sagt mir, hat jedes Tier...",
+   "TitleAudio0": "keine Beine...",
+   "TitleAudio1": "vier Beine...",
+   "TitleAudio2": "...oder mehr als vier Beine.",
    "OutroAudio": ""
   },
   {
@@ -1912,7 +1912,7 @@
       "Lichtschwert",
       "Solarsurfer"
      ],
-     "bucketTitle": "Erfundenes Filmding",
+     "bucketTitle": "Erfundenes Filmdings",
      "shorthand": "Sci-Fi"
     },
     {
@@ -1934,10 +1934,10 @@
    "id": "116895",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Oh how I love gadgets! For this trio of objects, tell me if each item you see is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Medical Device...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Made-Up Movie Gadget...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Concept devised by Leonardo da Vinci.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Oh, wie ich euren menschlichen Technik-Schnickschnack liebe! Sagt mir, handelt es sich bei den Gegenständen, die euch begegnen, um...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein medizinisches Gerät...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] ein erfundenes Filmdings...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um einen von Leonardo da Vinci entwickelten Entwurf.",
    "OutroAudio": ""
   },
   {
@@ -1990,10 +1990,10 @@
    "host": "CEREBRIEL",
    "id": "117050",
    "done": true,
-   "IntroAudio": "Behold! You will see a series of unique names. Tell me, does each one refer to a...",
-   "TitleAudio0": "Yoga Pose",
-   "TitleAudio1": "Dungeons & Dragons Class... 5th Edition...",
-   "TitleAudio2": "...or a character from the Toy Story franchise.",
+   "IntroAudio": "Aufgepasst! Ihr werdet eine Reihe ungewöhnlicher Namen sehen. Sagt mir, ob sich dieser auf...",
+   "TitleAudio0": "eine Yoga-Pose...",
+   "TitleAudio1": "eine Dungeons & Dragons Klasse der 5. Edition...",
+   "TitleAudio2": "...oder eine Figur aus dem Toy-Story-Franchise bezieht.",
    "OutroAudio": ""
   },
   {
@@ -2052,10 +2052,10 @@
    "x": true,
    "starterContent": true,
    "done": true,
-   "IntroAudio": "This little number is for the musically inclined. Tell me if each answer is...",
-   "TitleAudio0": "a Metallica Song...",
-   "TitleAudio1": "a Taylor Swift Song...",
-   "TitleAudio2": "...or a Snoop Dogg Song.",
+   "IntroAudio": "Diese kleine Nummer ist für Musikbegeisterte. Sagt mir, ob jede der Antworten...",
+   "TitleAudio0": "ein Song von CRO...",
+   "TitleAudio1": "Song von Helene Fischer...",
+   "TitleAudio2": "...oder ein Song von den Toten Hosen ist.",
    "OutroAudio": ""
   },
   {
@@ -2165,10 +2165,10 @@
    "id": "117069",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Every answer belongs in this curious trio of categories. Tell me, is each one..",
-   "TitleAudio0": "a type of Cheese...",
-   "TitleAudio1": "a human Language...",
-   "TitleAudio2": "...or a Breed of a Dog.",
+   "IntroAudio": "Jede Antwort lässt sich einer dieser drei kuriosen Kategorien zuordnen. Sagt mir, ist jede einzelne…",
+   "TitleAudio0": "eine Käsesorte...",
+   "TitleAudio1": "eine menschliche Sprache...",
+   "TitleAudio2": "...oder eine Hunderasse.",
    "OutroAudio": ""
   },
   {
@@ -2220,10 +2220,10 @@
    "id": "117076",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "I shall present you with an eclectic mix of worldly items. Tell me, is each item something that one should...",
-   "TitleAudio0": "Trash...",
-   "TitleAudio1": "Recycle...",
-   "TitleAudio2": "...or Compost.",
+   "IntroAudio": "Ich werde euch eine bunte Mischung weltlicher Gegenstände präsentieren. Sagt mir zu jedem Gegenstand, ob er in…",
+   "TitleAudio0": "den Restmüll...",
+   "TitleAudio1": "den Gelben Sack...",
+   "TitleAudio2": "...oder den Biomüll gehört.",
    "OutroAudio": ""
   },
   {
@@ -2271,16 +2271,16 @@
      "shorthand": "Katze"
     }
    ],
-   "difficulty": "Easy",
+   "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117093",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Here’s one that will keep you on edge. For every answer shown, tell me if it is a...",
-   "TitleAudio0": "Spicy Food...",
-   "TitleAudio1": "Form of Dance...",
-   "TitleAudio2": "...or a Breed of Cat.",
+   "IntroAudio": "Hier ist eine Aufgabe, die euch auf Trab halten wird. Sagt mir bei jeder Antwort, ob es sich um…",
+   "TitleAudio0": "ein scharfes Essen...",
+   "TitleAudio1": "einen Tanzstil...",
+   "TitleAudio2": "...oder eine Katzenrasse handelt.",
    "OutroAudio": ""
   },
   {
@@ -2443,15 +2443,15 @@
     }
    ],
    "countrySpecific": true,
-   "difficulty": "Easy",
+   "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117285",
    "done": true,
-   "IntroAudio": "You will soon see a series of last names. You must tell me if each should be paired with the FIRST name...",
-   "TitleAudio0": "Rob...",
-   "TitleAudio1": "Bob...",
-   "TitleAudio2": "...or Bobby.",
+   "IntroAudio": "Euch begegnet gleich eine Reihe von Nachnamen prominenter Personen. Ihr müsst mir sagen, ob jeder davon dem Vornamen...",
+   "TitleAudio0": "Tim...",
+   "TitleAudio1": "Tom...",
+   "TitleAudio2": "...oder Tommy zugehört.",
    "OutroAudio": ""
   },
   {
@@ -2618,10 +2618,10 @@
    "id": "117319",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You are about to witness a series of words. Tell me if each one is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Word With a Silent Letter...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Misspelled Word...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Word in the classic children’s book Where the Wild Things Are",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet gleich eine Reihe von Wörtern sehen. Sagt mir bitte, ob jedes einzelne davon...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] mit „S“...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] mit „SS“...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder mit „ß“ geschrieben wird.",
    "OutroAudio": ""
   },
   {
@@ -2676,10 +2676,10 @@
    "id": "117343",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ah yes, the three staples of human existence: coffee, chocolate, and overcoats. Tell me if each of the corporate brands you will see...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] is known for Making Coffee...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] is known for Making Chocolate...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or is known for Making Coats.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ach ja, die drei Grundpfeiler des menschlichen Daseins: Kaffee, Kakao und Kleidung. Sagt mir bitte, ob jede der Marken, die ihr sehen werdet, bekannt dafür ist...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Kaffee herzustellen...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Schokolade herzustellen...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder Kleidung herzustellen.",
    "OutroAudio": ""
   },
   {
@@ -2784,10 +2784,10 @@
    "id": "117351",
    "x": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Be afraid! Be very afraid, for soon you will be confronted with a series of phobias. Tell me if each one refers to...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Fear of People...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Fear of Animals...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fear of Situations.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Fürchtet euch! Fürchtet euch gewaltig, denn schon bald werdet ihr mit einer Reihe von Phobien konfrontiert. Sagt mir, ob sich jede einzelne davon auf…",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] eine Angst vor bestimmten Menschen...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] eine Angst vor bestimmten Tieren...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder eine Angst vor bestimmten Situationen bezieht.",
    "OutroAudio": ""
   },
   {
@@ -2963,10 +2963,10 @@
    "id": "117392",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Dear ones, if one thing is true, there is always a beginning, a middle, and an end. For each item you come across, tell me if it is...",
-   "TitleAudio0": "an event or thing that occurs at the Beginning of something...",
-   "TitleAudio1": "a thing associated with the Middle of something...",
-   "TitleAudio2": "...or a thing understood to be the End of something.",
+   "IntroAudio": "Meine Lieben, wenn eines sicher ist, dann, dass alles immer einen Anfang, eine Mitte und ein Ende hat. Sagt mir zu jedem Begriff, der euch begegnet, ob es sich dabei um...",
+   "TitleAudio0": "ein Ereignis oder eine Sache handelt, die am Anfang von etwas steht...",
+   "TitleAudio1": "um ein Ereignis oder eine Sache, die mit der Mitte von etwas in Verbindung steht...",
+   "TitleAudio2": "oder um ein Ereignis oder eine Sache, die als das Ende von etwas verstanden wird.",
    "OutroAudio": ""
   },
   {
@@ -3126,10 +3126,10 @@
    "host": "CEREBRIEL",
    "id": "117620",
    "done": true,
-   "IntroAudio": "Geography time! (Insistent) I said Geography Time! Look sharp! You will see a number of country names. Tell me, does each one live in...",
-   "TitleAudio0": "the Northern Hemisphere...",
-   "TitleAudio1": "the Southern Hemisphere...",
-   "TitleAudio2": "...or does it straddle BOTH Hemispheres?",
+   "IntroAudio": "Zeit für Geografie! (Beharrlich) Ich sagte: Zeit für Geografie! Konzentriert euch! Ihr seht eine Reihe von Ländernamen. Sagt mir, befindet sich jeder von ihnen auf...",
+   "TitleAudio0": "der Nordhalbkugel...",
+   "TitleAudio1": "der Südhalbkugel...",
+   "TitleAudio2": "...oder erstreckt es sich über BEIDE Halbkugeln?",
    "OutroAudio": ""
   },
   {
@@ -3353,10 +3353,10 @@
    "x": false,
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Humans, tell me if the names you’re about to see belong to...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Redhead...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Blond...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a character whose Face happens to be Blue.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Menschen, sagt mir, ob die Namen, die ihr gleich sehen werdet, zu...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einem berühmten Rotschopf...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] einem berühmten Blondschopf...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einem Charakter gehören, dessen Gesicht blau ist.",
    "OutroAudio": ""
   },
   {
@@ -3412,10 +3412,10 @@
    "id": "117798",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You humans and your silly lingo! Soon you shall see terms of generational slang. Tell me, is each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Generation Z Slang...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Generation X Slang...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Slang of the Baby Boomer generation.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ihr Menschen und eure alberne Sprache! Gleich werdet ihr Begriffen aus der Umgangssprache verschiedener Generationen begegnen. Sagt mir, haandelt es sich um...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Generation-Z-Slang...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Generation-X-Slang...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder Slang der Babyboomer-Generation.",
    "OutroAudio": ""
   },
   {
@@ -3643,10 +3643,10 @@
    "id": "117808",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] The items of Earth have so many curious markings. Tell me, of the items you see, is each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Striped Thing...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Spotted Thing...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Checkered Thing.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Die Gegenstände der Erde weisen so viele merkwürdige Muster auf. Sagt mir, sind die Gegenstände, denen ihr begegnet...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein gestreifter Gegenstand...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] ein gepunkteter Gegenstand...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein karierter Gegenstand.",
    "OutroAudio": ""
   },
   {
@@ -3700,10 +3700,10 @@
    "id": "117811",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Oh, you may not like me for this one, but I can’t resist. You’re going to see a number of long words. Tell me, is each one...",
-   "TitleAudio0": "a Four-Syllable Word...",
-   "TitleAudio1": "a Five-Syllable Word...",
-   "TitleAudio2": "...or a Six-Syllable Word. Talk it out amongst yourselves.",
+   "IntroAudio": "Oh, dafür werdet ihr mich jetzt vielleicht nicht mögen, aber ich kann einfach nicht widerstehen. Ihr werdet eine Vielzahl langer Wörter sehen. Sagt mir, handelt es sich dabei um...",
+   "TitleAudio0": "ein Wort mit vier Silben...",
+   "TitleAudio1": "ein Wort mit fünf Silben...",
+   "TitleAudio2": "...oder ein Wort mit sechs Silben.",
    "OutroAudio": ""
   },
   {
