@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Words, words, words! Let’s put NUMBERS in the spotlight! Of the items you’ll come across, tell me if you’d associate each with..."
+   "s": "Worte, Worte, Worte! Rücken wir doch mal die ZAHLEN in den Mittelpunkt! Sagt mir, ob ihr die einzelnen Begriffe, denen ihr begegnet, jeweils mit…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "the Number 11..."
+   "s": "der Zahl 11..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "the Number 2..."
+   "s": "der Zahl 2..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or the Number 12."
+   "s": "...oder der Zahl 12 in Verbindung bringt."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Let’s talk about history. Recent history. You will encounter a series of events. Tell me if each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Lass uns über die Vergangenheit sprechen. Über die jüngste Vergangenheit. Ihr werdet einer Reihe von Ereignissen begegnen. Sagt mir, ob jede Einzelne davon..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Occurred in the 2000s..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] in den 2000ern passierte..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Occurred in the 2010s..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] in den 2010ern passierte..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Occurred in the 2020s."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder in den 2020ern passierte."
   },
   {
    "t": "B",

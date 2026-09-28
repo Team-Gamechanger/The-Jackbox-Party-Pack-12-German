@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] You will soon encounter a number of first names. Tell me, is each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Euch begegnet gleich eine Vielzahl von Vornamen. Sagt mir, handelt es sich um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Name from the Bible..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einen Namen aus der Bibel..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Name of one of the featured hunks from TV’s The Bachelor..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] den Namen eines Gewinners von Deutschland sucht den Superstar..."
   },
   {
    "t": "B",
@@ -42,18 +42,17 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or BOTH a Bible Name AND a Bachelor Name. Anything is possible!"
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder SOWOHL um einen Namen aus der Bibel ALS AUCH um den Namen eines Gewinners von DSDS. Alles ist möglich!"
   },
   {
    "t": "B",
-   "v": "true",
+   "v": "false",
    "n": "HasOutroAudio"
   },
   {
    "t": "A",
    "v": "outro",
-   "n": "OutroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] (Nervously clears throat) My name is Quiztar, I’m 25 eons old, and I am the bachelor. Forgive me, I’ve been holding this rose so long, it’s basically dust."
+   "n": "OutroAudio"
   }
  ]
 }

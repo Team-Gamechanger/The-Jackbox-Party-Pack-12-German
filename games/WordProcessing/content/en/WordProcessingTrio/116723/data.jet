@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Isn’t human language adorable? Let’s see how much you know about ways to say..."
+   "s": "Ist die menschliche Sprache nicht putzig?  Mal sehen, wie viel ihr über die verschiedenen Arten wisst..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "“Hello!”"
+   "s": "„Hallo!“"
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "“Yes!”"
+   "s": "„Ja!“"
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or “No!”"
+   "s": "...oder „Nein!“ zu sagen."
   },
   {
    "t": "B",

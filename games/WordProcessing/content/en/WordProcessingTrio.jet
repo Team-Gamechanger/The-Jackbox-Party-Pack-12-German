@@ -321,8 +321,8 @@
       "Shalom",
       "Oi"
      ],
-     "bucketTitle": "“Hallo”",
-     "shorthand": "“Hallo”"
+     "bucketTitle": "„Hallo“",
+     "shorthand": "„Hallo“"
     },
     {
      "answers": [
@@ -336,8 +336,8 @@
       "Yes",
       "Shì"
      ],
-     "bucketTitle": "“Ja”",
-     "shorthand": "“Ja”"
+     "bucketTitle": "„Ja“",
+     "shorthand": "„Ja“"
     },
     {
      "answers": [
@@ -351,8 +351,8 @@
       "Aniyo",
       "Nej"
      ],
-     "bucketTitle": "“Nein”",
-     "shorthand": "“Nein”"
+     "bucketTitle": "„Nein“",
+     "shorthand": "„Nein“"
     }
    ],
    "difficulty": "Hard",

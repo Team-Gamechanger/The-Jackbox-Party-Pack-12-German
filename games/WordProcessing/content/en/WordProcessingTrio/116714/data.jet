@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Okay humans, here is what I’m think-ING! Tell me if each item is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Okay Menschen, ihr schaut doch so gerne fern. Sagt mir, lief diese Sendung..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Gridiron Football Penalty..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] bei KIKA..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a 12 Days of Christmas Activity... you know, from the song..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] bei Super RTL bzw. TOGGO..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Television Show Ending in the letters I-N-G."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder bei Nickelodeon."
   },
   {
    "t": "B",

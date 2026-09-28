@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] I hope you didn’t skip Humanities class! Of the letters you will soon encounter, is each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ich hoffe, ihr habt alle in Geschichte gut aufgepasst. Handelt es sich bei den Buchstaben, denen ihr gleich begegnen werdet, jeweils um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Letter in the Latin Alphabet..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einen Buchstaben im lateinischen Alphabet..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Letter in the the Greek Alphabet..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einen Buchstaben im griechischen Alphabet..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Letter that appears in Both alphabets, Latin and Greek."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um einen Buchstaben, der in beiden Alphabeten, dem lateinischen und dem griechischen, vorkommt."
   },
   {
    "t": "B",

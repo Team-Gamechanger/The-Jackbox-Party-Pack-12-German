@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] You will see a series of named things. Tell me if each one refers to..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet eine Reihe von Namen sehen. Sagt mir, handelt es sich dabei..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Zodiac Symbol... not the sign, mind you, but the SYMBOL..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] um ein Sternzeichen..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Movie featuring Adam Sandler..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] um einen Film vom Regisseur Christian Petzold..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fortnite Skin from the Legendary collection."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um einen legendären Skin aus dem Computerspiel Fortnite."
   },
   {
    "t": "B",

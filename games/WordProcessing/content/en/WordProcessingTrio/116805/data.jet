@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Try these colors on for size! When you see each item, tell me, does it fall under the heading..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Jetzt wird es kunterbunt! Wenn ihr die Begriffe seht, sagt mir , ob sie unter die Rubrik…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Red Stuff..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] rote Dinge..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Yellow Stuff..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] gelbe Dinge..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Purple Stuff."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder lila Dinge fallen."
   },
   {
    "t": "B",

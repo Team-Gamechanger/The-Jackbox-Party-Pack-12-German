@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Nature lovers, rejoice! Very good; stop rejoicing. Now tell me if each item you’re about to see..."
+   "s": "Naturliebhaber, freut euch! Sehr gut; hört wieder auf, euch zu freuen. Sagt mir nun, ob jeder Begriff, den ihr gleich sehen werdet..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Grows Underground..."
+   "s": "unter der Erde wächst..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Grows On Trees..."
+   "s": "am Baum wächst..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or Grows in an Egg."
+   "s": "...oder in einem Ei wächst."
   },
   {
    "t": "B",

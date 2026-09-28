@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Let’s venture into the world of animation. Tell me, of the character names you’re about to see, is each one..."
+   "s": "Begeben wir uns in die Welt der Animation. Sagt mir: Sind die Figuren, deren Namen ihr gleich sehen werdet..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Pokémon Character..."
+   "s": "ein Pokémon-Charakter..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Mario Kart World Character..."
+   "s": "ein Mario Kart World Charakter..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Powerpuff Girls Character."
+   "s": "...oder ein PAW Patrol Charakter."
   },
   {
    "t": "B",

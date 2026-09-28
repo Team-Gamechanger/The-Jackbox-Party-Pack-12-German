@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Time for a tricky one... about TIME! For each word that you come across, tell me if it is..."
+   "s": "Zeit für eine knifflige Frage... zur ZEIT! Sagt mir bei jedem Begriff, auf den ihr stoßt, ob es..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Word that appears BEFORE “Time” as part of a common phrase..."
+   "s": "ein Begriff ist, der als Teil einer gängigen Redensart VOR „Zeit“ steht..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Unit of Time..."
+   "s": "eine Zeiteinheit ist..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a word that appears AFTER “Time” as part of a common phrase."
+   "s": "...oder ein Begriff, der als Teil einer gängigen Redensart NACH „Zeit“ steht."
   },
   {
    "t": "B",

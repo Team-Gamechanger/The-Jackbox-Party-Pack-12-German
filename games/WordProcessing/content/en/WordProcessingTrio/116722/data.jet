@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Now this is a curious mix of groupings! For each answer you see, tell me, does it refer to..."
+   "s": "Das ist ja mal eine interessante Themenmischung! Sagt mir bitte zu jeder Antwort, die ihr seht: Handelt es sich um…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a K-Pop Group..."
+   "s": "eine K-Pop-Gruppe..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Programming Language..."
+   "s": "eine Programmiersprache..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Cosmetic Brand."
+   "s": "...oder um eine Kosmetikmarke."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Gather ‘round, children, it’s game time! Tell me if each item is..."
+   "s": "Kommt her, Kinder, es ist Zeit für einen Spieleabend! Sagt mir, ist der Begriff..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Board Game with Cards..."
+   "s": "ein Gesellschaftsspiel mit Karten..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Board Game with Dice..."
+   "s": "ein Gesellschaftsspiel mit Würfeln..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or the best of both worlds, a Board Game with Cards and Dice."
+   "s": "...oder das beste aus beiden Welten, ein Gesellschaftsspiel mit Karten und Würfeln."
   },
   {
    "t": "B",
