@@ -463,6 +463,106 @@
    "buckets": [
     {
      "answers": [
+      "Kleiber",
+      "Gimpel",
+      "Pirol",
+      "Zilpzalp",
+      "Nandu",
+      "Kiwi",
+      "Tukan",
+      "Wiedehopf"
+     ],
+     "bucketTitle": "Vogel",
+     "shorthand": "Vogel"
+    },
+    {
+     "answers": [
+      "Carnica",
+      "Buckfast",
+      "Ligustica",
+      "Mellifera",
+      "Caucasica",
+      "Anatoliaca",
+      "Sahariensis"
+     ],
+     "bucketTitle": "Biene",
+     "shorthand": "Biene"
+    },
+    {
+     "answers": [
+      "Kalb",
+      "Welpe",
+      "Fohlen",
+      "Kitz",
+      "Frischling",
+      "Heuler",
+      "Nymphe",
+      "Lamm"
+     ],
+     "bucketTitle": "Jungtier",
+     "shorthand": "Jungtier"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "116798"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Taro",
+      "Yams",
+      "Galgant",
+      "Topinambur",
+      "Kurkuma",
+      "Ingwer",
+      "Trüffel",
+      "Pastinake"
+     ],
+     "bucketTitle": "Wächst unter der Erde",
+     "shorthand": "Unterirdisch"
+    },
+    {
+     "answers": [
+      "Pistazie",
+      "Cashew",
+      "Tamarinde",
+      "Kaki",
+      "Durian",
+      "Litschi",
+      "Mango",
+      "Pekannuss"
+     ],
+     "bucketTitle": "Wächst am Baum",
+     "shorthand": "Am Baum"
+    },
+    {
+     "answers": [
+      "Ameisenigel",
+      "Axolotl",
+      "Kaiman",
+      "Gecko",
+      "Nandu",
+      "Emu",
+      "Kakapo",
+      "Rüsselkäfer"
+     ],
+     "bucketTitle": "Wächst im Ei",
+     "shorthand": "Im Ei"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "116799",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
       "iPod erscheint",
       "YouTube startet",
       "Sommermärchen",
@@ -563,6 +663,106 @@
    "buckets": [
     {
      "answers": [
+      "Frei",
+      "Mahl",
+      "Halb",
+      "Brot",
+      "Ernte",
+      "Schon",
+      "Schul",
+      "Jahres",
+      "Hoch",
+      "Eis"
+     ],
+     "bucketTitle": "{{BLANK}}zeit",
+     "shorthand": "{{BLANK}}zeit"
+    },
+    {
+     "answers": [
+      "Dekade",
+      "Jahrhundert",
+      "Stunde",
+      "Monat",
+      "Lustrum",
+      "Biennium",
+      "Äon",
+      "Jahr",
+      "Quartal",
+      "Semester"
+     ],
+     "bucketTitle": "Zeiteinheit",
+     "shorthand": "Zeiteinheit"
+    },
+    {
+     "answers": [
+      "Lupe",
+      "Schrift",
+      "Bombe",
+      "Geist",
+      "Maschine",
+      "Alter",
+      "Punkt",
+      "Vertreib",
+      "Fenster",
+      "Zeuge"
+     ],
+     "bucketTitle": "Zeit{{BLANK}}",
+     "shorthand": "Zeit{{BLANK}}"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "116838"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Zebra",
+      "Giraffe",
+      "Gorilla",
+      "Okapi",
+      "Schimpanse",
+      "Lemur"
+     ],
+     "bucketTitle": "In Afrika heimisch",
+     "shorthand": "Afrika"
+    },
+    {
+     "answers": [
+      "Tiger",
+      "Orang-Utan",
+      "Königskobra",
+      "Komodowaran",
+      "Nasenaffe",
+      "Panda"
+     ],
+     "bucketTitle": "In Asien heimisch",
+     "shorthand": "Asien"
+    },
+    {
+     "answers": [
+      "Krallenaffe",
+      "Anakonda",
+      "Leguan",
+      "Capybara",
+      "Faultier",
+      "Jaguar"
+     ],
+     "bucketTitle": "In Südamerika heimisch",
+     "shorthand": "Südamerika"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "116843"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
       "Jever",
       "Kozel",
       "Peroni",
@@ -572,7 +772,7 @@
       "Köstritzer",
       "Tsingtao"
      ],
-     "bucketTitle": "Bier",
+     "bucketTitle": "Biermarke",
      "shorthand": "Bier"
     },
     {
@@ -586,7 +786,7 @@
       "Axolotl",
       "Wombat"
      ],
-     "bucketTitle": "Tier",
+     "bucketTitle": "Tierart",
      "shorthand": "Tier"
     },
     {
@@ -600,7 +800,7 @@
       "Steinway",
       "Blüthner"
      ],
-     "bucketTitle": "Klavier",
+     "bucketTitle": "Klaviermarke",
      "shorthand": "Klavier"
     }
    ],
@@ -608,6 +808,156 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116846"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Mamba",
+      "Neunauge",
+      "Wandermuschel",
+      "Egel",
+      "Nacktschnecke",
+      "Seegurke",
+      "Blindschleiche"
+     ],
+     "bucketTitle": "Keine Beine",
+     "shorthand": "Keine Beine"
+    },
+    {
+     "answers": [
+      "Alpaka",
+      "Shih Tzu",
+      "Serval",
+      "Okapi",
+      "Axolotl",
+      "Gnu",
+      "Waran",
+      "Ameisenigel"
+     ],
+     "bucketTitle": "4 Beine",
+     "shorthand": "4 Beine"
+    },
+    {
+     "answers": [
+      "Fangschrecke",
+      "Stechmücke",
+      "Zecke",
+      "Skarabäus",
+      "Grille",
+      "Flusskrebs",
+      "Stubenfliege"
+     ],
+     "bucketTitle": "Mehr als 4 Beine",
+     "shorthand": "Mehr als 4 Beine"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "116888",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Otoskop",
+      "Vernebler",
+      "Pulsoximeter",
+      "Respirator",
+      "Shunt",
+      "Endoskop",
+      "Tourniquet",
+      "Katheter",
+      "Spritze",
+      "Wartenbergrad"
+     ],
+     "bucketTitle": "Medizinisches Gerät",
+     "shorthand": "Medizin"
+    },
+    {
+     "answers": [
+      "Blitzdings",
+      "Replikator",
+      "Telepod",
+      "Fluxkompensator",
+      "Holodeck",
+      "Protonenpack",
+      "Lichtschwert",
+      "Solarsurfer"
+     ],
+     "bucketTitle": "Erfundenes Filmding",
+     "shorthand": "Sci-Fi"
+    },
+    {
+     "answers": [
+      "Luftschraube",
+      "Ornithopter",
+      "Dampfkanone",
+      "Fallschirm",
+      "Anemometer",
+      "Drehbrücke"
+     ],
+     "bucketTitle": "Da-Vinci-Entwurf",
+     "shorthand": "Da Vinci"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "116895",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Berg",
+      "Krieger",
+      "Baum",
+      "Taube",
+      "Kobra",
+      "Delfin",
+      "Heuschrecke",
+      "Brücke"
+     ],
+     "bucketTitle": "Yoga-Pose",
+     "shorthand": "Yoga"
+    },
+    {
+     "answers": [
+      "Barbar",
+      "Barde",
+      "Druide",
+      "Kämpfer",
+      "Hexenmeister",
+      "Schurke",
+      "Mönch",
+      "Paladin"
+     ],
+     "bucketTitle": "D&D-Klasse (5. Edition)",
+     "shorthand": "D&D"
+    },
+    {
+     "answers": [
+      "Woody",
+      "Jessie",
+      "Rex",
+      "Specki",
+      "Slinky",
+      "Bully",
+      "Forky",
+      "Lotso"
+     ],
+     "bucketTitle": "Toy Story-Figur",
+     "shorthand": "Toy Story"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "117050"
   },
   {
    "buckets": [
@@ -662,8 +1012,8 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117055",
-   "starterContent": true,
-   "x": true
+   "x": true,
+   "starterContent": true
   },
   {
    "buckets": [
@@ -820,6 +1170,356 @@
    "buckets": [
     {
      "answers": [
+      "Mälzer",
+      "Bendzko",
+      "Raue",
+      "Wiese",
+      "Borowski",
+      "Oliver Schultz",
+      "Bergmann"
+     ],
+     "bucketTitle": "Tim",
+     "shorthand": "Tim"
+    },
+    {
+     "answers": [
+      "Kaulitz",
+      "Schilling",
+      "Wlaschiha",
+      "Beck",
+      "Gerhardt",
+      "Tykwer",
+      "Gaebel",
+      "Astor"
+     ],
+     "bucketTitle": "Tom",
+     "shorthand": "Tom"
+    },
+    {
+     "answers": [
+      "Haas",
+      "Krappweis",
+      "Engel",
+      "Steiner",
+      "Wosch",
+      "Morgenstern",
+      "Finke",
+      "Reeve"
+     ],
+     "bucketTitle": "Tommy",
+     "shorthand": "Tommy"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "117285"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Grie{{BLANK}}gram",
+      "Wei{{BLANK}}heit",
+      "Erkenntni{{BLANK}}",
+      "Verhältni{{BLANK}}",
+      "Di{{BLANK}}kussion",
+      "Pla{{BLANK}}ma",
+      "Ab{{BLANK}}zess",
+      "Prei{{BLANK}}elbeere"
+     ],
+     "bucketTitle": "s",
+     "shorthand": "s"
+    },
+    {
+     "answers": [
+      "Karu{{BLANK}}ell",
+      "Renai{{BLANK}}ance",
+      "Re{{BLANK}}ource",
+      "Fa{{BLANK}}ade",
+      "Kommi{{BLANK}}ar",
+      "Wei{{BLANK}}agung",
+      "Impre{{BLANK}}um",
+      "Pa{{BLANK}}agier"
+     ],
+     "bucketTitle": "ss",
+     "shorthand": "ss"
+    },
+    {
+     "answers": [
+      "Litfa{{BLANK}}säule",
+      "verdrie{{BLANK}}lich",
+      "Verhei{{BLANK}}ung",
+      "Ma{{BLANK}}regelung",
+      "Verschlei{{BLANK}}",
+      "bu{{BLANK}}fertig",
+      "Sto{{BLANK}}seufzer",
+      "Grie{{BLANK}}brei"
+     ],
+     "bucketTitle": "ß",
+     "shorthand": "ß"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117319",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Lavazza",
+      "Illy",
+      "Jacobs",
+      "Melitta",
+      "Segafredo",
+      "Kimbo",
+      "Pellini",
+      "Mauro"
+     ],
+     "bucketTitle": "Macht Kaffee",
+     "shorthand": "Kaffee"
+    },
+    {
+     "answers": [
+      "Lindt",
+      "Milka",
+      "Läderach",
+      "Valrhona",
+      "Feodora",
+      "Sarotti",
+      "Hachez",
+      "Toblerone"
+     ],
+     "bucketTitle": "Macht Schokolade",
+     "shorthand": "Schokolade"
+    },
+    {
+     "answers": [
+      "Mango",
+      "Burberry",
+      "Carhartt",
+      "Patagonia",
+      "Esprit",
+      "Armedangels",
+      "Zara",
+      "Marc O’Polo"
+     ],
+     "bucketTitle": "Macht Kleidung",
+     "shorthand": "Kleidung"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117343",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Androphobie",
+      "Anthropophobie",
+      "Gynophobie",
+      "Coulrophobie",
+      "Pädophobie",
+      "Ephebiphobie"
+     ],
+     "bucketTitle": "Angst vor Menschen",
+     "shorthand": "Menschen"
+    },
+    {
+     "answers": [
+      "Apiphobie",
+      "Arachnophobie",
+      "Kynophobie",
+      "Hippophobie",
+      "Ophidiophobie",
+      "Ornithophobie",
+      "Zoophobie"
+     ],
+     "bucketTitle": "Angst vor Tieren",
+     "shorthand": "Tiere"
+    },
+    {
+     "answers": [
+      "Klaustrophobie",
+      "Agoraphobie",
+      "Akrophobie",
+      "Aviophobie",
+      "Glossophobie",
+      "Nyktophobie"
+     ],
+     "bucketTitle": "Angst vor Situationen",
+     "shorthand": "Situationen"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117351",
+   "x": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Urknall",
+      "Genesis",
+      "Es war einmal",
+      "Ouvertüre",
+      "Anstoß",
+      "Prolog",
+      "Zygote",
+      "Spatenstich"
+     ],
+     "bucketTitle": "Am Anfang",
+     "shorthand": "Anfang"
+    },
+    {
+     "answers": [
+      "Lisa Simpson",
+      "Malcolm",
+      "12 Uhr mittags",
+      "Äquator",
+      "Bergfest",
+      "Halbzeit",
+      "Intermezzo",
+      "Bauch"
+     ],
+     "bucketTitle": "In der Mitte",
+     "shorthand": "Mitte"
+    },
+    {
+     "answers": [
+      "Offenbarung",
+      "Silvester",
+      "Abspann",
+      "Epilog",
+      "Feierabend",
+      "Zapfenstreich",
+      "Finale",
+      "Ultimo"
+     ],
+     "bucketTitle": "Am Ende",
+     "shorthand": "Ende"
+    }
+   ],
+   "countrySpecific": false,
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "117392",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Ägypten",
+      "Philippinen",
+      "Venezuela",
+      "Indien",
+      "Nigeria",
+      "Vietnam",
+      "Guyana",
+      "Costa Rica"
+     ],
+     "bucketTitle": "Nordhalbkugel",
+     "shorthand": "Norden"
+    },
+    {
+     "answers": [
+      "Chile",
+      "Australien",
+      "Neuseeland",
+      "Argentinien",
+      "Madagaskar",
+      "Südafrika",
+      "Angola",
+      "Peru"
+     ],
+     "bucketTitle": "Südhalbkugel",
+     "shorthand": "Süden"
+    },
+    {
+     "answers": [
+      "Brasilien",
+      "Indonesien",
+      "Kenia",
+      "Ecuador",
+      "Republik Kongo",
+      "Kolumbien"
+     ],
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": true,
+   "host": "CEREBRIEL",
+   "id": "117620"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Pumuckl",
+      "Pippi Langstrumpf",
+      "Ed Sheeran",
+      "Prinz Harry",
+      "Rupert Grint",
+      "Jessica Rabbit",
+      "Wilma Feuerstein",
+      "Ronald McDonald"
+     ],
+     "bucketTitle": "Rothaarig",
+     "shorthand": "Rothaarig"
+    },
+    {
+     "answers": [
+      "Marilyn Monroe",
+      "Dolly Parton",
+      "Heino",
+      "Barbie",
+      "Elsa",
+      "Draco Malfoy",
+      "Legolas",
+      "Bibi Blocksberg"
+     ],
+     "bucketTitle": "Blond",
+     "shorthand": "Blond"
+    },
+    {
+     "answers": [
+      "Stitch",
+      "Krümelmonster",
+      "Dr. Manhattan",
+      "Papa Schlumpf",
+      "Nebula",
+      "Dorie",
+      "Megamind"
+     ],
+     "bucketTitle": "Blau",
+     "shorthand": "Blau"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117746",
+   "x": false,
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
       "Rizz",
       "Slay",
       "Aura",
@@ -873,6 +1573,108 @@
    "buckets": [
     {
      "answers": [
+      "Zebra",
+      "Tiger",
+      "Grünlilie",
+      "Zuckerstange",
+      "Strichcode",
+      "Biene",
+      "Clownfisch",
+      "Obelix’ Hose"
+     ],
+     "bucketTitle": "Gestreift",
+     "shorthand": "Streifen"
+    },
+    {
+     "answers": [
+      "Gepard",
+      "Giraffe",
+      "Dominosteine",
+      "Marienkäfer",
+      "Dalmatiner",
+      "Würfel",
+      "Twister-Matte",
+      "Fliegenpilz"
+     ],
+     "bucketTitle": "Gepunktet",
+     "shorthand": "Punkte"
+    },
+    {
+     "answers": [
+      "Schachbrett",
+      "Waffel",
+      "Schottenrock",
+      "Zielflagge",
+      "Vichy-Muster",
+      "Harlekinkostüm",
+      "Kroatiens Trikot",
+      "Damebrett"
+     ],
+     "bucketTitle": "Kariert",
+     "shorthand": "Karos"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117808",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Schokolade",
+      "Gummibärchen",
+      "Tiramisu",
+      "Avocado",
+      "Paparazzi",
+      "Mathematik",
+      "Salamander",
+      "Krokodile"
+     ],
+     "bucketTitle": "4 Silben",
+     "shorthand": "4 Silben"
+    },
+    {
+     "answers": [
+      "Kindergärtnerin",
+      "Universität",
+      "Pyramidenbau",
+      "Schokoladeneis",
+      "Elefantenfuß",
+      "Bananenschale",
+      "Schmetterlingsraupe",
+      "Autobahngebühr"
+     ],
+     "bucketTitle": "5 Silben",
+     "shorthand": "5 Silben"
+    },
+    {
+     "answers": [
+      "Schokoladenpudding",
+      "Limonadenflasche",
+      "Mathematiklehrer",
+      "Kriminalkommissar",
+      "Bananenrepublik",
+      "Telefonanbieter",
+      "Elefantenherde",
+      "Universitäten"
+     ],
+     "bucketTitle": "6 Silben",
+     "shorthand": "6 Silben"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "117811",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
       "Big Tasty Bacon",
       "Hamburger Royal TS",
       "Double Beef Classic",
@@ -881,7 +1683,7 @@
       "Chickenburger",
       "McRib"
      ],
-     "bucketTitle": "McDonald’s",
+     "bucketTitle": "McDonald’s-Produkt",
      "shorthand": "McDonald’s"
     },
     {
@@ -895,7 +1697,7 @@
       "X-tra Long Chili Cheese",
       "Double Crispy Chicken"
      ],
-     "bucketTitle": "Burger King",
+     "bucketTitle": "Burger-King-Produkt",
      "shorthand": "Burger King"
     },
     {
@@ -908,7 +1710,7 @@
       "Veggie Tender",
       "Original Bites"
      ],
-     "bucketTitle": "KFC",
+     "bucketTitle": "KFC-Produkt",
      "shorthand": "KFC"
     }
    ],
@@ -917,6 +1719,324 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117818"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Ich komme wieder.",
+      "Mein Schatz!",
+      "Möge die Macht mit dir sein.",
+      "E.T. nach Hause telefonieren.",
+      "Ich bin der König der Welt!",
+      "Ich sehe tote Menschen.",
+      "Lauf, Forrest, lauf!",
+      "Hasta la vista, baby."
+     ],
+     "bucketTitle": "Filmzitat",
+     "shorthand": "Film"
+    },
+    {
+     "answers": [
+      "Bazinga!",
+      "War ich das etwa?",
+      "Nicht die Mama!",
+      "Widerstand ist zwecklos.",
+      "Das war spitze!",
+      "Die Ente bleibt draußen!",
+      "Ausgezeichnet!",
+      "Abschalten!"
+     ],
+     "bucketTitle": "TV-Spruch",
+     "shorthand": "TV"
+    },
+    {
+     "answers": [
+      "Wer ist eigentlich Paul?",
+      "Die Freiheit nehm ich mir.",
+      "Man gönnt sich ja sonst nichts.",
+      "Unterm Strich zähl ich.",
+      "Es gibt immer was zu tun.",
+      "Respekt, wer’s selber macht.",
+      "Erleben, was verbindet.",
+      "Wie viel Wahnsinn steckt in dir?"
+     ],
+     "bucketTitle": "Werbeslogan",
+     "shorthand": "Werbung"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117853",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Gong",
+      "Frisbee",
+      "CD",
+      "Dartscheibe",
+      "Pizzaboden",
+      "Medizinball",
+      "Camembert",
+      "Hula-Hoop"
+     ],
+     "bucketTitle": "Rund",
+     "shorthand": "Rund"
+    },
+    {
+     "answers": [
+      "Fünf-Euro-Schein",
+      "Dominostein",
+      "Spielkarte",
+      "Mundharmonika",
+      "Backgammonbrett",
+      "Briefmarke",
+      "Schokoladentafel",
+      "Smartphone"
+     ],
+     "bucketTitle": "Rechteckig",
+     "shorthand": "Rechteckig"
+    },
+    {
+     "answers": [
+      "Nacho",
+      "Samosa",
+      "Balalaika",
+      "Pizzastück",
+      "Focksegel",
+      "Vorfahrt gewähren",
+      "Toblerone-Stück"
+     ],
+     "bucketTitle": "Dreieckig",
+     "shorthand": "Dreieckig"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117855",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "BTS",
+      "*NSYNC",
+      "One Direction",
+      "US5",
+      "Take That",
+      "Backstreet Boys",
+      "Caught in the Act",
+      "Big Time Rush"
+     ],
+     "bucketTitle": "Boyband",
+     "shorthand": "Boyband"
+    },
+    {
+     "answers": [
+      "No Angels",
+      "Monrose",
+      "Tic Tac Toe",
+      "Spice Girls",
+      "BLACKPINK",
+      "Destiny’s Child",
+      "Sugababes",
+      "Little Mix"
+     ],
+     "bucketTitle": "Girlgroup",
+     "shorthand": "Girlgroup"
+    },
+    {
+     "answers": [
+      "ABBA",
+      "Wir sind Helden",
+      "Juli",
+      "Silbermond",
+      "Mia.",
+      "No Doubt",
+      "Black Eyed Peas",
+      "Die Happy"
+     ],
+     "bucketTitle": "Musikact mit Männern & Frauen",
+     "shorthand": "Gemischt"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "117861",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Kokowääh",
+      "Ziemlich beste Freunde",
+      "James Bond 007: Skyfall",
+      "Türkisch für Anfänger",
+      "Fack ju Göhte",
+      "Der Hobbit: Smaugs Einöde",
+      "Die Eiskönigin – Völlig unverfroren",
+      "The Wolf of Wall Street",
+      "Star Wars: Das Erwachen der Macht",
+      "James Bond 007: Spectre",
+      "Findet Dorie",
+      "Avengers: Infinity War",
+      "Minions"
+     ],
+     "bucketTitle": "Meistbesuchter Kinofilm 2010er in DE",
+     "shorthand": "2010er"
+    },
+    {
+     "answers": [
+      "Mission: Impossible II",
+      "Ice Age",
+      "Das Wunder von Bern",
+      "Findet Nemo",
+      "Fluch der Karibik",
+      "(T)Raumschiff Surprise – Periode 1",
+      "Harry Potter und der Feuerkelch",
+      "Illuminati",
+      "Der Teufel trägt Prada",
+      "Keinohrhasen",
+      "Mamma Mia!",
+      "2012",
+      "Avatar – Aufbruch nach Pandora"
+     ],
+     "bucketTitle": "Meistbesuchter Kinofilm 2000er in DE",
+     "shorthand": "2000er"
+    },
+    {
+     "answers": [
+      "Pretty Woman",
+      "Werner – Beinhart!",
+      "Jurassic Park",
+      "Forrest Gump",
+      "Der bewegte Mann",
+      "Independence Day",
+      "Ein Schweinchen namens Babe",
+      "James Bond 007 – GoldenEye",
+      "Pocahontas",
+      "Men in Black",
+      "Titanic",
+      "Der Soldat James Ryan",
+      "Matrix"
+     ],
+     "bucketTitle": "Meistbesuchter Kinofilm 1990er in DE",
+     "shorthand": "1990er"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117864",
+   "x": false
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Bizarro",
+      "Lex Luthor",
+      "Brainiac",
+      "General Zod",
+      "Mr. Mxyzptlk",
+      "Darkseid",
+      "Doomsday"
+     ],
+     "bucketTitle": "Superman-Gegner",
+     "shorthand": "Superman"
+    },
+    {
+     "answers": [
+      "Ra’s al Ghul",
+      "Joker",
+      "Pinguin",
+      "Two-Face",
+      "Bane",
+      "Harley Quinn",
+      "Mr. Freeze"
+     ],
+     "bucketTitle": "Batman-Gegner",
+     "shorthand": "Batman"
+    },
+    {
+     "answers": [
+      "Kingpin",
+      "Morbius",
+      "Sandman",
+      "Geier",
+      "Kraven",
+      "Doctor Octopus",
+      "Grüner Kobold",
+      "Carnage"
+     ],
+     "bucketTitle": "Spider-Man-Gegner",
+     "shorthand": "Spider-Man"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117880"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Rechts vor links",
+      "Überholverbot",
+      "Seitenstreifen meiden",
+      "Wildwechsel",
+      "Rollsplitt",
+      "Gegenverkehr",
+      "Schneekettenpflicht",
+      "Rettungsgasse bilden"
+     ],
+     "bucketTitle": "Straßenverkehrsschild",
+     "shorthand": "Straßenschild"
+    },
+    {
+     "answers": [
+      "Zum Gate",
+      "Gepäckausgabe",
+      "Boarding",
+      "Zollanmeldung",
+      "Ankunft",
+      "Abflug",
+      "Transfer",
+      "Sicherheitskontrolle"
+     ],
+     "bucketTitle": "Schild am Flughafen",
+     "shorthand": "Flughafenschild"
+    },
+    {
+     "answers": [
+      "Wege nicht verlassen",
+      "Tiere nicht füttern",
+      "Leinenpflicht",
+      "Rasen nicht betreten",
+      "Grillen verboten",
+      "Bitte Ruhe",
+      "Kein offenes Feuer",
+      "Baden verboten"
+     ],
+     "bucketTitle": "Schild im Naturpark",
+     "shorthand": "Naturparkschild"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "117885"
   },
   {
    "buckets": [
@@ -978,6 +2098,515 @@
    "buckets": [
     {
      "answers": [
+      "White Russian",
+      "Screwdriver",
+      "Moscow Mule",
+      "Sex on the Beach",
+      "Espresso Martini",
+      "Bloody Mary",
+      "Cosmopolitan",
+      "Lemon Drop"
+     ],
+     "bucketTitle": "Wodka-Cocktail",
+     "shorthand": "Wodka"
+    },
+    {
+     "answers": [
+      "French 75",
+      "Negroni",
+      "Hanky Panky",
+      "Gimlet",
+      "Aviation",
+      "Bramble",
+      "Tom Collins",
+      "Clover Club"
+     ],
+     "bucketTitle": "Gin-Cocktail",
+     "shorthand": "Gin"
+    },
+    {
+     "answers": [
+      "Piña Colada",
+      "Daiquiri",
+      "Dark ’n’ Stormy",
+      "Cuba Libre",
+      "Mojito",
+      "Mai Tai",
+      "Zombie",
+      "Planter’s Punch"
+     ],
+     "bucketTitle": "Rum-Cocktail",
+     "shorthand": "Rum"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "118076",
+   "x": true,
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Lars Klingbeil",
+      "Alexander Dobrindt",
+      "Johann Wadephul",
+      "Boris Pistorius",
+      "Katharina Reiche",
+      "Dorothee Bär",
+      "Karin Prien",
+      "Carsten Schneider",
+      "Bärbel Bas",
+      "Stefanie Hubig",
+      "Carsten Linnemann"
+     ],
+     "bucketTitle": "Bundesminister",
+     "shorthand": "Bundesminister"
+    },
+    {
+     "answers": [
+      "Kurt Georg Kiesinger",
+      "Helmut Kohl",
+      "Gerhard Schröder",
+      "Friedrich Merz"
+     ],
+     "bucketTitle": "Bundeskanzler",
+     "shorthand": "Bundeskanzler"
+    },
+    {
+     "answers": [
+      "Konrad Adenauer",
+      "Ludwig Erhard",
+      "Willy Brandt",
+      "Helmut Schmidt",
+      "Angela Merkel",
+      "Olaf Scholz"
+     ],
+     "bucketTitle": "Bundesminister & Kanzler",
+     "shorthand": "Beides"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "Hard",
+   "hasBothBucket": true,
+   "host": "QUIZTAR",
+   "id": "118083"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Ash Ketchum",
+      "Mario",
+      "Woody",
+      "Carmen Sandiego",
+      "Stan Marsh",
+      "Freddy Krueger",
+      "Dipper Pines",
+      "Pinocchio"
+     ],
+     "bucketTitle": "Trägt Kopfbedeckung",
+     "shorthand": "Hut & Co."
+    },
+    {
+     "answers": [
+      "Superman",
+      "Supergirl",
+      "Graf Zahl",
+      "Dr. Strange",
+      "Lando Calrissian",
+      "Dracula",
+      "Jon Schnee"
+     ],
+     "bucketTitle": "Trägt einen Umhang",
+     "shorthand": "Umhang"
+    },
+    {
+     "answers": [
+      "Gandalf",
+      "Zorro",
+      "Darkwing Duck",
+      "Darth Vader",
+      "Scarlet Witch",
+      "Piccolo",
+      "Elphaba",
+      "Der gestiefelte Kater"
+     ],
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": true,
+   "host": "QUIZTAR",
+   "id": "118085",
+   "x": false,
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Uncharted",
+      "Resident Evil",
+      "Silent Hill",
+      "Warcraft",
+      "Tekken",
+      "Mortal Kombat",
+      "Tomb Raider",
+      "Sonic"
+     ],
+     "bucketTitle": "Erst ein Videospiel",
+     "shorthand": "Spiel"
+    },
+    {
+     "answers": [
+      "Forrest Gump",
+      "Dune",
+      "Die Tribute von Panem",
+      "Die Welle",
+      "Das Parfum",
+      "Tschick",
+      "Der wilde Roboter",
+      "Der Marsianer"
+     ],
+     "bucketTitle": "Erst ein Buch",
+     "shorthand": "Buch"
+    },
+    {
+     "answers": [
+      "Matrix",
+      "Get Out",
+      "Tron",
+      "Zurück in die Zukunft",
+      "Inception",
+      "The Substance",
+      "Looper",
+      "Westworld"
+     ],
+     "bucketTitle": "Erst ein Film",
+     "shorthand": "Film"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "118092",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Pokémon",
+      "PlayStation",
+      "Google",
+      "Amazon",
+      "ICQ",
+      "Diddl",
+      "Furby",
+      "Tamagotchi"
+     ],
+     "bucketTitle": "Debüt: 90er",
+     "shorthand": "90er"
+    },
+    {
+     "answers": [
+      "YouTube",
+      "Facebook",
+      "Wikipedia",
+      "StudiVZ",
+      "Die Sims",
+      "Wii",
+      "Spotify",
+      "WhatsApp"
+     ],
+     "bucketTitle": "Debüt: 00er",
+     "shorthand": "00er"
+    },
+    {
+     "answers": [
+      "Instagram",
+      "TikTok",
+      "Snapchat",
+      "iPad",
+      "Twitch",
+      "Discord",
+      "Fortnite",
+      "Bumble"
+     ],
+     "bucketTitle": "Debüt: 10er",
+     "shorthand": "10er"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "118179",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Solo",
+      "Rogue One",
+      "Prometheus",
+      "Die Monster Uni",
+      "Red Dragon",
+      "Mufasa",
+      "X-Men: Erste Entscheidung"
+     ],
+     "bucketTitle": "Film-Prequel",
+     "shorthand": "Prequel"
+    },
+    {
+     "answers": [
+      "Matrix",
+      "Alien",
+      "X-Men",
+      "Mad Max",
+      "Stirb langsam",
+      "Jurassic Park",
+      "Findet Nemo",
+      "Before Sunrise"
+     ],
+     "bucketTitle": "Erster Film einer Reihe",
+     "shorthand": "Original"
+    },
+    {
+     "answers": [
+      "Before Sunset",
+      "Aliens",
+      "Hannibal",
+      "Creed",
+      "Mad Max: Fury Road",
+      "Findet Dorie",
+      "Logan",
+      "The Dark Knight"
+     ],
+     "bucketTitle": "Film-Fortsetzung",
+     "shorthand": "Sequel"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "118180",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "aus",
+      "bei",
+      "mit",
+      "nach",
+      "seit",
+      "von",
+      "zu",
+      "gegenüber"
+     ],
+     "bucketTitle": "Präposition + Dativ",
+     "shorthand": "Dativ"
+    },
+    {
+     "answers": [
+      "durch",
+      "für",
+      "gegen",
+      "ohne",
+      "um",
+      "bis",
+      "wider"
+     ],
+     "bucketTitle": "Präposition + Akkusativ",
+     "shorthand": "Akkusativ"
+    },
+    {
+     "answers": [
+      "an",
+      "auf",
+      "hinter",
+      "in",
+      "neben",
+      "über",
+      "unter",
+      "vor",
+      "zwischen"
+     ],
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": true,
+   "host": "QUIZTAR",
+   "id": "118191",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "ABBA",
+      "AC/DC",
+      "Queen",
+      "Kraftwerk",
+      "BAP",
+      "U2",
+      "The Cure",
+      "Eagles"
+     ],
+     "bucketTitle": "Bandgründung: 70er",
+     "shorthand": "70er"
+    },
+    {
+     "answers": [
+      "Die Ärzte",
+      "Die Toten Hosen",
+      "R.E.M.",
+      "Nirvana",
+      "Guns N’ Roses",
+      "Depeche Mode",
+      "Metallica",
+      "Nine Inch Nails"
+     ],
+     "bucketTitle": "Bandgründung: 80er",
+     "shorthand": "80er"
+    },
+    {
+     "answers": [
+      "Rammstein",
+      "Fettes Brot",
+      "Sportfreunde Stiller",
+      "Foo Fighters",
+      "Oasis",
+      "Linkin Park",
+      "Evanescence",
+      "Muse"
+     ],
+     "bucketTitle": "Bandgründung: 90er",
+     "shorthand": "90er"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "118198",
+   "x": false,
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Denkmal",
+      "Müssen nur wollen",
+      "Ist das so?",
+      "Die Konkurrenz",
+      "Kaputt",
+      "Soundso",
+      "Endlich ein Grund zur Panik",
+      "Von hier an blind"
+     ],
+     "bucketTitle": "Wir-sind-Helden-Song",
+     "shorthand": "Wir sind Helden"
+    },
+    {
+     "answers": [
+      "Junge",
+      "Rebell",
+      "Monsterparty",
+      "Unrockbar",
+      "Schunder-Song",
+      "Männer sind Schweine",
+      "Westerland",
+      "Lasse redn"
+     ],
+     "bucketTitle": "Ärzte-Song",
+     "shorthand": "Die Ärzte"
+    },
+    {
+     "answers": [
+      "Dosenöffner",
+      "Powerbank",
+      "Trillerpfeife",
+      "Klebeband",
+      "Batterien",
+      "Kurbelradio",
+      "Feuchttücher",
+      "Müllbeutel"
+     ],
+     "bucketTitle": "Notfallausrüstung",
+     "shorthand": "Notfallset"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "118202",
+   "x": false,
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Leuchtturm",
+      "Nur geträumt",
+      "99 Luftballons",
+      "Rette mich",
+      "Liebe ist",
+      "Feuer und Flamme",
+      "Wunder gescheh’n",
+      "In meinem Leben"
+     ],
+     "bucketTitle": "Nena-Song",
+     "shorthand": "Nena"
+    },
+    {
+     "answers": [
+      "Der Kommissar",
+      "Jeanny",
+      "Egoist",
+      "Junge Roemer",
+      "Wiener Blut",
+      "Ganz Wien",
+      "Helden von heute",
+      "Auf der Flucht"
+     ],
+     "bucketTitle": "Falco-Song",
+     "shorthand": "Falco"
+    },
+    {
+     "answers": [
+      "Bilder im Kopf",
+      "Schlechtes Vorbild",
+      "Mein Block",
+      "Augen auf",
+      "Der Himmel soll warten",
+      "Astronaut",
+      "Tausend Tattoos",
+      "Fuffies im Club"
+     ],
+     "bucketTitle": "Sido-Song",
+     "shorthand": "Sido"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "118203",
+   "x": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
       "Falco",
       "Niki Lauda",
       "David Alaba",
@@ -1023,6 +2652,112 @@
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "118552",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Lenny Bruce is not afraid",
+      "Listen to yourself churn",
+      "Vitriolic, patriotic",
+      "Six o’clock TV hour",
+      "Leonard Bernstein",
+      "Cheesecake, jelly bean, boom!",
+      "A tournament of lies",
+      "And I feel fine"
+     ],
+     "bucketTitle": "Text aus „End of the World as We Know It“",
+     "shorthand": "R.E.M."
+    },
+    {
+     "answers": [
+      "England’s got a new queen",
+      "Elvis Presley, Disneyland",
+      "Trouble in the Suez",
+      "Mickey Mantle, Kerouac",
+      "Belgians in the Congo",
+      "Woodstock, Watergate",
+      "It was always burning",
+      "I can’t take it anymore"
+     ],
+     "bucketTitle": "Text aus „We Didn’t Start the Fire“",
+     "shorthand": "Billy Joel"
+    },
+    {
+     "answers": [
+      "February made me shiver",
+      "Bad news on the doorstep",
+      "The day the music died",
+      "Chevy to the levee",
+      "Teenage broncin’ buck",
+      "Lennon read a book on Marx",
+      "Them good ol’ boys",
+      "Met a girl who sang the blues",
+      "Father, Son and the Holy Ghost"
+     ],
+     "bucketTitle": "Text aus „American Pie“",
+     "shorthand": "Don McLean"
+    }
+   ],
+   "countrySpecific": false,
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "118674",
+   "x": true,
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Tasten am Standardklavier",
+      "Karten im Standard-Tarotdeck",
+      "Kästchen im Standard-Sudoku",
+      "Ordnungszahl von Gold",
+      "Römisch: XCIX",
+      "Summe der Zahlen 1 bis 13",
+      "Offizielle Sternbilder",
+      "Fußballminuten ohne Nachspielzeit"
+     ],
+     "bucketTitle": "Unter 100",
+     "shorthand": "Unter 100"
+    },
+    {
+     "answers": [
+      "Felder beim internationalen Dame",
+      "Steine im englischen Scrabble",
+      "Nullen in einem Googol",
+      "Erzählungen im Decamerone",
+      "Summe der ersten neun Primzahlen",
+      "Rechter Winkel (gon)",
+      "Quadratmeter in einem Ar",
+      "Gesänge in Dantes Göttlicher Komödie"
+     ],
+     "bucketTitle": "Genau 100",
+     "shorthand": "Genau 100"
+    },
+    {
+     "answers": [
+      "Jahre im Hundertjährigen Krieg",
+      "Steine im deutschen Scrabble",
+      "Augen im vollständigen Skatblatt",
+      "Felder beim Scrabble",
+      "Summe der Zahlen 1 bis 14",
+      "Römisch: CIX",
+      "Höchstpunktzahl mit drei Darts",
+      "Bilbos Alter beim Abschiedsfest"
+     ],
+     "bucketTitle": "Über 100",
+     "shorthand": "Über 100"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "Hard",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "118723",
    "starterContent": true
   },
   {
@@ -1130,6 +2865,465 @@
    "buckets": [
     {
      "answers": [
+      "Jack",
+      "Unter",
+      "J beim Poker",
+      "Laus{{BLANK}}",
+      "Spitz{{BLANK}}",
+      "Bengel",
+      "Schlingel",
+      "Max und Moritz"
+     ],
+     "bucketTitle": "Bube",
+     "shorthand": "Bube"
+    },
+    {
+     "answers": [
+      "Queen",
+      "Lady",
+      "Q beim Poker",
+      "Notre-{{BLANK}}",
+      "Grande {{BLANK}}",
+      "Hof{{BLANK}}",
+      "Diagonales Brettspiel",
+      "Besuch der alten {{BLANK}}"
+     ],
+     "bucketTitle": "Dame",
+     "shorthand": "Dame"
+    },
+    {
+     "answers": [
+      "King",
+      "K beim Poker",
+      "Charles III.",
+      "Simba",
+      "Babar",
+      "Erl{{BLANK}}",
+      "Frosch{{BLANK}}",
+      "{{BLANK}} Fußball"
+     ],
+     "bucketTitle": "König",
+     "shorthand": "König"
+    }
+   ],
+   "countrySpecific": false,
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "118923"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Rügen",
+      "Sylt",
+      "Kreta",
+      "Borneo",
+      "Sardinien",
+      "Guam",
+      "Rapa Nui",
+      "Oahu"
+     ],
+     "bucketTitle": "Insel",
+     "shorthand": "Insel"
+    },
+    {
+     "answers": [
+      "Bolivien",
+      "Laos",
+      "Burkina Faso",
+      "Vatikanstadt",
+      "Kroatien",
+      "Vietnam",
+      "Spanien",
+      "Mexiko"
+     ],
+     "bucketTitle": "Souveräner Staat",
+     "shorthand": "Staat"
+    },
+    {
+     "answers": [
+      "Island",
+      "Jamaika",
+      "Kuba",
+      "Barbados",
+      "Madagaskar",
+      "Nauru",
+      "Zypern",
+      "Dominica"
+     ],
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
+    }
+   ],
+   "difficulty": "Hard",
+   "hasBothBucket": true,
+   "host": "CEREBRIEL",
+   "id": "119024"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Tisch",
+      "Stativ",
+      "Hocker",
+      "Flamingo",
+      "Krähe",
+      "Emu",
+      "Strauß",
+      "Klapperstorch"
+     ],
+     "bucketTitle": "Hat Beine",
+     "shorthand": "Beine"
+    },
+    {
+     "answers": [
+      "Kamm",
+      "Säge",
+      "Reißverschluss",
+      "Ritzel",
+      "Hai",
+      "Python",
+      "Muräne",
+      "Hecht"
+     ],
+     "bucketTitle": "Hat Zähne",
+     "shorthand": "Zähne"
+    },
+    {
+     "answers": [
+      "Biber",
+      "Hase",
+      "Puma",
+      "Capybara",
+      "Wildschwein",
+      "Shakira",
+      "Sting",
+      "Thomas Müller"
+     ],
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": true,
+   "host": "QUIZTAR",
+   "id": "119057",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Gaffer",
+      "Best Boy",
+      "Key Grip",
+      "Requisiteur",
+      "Script Supervisor",
+      "Aufnahmeleiter",
+      "Tonangler",
+      "Komparse"
+     ],
+     "bucketTitle": "Am Filmset",
+     "shorthand": "Filmset"
+    },
+    {
+     "answers": [
+      "Maat",
+      "Bootsmann",
+      "Maschinist",
+      "Smutje",
+      "Lotse",
+      "Kapitän",
+      "Funker",
+      "Steuermann"
+     ],
+     "bucketTitle": "Auf einem Schiff",
+     "shorthand": "Schiff"
+    },
+    {
+     "answers": [
+      "Libero",
+      "Pivot",
+      "Center",
+      "Quarterback",
+      "Point Guard",
+      "Kreisläufer",
+      "Außenangreifer",
+      "Schiedsrichter"
+     ],
+     "bucketTitle": "Auf dem Spielfeld",
+     "shorthand": "Spielfeld"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "119198",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Medulla oblongata",
+      "Mandibula",
+      "Schneidezähne",
+      "Cochlea",
+      "Philtrum",
+      "Sehnerv",
+      "Hypophyse",
+      "Gaumensegel"
+     ],
+     "bucketTitle": "Teil des Kopfes",
+     "shorthand": "Kopf"
+    },
+    {
+     "answers": [
+      "Aortenklappe",
+      "Bronchien",
+      "Thymus",
+      "Pleura",
+      "Sternum",
+      "Linker Vorhof",
+      "Bronchiolen",
+      "Perikard"
+     ],
+     "bucketTitle": "Teil der Brust",
+     "shorthand": "Brust"
+    },
+    {
+     "answers": [
+      "Meniskus",
+      "Femur",
+      "Quadrizeps",
+      "Mittelfußknochen",
+      "Kreuzband",
+      "Achillessehne",
+      "Patellarsehne",
+      "Wadenbein"
+     ],
+     "bucketTitle": "Teil des Beins",
+     "shorthand": "Bein"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "119216",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Bankdrücken",
+      "Latzug",
+      "Klimmzug",
+      "Kurzhantelrudern",
+      "Dips",
+      "Hammercurl",
+      "Frontheben",
+      "Reverse Fly"
+     ],
+     "bucketTitle": "Oberkörperübung",
+     "shorthand": "Oberkörper"
+    },
+    {
+     "answers": [
+      "Beinpresse",
+      "Beinstrecker",
+      "Beinbeuger",
+      "Wadenheben",
+      "Ausfallschritt",
+      "Hip Thrust",
+      "Glute Bridge",
+      "Frontkniebeuge"
+     ],
+     "bucketTitle": "Unterkörperübung",
+     "shorthand": "Unterkörper"
+    },
+    {
+     "answers": [
+      "Burpee",
+      "Turkish Get-up",
+      "Farmer’s Walk",
+      "Power Clean",
+      "Mountain Climber",
+      "Kettlebell Swing",
+      "Hampelmann"
+     ],
+     "bucketTitle": "Ganzkörperübung",
+     "shorthand": "Beides"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": true,
+   "host": "CEREBRIEL",
+   "id": "119249"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Hulk",
+      "Mogli",
+      "Tarzan",
+      "Obelix",
+      "Crash Bandicoot",
+      "Micky Maus",
+      "Patrick Star",
+      "Venus von Milo"
+     ],
+     "bucketTitle": "Oben ohne",
+     "shorthand": "Oben ohne"
+    },
+    {
+     "answers": [
+      "Winnie Puuh",
+      "Dagobert Duck",
+      "Donald Duck",
+      "Thaddäus",
+      "Schweinchen Dick",
+      "Darkwing Duck",
+      "Käpt’n Balu"
+     ],
+     "bucketTitle": "Unten ohne",
+     "shorthand": "Unten ohne"
+    },
+    {
+     "answers": [
+      "Garfield",
+      "Snoopy",
+      "Bambi",
+      "Simba",
+      "Michelangelos David",
+      "Rodins Denker",
+      "Botticellis Venus",
+      "Lady Godiva"
+     ],
+     "bucketTitle": "Ganz nackt",
+     "shorthand": "Ganz ohne"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "119367",
+   "x": true,
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Saite / Seite",
+      "Wal / Wahl",
+      "Lid / Lied",
+      "Lehre / Leere",
+      "Miene / Mine",
+      "Waise / Weise",
+      "Stil / Stiel",
+      "Rat / Rad",
+      "Bund / bunt",
+      "Lerche / Lärche"
+     ],
+     "bucketTitle": "Gleicher Klang, andere Schrift",
+     "shorthand": "Klang"
+    },
+    {
+     "answers": [
+      "umfahren / umfahren",
+      "übersetzen / übersetzen",
+      "umgehen / umgehen",
+      "überziehen / überziehen",
+      "modern / modern",
+      "Montage / Montage",
+      "Tenor / Tenor",
+      "August / August"
+     ],
+     "bucketTitle": "Gleiche Schrift, anderer Klang",
+     "shorthand": "Schrift"
+    },
+    {
+     "answers": [
+      "Bank / Bank",
+      "Schloss / Schloss",
+      "Hahn / Hahn",
+      "Ball / Ball",
+      "Birne / Birne",
+      "Flügel / Flügel",
+      "Kiefer / Kiefer",
+      "Tau / Tau",
+      "Strauß / Strauß",
+      "Absatz / Absatz"
+     ],
+     "bucketTitle": "Gleicher Klang & gleiche Schrift",
+     "shorthand": "Beides"
+    }
+   ],
+   "difficulty": "Easy",
+   "hasBothBucket": false,
+   "host": "CEREBRIEL",
+   "id": "119459"
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
+      "Jedes Quadrat ist ein Rechteck.",
+      "Null ist eine gerade Zahl.",
+      "2000 war ein Schaltjahr.",
+      "Bananen sind botanisch Beeren.",
+      "Der Mond dreht sich um sich selbst.",
+      "Ein Würfel hat zwölf Kanten.",
+      "Ein Quadrat hat vier Symmetrieachsen.",
+      "Schall braucht ein Medium."
+     ],
+     "bucketTitle": "Immer wahr",
+     "shorthand": "Immer"
+    },
+    {
+     "answers": [
+      "1900 war ein Schaltjahr.",
+      "Erdbeeren sind botanisch Beeren.",
+      "Die Eins ist eine Primzahl.",
+      "Null ist eine positive Zahl.",
+      "Die Venus hat zwei Monde.",
+      "Ein Würfel hat acht Kanten.",
+      "Fledermäuse sind von Natur aus blind.",
+      "Bei Vollmond ist Sonnenfinsternis."
+     ],
+     "bucketTitle": "Immer falsch",
+     "shorthand": "Nie"
+    },
+    {
+     "answers": [
+      "Ein Rechteck ist ein Quadrat.",
+      "Eine Primzahl ist gerade.",
+      "Ein Schaltjahr hat 53 Sonntage.",
+      "Der Februar hat fünf Montage.",
+      "Eine Zahl ist kleiner als ihr Quadrat.",
+      "Wasser kocht unter 100 °C.",
+      "Am Nordpol ist Polarnacht.",
+      "Eine Sonnenfinsternis ist ringförmig."
+     ],
+     "bucketTitle": "Manchmal wahr",
+     "shorthand": "Manchmal"
+    }
+   ],
+   "difficulty": "Medium",
+   "hasBothBucket": false,
+   "host": "QUIZTAR",
+   "id": "119460",
+   "starterContent": true
+  },
+  {
+   "buckets": [
+    {
+     "answers": [
       "4 - 0",
       "4 x 1",
       "2 x 2",
@@ -1231,8 +3425,8 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119706",
-   "starterContent": false,
-   "x": true
+   "x": true,
+   "starterContent": false
   }
  ]
 }

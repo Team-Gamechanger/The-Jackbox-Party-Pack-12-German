@@ -52,7 +52,12 @@
    "host": "CEREBRIEL",
    "id": "116595",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Consider your options carefully. A series of names will pass before you. Tell me, is each one...",
+   "TitleAudio0": "a Type of Wine...",
+   "TitleAudio1": "a Major Fashion Designer...",
+   "TitleAudio2": "...or a Character from the cinematic classic The Godfather.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -102,7 +107,12 @@
    "host": "CEREBRIEL",
    "id": "116596",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "I invite you to summon your powers of geology, baking, and music for this next challenge. Tell me if each item is...",
+   "TitleAudio0": "a Type of Rock...",
+   "TitleAudio1": "a type of Bread Roll...",
+   "TitleAudio2": "...or an Inductee to the Rock & Roll Hall of Fame.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -161,7 +171,12 @@
    "id": "116697",
    "x": true,
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Humans, here is my request! Tell me if each item refers to...",
+   "TitleAudio0": "a Shade of Blue...",
+   "TitleAudio1": "a Type of Shoe...",
+   "TitleAudio2": "...or type of Booze. That’s right: Blues, Shoes, or Booze.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -217,7 +232,12 @@
    "host": "CEREBRIEL",
    "id": "116699",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "Gather ‘round, children, it’s game time! Tell me if each item is...",
+   "TitleAudio0": "a Board Game with Cards...",
+   "TitleAudio1": "a Board Game with Dice...",
+   "TitleAudio2": "...or the best of both worlds, a Board Game with Cards and Dice.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -268,7 +288,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116706",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Mortals, I confess I don’t understand the need for pockets, but this prompt may explain it. Tell me if each answer refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a brand of Mobile Phone...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a brand of Wallet...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a manufacturer of Keys.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -321,7 +346,12 @@
    "id": "116707",
    "x": false,
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Chew on this, dear ones. Tell me if each item is...",
+   "TitleAudio0": "Bacon...",
+   "TitleAudio1": "Lettuce...",
+   "TitleAudio2": "...or Tomato.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -372,7 +402,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116709",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Perhaps you can spot a trend in this one! Tell me if each creative achievement is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] By Karen Carpenter...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] By Sabrina Carpenter...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or By a MASTER Carpenter.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -424,7 +459,12 @@
    "host": "QUIZTAR",
    "id": "116714",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Okay humans, here is what I’m think-ING! Tell me if each item is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Gridiron Football Penalty...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a 12 Days of Christmas Activity... you know, from the song...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Television Show Ending in the letters I-N-G.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -480,7 +520,12 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "116717",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Dear fans of American sport, this one’s for you! To the rest of you I say... thanks for coming. Now then, tell me if a particular city...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Has an NFL Team...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Has an NBA Team...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or is lucky enough to have BOTH.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -531,7 +576,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116718",
-   "done": true
+   "done": true,
+   "IntroAudio": "Let’s venture into the world of animation. Tell me, of the character names you’re about to see, is each one...",
+   "TitleAudio0": "a Pokémon Character...",
+   "TitleAudio1": "a Mario Kart World Character...",
+   "TitleAudio2": "...or a Powerpuff Girls Character.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -580,7 +630,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116719",
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will see a series of named things. Tell me if each one refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Zodiac Symbol... not the sign, mind you, but the SYMBOL...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Movie featuring Adam Sandler...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fortnite Skin from the Legendary collection.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -630,7 +685,12 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "116720",
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will soon encounter a number of first names. Tell me, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Name from the Bible...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Name of one of the featured hunks from TV’s The Bachelor...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or BOTH a Bible Name AND a Bachelor Name. Anything is possible!",
+   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] (Nervously clears throat) My name is Quiztar, I’m 25 eons old, and I am the bachelor. Forgive me, I’ve been holding this rose so long, it’s basically dust."
   },
   {
    "buckets": [
@@ -682,7 +742,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116721",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] In full disclosure, this one leans toward those of the “American” persuasion. Tell me if each item refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Major League Baseball Team...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Bird of Prey...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Word in the U.S. National Anthem.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -738,7 +803,12 @@
    "host": "CEREBRIEL",
    "id": "116722",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "Now this is a curious mix of groupings! For each answer you see, tell me, does it refer to...",
+   "TitleAudio0": "a K-Pop Group...",
+   "TitleAudio1": "a Programming Language...",
+   "TitleAudio2": "...or a Cosmetic Brand.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -791,7 +861,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116723",
-   "done": true
+   "done": true,
+   "IntroAudio": "Isn’t human language adorable? Let’s see how much you know about ways to say...",
+   "TitleAudio0": "“Hello!”",
+   "TitleAudio1": "“Yes!”",
+   "TitleAudio2": "...or “No!”",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -840,7 +915,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116740",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] All right you barbarians, time for some culture! You’re about to encounter some names. Tell me, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] an Artist of the Renaissance...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an Impressionist Artist...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a European Filmmaker.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -892,7 +972,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116792",
-   "done": true
+   "done": true,
+   "IntroAudio": "Words, words, words! Let’s put NUMBERS in the spotlight! Of the items you’ll come across, tell me if you’d associate each with...",
+   "TitleAudio0": "the Number 11...",
+   "TitleAudio1": "the Number 2...",
+   "TitleAudio2": "...or the Number 12.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -941,103 +1026,111 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "116795",
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I hope you didn’t skip Humanities class! Of the letters you will soon encounter, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Letter in the Latin Alphabet...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Letter in the the Greek Alphabet...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Letter that appears in Both alphabets, Latin and Greek.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Finch",
-      "Crow",
-      "Wren",
-      "Osprey",
-      "Kestrel",
-      "Sandpiper",
-      "Harrier",
-      "Mallard",
-      "Gull",
-      "Nuthatch"
+      "Kleiber",
+      "Gimpel",
+      "Pirol",
+      "Zilpzalp",
+      "Nandu",
+      "Kiwi",
+      "Tukan",
+      "Wiedehopf"
      ],
-     "bucketTitle": "Birds",
-     "shorthand": "Birds"
+     "bucketTitle": "Vogel",
+     "shorthand": "Vogel"
     },
     {
      "answers": [
-      "Carpenter",
-      "Honey",
-      "Squash",
-      "Mason",
-      "Mining",
-      "Sugarbag",
-      "Iratim"
+      "Carnica",
+      "Buckfast",
+      "Ligustica",
+      "Mellifera",
+      "Caucasica",
+      "Anatoliaca",
+      "Sahariensis"
      ],
-     "bucketTitle": "Bees",
-     "shorthand": "Bees"
+     "bucketTitle": "Biene",
+     "shorthand": "Biene"
     },
     {
      "answers": [
-      "Calf",
-      "Pup",
-      "Cub",
-      "Fawn",
-      "Foal",
-      "Joey",
-      "Nymph",
-      "Kit",
-      "Whelp"
+      "Kalb",
+      "Welpe",
+      "Fohlen",
+      "Kitz",
+      "Frischling",
+      "Heuler",
+      "Nymphe",
+      "Lamm"
      ],
-     "bucketTitle": "Baby Animals",
-     "shorthand": "Baby Animals"
+     "bucketTitle": "Jungtier",
+     "shorthand": "Jungtier"
     }
    ],
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116798",
-   "done": false
+   "done": true,
+   "IntroAudio": "I dedicate this one to my old friend Mother Nature. Here’s to you, girl! Tell me, are the animals you’re about to see...",
+   "TitleAudio0": "Birds...",
+   "TitleAudio1": "Bees...",
+   "TitleAudio2": "...or sweet, little Baby Animals. Aww, witto babies!",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Peanut",
-      "Horseradish",
-      "Turmeric",
-      "Potato",
-      "Truffle",
       "Taro",
-      "Turnip",
-      "Ginger"
+      "Yams",
+      "Galgant",
+      "Topinambur",
+      "Kurkuma",
+      "Ingwer",
+      "Trüffel",
+      "Pastinake"
      ],
-     "bucketTitle": "Grows Underground",
-     "shorthand": "Underground"
+     "bucketTitle": "Wächst unter der Erde",
+     "shorthand": "Unterirdisch"
     },
     {
      "answers": [
-      "Pistachio",
-      "Coconut",
-      "Plantain",
+      "Pistazie",
       "Cashew",
-      "Tamarind",
-      "Persimmon",
-      "Chestnut",
-      "Pawpaw"
+      "Tamarinde",
+      "Kaki",
+      "Durian",
+      "Litschi",
+      "Mango",
+      "Pekannuss"
      ],
-     "bucketTitle": "Grows on Trees",
-     "shorthand": "On Trees"
+     "bucketTitle": "Wächst am Baum",
+     "shorthand": "Am Baum"
     },
     {
      "answers": [
-      "Echidna",
+      "Ameisenigel",
       "Axolotl",
-      "Warbler",
-      "Egret",
-      "Caiman",
-      "Weevil",
-      "Crocodile"
+      "Kaiman",
+      "Gecko",
+      "Nandu",
+      "Emu",
+      "Kakapo",
+      "Rüsselkäfer"
      ],
-     "bucketTitle": "Grows in an Egg",
-     "shorthand": "In an Egg"
+     "bucketTitle": "Wächst im Ei",
+     "shorthand": "Im Ei"
     }
    ],
    "difficulty": "Easy",
@@ -1045,7 +1138,12 @@
    "host": "CEREBRIEL",
    "id": "116799",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Nature lovers, rejoice! Very good; stop rejoicing. Now tell me if each item you’re about to see...",
+   "TitleAudio0": "Grows Underground...",
+   "TitleAudio1": "Grows On Trees...",
+   "TitleAudio2": "...or Grows in an Egg.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1098,7 +1196,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116800",
-   "done": false
+   "done": false,
+   "IntroAudio": "You will encounter a series of named things. Tell me if each one is...",
+   "TitleAudio0": "the name of a Sea...",
+   "TitleAudio1": "a type of Tree...",
+   "TitleAudio2": "...or a type of Tea.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1149,7 +1252,12 @@
    "host": "QUIZTAR",
    "id": "116803",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Let’s talk about history. Recent history. You will encounter a series of events. Tell me if each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Occurred in the 2000s...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Occurred in the 2010s...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Occurred in the 2020s.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1200,7 +1308,12 @@
    "host": "QUIZTAR",
    "id": "116805",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Try these colors on for size! When you see each item, tell me, does it fall under the heading...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Red Stuff...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Yellow Stuff...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Purple Stuff.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1251,7 +1364,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116836",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will soon visit a number of world cities. Tell me if each one refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] the title of a Best Picture Oscar Nominee...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a World Capital...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Host of the Summer Olympic Games.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1304,64 +1422,74 @@
    "host": "QUIZTAR",
    "id": "116837",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You are going to encounter a curious mixture of names. Tell me, should each be preceded by the honorific title...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Doctor...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Captain...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Mister.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Prime",
-      "Over",
-      "Double",
-      "Big",
-      "Two",
-      "Real",
-      "Lunch",
-      "Bed",
-      "Part",
-      "Half"
+      "Frei",
+      "Mahl",
+      "Halb",
+      "Brot",
+      "Ernte",
+      "Schon",
+      "Schul",
+      "Jahres",
+      "Hoch",
+      "Eis"
      ],
-     "bucketTitle": "Word Before “Time”",
-     "shorthand": "{{BLANK}} “Time”"
+     "bucketTitle": "{{BLANK}}zeit",
+     "shorthand": "{{BLANK}}zeit"
     },
     {
      "answers": [
-      "Fortnight",
-      "Decade",
-      "Month",
-      "Hour",
-      "Millennium",
-      "Century",
-      "Year",
-      "Season",
-      "Jiffy",
+      "Dekade",
+      "Jahrhundert",
+      "Stunde",
+      "Monat",
+      "Lustrum",
+      "Biennium",
+      "Äon",
+      "Jahr",
+      "Quartal",
       "Semester"
      ],
-     "bucketTitle": "Unit of Time",
-     "shorthand": "Unit of Time"
+     "bucketTitle": "Zeiteinheit",
+     "shorthand": "Zeiteinheit"
     },
     {
      "answers": [
-      "Out",
-      "Machine",
-      "Zone",
-      "Signature",
-      "Sheet",
-      "Magazine",
-      "Trial",
-      "Slot",
-      "Share",
-      "Capsule"
+      "Lupe",
+      "Schrift",
+      "Bombe",
+      "Geist",
+      "Maschine",
+      "Alter",
+      "Punkt",
+      "Vertreib",
+      "Fenster",
+      "Zeuge"
      ],
-     "bucketTitle": "Word After “Time”",
-     "shorthand": "“Time” {{BLANK}}"
+     "bucketTitle": "Zeit{{BLANK}}",
+     "shorthand": "Zeit{{BLANK}}"
     }
    ],
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116838",
-   "done": false
+   "done": true,
+   "IntroAudio": "Time for a tricky one... about TIME! For each word that you come across, tell me if it is...",
+   "TitleAudio0": "a Word that appears BEFORE “Time” as part of a common phrase...",
+   "TitleAudio1": "a Unit of Time...",
+   "TitleAudio2": "...or a word that appears AFTER “Time” as part of a common phrase.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1410,7 +1538,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116841",
-   "done": false
+   "done": false,
+   "IntroAudio": "For every answer presented, do put it in its proper place, namely...",
+   "TitleAudio0": "Fever, as in a disease or condition...",
+   "TitleAudio1": "Berry, as in a yummy fruit perhaps...",
+   "TitleAudio2": "...or Age, as in an era of human history.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1462,7 +1595,12 @@
    "host": "QUIZTAR",
    "id": "116842",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Oh, here’s a bit of a brain teaser! Of the words that shall pass before you, does each one belong under the heading...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Pair, spelled P-A-I-R...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Pare, spelled P-A-R-E...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Pear, spelled P-E-A-R.",
+   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] If you didn’t like that one, you can grow a pear! Oh please, what did I say, it’s a delicious FRUIT!"
   },
   {
    "buckets": [
@@ -1472,42 +1610,47 @@
       "Giraffe",
       "Gorilla",
       "Okapi",
-      "Chimpanzee",
+      "Schimpanse",
       "Lemur"
      ],
-     "bucketTitle": "Native to Africa",
-     "shorthand": "Africa"
+     "bucketTitle": "In Afrika heimisch",
+     "shorthand": "Afrika"
     },
     {
      "answers": [
       "Tiger",
-      "Orangutan",
-      "King cobra",
-      "Komodo dragon",
-      "Proboscis monkey",
+      "Orang-Utan",
+      "Königskobra",
+      "Komodowaran",
+      "Nasenaffe",
       "Panda"
      ],
-     "bucketTitle": "Native to Asia",
-     "shorthand": "Asia"
+     "bucketTitle": "In Asien heimisch",
+     "shorthand": "Asien"
     },
     {
      "answers": [
-      "Marmoset",
-      "Anaconda",
-      "Iguana",
+      "Krallenaffe",
+      "Anakonda",
+      "Leguan",
       "Capybara",
-      "Sloth",
+      "Faultier",
       "Jaguar"
      ],
-     "bucketTitle": "Native to South America",
-     "shorthand": "South America"
+     "bucketTitle": "In Südamerika heimisch",
+     "shorthand": "Südamerika"
     }
    ],
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116843",
-   "done": false
+   "done": true,
+   "IntroAudio": "For this one, please know your geography and your animal kingdom. Tell me if each ANIMAL is...",
+   "TitleAudio0": "Native to Africa...",
+   "TitleAudio1": "Native to Asia...",
+   "TitleAudio2": "...or Native to South America.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1522,7 +1665,7 @@
       "Köstritzer",
       "Tsingtao"
      ],
-     "bucketTitle": "Bier",
+     "bucketTitle": "Biermarke",
      "shorthand": "Bier"
     },
     {
@@ -1536,7 +1679,7 @@
       "Axolotl",
       "Wombat"
      ],
-     "bucketTitle": "Tier",
+     "bucketTitle": "Tierart",
      "shorthand": "Tier"
     },
     {
@@ -1550,7 +1693,7 @@
       "Steinway",
       "Blüthner"
      ],
-     "bucketTitle": "Klavier",
+     "bucketTitle": "Klaviermarke",
      "shorthand": "Klavier"
     }
    ],
@@ -1558,49 +1701,54 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116846",
-   "done": true
+   "done": true,
+   "IntroAudio": "Every answer belongs in one of these categories. Tell me, is it a...",
+   "TitleAudio0": "a Type of Pepper...",
+   "TitleAudio1": "a form of Musical Notation...",
+   "TitleAudio2": "...or a Nissan Car Model.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Black Mamba",
-      "Sea Lamprey",
-      "Zebra Mussel",
-      "Leech",
-      "Slug",
-      "Sea Cucumber",
-      "Copperhead"
+      "Mamba",
+      "Neunauge",
+      "Wandermuschel",
+      "Egel",
+      "Nacktschnecke",
+      "Seegurke",
+      "Blindschleiche"
      ],
-     "bucketTitle": "No Legs",
-     "shorthand": "No Legs"
+     "bucketTitle": "Keine Beine",
+     "shorthand": "Keine Beine"
     },
     {
      "answers": [
-      "Alpaca",
+      "Alpaka",
       "Shih Tzu",
       "Serval",
       "Okapi",
       "Axolotl",
-      "Wildebeest",
-      "Monitor",
-      "Echidna"
+      "Gnu",
+      "Waran",
+      "Ameisenigel"
      ],
-     "bucketTitle": "4 Legs",
-     "shorthand": "4 Legs"
+     "bucketTitle": "4 Beine",
+     "shorthand": "4 Beine"
     },
     {
      "answers": [
-      "Mantis Shrimp",
-      "Mosquito",
-      "Tick",
-      "Scarab Beetle",
-      "Cricket",
-      "Crayfish",
-      "House Fly"
+      "Fangschrecke",
+      "Stechmücke",
+      "Zecke",
+      "Skarabäus",
+      "Grille",
+      "Flusskrebs",
+      "Stubenfliege"
      ],
-     "bucketTitle": "More Than 4 Legs",
-     "shorthand": "More Than 4 Legs"
+     "bucketTitle": "Mehr als 4 Beine",
+     "shorthand": "Mehr als 4 Beine"
     }
    ],
    "difficulty": "Medium",
@@ -1608,7 +1756,12 @@
    "host": "CEREBRIEL",
    "id": "116888",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Darlings, you will see the names of creatures great and small. Tell me if each one has...",
+   "TitleAudio0": "No Legs...",
+   "TitleAudio1": "Four Legs...",
+   "TitleAudio2": "...or More Than Four Legs.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1664,7 +1817,12 @@
    "host": "CEREBRIEL",
    "id": "116890",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Every answer fits into one of these unique categories. Tell me, is each one...",
+   "TitleAudio0": "an Instagram Filter...",
+   "TitleAudio1": "a Descendant of the Kardashian family...",
+   "TitleAudio2": "...or a Model of Toyota automobile.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1718,51 +1876,56 @@
    "host": "CEREBRIEL",
    "id": "116893",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Every answer belongs in these eclectic categories. Tell me is each one...",
+   "TitleAudio0": "a Shape of Roof...",
+   "TitleAudio1": "a Sewing Stitch...",
+   "TitleAudio2": "...or a Brand of Running Shoe.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Otoscope",
-      "Nebulizer",
-      "Pulse Oximeter",
-      "Ventilator",
+      "Otoskop",
+      "Vernebler",
+      "Pulsoximeter",
+      "Respirator",
       "Shunt",
-      "Endoscope",
+      "Endoskop",
       "Tourniquet",
-      "Catheter",
-      "Syringe",
-      "Wartenberg Wheel"
+      "Katheter",
+      "Spritze",
+      "Wartenbergrad"
      ],
-     "bucketTitle": "Medical Device",
-     "shorthand": "Medical Device"
+     "bucketTitle": "Medizinisches Gerät",
+     "shorthand": "Medizin"
     },
     {
      "answers": [
-      "Neuralyzer",
-      "Replicator",
-      "Telepods",
-      "Flux Capacitor",
+      "Blitzdings",
+      "Replikator",
+      "Telepod",
+      "Fluxkompensator",
       "Holodeck",
-      "Proton Pack",
-      "Lightsaber",
-      "Solar Surfer"
+      "Protonenpack",
+      "Lichtschwert",
+      "Solarsurfer"
      ],
-     "bucketTitle": "Made-Up Movie Gadget",
-     "shorthand": "Movie Gadget"
+     "bucketTitle": "Erfundenes Filmding",
+     "shorthand": "Sci-Fi"
     },
     {
      "answers": [
-      "Aerial Screw",
+      "Luftschraube",
       "Ornithopter",
-      "Pedometer",
-      "Parachute",
+      "Dampfkanone",
+      "Fallschirm",
       "Anemometer",
-      "Revolving Bridge"
+      "Drehbrücke"
      ],
-     "bucketTitle": "Da Vinci Concept",
-     "shorthand": "Da Vinci Concept"
+     "bucketTitle": "Da-Vinci-Entwurf",
+     "shorthand": "Da Vinci"
     }
    ],
    "difficulty": "Hard",
@@ -1770,50 +1933,55 @@
    "host": "QUIZTAR",
    "id": "116895",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Oh how I love gadgets! For this trio of objects, tell me if each item you see is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Medical Device...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Made-Up Movie Gadget...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Concept devised by Leonardo da Vinci.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Mountain",
-      "Warrior",
-      "Tree",
-      "Cat-Cow",
-      "Goddess",
-      "Cobra",
-      "Dolphin",
-      "Corpse"
+      "Berg",
+      "Krieger",
+      "Baum",
+      "Taube",
+      "Kobra",
+      "Delfin",
+      "Heuschrecke",
+      "Brücke"
      ],
-     "bucketTitle": "Yoga Pose",
-     "shorthand": "Yoga Pose"
+     "bucketTitle": "Yoga-Pose",
+     "shorthand": "Yoga"
     },
     {
      "answers": [
-      "Barbarian",
-      "Bard",
-      "Druid",
-      "Fighter",
-      "Warlock",
-      "Rogue",
-      "Monk",
-      "Artificer"
+      "Barbar",
+      "Barde",
+      "Druide",
+      "Kämpfer",
+      "Hexenmeister",
+      "Schurke",
+      "Mönch",
+      "Paladin"
      ],
-     "bucketTitle": "D&D Class (5th Edition)",
-     "shorthand": "D&D Class"
+     "bucketTitle": "D&D-Klasse (5. Edition)",
+     "shorthand": "D&D"
     },
     {
      "answers": [
-      "Lilypad",
-      "Bookworm",
-      "Jack-in-the-Box",
-      "Stretch",
+      "Woody",
+      "Jessie",
       "Rex",
-      "Big Baby",
-      "Bullseye",
-      "Slinky Dog"
+      "Specki",
+      "Slinky",
+      "Bully",
+      "Forky",
+      "Lotso"
      ],
-     "bucketTitle": "[i]Toy Story[/i] Character",
+     "bucketTitle": "Toy Story-Figur",
      "shorthand": "Toy Story"
     }
    ],
@@ -1821,7 +1989,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117050",
-   "done": false
+   "done": true,
+   "IntroAudio": "Behold! You will see a series of unique names. Tell me, does each one refer to a...",
+   "TitleAudio0": "Yoga Pose",
+   "TitleAudio1": "Dungeons & Dragons Class... 5th Edition...",
+   "TitleAudio2": "...or a character from the Toy Story franchise.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1878,7 +2051,12 @@
    "id": "117055",
    "x": true,
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "This little number is for the musically inclined. Tell me if each answer is...",
+   "TitleAudio0": "a Metallica Song...",
+   "TitleAudio1": "a Taylor Swift Song...",
+   "TitleAudio2": "...or a Snoop Dogg Song.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1929,7 +2107,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117068",
-   "done": false
+   "done": false,
+   "IntroAudio": "My children, please tell me if each item you are about to see is a...",
+   "TitleAudio0": "Monopoly Token",
+   "TitleAudio1": "a Cutting style of Gemstone...",
+   "TitleAudio2": "...or a Lucky Charms cereal marshmallow shape.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -1981,7 +2164,12 @@
    "host": "CEREBRIEL",
    "id": "117069",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "Every answer belongs in this curious trio of categories. Tell me, is each one..",
+   "TitleAudio0": "a type of Cheese...",
+   "TitleAudio1": "a human Language...",
+   "TitleAudio2": "...or a Breed of a Dog.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2031,7 +2219,12 @@
    "host": "CEREBRIEL",
    "id": "117076",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "I shall present you with an eclectic mix of worldly items. Tell me, is each item something that one should...",
+   "TitleAudio0": "Trash...",
+   "TitleAudio1": "Recycle...",
+   "TitleAudio2": "...or Compost.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2083,7 +2276,12 @@
    "host": "CEREBRIEL",
    "id": "117093",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "Here’s one that will keep you on edge. For every answer shown, tell me if it is a...",
+   "TitleAudio0": "Spicy Food...",
+   "TitleAudio1": "Form of Dance...",
+   "TitleAudio2": "...or a Breed of Cat.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2138,7 +2336,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117191",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I shall present you with a distinguished collection of items. Tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Microsoft Office Font...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an Honorific Title... you know, like King or Princess...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Character from the vast Star Wars Universe.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2188,53 +2391,55 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "117246",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will soon see a series of names. Tell me if each one is..",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a State Capital in the United States...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] one of the 100 Most Popular Baby Names in America... in the year 2020...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or BOTH a Capital City AND one of the Most Popular Baby Names.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Lowe",
-      "McElhenney",
-      "Gronkowski",
-      "Reiner",
-      "Zombie",
-      "Brydon",
-      "Burrow"
+      "Mälzer",
+      "Bendzko",
+      "Raue",
+      "Wiese",
+      "Borowski",
+      "Oliver Schultz",
+      "Bergmann"
      ],
-     "bucketTitle": "Rob",
-     "shorthand": "Rob"
+     "bucketTitle": "Tim",
+     "shorthand": "Tim"
     },
     {
      "answers": [
-      "Dylan",
-      "Marley",
-      "Newhart",
-      "Hope",
-      "Hoskins",
-      "Geldof",
-      "Odenkirk",
-      "Gibson",
-      "Balaban",
-      "Ross",
-      "Vila"
+      "Kaulitz",
+      "Schilling",
+      "Wlaschiha",
+      "Beck",
+      "Gerhardt",
+      "Tykwer",
+      "Gaebel",
+      "Astor"
      ],
-     "bucketTitle": "Bob",
-     "shorthand": "Bob"
+     "bucketTitle": "Tom",
+     "shorthand": "Tom"
     },
     {
      "answers": [
-      "Cannavale",
-      "McFerrin",
-      "Flay",
-      "Fischer",
-      "Moynihan",
-      "Seale",
-      "Orr",
-      "Darin"
+      "Haas",
+      "Krappweis",
+      "Engel",
+      "Steiner",
+      "Wosch",
+      "Morgenstern",
+      "Finke",
+      "Reeve"
      ],
-     "bucketTitle": "Bobby",
-     "shorthand": "Bobby"
+     "bucketTitle": "Tommy",
+     "shorthand": "Tommy"
     }
    ],
    "countrySpecific": true,
@@ -2242,7 +2447,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117285",
-   "done": false
+   "done": true,
+   "IntroAudio": "You will soon see a series of last names. You must tell me if each should be paired with the FIRST name...",
+   "TitleAudio0": "Rob...",
+   "TitleAudio1": "Bob...",
+   "TitleAudio2": "...or Bobby.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2296,7 +2506,12 @@
    "host": "CEREBRIEL",
    "id": "117289",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "This has the makings of a political thriller! Of the phrases you’re about to see, tell me if each one refers to...",
+   "TitleAudio0": "a Computer Problem...",
+   "TitleAudio1": "a Stock Market Term...",
+   "TitleAudio2": "...or the Title of a Robert Ludlum Novel.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2345,57 +2560,56 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117298",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] For this prompt, tell me if each answer you see is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Type of Bean...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an Italian Dessert...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or the Surname of a Character from the classic TV series The Sopranos.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Subtle",
-      "Knight",
-      "Foreign",
-      "Write",
-      "Answer",
-      "Lasagna",
-      "Knob",
-      "Thumb",
-      "Gnarly",
-      "Corps",
-      "Pterodactyl"
+      "Grie{{BLANK}}gram",
+      "Wei{{BLANK}}heit",
+      "Erkenntni{{BLANK}}",
+      "Verhältni{{BLANK}}",
+      "Di{{BLANK}}kussion",
+      "Pla{{BLANK}}ma",
+      "Ab{{BLANK}}zess",
+      "Prei{{BLANK}}elbeere"
      ],
-     "bucketTitle": "Word With Silent Letter",
-     "shorthand": "Silent Letter"
+     "bucketTitle": "s",
+     "shorthand": "s"
     },
     {
      "answers": [
-      "Sutle",
-      "Anwser",
-      "Mispelled",
-      "Calender",
-      "Acheive",
-      "Refridgerator",
-      "Definately",
-      "Foriegn",
-      "Suspiscion",
-      "Jewelery"
+      "Karu{{BLANK}}ell",
+      "Renai{{BLANK}}ance",
+      "Re{{BLANK}}ource",
+      "Fa{{BLANK}}ade",
+      "Kommi{{BLANK}}ar",
+      "Wei{{BLANK}}agung",
+      "Impre{{BLANK}}um",
+      "Pa{{BLANK}}agier"
      ],
-     "bucketTitle": "Misspelled Word",
-     "shorthand": "Misspelled Word"
+     "bucketTitle": "ss",
+     "shorthand": "ss"
     },
     {
      "answers": [
-      "Mischief",
-      "Eating",
-      "Forest",
-      "Boat",
-      "Teeth",
-      "Magic",
-      "Rumpus",
-      "King",
-      "Supper"
+      "Litfa{{BLANK}}säule",
+      "verdrie{{BLANK}}lich",
+      "Verhei{{BLANK}}ung",
+      "Ma{{BLANK}}regelung",
+      "Verschlei{{BLANK}}",
+      "bu{{BLANK}}fertig",
+      "Sto{{BLANK}}seufzer",
+      "Grie{{BLANK}}brei"
      ],
-     "bucketTitle": "Word in [i]Where the Wild Things Are[/i]",
-     "shorthand": "Where the Wild Things Are"
+     "bucketTitle": "ß",
+     "shorthand": "ß"
     }
    ],
    "difficulty": "Easy",
@@ -2403,37 +2617,42 @@
    "host": "QUIZTAR",
    "id": "117319",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You are about to witness a series of words. Tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Word With a Silent Letter...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Misspelled Word...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Word in the classic children’s book Where the Wild Things Are",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Illy",
-      "La Colombe",
-      "Intelligentsia",
       "Lavazza",
-      "Gevalia",
-      "Caribou",
-      "Peet’s",
-      "Maxwell House"
+      "Illy",
+      "Jacobs",
+      "Melitta",
+      "Segafredo",
+      "Kimbo",
+      "Pellini",
+      "Mauro"
      ],
-     "bucketTitle": "Makes Coffee",
-     "shorthand": "Coffee"
+     "bucketTitle": "Macht Kaffee",
+     "shorthand": "Kaffee"
     },
     {
      "answers": [
       "Lindt",
-      "Ferrero Rocher",
-      "Godiva",
-      "Ghirardelli",
-      "Richart",
-      "Kinder",
-      "Dove",
-      "Cadbury"
+      "Milka",
+      "Läderach",
+      "Valrhona",
+      "Feodora",
+      "Sarotti",
+      "Hachez",
+      "Toblerone"
      ],
-     "bucketTitle": "Makes Chocolate",
-     "shorthand": "Chocolate"
+     "bucketTitle": "Macht Schokolade",
+     "shorthand": "Schokolade"
     },
     {
      "answers": [
@@ -2441,15 +2660,13 @@
       "Burberry",
       "Carhartt",
       "Patagonia",
-      "Quince",
-      "Aritzia",
-      "Guess",
+      "Esprit",
+      "Armedangels",
       "Zara",
-      "North Face",
-      "Canada Goose"
+      "Marc O’Polo"
      ],
-     "bucketTitle": "Makes Coats",
-     "shorthand": "Coat"
+     "bucketTitle": "Macht Kleidung",
+     "shorthand": "Kleidung"
     }
    ],
    "countrySpecific": true,
@@ -2458,7 +2675,12 @@
    "host": "QUIZTAR",
    "id": "117343",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ah yes, the three staples of human existence: coffee, chocolate, and overcoats. Tell me if each of the corporate brands you will see...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] is known for Making Coffee...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] is known for Making Chocolate...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or is known for Making Coats.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2509,47 +2731,51 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117344",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] This one has a bit of a sharp taste. Tell me if each answer refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Type of Mushroom...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Type of Kitchen Knife...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Manga Series.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Androphobia",
-      "Ephebiphobia",
-      "Gynophobia",
-      "Necrophobia",
-      "Xenophobia",
-      "Homophobia"
+      "Androphobie",
+      "Anthropophobie",
+      "Gynophobie",
+      "Coulrophobie",
+      "Pädophobie",
+      "Ephebiphobie"
      ],
-     "bucketTitle": "Fear of People",
-     "shorthand": "People"
+     "bucketTitle": "Angst vor Menschen",
+     "shorthand": "Menschen"
     },
     {
      "answers": [
-      "Apiphobia",
-      "Arachnophobia",
-      "Cynophobia",
-      "Equinophobia",
-      "Ophidiophobia",
-      "Ornithophobia",
-      "Zoophobia"
+      "Apiphobie",
+      "Arachnophobie",
+      "Kynophobie",
+      "Hippophobie",
+      "Ophidiophobie",
+      "Ornithophobie",
+      "Zoophobie"
      ],
-     "bucketTitle": "Fear of Animals",
-     "shorthand": "Animal"
+     "bucketTitle": "Angst vor Tieren",
+     "shorthand": "Tiere"
     },
     {
      "answers": [
-      "Hypochondria",
-      "Claustrophobia",
-      "Glossophobia",
-      "Kinesiophobia",
-      "Aerophobia",
-      "Agoraphobia",
-      "Acrophobia"
+      "Klaustrophobie",
+      "Agoraphobie",
+      "Akrophobie",
+      "Aviophobie",
+      "Glossophobie",
+      "Nyktophobie"
      ],
-     "bucketTitle": "Fear of Situations",
-     "shorthand": "Situation"
+     "bucketTitle": "Angst vor Situationen",
+     "shorthand": "Situationen"
     }
    ],
    "difficulty": "Hard",
@@ -2557,7 +2783,12 @@
    "host": "QUIZTAR",
    "id": "117351",
    "x": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Be afraid! Be very afraid, for soon you will be confronted with a series of phobias. Tell me if each one refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Fear of People...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Fear of Animals...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fear of Situations.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2615,7 +2846,12 @@
    "host": "CEREBRIEL",
    "id": "117384",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Grammarians, this one’s for you! A number of words will pass before you. Tell me if each one is...",
+   "TitleAudio0": "a Noun...",
+   "TitleAudio1": "a Verb...",
+   "TitleAudio2": "...or a Noun AND a Verb. Oh yes, it’s tricky! If you curse the name of Cerebriel after this round, I have done my job.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2668,51 +2904,56 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117388",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will see a series of names passing before you. Your task is to tell me if each one refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Peter...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Paul...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Famous Mary.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Book of Genesis",
-      "The Big Bang",
-      "“Once upon a time”",
+      "Urknall",
+      "Genesis",
+      "Es war einmal",
+      "Ouvertüre",
+      "Anstoß",
+      "Prolog",
       "Zygote",
-      "Super Bowl coin toss",
-      "Wedding processional",
-      "Ribbon-cutting ceremony",
-      "Military reveille"
+      "Spatenstich"
      ],
-     "bucketTitle": "Beginning Thing",
-     "shorthand": "Beginning"
+     "bucketTitle": "Am Anfang",
+     "shorthand": "Anfang"
     },
     {
      "answers": [
       "Lisa Simpson",
-      "The Empire Strikes Back",
-      "12:00 PM",
-      "Abdomen",
       "Malcolm",
-      "160 lb/72.6 kg boxing class",
-      "Intermission",
-      "Mitad del Mundo"
+      "12 Uhr mittags",
+      "Äquator",
+      "Bergfest",
+      "Halbzeit",
+      "Intermezzo",
+      "Bauch"
      ],
-     "bucketTitle": "Middle Thing",
-     "shorthand": "Middle"
+     "bucketTitle": "In der Mitte",
+     "shorthand": "Mitte"
     },
     {
      "answers": [
-      "LOTR: Return of the King",
-      "Astronomical twilight",
-      "Epilogue",
-      "Book of Revelation",
-      "New Year’s Eve",
-      "Benediction",
-      "Curtain call",
-      "Liquidation sale"
+      "Offenbarung",
+      "Silvester",
+      "Abspann",
+      "Epilog",
+      "Feierabend",
+      "Zapfenstreich",
+      "Finale",
+      "Ultimo"
      ],
-     "bucketTitle": "Ending Thing",
-     "shorthand": "End"
+     "bucketTitle": "Am Ende",
+     "shorthand": "Ende"
     }
    ],
    "countrySpecific": false,
@@ -2721,7 +2962,12 @@
    "host": "CEREBRIEL",
    "id": "117392",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Dear ones, if one thing is true, there is always a beginning, a middle, and an end. For each item you come across, tell me if it is...",
+   "TitleAudio0": "an event or thing that occurs at the Beginning of something...",
+   "TitleAudio1": "a thing associated with the Middle of something...",
+   "TitleAudio2": "...or a thing understood to be the End of something.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2769,7 +3015,12 @@
    "id": "117437",
    "x": true,
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Mortals, as you well know, death is a part of life. Well, at least for you. So please tell me if someone or some thing...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Died a Fiery Death...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Died a Watery Death...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Died a Poisonous Death.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2820,56 +3071,66 @@
    "id": "117578",
    "x": true,
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Yes, it’s true! I, Quiztar, enjoy things that rhyme! With that in mind, tell me if you see...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Thing with Strings...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Thing with Springs...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Thing that Swings.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Egypt",
-      "Philippines",
+      "Ägypten",
+      "Philippinen",
       "Venezuela",
-      "India",
+      "Indien",
       "Nigeria",
       "Vietnam",
       "Guyana",
       "Costa Rica"
      ],
-     "bucketTitle": "Northern Hemisphere",
-     "shorthand": "Northern"
+     "bucketTitle": "Nordhalbkugel",
+     "shorthand": "Norden"
     },
     {
      "answers": [
       "Chile",
-      "Australia",
-      "New Zealand",
-      "Argentina",
-      "Madagascar",
-      "South Africa",
+      "Australien",
+      "Neuseeland",
+      "Argentinien",
+      "Madagaskar",
+      "Südafrika",
       "Angola",
       "Peru"
      ],
-     "bucketTitle": "Southern Hemisphere",
-     "shorthand": "Southern"
+     "bucketTitle": "Südhalbkugel",
+     "shorthand": "Süden"
     },
     {
      "answers": [
-      "Brazil",
-      "Indonesia",
-      "Kenya",
+      "Brasilien",
+      "Indonesien",
+      "Kenia",
       "Ecuador",
-      "Republic of the Congo",
-      "Colombia"
+      "Republik Kongo",
+      "Kolumbien"
      ],
-     "bucketTitle": "Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "117620",
-   "done": false
+   "done": true,
+   "IntroAudio": "Geography time! (Insistent) I said Geography Time! Look sharp! You will see a number of country names. Tell me, does each one live in...",
+   "TitleAudio0": "the Northern Hemisphere...",
+   "TitleAudio1": "the Southern Hemisphere...",
+   "TitleAudio2": "...or does it straddle BOTH Hemispheres?",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -2917,7 +3178,12 @@
    "host": "CEREBRIEL",
    "id": "117638",
    "x": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "For this prompt, uh... let’s just say that size matters. Tell me, is each item...",
+   "TitleAudio0": "One of the World’s Major Mountains...",
+   "TitleAudio1": "One of the World’s Largest Lakes...",
+   "TitleAudio2": "...or a Major Brand of Condom.",
+   "OutroAudio": "You’ll know you’ve reached the summit once you’ve scaled to the height of the Great Latex Tip."
   },
   {
    "buckets": [
@@ -2969,7 +3235,12 @@
    "host": "CEREBRIEL",
    "id": "117665",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Names are funny things, aren’t they? Tell me if the names you’re about to see belong to...",
+   "TitleAudio0": "a Comic Strip Character...",
+   "TitleAudio1": "a Female Rapper...",
+   "TitleAudio2": "...or a Muppet.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3024,49 +3295,55 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117667",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You shall see a series of simple words! Tell me, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] The title of a Horror Movie...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Preposition...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Word That Sounds Like a Letter of the English alphabet.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Lucille Ball",
-      "Julianne Moore",
+      "Pumuckl",
+      "Pippi Langstrumpf",
       "Ed Sheeran",
-      "Prince Harry",
-      "Carrot Top",
+      "Prinz Harry",
       "Rupert Grint",
-      "Wilma Flintstone",
-      "Jessica Rabbit"
+      "Jessica Rabbit",
+      "Wilma Feuerstein",
+      "Ronald McDonald"
      ],
-     "bucketTitle": "Famous Redhead",
-     "shorthand": "Redhead"
+     "bucketTitle": "Rothaarig",
+     "shorthand": "Rothaarig"
     },
     {
      "answers": [
       "Marilyn Monroe",
-      "Gwen Stefani",
-      "Guy Fieri",
-      "Andy Warhol",
       "Dolly Parton",
-      "Madonna",
-      "Elsa"
+      "Heino",
+      "Barbie",
+      "Elsa",
+      "Draco Malfoy",
+      "Legolas",
+      "Bibi Blocksberg"
      ],
-     "bucketTitle": "Famous Blond",
+     "bucketTitle": "Blond",
      "shorthand": "Blond"
     },
     {
      "answers": [
       "Stitch",
-      "Cookie Monster",
-      "Doctor Manhattan",
-      "Papa Smurf",
+      "Krümelmonster",
+      "Dr. Manhattan",
+      "Papa Schlumpf",
       "Nebula",
-      "Dory",
+      "Dorie",
       "Megamind"
      ],
-     "bucketTitle": "Famous Blue Face",
-     "shorthand": "Blue Face"
+     "bucketTitle": "Blau",
+     "shorthand": "Blau"
     }
    ],
    "difficulty": "Easy",
@@ -3075,7 +3352,12 @@
    "id": "117746",
    "x": false,
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Humans, tell me if the names you’re about to see belong to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Redhead...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Blond...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a character whose Face happens to be Blue.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3129,7 +3411,12 @@
    "host": "QUIZTAR",
    "id": "117798",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You humans and your silly lingo! Soon you shall see terms of generational slang. Tell me, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Generation Z Slang...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Generation X Slang...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Slang of the Baby Boomer generation.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3183,7 +3470,12 @@
    "host": "QUIZTAR",
    "id": "117799",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I, Quiztar, insist that you fill in a number of blanks. Tell me, for each word you see, does it...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] End in the word “Box”...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] End in the word “Case”...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or End in the word “Hole.” And don’t be difficult! I’m looking for the most obvious answer.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3236,7 +3528,12 @@
    "host": "QUIZTAR",
    "id": "117800",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Fair warning: this one may be a bit painful. Tell me if each answer is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Pro Wrestling Move...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Gymnastics Move...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or the name of a Surgical Instrument.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3288,7 +3585,12 @@
    "host": "CEREBRIEL",
    "id": "117805",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Oh, my little darlings... you complete me. And now YOU must complete a series of titles, names and phrases. Tell me, for each blank you see, is it...",
+   "TitleAudio0": "Missing an Animal’s Name...",
+   "TitleAudio1": "Missing a Number...",
+   "TitleAudio2": "...or Missing a Day of the Week.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3296,45 +3598,43 @@
      "answers": [
       "Zebra",
       "Tiger",
-      "Spider plant",
-      "Candy cane",
-      "Thailand flag",
-      "Mime",
-      "Barcode",
-      "Barber pole",
-      "Abbey Road"
+      "Grünlilie",
+      "Zuckerstange",
+      "Strichcode",
+      "Biene",
+      "Clownfisch",
+      "Obelix’ Hose"
      ],
-     "bucketTitle": "Striped Thing",
-     "shorthand": "Striped"
+     "bucketTitle": "Gestreift",
+     "shorthand": "Streifen"
     },
     {
      "answers": [
-      "Cheetah",
+      "Gepard",
       "Giraffe",
-      "Dominoes",
-      "Ladybug",
-      "Dalmatian",
-      "Jupiter",
-      "Chickenpox",
-      "Twister mat",
-      "Dice"
+      "Dominosteine",
+      "Marienkäfer",
+      "Dalmatiner",
+      "Würfel",
+      "Twister-Matte",
+      "Fliegenpilz"
      ],
-     "bucketTitle": "Spotted Thing",
-     "shorthand": "Spotted"
+     "bucketTitle": "Gepunktet",
+     "shorthand": "Punkte"
     },
     {
      "answers": [
-      "Gingham",
-      "Buffalo plaid",
-      "Classic Vans slip-ons",
-      "Chessboard",
-      "Waffles",
-      "Finish line racing flag",
-      "Croatian soccer jersey",
-      "One’s questionable past"
+      "Schachbrett",
+      "Waffel",
+      "Schottenrock",
+      "Zielflagge",
+      "Vichy-Muster",
+      "Harlekinkostüm",
+      "Kroatiens Trikot",
+      "Damebrett"
      ],
-     "bucketTitle": "Checkered Thing",
-     "shorthand": "Checkered"
+     "bucketTitle": "Kariert",
+     "shorthand": "Karos"
     }
    ],
    "difficulty": "Easy",
@@ -3342,52 +3642,56 @@
    "host": "QUIZTAR",
    "id": "117808",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] The items of Earth have so many curious markings. Tell me, of the items you see, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Striped Thing...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Spotted Thing...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Checkered Thing.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Hullabaloo",
-      "Gobbledygook",
-      "Didgeridoo",
+      "Schokolade",
+      "Gummibärchen",
       "Tiramisu",
-      "Geographic",
-      "Fundamental",
-      "Inspiration",
-      "Abdominal"
+      "Avocado",
+      "Paparazzi",
+      "Mathematik",
+      "Salamander",
+      "Krokodile"
      ],
-     "bucketTitle": "Four-Syllable Word",
-     "shorthand": "Four Syllables"
+     "bucketTitle": "4 Silben",
+     "shorthand": "4 Silben"
     },
     {
      "answers": [
-      "Annihilation",
-      "Biological",
-      "Comprehensively",
-      "Documentary",
-      "Fiduciary",
-      "Intermittently",
-      "Lactobacillus",
-      "Unsuccessfully",
-      "Vocabularies"
+      "Kindergärtnerin",
+      "Universität",
+      "Pyramidenbau",
+      "Schokoladeneis",
+      "Elefantenfuß",
+      "Bananenschale",
+      "Schmetterlingsraupe",
+      "Autobahngebühr"
      ],
-     "bucketTitle": "Five-Syllable Word",
-     "shorthand": "Five Syllables"
+     "bucketTitle": "5 Silben",
+     "shorthand": "5 Silben"
     },
     {
      "answers": [
-      "Alphabetically",
-      "Biodegradable",
-      "Compatibility",
-      "Extraterrestrial",
-      "Humanitarian",
-      "Individualism",
-      "Originality",
-      "Unnecessarily"
+      "Schokoladenpudding",
+      "Limonadenflasche",
+      "Mathematiklehrer",
+      "Kriminalkommissar",
+      "Bananenrepublik",
+      "Telefonanbieter",
+      "Elefantenherde",
+      "Universitäten"
      ],
-     "bucketTitle": "Six-Syllable Word",
-     "shorthand": "Six Syllables"
+     "bucketTitle": "6 Silben",
+     "shorthand": "6 Silben"
     }
    ],
    "difficulty": "Medium",
@@ -3395,7 +3699,12 @@
    "host": "CEREBRIEL",
    "id": "117811",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Oh, you may not like me for this one, but I can’t resist. You’re going to see a number of long words. Tell me, is each one...",
+   "TitleAudio0": "a Four-Syllable Word...",
+   "TitleAudio1": "a Five-Syllable Word...",
+   "TitleAudio2": "...or a Six-Syllable Word. Talk it out amongst yourselves.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3409,7 +3718,7 @@
       "Chickenburger",
       "McRib"
      ],
-     "bucketTitle": "McDonald’s",
+     "bucketTitle": "McDonald’s-Produkt",
      "shorthand": "McDonald’s"
     },
     {
@@ -3423,7 +3732,7 @@
       "X-tra Long Chili Cheese",
       "Double Crispy Chicken"
      ],
-     "bucketTitle": "Burger King",
+     "bucketTitle": "Burger-King-Produkt",
      "shorthand": "Burger King"
     },
     {
@@ -3436,7 +3745,7 @@
       "Veggie Tender",
       "Original Bites"
      ],
-     "bucketTitle": "KFC",
+     "bucketTitle": "KFC-Produkt",
      "shorthand": "KFC"
     }
    ],
@@ -3445,49 +3754,56 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117818",
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Who says that fast food is bad for you?! It could be very good for you... now. Of the food items you may choose to stuff into your mouth holes, tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] an item that has appeared on a McDonald’s menu...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an item that has appeared on a Burger King menu...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an item found on a Wendy’s menu.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "You talking to me?",
-      "Say hello to my little friend!",
-      "Show me the money!",
-      "I’m the king of the world!",
-      "I’ll be back",
-      "E.T. phone home",
-      "Napalm in the morning"
+      "Ich komme wieder.",
+      "Mein Schatz!",
+      "Möge die Macht mit dir sein.",
+      "E.T. nach Hause telefonieren.",
+      "Ich bin der König der Welt!",
+      "Ich sehe tote Menschen.",
+      "Lauf, Forrest, lauf!",
+      "Hasta la vista, baby."
      ],
-     "bucketTitle": "Famous Movie Quote",
-     "shorthand": "Movie Quote"
+     "bucketTitle": "Filmzitat",
+     "shorthand": "Film"
     },
     {
      "answers": [
-      "Eat my shorts",
-      "Live long and prosper",
-      "The tribe has spoken",
       "Bazinga!",
-      "How [i]you[/i] doin’?",
-      "Make it work",
-      "Did [i]I[/i] do that?",
-      "Yada, yada, yada"
+      "War ich das etwa?",
+      "Nicht die Mama!",
+      "Widerstand ist zwecklos.",
+      "Das war spitze!",
+      "Die Ente bleibt draußen!",
+      "Ausgezeichnet!",
+      "Abschalten!"
      ],
-     "bucketTitle": "TV Show Catchphrase",
-     "shorthand": "TV Catchphrase"
+     "bucketTitle": "TV-Spruch",
+     "shorthand": "TV"
     },
     {
      "answers": [
-      "Got milk?",
-      "I’m lovin’ it",
-      "This is how you Sonic",
-      "Think different",
-      "Are you in good hands?",
-      "What’s in your wallet?",
-      "A diamond is forever"
+      "Wer ist eigentlich Paul?",
+      "Die Freiheit nehm ich mir.",
+      "Man gönnt sich ja sonst nichts.",
+      "Unterm Strich zähl ich.",
+      "Es gibt immer was zu tun.",
+      "Respekt, wer’s selber macht.",
+      "Erleben, was verbindet.",
+      "Wie viel Wahnsinn steckt in dir?"
      ],
-     "bucketTitle": "Brand Slogan",
-     "shorthand": "Brand Slogan"
+     "bucketTitle": "Werbeslogan",
+     "shorthand": "Werbung"
     }
    ],
    "countrySpecific": true,
@@ -3496,51 +3812,55 @@
    "host": "QUIZTAR",
    "id": "117853",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Coming up, we’ll have familiar human quotations. Tell me is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Movie Quote...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a famous Catchphrase from a popular TV program...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or corporate Brand Slogan.",
+   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] My favorite quote is this: “I am the Mighty Quiztar!!!” Yes yes, I know it’s not quite there yet. I’m still workshopping it."
   },
   {
    "buckets": [
     {
      "answers": [
       "Gong",
-      "Nilla Wafers",
-      "The Colosseum",
-      "Tide logo",
-      "Pie chart",
-      "Roe",
-      "Medicine ball",
-      "Arancini"
+      "Frisbee",
+      "CD",
+      "Dartscheibe",
+      "Pizzaboden",
+      "Medizinball",
+      "Camembert",
+      "Hula-Hoop"
      ],
-     "bucketTitle": "Circular",
-     "shorthand": "Circular"
+     "bucketTitle": "Rund",
+     "shorthand": "Rund"
     },
     {
      "answers": [
-      "£5 note",
-      "KitKat",
-      "Etch a Sketch",
-      "SIM card",
-      "Harmonica",
-      "Backgammon board",
-      "Cheerios cereal container",
-      "Ice hockey neutral zone"
+      "Fünf-Euro-Schein",
+      "Dominostein",
+      "Spielkarte",
+      "Mundharmonika",
+      "Backgammonbrett",
+      "Briefmarke",
+      "Schokoladentafel",
+      "Smartphone"
      ],
-     "bucketTitle": "Rectangular",
-     "shorthand": "Rectangular"
+     "bucketTitle": "Rechteckig",
+     "shorthand": "Rechteckig"
     },
     {
      "answers": [
-      "Truss",
-      "Dorito",
-      "Yield sign",
-      "Jib",
+      "Nacho",
       "Samosa",
-      "Billiard rack",
-      "Delta logo",
-      "Balalaika"
+      "Balalaika",
+      "Pizzastück",
+      "Focksegel",
+      "Vorfahrt gewähren",
+      "Toblerone-Stück"
      ],
-     "bucketTitle": "Triangular",
-     "shorthand": "Triangular"
+     "bucketTitle": "Dreieckig",
+     "shorthand": "Dreieckig"
     }
    ],
    "difficulty": "Easy",
@@ -3548,7 +3868,12 @@
    "host": "QUIZTAR",
    "id": "117855",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Let’s see if you can bring SHAPE to this one! Tell me, of the various items you will soon come across, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Circular...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Rectangular...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Triangular.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3557,42 +3882,42 @@
       "BTS",
       "*NSYNC",
       "One Direction",
-      "New Kids on the Block",
-      "SEVENTEEN",
-      "Big Time Rush",
-      "Backstreet Boys"
+      "US5",
+      "Take That",
+      "Backstreet Boys",
+      "Caught in the Act",
+      "Big Time Rush"
      ],
-     "bucketTitle": "Boy Band",
-     "shorthand": "Boy Band"
+     "bucketTitle": "Boyband",
+     "shorthand": "Boyband"
     },
     {
      "answers": [
-      "Haim",
-      "Katseye",
-      "BLACKPINK",
-      "The Supremes",
-      "Destiny’s Child",
+      "No Angels",
+      "Monrose",
+      "Tic Tac Toe",
       "Spice Girls",
-      "Fifth Harmony",
-      "The Bangles",
-      "Twice"
+      "BLACKPINK",
+      "Destiny’s Child",
+      "Sugababes",
+      "Little Mix"
      ],
-     "bucketTitle": "Girl Group",
-     "shorthand": "Girl Group"
+     "bucketTitle": "Girlgroup",
+     "shorthand": "Girlgroup"
     },
     {
      "answers": [
       "ABBA",
-      "The White Stripes",
-      "The Carpenters",
-      "Fleetwood Mac",
-      "The B-52s",
-      "Paramore",
+      "Wir sind Helden",
+      "Juli",
+      "Silbermond",
+      "Mia.",
       "No Doubt",
-      "Black Eyed Peas"
+      "Black Eyed Peas",
+      "Die Happy"
      ],
-     "bucketTitle": "Male-Female Act",
-     "shorthand": "Male-Female"
+     "bucketTitle": "Musikact mit Männern & Frauen",
+     "shorthand": "Gemischt"
     }
    ],
    "difficulty": "Hard",
@@ -3600,7 +3925,12 @@
    "host": "CEREBRIEL",
    "id": "117861",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "You will soon encounter a series of musical groups. Please tell me if each one is...",
+   "TitleAudio0": "a Boy Band...",
+   "TitleAudio1": "a Girl Group...",
+   "TitleAudio2": "...or a Male-Female Act.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3668,7 +3998,12 @@
    "host": "QUIZTAR",
    "id": "117864",
    "x": false,
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You have a number of movie titles in your future. You must tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Movie by Paul Thomas Anderson...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Movie by Wes Anderson...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Movie featuring Pamela Anderson.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3682,20 +4017,20 @@
       "Darkseid",
       "Doomsday"
      ],
-     "bucketTitle": "Primary Superman Villain",
+     "bucketTitle": "Superman-Gegner",
      "shorthand": "Superman"
     },
     {
      "answers": [
       "Ra’s al Ghul",
       "Joker",
-      "The Penguin",
+      "Pinguin",
       "Two-Face",
       "Bane",
       "Harley Quinn",
       "Mr. Freeze"
      ],
-     "bucketTitle": "Primary Batman Villain",
+     "bucketTitle": "Batman-Gegner",
      "shorthand": "Batman"
     },
     {
@@ -3703,13 +4038,13 @@
       "Kingpin",
       "Morbius",
       "Sandman",
-      "Vulture",
-      "Kraven the Hunter",
+      "Geier",
+      "Kraven",
       "Doctor Octopus",
-      "Green Goblin",
+      "Grüner Kobold",
       "Carnage"
      ],
-     "bucketTitle": "Primary Spider-Man Villain",
+     "bucketTitle": "Spider-Man-Gegner",
      "shorthand": "Spider-Man"
     }
    ],
@@ -3717,60 +4052,68 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117880",
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] In the name of villainy, you are about to run across a rogue’s gallery of dangerous characters. Tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Primary Superman Villain...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a known Batman Villain...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an obsessive enemy of Spider-Man.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Divided Highway",
-      "No Turn On Red",
-      "Slower Traffic Keep Right",
-      "Pass With Care",
-      "Loose Gravel",
-      "Soft Shoulder",
-      "Road Work Ahead",
-      "Pavement Ends",
-      "Wrong Way"
+      "Rechts vor links",
+      "Überholverbot",
+      "Seitenstreifen meiden",
+      "Wildwechsel",
+      "Rollsplitt",
+      "Gegenverkehr",
+      "Schneekettenpflicht",
+      "Rettungsgasse bilden"
      ],
-     "bucketTitle": "Road and Highway Sign",
-     "shorthand": "Road Sign"
+     "bucketTitle": "Straßenverkehrsschild",
+     "shorthand": "Straßenschild"
     },
     {
      "answers": [
-      "Do Not Leave Bags Unattended",
-      "Have ID Ready",
-      "Stay Clear of Closing Doors",
-      "Ground Transportation",
-      "Parking Shuttle",
-      "International Arrivals",
-      "Goods to Declare",
-      "VAT Refund",
-      "Cell Phone Lot"
+      "Zum Gate",
+      "Gepäckausgabe",
+      "Boarding",
+      "Zollanmeldung",
+      "Ankunft",
+      "Abflug",
+      "Transfer",
+      "Sicherheitskontrolle"
      ],
-     "bucketTitle": "Airport Sign",
-     "shorthand": "Airport Sign"
+     "bucketTitle": "Schild am Flughafen",
+     "shorthand": "Flughafenschild"
     },
     {
      "answers": [
-      "Stay On Marked Trails",
-      "Keep Off the Grass",
-      "Do Not Disturb Wildlife",
-      "Fishing By Permit Only",
-      "Please Curb Your Dog",
-      "No Lifeguard On Duty",
-      "Picnic Area",
-      "Trail X-ing"
+      "Wege nicht verlassen",
+      "Tiere nicht füttern",
+      "Leinenpflicht",
+      "Rasen nicht betreten",
+      "Grillen verboten",
+      "Bitte Ruhe",
+      "Kein offenes Feuer",
+      "Baden verboten"
      ],
-     "bucketTitle": "Outdoor Recreation Sign",
-     "shorthand": "Recreation Sign"
+     "bucketTitle": "Schild im Naturpark",
+     "shorthand": "Naturparkschild"
     }
    ],
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117885",
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I beseech you to follow the SIGNS. You will come across a series of phrases. Tell me, is each one found on...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Road and Highway Sign...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an Airport Sign...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an Outdoor Recreation Sign.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3827,7 +4170,12 @@
    "host": "CEREBRIEL",
    "id": "118044",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "Ah, you humans and your charming little games. I shall present you with a series of such games. You must tell me if each is...",
+   "TitleAudio0": "Played with a Sphere...",
+   "TitleAudio1": "Played with a Non-Sphere...",
+   "TitleAudio2": "...or Played with Nothing but your delightful, tiny bodies.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3842,8 +4190,8 @@
       "Cosmopolitan",
       "Lemon Drop"
      ],
-     "bucketTitle": "Vodka Cocktail",
-     "shorthand": "Vodka"
+     "bucketTitle": "Wodka-Cocktail",
+     "shorthand": "Wodka"
     },
     {
      "answers": [
@@ -3851,11 +4199,12 @@
       "Negroni",
       "Hanky Panky",
       "Gimlet",
-      "Tuxedo",
-      "John Collins",
-      "Tom Collins"
+      "Aviation",
+      "Bramble",
+      "Tom Collins",
+      "Clover Club"
      ],
-     "bucketTitle": "Gin Cocktail",
+     "bucketTitle": "Gin-Cocktail",
      "shorthand": "Gin"
     },
     {
@@ -3866,9 +4215,10 @@
       "Cuba Libre",
       "Mojito",
       "Mai Tai",
-      "Zombie"
+      "Zombie",
+      "Planter’s Punch"
      ],
-     "bucketTitle": "Rum Cocktail",
+     "bucketTitle": "Rum-Cocktail",
      "shorthand": "Rum"
     }
    ],
@@ -3878,7 +4228,12 @@
    "id": "118076",
    "x": true,
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Welcome to Happy Hour! Adults only, please. I will serve up a number of curiously named cocktails. You must tell me if each one is...",
+   "TitleAudio0": "a Vodka Cocktail...",
+   "TitleAudio1": "a Gin Cocktail...",
+   "TitleAudio2": "...or a Rum Cocktail.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3931,7 +4286,12 @@
    "id": "118081",
    "x": false,
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Who wants to join me at the cineplex? Very good. Please tell me if each movie title you’re about to see is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Biographical Picture about a Musician...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Biographical Picture about a Political Figure...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fictional Movie about made-up people.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -3982,51 +4342,53 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118082",
-   "done": false
+   "done": false,
+   "IntroAudio": "Do you know your memes? Let’s find out. For each item you’re about to see, tell me if it is...",
+   "TitleAudio0": "a Dance Meme...",
+   "TitleAudio1": "a Phrase Meme...",
+   "TitleAudio2": "...or an Object Meme.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Nikki Haley",
-      "Jeb Bush",
-      "Benjamin Franklin",
-      "Christopher Christie",
-      "Patrick Henry",
-      "Jesse Ventura",
-      "Arnold Schwarzenegger",
-      "Mitt Romney"
+      "Lars Klingbeil",
+      "Alexander Dobrindt",
+      "Johann Wadephul",
+      "Boris Pistorius",
+      "Katharina Reiche",
+      "Dorothee Bär",
+      "Karin Prien",
+      "Carsten Schneider",
+      "Bärbel Bas",
+      "Stefanie Hubig",
+      "Carsten Linnemann"
      ],
-     "bucketTitle": "U.S. State Governor",
-     "shorthand": "Governor"
+     "bucketTitle": "Bundesminister",
+     "shorthand": "Bundesminister"
     },
     {
      "answers": [
-      "Dwight D. Eisenhower",
-      "Lyndon B. Johnson",
-      "Harry S. Truman",
-      "Richard Nixon",
-      "Barack Obama",
-      "Joe Biden",
-      "Abraham Lincoln",
-      "Chester A. Arthur"
+      "Kurt Georg Kiesinger",
+      "Helmut Kohl",
+      "Gerhard Schröder",
+      "Friedrich Merz"
      ],
-     "bucketTitle": "U.S. President",
-     "shorthand": "President"
+     "bucketTitle": "Bundeskanzler",
+     "shorthand": "Bundeskanzler"
     },
     {
      "answers": [
-      "George W. Bush",
-      "Grover Cleveland",
-      "Bill Clinton",
-      "Ronald Reagan",
-      "Thomas Jefferson",
-      "Jimmy Carter",
-      "Franklin D. Roosevelt",
-      "Theodore Roosevelt"
+      "Konrad Adenauer",
+      "Ludwig Erhard",
+      "Willy Brandt",
+      "Helmut Schmidt",
+      "Angela Merkel",
+      "Olaf Scholz"
      ],
-     "bucketTitle": "Governor & President",
-     "shorthand": "Both"
+     "bucketTitle": "Bundesminister & Kanzler",
+     "shorthand": "Beides"
     }
    ],
    "countrySpecific": true,
@@ -4034,7 +4396,12 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "118083",
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Do you know your American history? You will soon see the names of some political figures. You must tell me if each one was...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] the Governor of a U.S. State...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a U.S. President...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or someone who served as a Governor AND President. Not at the same time, of course.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4088,7 +4455,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118084",
-   "done": false
+   "done": false,
+   "IntroAudio": "I shall present to you a number of distinguished ladies. You must tell me if each one is or was...",
+   "TitleAudio0": "a Basketball Player in the WNBA...",
+   "TitleAudio1": "an Oscar Nominee for Best Actress...",
+   "TitleAudio2": "...or a famous Women’s Rights Activist of yesteryear.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4103,36 +4475,35 @@
       "Dipper Pines",
       "Pinocchio"
      ],
-     "bucketTitle": "Has Headwear",
-     "shorthand": "Has Headwear"
+     "bucketTitle": "Trägt Kopfbedeckung",
+     "shorthand": "Hut & Co."
     },
     {
      "answers": [
+      "Superman",
       "Supergirl",
-      "Count von Count",
-      "Doctor Strange",
-      "Liberace",
-      "Jon Snow",
-      "Ruby Rose",
-      "Lando Calrissian"
+      "Graf Zahl",
+      "Dr. Strange",
+      "Lando Calrissian",
+      "Dracula",
+      "Jon Schnee"
      ],
-     "bucketTitle": "Has a Cape",
-     "shorthand": "Has Cape"
+     "bucketTitle": "Trägt einen Umhang",
+     "shorthand": "Umhang"
     },
     {
      "answers": [
-      "Elphaba",
-      "Monkey D. Luffy",
       "Gandalf",
-      "Puss In Boots",
       "Zorro",
       "Darkwing Duck",
       "Darth Vader",
       "Scarlet Witch",
-      "Piccolo"
+      "Piccolo",
+      "Elphaba",
+      "Der gestiefelte Kater"
      ],
-     "bucketTitle": "Has Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Hard",
@@ -4141,7 +4512,12 @@
    "id": "118085",
    "x": false,
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I don’t wear clothing, but I understand it has a purpose. For the characters I’m about to reveal, tell me if each of them...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Has Headwear...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Has a Cape...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or has BOTH Headwear AND a Cape. I think that’s overkill, but who am I to judge.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4192,7 +4568,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118087",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Tell me, friends, are the items you’re about to see best categorized as...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Internet Meme...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Enemy from the Super Mario franchise...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Movie produced by DreamWorks.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4245,7 +4626,12 @@
    "id": "118088",
    "x": true,
    "starterContent": false,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Do you smell it, mortals? Love is in the air! I will show you some TITLES and you must tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Beatles Love Song...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Romantic Comedy Film...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Reality Dating Show.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4298,7 +4684,12 @@
    "host": "CEREBRIEL",
    "id": "118089",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "You shall soon be engulfed by a number of corporate brands. Tell me if each one is represented by...",
+   "TitleAudio0": "a Human or Human-like Mascot...",
+   "TitleAudio1": "an Animal Mascot...",
+   "TitleAudio2": "...or a FOOD Mascot that—if it’s not careful—could accidentally be consumed.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4352,7 +4743,12 @@
    "host": "QUIZTAR",
    "id": "118090",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] The subject is movie genres! You will soon run into a jumble of titles. You must tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Movie that focuses on the Law...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Horror Movie...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Romance Movie that hits you right in the feels!",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4404,51 +4800,56 @@
    "host": "CEREBRIEL",
    "id": "118091",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Ah, here’s a thematic trio for you. Soon a number of TITLES will be floating in your direction. Tell me if each one is...",
+   "TitleAudio0": "a Movie featuring Jack Black...",
+   "TitleAudio1": "a Movie featuring the immortal Betty White...",
+   "TitleAudio2": "...or a Movie that appears in Black AND White.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Five Nights at Freddy’s",
       "Uncharted",
-      "Werewolves Within",
       "Resident Evil",
       "Silent Hill",
       "Warcraft",
       "Tekken",
-      "Iron Lung"
+      "Mortal Kombat",
+      "Tomb Raider",
+      "Sonic"
      ],
-     "bucketTitle": "Originally a Video Game",
-     "shorthand": "Video Game First"
+     "bucketTitle": "Erst ein Videospiel",
+     "shorthand": "Spiel"
     },
     {
      "answers": [
-      "Beasts of No Nation",
-      "The Maze Runner",
-      "The Wild Robot",
       "Forrest Gump",
-      "Project Hail Mary",
-      "Hamnet",
-      "Mickey 17",
-      "The Housemaid"
+      "Dune",
+      "Die Tribute von Panem",
+      "Die Welle",
+      "Das Parfum",
+      "Tschick",
+      "Der wilde Roboter",
+      "Der Marsianer"
      ],
-     "bucketTitle": "Originally a Book",
-     "shorthand": "Book First"
+     "bucketTitle": "Erst ein Buch",
+     "shorthand": "Buch"
     },
     {
      "answers": [
+      "Matrix",
       "Get Out",
-      "Bridesmaids",
-      "The Substance",
-      "The Matrix",
-      "It Follows",
       "Tron",
-      "Westworld",
-      "Looper"
+      "Zurück in die Zukunft",
+      "Inception",
+      "The Substance",
+      "Looper",
+      "Westworld"
      ],
-     "bucketTitle": "Originally a Movie",
-     "shorthand": "Movie First"
+     "bucketTitle": "Erst ein Film",
+     "shorthand": "Film"
     }
    ],
    "difficulty": "Hard",
@@ -4456,49 +4857,56 @@
    "host": "QUIZTAR",
    "id": "118092",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] If you know Quiztar, you know that I love a good origin story. With that in mind, tell me if each TITLE you’re about to see was...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Originally a Video Game...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Originally a Book...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Originally a Movie.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Google",
-      "PlayStation 1",
-      "Human Genome Project",
-      "Amazon",
-      "The EU",
       "Pokémon",
-      "Oprah’s Book Club",
-      "Napster"
+      "PlayStation",
+      "Google",
+      "Amazon",
+      "ICQ",
+      "Diddl",
+      "Furby",
+      "Tamagotchi"
      ],
-     "bucketTitle": "First Appeared in the 1990s",
-     "shorthand": "1990s"
+     "bucketTitle": "Debüt: 90er",
+     "shorthand": "90er"
     },
     {
      "answers": [
-      "Breaking Bad",
-      "Facebook",
-      "Wicked musical",
       "YouTube",
-      "The Real Housewives",
-      "I Am... Sasha Fierce",
-      "Big Brother (UK & US)"
+      "Facebook",
+      "Wikipedia",
+      "StudiVZ",
+      "Die Sims",
+      "Wii",
+      "Spotify",
+      "WhatsApp"
      ],
-     "bucketTitle": "First Appeared in the 2000s",
-     "shorthand": "2000s"
+     "bucketTitle": "Debüt: 00er",
+     "shorthand": "00er"
     },
     {
      "answers": [
-      "I Am Malala",
-      "iPad",
-      "Bob’s Burgers",
-      "Fifty Shades of Grey",
       "Instagram",
-      "Harlem Shake meme",
-      "Moana"
+      "TikTok",
+      "Snapchat",
+      "iPad",
+      "Twitch",
+      "Discord",
+      "Fortnite",
+      "Bumble"
      ],
-     "bucketTitle": "First Appeared in the 2010s",
-     "shorthand": "2010s"
+     "bucketTitle": "Debüt: 10er",
+     "shorthand": "10er"
     }
    ],
    "difficulty": "Hard",
@@ -4506,54 +4914,54 @@
    "host": "CEREBRIEL",
    "id": "118179",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Your fleeting human time periods amuse me. Nonetheless, I want you to tell me if a particular phenomenon...",
+   "TitleAudio0": "First Appeared in the 1990s...",
+   "TitleAudio1": "First Appeared in the 2000s...",
+   "TitleAudio2": "...or First Appeared in the 2010s.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Star Wars: The Phantom Menace",
-      "Solo: A Star Wars Story",
-      "X-Men: First Class",
-      "Monsters University",
+      "Solo",
+      "Rogue One",
+      "Prometheus",
+      "Die Monster Uni",
       "Red Dragon",
-      "Oz the Great and Powerful",
-      "Mufasa: The Lion King",
-      "Prometheus"
+      "Mufasa",
+      "X-Men: Erste Entscheidung"
      ],
-     "bucketTitle": "Prequel Movie",
+     "bucketTitle": "Film-Prequel",
      "shorthand": "Prequel"
     },
     {
      "answers": [
-      "Star Wars",
-      "Dumb and Dumber",
+      "Matrix",
       "Alien",
       "X-Men",
-      "Raiders of the Lost Ark",
-      "Silence of the Lambs",
-      "Monsters, Inc.",
       "Mad Max",
-      "Meet the Parents",
-      "The Matrix",
-      "Ace Ventura: Pet Detective",
+      "Stirb langsam",
+      "Jurassic Park",
+      "Findet Nemo",
       "Before Sunrise"
      ],
-     "bucketTitle": "Original Movie",
+     "bucketTitle": "Erster Film einer Reihe",
      "shorthand": "Original"
     },
     {
      "answers": [
-      "Star Wars: The Last Jedi",
-      "Aliens",
       "Before Sunset",
+      "Aliens",
+      "Hannibal",
       "Creed",
       "Mad Max: Fury Road",
-      "Hannibal",
-      "Ace Ventura: When Nature Calls",
-      "Meet the Fockers"
+      "Findet Dorie",
+      "Logan",
+      "The Dark Knight"
      ],
-     "bucketTitle": "Sequel Movie",
+     "bucketTitle": "Film-Fortsetzung",
      "shorthand": "Sequel"
     }
    ],
@@ -4562,7 +4970,12 @@
    "host": "QUIZTAR",
    "id": "118180",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] As I, Quiztar, like to say: Everything in its proper place. Now tell me whether each of the TITLES you’re about to see is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Prequel Movie...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an Original Movie...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Sequel Movie.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4613,58 +5026,56 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118188",
-   "done": false
+   "done": false,
+   "IntroAudio": "For the love of Chris, please tell me whether each upcoming item best describes one of these celebrities...",
+   "TitleAudio0": "Chris Pratt...",
+   "TitleAudio1": "Chris Rock...",
+   "TitleAudio2": "...or Ludacris.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Spoke",
-      "Thought",
-      "Bit",
-      "Bought",
-      "Chose",
-      "Found",
-      "Got",
-      "Forbade",
-      "Blew",
-      "Arose"
+      "aus",
+      "bei",
+      "mit",
+      "nach",
+      "seit",
+      "von",
+      "zu",
+      "gegenüber"
      ],
-     "bucketTitle": "Past Tense Verb",
-     "shorthand": "Past Tense"
+     "bucketTitle": "Präposition + Dativ",
+     "shorthand": "Dativ"
     },
     {
      "answers": [
-      "Lend",
-      "Wear",
-      "Map",
-      "Forget",
-      "Welcome",
-      "Comment",
-      "Perfect",
-      "Remain",
-      "Route",
-      "Sprout"
+      "durch",
+      "für",
+      "gegen",
+      "ohne",
+      "um",
+      "bis",
+      "wider"
      ],
-     "bucketTitle": "Present Tense Verb",
-     "shorthand": "Present Tense"
+     "bucketTitle": "Präposition + Akkusativ",
+     "shorthand": "Akkusativ"
     },
     {
      "answers": [
-      "Read",
-      "Shut",
-      "Broadcast",
-      "Cost",
-      "Hit",
-      "Hurt",
-      "Put",
-      "Wed",
-      "Lay",
-      "Bet",
-      "Bore"
+      "an",
+      "auf",
+      "hinter",
+      "in",
+      "neben",
+      "über",
+      "unter",
+      "vor",
+      "zwischen"
      ],
-     "bucketTitle": "Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Medium",
@@ -4672,7 +5083,12 @@
    "host": "QUIZTAR",
    "id": "118191",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] For this one, you’ll be considering the “here and now,” but also the “there and was.” Tell me if each answer is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Past Tense Verb...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Present Tense Verb...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a word that can be BOTH a past tense or a present tense verb. I think you’ll have fun with this one.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4724,7 +5140,12 @@
    "host": "CEREBRIEL",
    "id": "118193",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "I hope you brought your appetites. Please tell me if each food item you see is best classified as...",
+   "TitleAudio0": "Seafood...",
+   "TitleAudio1": "Steak...",
+   "TitleAudio2": "...or Vegan.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4778,57 +5199,56 @@
    "host": "CEREBRIEL",
    "id": "118197",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "For every yin, there is a yang. Consider that as the answers pass before you. Tell me if each one...",
+   "TitleAudio0": "Extends & Retracts...",
+   "TitleAudio1": "Tightens & Loosens...",
+   "TitleAudio2": "...or Starts & Stops... some type of action.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "The Doobie Brothers",
-      "Steely Dan",
-      "AC/DC",
-      "The Ramones",
-      "The Cure",
-      "Siouxsie and the Banshees",
-      "U2",
       "ABBA",
-      "The Eagles"
+      "AC/DC",
+      "Queen",
+      "Kraftwerk",
+      "BAP",
+      "U2",
+      "The Cure",
+      "Eagles"
      ],
-     "bucketTitle": "Band Formed in the ’70s",
-     "shorthand": "Formed in the ’70s"
+     "bucketTitle": "Bandgründung: 70er",
+     "shorthand": "70er"
     },
     {
      "answers": [
-      "Nine Inch Nails",
-      "Nirvana",
-      "Indigo Girls",
-      "The Red Hot Chili Peppers",
-      "Guns N’ Roses",
-      "Salt-N-Pepa",
-      "Tears for Fears",
-      "Public Enemy",
+      "Die Ärzte",
+      "Die Toten Hosen",
       "R.E.M.",
-      "Hootie & the Blowfish",
-      "Phish"
+      "Nirvana",
+      "Guns N’ Roses",
+      "Depeche Mode",
+      "Metallica",
+      "Nine Inch Nails"
      ],
-     "bucketTitle": "Band Formed in the ’80s",
-     "shorthand": "Formed in the ’80s"
+     "bucketTitle": "Bandgründung: 80er",
+     "shorthand": "80er"
     },
     {
      "answers": [
-      "Pearl Jam",
-      "Weezer",
-      "Rage Against the Machine",
-      "Oasis",
+      "Rammstein",
+      "Fettes Brot",
+      "Sportfreunde Stiller",
       "Foo Fighters",
-      "Wu-Tang Clan",
-      "Nickelback",
-      "Outkast",
-      "Bone Thugs-n-Harmony",
-      "Dave Matthews Band"
+      "Oasis",
+      "Linkin Park",
+      "Evanescence",
+      "Muse"
      ],
-     "bucketTitle": "Band Formed in the ’90s",
-     "shorthand": "Formed in the ’90s"
+     "bucketTitle": "Bandgründung: 90er",
+     "shorthand": "90er"
     }
    ],
    "difficulty": "Hard",
@@ -4837,7 +5257,12 @@
    "id": "118198",
    "x": false,
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Cerebriel says: Let’s rock! You shall encounter an assortment of recording artists. Tell me whether each one is...",
+   "TitleAudio0": "a Band that Formed in the 1970s...",
+   "TitleAudio1": "a Band that Formed in the 1980s...",
+   "TitleAudio2": "...or a Band that Formed in the 1990s.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4889,7 +5314,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118199",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] All right, you 21st century mortals, it’s time to dust off your history books! You shall tell me whether each item...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] First Appeared in the 1920s...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] First Appeared in the 1930s...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or First Appeared in the 1940s.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4941,7 +5371,12 @@
    "host": "QUIZTAR",
    "id": "118200",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Do you know your celebrities, humans? You shall soon see a series of last names. Tell me, does each one famously belong with the FIRST name...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Jennifer...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Jessica...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Jackie.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -4994,55 +5429,56 @@
    "host": "QUIZTAR",
    "id": "118201",
    "starterContent": false,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Always remember, my name is QUIZTAR! But enough about me. Tell me, of the names you’re about to see, is each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a First Name that is Famously YELLED in a Movie...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Song whose title is a First Name...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a TV program that uses a First Name as ITS title.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Umbrella",
-      "Sledgehammer",
-      "Red Lipstick",
-      "Fire Bomb",
-      "Diamonds",
-      "California King Bed",
-      "Birthday Cake",
-      "Skin"
+      "Denkmal",
+      "Müssen nur wollen",
+      "Ist das so?",
+      "Die Konkurrenz",
+      "Kaputt",
+      "Soundso",
+      "Endlich ein Grund zur Panik",
+      "Von hier an blind"
      ],
-     "bucketTitle": "Rihanna Song",
-     "shorthand": "Rihanna Song"
+     "bucketTitle": "Wir-sind-Helden-Song",
+     "shorthand": "Wir sind Helden"
     },
     {
      "answers": [
-      "Lego House",
-      "Photograph",
-      "Bad Habits",
-      "Boat",
-      "Plastic Bag",
-      "Curtains",
-      "Old Phone",
-      "Camera",
-      "Supermarket Flowers"
+      "Junge",
+      "Rebell",
+      "Monsterparty",
+      "Unrockbar",
+      "Schunder-Song",
+      "Männer sind Schweine",
+      "Westerland",
+      "Lasse redn"
      ],
-     "bucketTitle": "Ed Sheeran Song",
-     "shorthand": "Ed Sheeran Song"
+     "bucketTitle": "Ärzte-Song",
+     "shorthand": "Die Ärzte"
     },
     {
      "answers": [
-      "Whistle",
-      "Dust Mask",
-      "Moist Towelettes",
-      "Pliers",
-      "Diapers",
-      "Cash",
-      "Games",
-      "Duct Tape",
-      "Fire Extinguisher",
-      "Pet Food",
-      "Pencil"
+      "Dosenöffner",
+      "Powerbank",
+      "Trillerpfeife",
+      "Klebeband",
+      "Batterien",
+      "Kurbelradio",
+      "Feuchttücher",
+      "Müllbeutel"
      ],
-     "bucketTitle": "Disaster Supply Recommended by Ready.gov",
-     "shorthand": "Ready.gov Disaster Supply"
+     "bucketTitle": "Notfallausrüstung",
+     "shorthand": "Notfallset"
     }
    ],
    "difficulty": "Medium",
@@ -5051,53 +5487,56 @@
    "id": "118202",
    "x": false,
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "A number of words and phrases will pass before you. Tell me, is each one...",
+   "TitleAudio0": "the title of a Rihanna Song...",
+   "TitleAudio1": "the title of an Ed Sheeran Song...",
+   "TitleAudio2": "...or a Disaster Supply Recommended by Ready.gov",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "America Has a Problem",
-      "Daddy Lessons",
-      "Drunk in Love",
-      "6 Inch",
-      "Freakum Dress",
-      "Naughty Girl",
-      "Plastic Off the Sofa",
-      "Freedom",
-      "Flaws and All",
-      "Texas Hold ‘Em"
+      "Leuchtturm",
+      "Nur geträumt",
+      "99 Luftballons",
+      "Rette mich",
+      "Liebe ist",
+      "Feuer und Flamme",
+      "Wunder gescheh’n",
+      "In meinem Leben"
      ],
-     "bucketTitle": "Beyoncé Song",
-     "shorthand": "Beyoncé"
+     "bucketTitle": "Nena-Song",
+     "shorthand": "Nena"
     },
     {
      "answers": [
-      "American Soldier",
-      "Who’s Your Daddy?",
-      "I Love This Bar",
-      "Me Too",
-      "Big Ol’ Truck",
-      "Getcha Some",
-      "Get My Drink On",
-      "Whiskey Girl"
+      "Der Kommissar",
+      "Jeanny",
+      "Egoist",
+      "Junge Roemer",
+      "Wiener Blut",
+      "Ganz Wien",
+      "Helden von heute",
+      "Auf der Flucht"
      ],
-     "bucketTitle": "Toby Keith Song",
-     "shorthand": "Toby Keith"
+     "bucketTitle": "Falco-Song",
+     "shorthand": "Falco"
     },
     {
      "answers": [
-      "Party in the U.S.A.",
-      "Hoedown Throwdown",
-      "Wrecking Ball",
-      "4x4",
-      "Muddy Feet",
-      "Mother’s Daughter",
-      "Can’t Be Tamed",
-      "Do My Thang"
+      "Bilder im Kopf",
+      "Schlechtes Vorbild",
+      "Mein Block",
+      "Augen auf",
+      "Der Himmel soll warten",
+      "Astronaut",
+      "Tausend Tattoos",
+      "Fuffies im Club"
      ],
-     "bucketTitle": "Miley Cyrus Song",
-     "shorthand": "Miley Cyrus"
+     "bucketTitle": "Sido-Song",
+     "shorthand": "Sido"
     }
    ],
    "difficulty": "Hard",
@@ -5105,7 +5544,12 @@
    "host": "QUIZTAR",
    "id": "118203",
    "x": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] This one will appeal to all musical tastes. Or at least three. Tell me if each song title you run across is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Beyoncé Song...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Toby Keith Song...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Miley Cyrus Song.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5159,7 +5603,12 @@
    "host": "CEREBRIEL",
    "id": "118211",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Tell me, dear ones, are each of the names you’re about to encounter best classified as...",
+   "TitleAudio0": "one of Shakespeare’s Royal Characters....",
+   "TitleAudio1": "a Roman Emperor...",
+   "TitleAudio2": "...or a Moon in the Solar System.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5217,7 +5666,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118213",
-   "done": false
+   "done": false,
+   "IntroAudio": "You shall see a series of names -- some fictional, some real. Tell me if each one is...",
+   "TitleAudio0": "a Character from the uplifting TV program Ted Lasso...",
+   "TitleAudio1": "a Character from the historical drama series Downton Abbey...",
+   "TitleAudio2": "...or a Winner of literature’s Pulitzer Prize.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5271,7 +5725,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118240",
-   "done": false
+   "done": false,
+   "IntroAudio": "Let’s see what’s on the ol’ boob tube! Ah, I forget no one uses that term anymore. I’m showing my age. Well, tell me if each TV title you’ll see refers to...",
+   "TitleAudio0": "a Police Show...",
+   "TitleAudio1": "a Doctor Show...",
+   "TitleAudio2": "...or a behind-the-scenes Show About the Showbiz industry.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5325,7 +5784,12 @@
    "host": "CEREBRIEL",
    "id": "118241",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Okay, who would like to join me for lunch? Oh! Everybody! I’m so touched. Very good, now tell me if each food item is...",
+   "TitleAudio0": "a Soup...",
+   "TitleAudio1": "a Sandwich...",
+   "TitleAudio2": "...or a Sauce.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5377,7 +5841,12 @@
    "host": "QUIZTAR",
    "id": "118394",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You humans and your ridiculous garments! Of the styles and accessories you’ll be shown, tell me whether each is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Worn Above the Waist...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Worn Below the Waist...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Worn AT the Waist.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5429,7 +5898,12 @@
    "host": "CEREBRIEL",
    "id": "118413",
    "x": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "You will be shown famous NAMES of history. Tell me whether each one is...",
+   "TitleAudio0": "Famous for Inventing...",
+   "TitleAudio1": "Famous for Writing...",
+   "TitleAudio2": "...or Infamous for Murder.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5485,7 +5959,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118540",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Soon a series of items will cross your path. Tell me whether each one refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Brand of Candy...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Fortune 500 Company...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a famous Couple from Television.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5533,7 +6012,12 @@
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "118541",
-   "done": false
+   "done": false,
+   "IntroAudio": "EVERYBODY wants a prompt about presidential first ladies and Beatles songs. Enough already! Okay, just this once, tell me if each name you see is...",
+   "TitleAudio0": "the First Name of a US presidential First Lady...",
+   "TitleAudio1": "a Name featured in the Title of a Beatles Song...",
+   "TitleAudio2": "...or, surprisingly, BOTH.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5586,7 +6070,12 @@
    "host": "CEREBRIEL",
    "id": "118547",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "If you love The Wizard of Oz, the answers in this prompt will not be especially useful. Please tell me if each one refers to...",
+   "TitleAudio0": "Lion...",
+   "TitleAudio1": "Tiger...",
+   "TitleAudio2": "...or Bear.",
+   "OutroAudio": "Personally, I don’t care for the Wizard of Oz. I met him once at an Echo and Reverb Conference. Bit of a twit."
   },
   {
    "buckets": [
@@ -5638,7 +6127,12 @@
    "host": "CEREBRIEL",
    "id": "118552",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "Take note of the talented individuals you will soon encounter. Tell me if each one is...",
+   "TitleAudio0": "a Canadian...",
+   "TitleAudio1": "a Comedian...",
+   "TitleAudio2": "...or BOTH a Canadian AND a Comedian, as destiny would have it.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5690,7 +6184,12 @@
    "host": "QUIZTAR",
    "id": "118613",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I will present to you a mad scramble of characters. Your task is to tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Fictional Detective...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Fictional Thief...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fictional Doctor.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5742,7 +6241,12 @@
    "host": "CEREBRIEL",
    "id": "118670",
    "x": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Humans, you shall come across a number of words. Tell me if each one is...",
+   "TitleAudio0": "a Type of Bar...",
+   "TitleAudio1": "a Type of Car...",
+   "TitleAudio2": "...or BOTH Bar and Car.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5757,8 +6261,8 @@
       "A tournament of lies",
       "And I feel fine"
      ],
-     "bucketTitle": "“End of the World as We Know It” Lyric",
-     "shorthand": "End of the World..."
+     "bucketTitle": "Text aus „End of the World as We Know It“",
+     "shorthand": "R.E.M."
     },
     {
      "answers": [
@@ -5771,8 +6275,8 @@
       "It was always burning",
       "I can’t take it anymore"
      ],
-     "bucketTitle": "“We Didn’t Start the Fire” Lyric",
-     "shorthand": "We Didn’t Start the Fire"
+     "bucketTitle": "Text aus „We Didn’t Start the Fire“",
+     "shorthand": "Billy Joel"
     },
     {
      "answers": [
@@ -5786,8 +6290,8 @@
       "Met a girl who sang the blues",
       "Father, Son and the Holy Ghost"
      ],
-     "bucketTitle": "“American Pie” Lyric",
-     "shorthand": "American Pie"
+     "bucketTitle": "Text aus „American Pie“",
+     "shorthand": "Don McLean"
     }
    ],
    "countrySpecific": false,
@@ -5797,51 +6301,56 @@
    "id": "118674",
    "x": true,
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Friends, if you hate songs with far too many lyrics, now is the time to leave. For the rest of you, tell me if each song lyric you see comes from...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] the R.E.M. song “It’s the End of the World As We Know It”...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] the Billy Joel song “We Didn’t Start the Fire”...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or the Don McLean classic “American Pie.”",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Total U.S. Presidents",
-      "Roman numeral LX",
-      "U.S. dollar with Grant",
-      "Countries in Asia",
-      "Keys on a piano",
-      "Planets in solar system",
-      "Canadian provinces",
-      "Hours in 2 days"
+      "Tasten am Standardklavier",
+      "Karten im Standard-Tarotdeck",
+      "Kästchen im Standard-Sudoku",
+      "Ordnungszahl von Gold",
+      "Römisch: XCIX",
+      "Summe der Zahlen 1 bis 13",
+      "Offizielle Sternbilder",
+      "Fußballminuten ohne Nachspielzeit"
      ],
-     "bucketTitle": "Between 0-100",
-     "shorthand": "0-100"
+     "bucketTitle": "Unter 100",
+     "shorthand": "Unter 100"
     },
     {
      "answers": [
-      "U.S. senators",
-      "Roman numeral M",
-      "Water’s boiling point (C°)",
-      "U.S. dollar with Franklin",
-      "Acres in Pooh’s woods",
-      "Max players in Fortnite",
-      "Jimmy Carter’s age at death",
-      "{{BLANK}} Grand candy bar"
+      "Felder beim internationalen Dame",
+      "Steine im englischen Scrabble",
+      "Nullen in einem Googol",
+      "Erzählungen im Decamerone",
+      "Summe der ersten neun Primzahlen",
+      "Rechter Winkel (gon)",
+      "Quadratmeter in einem Ar",
+      "Gesänge in Dantes Göttlicher Komödie"
      ],
-     "bucketTitle": "100",
-     "shorthand": "100"
+     "bucketTitle": "Genau 100",
+     "shorthand": "Genau 100"
     },
     {
      "answers": [
-      "U.S. Representatives",
-      "Roman numeral M",
-      "Disney dalmatians",
-      "Water’s boiling point (F°)",
-      "Hours in a week",
-      "Bones in human body",
-      "Moons of Jupiter",
-      "Bradbury’s Fahrenheit {{BLANK}}"
+      "Jahre im Hundertjährigen Krieg",
+      "Steine im deutschen Scrabble",
+      "Augen im vollständigen Skatblatt",
+      "Felder beim Scrabble",
+      "Summe der Zahlen 1 bis 14",
+      "Römisch: CIX",
+      "Höchstpunktzahl mit drei Darts",
+      "Bilbos Alter beim Abschiedsfest"
      ],
-     "bucketTitle": "More Than 100",
-     "shorthand": "More Than 100"
+     "bucketTitle": "Über 100",
+     "shorthand": "Über 100"
     }
    ],
    "countrySpecific": true,
@@ -5850,7 +6359,12 @@
    "host": "CEREBRIEL",
    "id": "118723",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "My mortal friends, this prompt will be quantifiably challenging. You must tell me if each item refers to...",
+   "TitleAudio0": "a number Between Zero and One Hundred....",
+   "TitleAudio1": "One Hundred precisely...",
+   "TitleAudio2": "...or a number that is More than One Hundred.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5906,7 +6420,12 @@
    "host": "CEREBRIEL",
    "id": "118776",
    "starterContent": false,
-   "done": false
+   "done": false,
+   "IntroAudio": "Darlings, I present you with a phonetic challenge. A number of words will pass before you. Tell me if each one...",
+   "TitleAudio0": "Makes You Say “Ooh”...",
+   "TitleAudio1": "Makes You Say “Ahh”...",
+   "TitleAudio2": "...or Makes You Say “OOH” and “AHH.” Or for that matter, “Ahh and “Ooh.” Good luck!",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -5958,7 +6477,12 @@
    "host": "CEREBRIEL",
    "id": "118777",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Pay attention! This may help in the event of fire. You’re about to see fill-in-the-blank phrases. Tell me if each blank...",
+   "TitleAudio0": "Needs the word Stop...",
+   "TitleAudio1": "Needs the word Drop...",
+   "TitleAudio2": "...or Needs the word Roll.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6011,7 +6535,12 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "118778",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Okay, babies, soon you will see a series of names crawling ever so sweetly in your direction. You must tell me if each one refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a celebrity who was Born in the 2000s...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a celebrity who is the CHILD of a famous actor...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or, as providence would have it, someone who was born in the 2000s AND is the child of a famous actor.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6063,7 +6592,12 @@
    "host": "QUIZTAR",
    "id": "118888",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] My friends, please “size” up the next series of items. Tell me, does each one refer to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Short...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Medium...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Tall.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6114,7 +6648,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118889",
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will see a series of meaningful events and milestones. Tell me, does each one occur...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Once a Year...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Twice a Year...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Every Four Years.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6166,7 +6705,12 @@
    "host": "CEREBRIEL",
    "id": "118900",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "If it isn’t one thing, it’s another, am I right? For the items you shall come across, tell me if each one is...",
+   "TitleAudio0": "Black...",
+   "TitleAudio1": "White...",
+   "TitleAudio2": "...or BOTH Black and White. Hey, life is like that sometimes!",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6219,7 +6763,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118918",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] My little friends, tell me if the words and phrases you’re about to see refer to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Sticks...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Stones...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Bones.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6269,7 +6818,12 @@
    "host": "CEREBRIEL",
    "id": "118919",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "You will encounter the partial names of a number of individuals. Tell me if each one has...",
+   "TitleAudio0": "the initials F.M.",
+   "TitleAudio1": "the initials A.M...",
+   "TitleAudio2": "...or the initials P.M.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6322,7 +6876,12 @@
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "118921",
-   "done": false
+   "done": false,
+   "IntroAudio": "May the stars be aligned for you, dear friends. Tell me if each of the celebrities who will glitter before you is...",
+   "TitleAudio0": "a Disney Child Star...",
+   "TitleAudio1": "a Multi-Platinum Pop Star...",
+   "TitleAudio2": "...or BOTH a Disney Child Star AND a Multi-Platinum Pop Star.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6374,51 +6933,56 @@
    "host": "QUIZTAR",
    "id": "118922",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will soon see an unusual assortment of items. Tell me, does each one refer to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Knife...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Fork...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Spoon.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "{{BLANK}}box Party Pack 12",
-      "Golf’s Nicklaus",
-      "White Stripes guitarist",
-      "On the Road author",
-      "The Shining actor",
-      "Automotive tool",
-      "Sailor",
-      "{{BLANK}}daw"
+      "Jack",
+      "Unter",
+      "J beim Poker",
+      "Laus{{BLANK}}",
+      "Spitz{{BLANK}}",
+      "Bengel",
+      "Schlingel",
+      "Max und Moritz"
      ],
-     "bucketTitle": "Jack",
-     "shorthand": "Jack"
+     "bucketTitle": "Bube",
+     "shorthand": "Bube"
     },
     {
      "answers": [
-      "UK monarch in 1890",
-      "{{BLANK}} Latifah",
-      "Most common U.S. mattress size",
-      "Alexander Mc{{BLANK}}",
-      "UK monarch in 2000",
-      "{{BLANK}} of Soul, Franklin",
-      "“Bohemian Rhapsody” band",
-      "Nefertiti"
+      "Queen",
+      "Lady",
+      "Q beim Poker",
+      "Notre-{{BLANK}}",
+      "Grande {{BLANK}}",
+      "Hof{{BLANK}}",
+      "Diagonales Brettspiel",
+      "Besuch der alten {{BLANK}}"
      ],
-     "bucketTitle": "Queen",
-     "shorthand": "Queen"
+     "bucketTitle": "Dame",
+     "shorthand": "Dame"
     },
     {
      "answers": [
-      "Babar the Elephant",
-      "Godzilla foe {{BLANK}} Ghidorah",
-      "Cujo author",
-      "Beale Street Oscar winner",
-      "Black Panther’s T’Challa",
-      "Shakespeare’s Oberon",
-      "UK monarch in 2025",
-      "1970s tennis legend"
+      "King",
+      "K beim Poker",
+      "Charles III.",
+      "Simba",
+      "Babar",
+      "Erl{{BLANK}}",
+      "Frosch{{BLANK}}",
+      "{{BLANK}} Fußball"
      ],
-     "bucketTitle": "King",
-     "shorthand": "King"
+     "bucketTitle": "König",
+     "shorthand": "König"
     }
    ],
    "countrySpecific": false,
@@ -6426,7 +6990,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118923",
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] If you enjoy card games, this prompt may be of no help to you whatsoever! For each answer, tell me if it refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Jack...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Queen...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or King.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6480,7 +7049,12 @@
    "host": "QUIZTAR",
    "id": "118924",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] When you see each of the upcoming items, you must tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Odd",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Even...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Zero.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6536,7 +7110,12 @@
    "host": "QUIZTAR",
    "id": "119007",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] This next prompt addresses a concern we all think about from time to time. Tell me if each of the fictional characters you come across is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] an Alien...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Robot...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an Eccentric Scientist.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6591,7 +7170,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119020",
-   "done": false
+   "done": false,
+   "IntroAudio": "This prompt is chock full of colorful and combative characters. Tell me if each one is...",
+   "TitleAudio0": "a Character from the Peanuts comic strip...",
+   "TitleAudio1": "a Resident of the animated program South Park...",
+   "TitleAudio2": "...or someone who served as Prime Minister of the United Kingdom.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6642,7 +7226,12 @@
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "119022",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] This one might sting a little. You will soon be faced with a number of frightening creatures. Tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Venomous...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Reptile...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or BOTH.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6698,58 +7287,68 @@
    "host": "QUIZTAR",
    "id": "119023",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] In short order, you will need to scrutinize a variety of unique professionals. Tell me if each name you come across refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Journalist...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Scientist...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Pianist.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Puerto Rico",
-      "Rapa Nui",
-      "Guam",
-      "O’ahu",
-      "Crete",
-      "Turks and Caicos",
+      "Rügen",
+      "Sylt",
+      "Kreta",
       "Borneo",
-      "Bermuda"
+      "Sardinien",
+      "Guam",
+      "Rapa Nui",
+      "Oahu"
      ],
-     "bucketTitle": "Island",
-     "shorthand": "Island"
+     "bucketTitle": "Insel",
+     "shorthand": "Insel"
     },
     {
      "answers": [
-      "Bolivia",
+      "Bolivien",
       "Laos",
       "Burkina Faso",
-      "Vatican City",
-      "Croatia",
+      "Vatikanstadt",
+      "Kroatien",
       "Vietnam",
-      "Spain",
-      "Mexico"
+      "Spanien",
+      "Mexiko"
      ],
-     "bucketTitle": "Independent Nation",
-     "shorthand": "Country"
+     "bucketTitle": "Souveräner Staat",
+     "shorthand": "Staat"
     },
     {
      "answers": [
-      "Iceland",
-      "Trinidad and Tobago",
-      "Jamaica",
-      "Japan",
-      "Cuba",
-      "Cyprus",
+      "Island",
+      "Jamaika",
+      "Kuba",
       "Barbados",
-      "Madagascar"
+      "Madagaskar",
+      "Nauru",
+      "Zypern",
+      "Dominica"
      ],
-     "bucketTitle": "Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "119024",
-   "done": false
+   "done": true,
+   "IntroAudio": "You will soon visit a number of places on Earth. Tell me whether each one is...",
+   "TitleAudio0": "an Island...",
+   "TitleAudio1": "an Independent Nation...",
+   "TitleAudio2": "...or BOTH.",
+   "OutroAudio": "I do wish I could travel more. Mostly I just erupt vertically from the Earth’s crust and recede back into the ground. But you can’t beat the views!"
   },
   {
    "buckets": [
@@ -6798,53 +7397,56 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119056",
-   "done": false
+   "done": false,
+   "IntroAudio": "Children, you are rotting your brains by looking at screens all the time! Nevertheless, please tell me if each answer you’ll see is...",
+   "TitleAudio0": "a Classic Arcade Game...",
+   "TitleAudio1": "a Mobile Game...",
+   "TitleAudio2": "...or a Social Media Platform.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Wine glass",
-      "Relay race",
-      "Table",
-      "Tripod",
-      "Crow",
-      "Centipede",
-      "A Christmas Story lamp",
-      "Horse racing’s Triple Crown",
-      "Chaise longue"
+      "Tisch",
+      "Stativ",
+      "Hocker",
+      "Flamingo",
+      "Krähe",
+      "Emu",
+      "Strauß",
+      "Klapperstorch"
      ],
-     "bucketTitle": "Has Legs",
-     "shorthand": "Legs"
+     "bucketTitle": "Hat Beine",
+     "shorthand": "Beine"
     },
     {
      "answers": [
-      "Ripsaw",
-      "Comb",
-      "Cogs",
-      "Zipper",
-      "Shark",
-      "Seal",
-      "Snake",
-      "Leech"
+      "Kamm",
+      "Säge",
+      "Reißverschluss",
+      "Ritzel",
+      "Hai",
+      "Python",
+      "Muräne",
+      "Hecht"
      ],
-     "bucketTitle": "Has Teeth",
-     "shorthand": "Teeth"
+     "bucketTitle": "Hat Zähne",
+     "shorthand": "Zähne"
     },
     {
      "answers": [
-      "Beaver",
-      "Rhino",
-      "Hare",
-      "Fawn",
-      "Cougar",
+      "Biber",
+      "Hase",
+      "Puma",
       "Capybara",
+      "Wildschwein",
       "Shakira",
       "Sting",
-      "Tom Brady"
+      "Thomas Müller"
      ],
-     "bucketTitle": "Has Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Easy",
@@ -6852,7 +7454,12 @@
    "host": "QUIZTAR",
    "id": "119057",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] For the answers you’re about to see, tell me if each one...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Has one or more Legs...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Has One or More Teeth...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Has BOTH Legs and Teeth.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6904,7 +7511,12 @@
    "host": "CEREBRIEL",
    "id": "119058",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "This one should keep you on your toes. For the the items that pass before you, tell me if each one refers to...",
+   "TitleAudio0": "the word Head...",
+   "TitleAudio1": "the word Shoulder...",
+   "TitleAudio2": "...or the word Knee.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -6952,7 +7564,12 @@
    "host": "QUIZTAR",
    "id": "119081",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You shall come upon a series of pairings. For each pairing, tell me if it represents...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Hero & Sidekick...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Hero & Their Alter Ego...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Hero & Their Nemesis.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7003,53 +7620,56 @@
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "119197",
-   "done": false
+   "done": false,
+   "IntroAudio": "For each answer you encounter, tell me if it refers to...",
+   "TitleAudio0": "Rat...",
+   "TitleAudio1": "Bat...",
+   "TitleAudio2": "...or BOTH Rats and Bats.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Greensperson",
       "Gaffer",
-      "Prop master",
-      "Key grip",
-      "Boom operator",
-      "Compositer",
-      "Craft services",
-      "First AD",
-      "Best boy",
-      "Line producer"
+      "Best Boy",
+      "Key Grip",
+      "Requisiteur",
+      "Script Supervisor",
+      "Aufnahmeleiter",
+      "Tonangler",
+      "Komparse"
      ],
-     "bucketTitle": "On a Film Set",
-     "shorthand": "On a Film Set"
+     "bucketTitle": "Am Filmset",
+     "shorthand": "Filmset"
     },
     {
      "answers": [
-      "Chief Mate",
-      "Deckhand",
-      "Electro-technical officer",
-      "Third Engineer",
-      "Wiper",
-      "Coxswain",
-      "Gunner",
-      "Caulker"
+      "Maat",
+      "Bootsmann",
+      "Maschinist",
+      "Smutje",
+      "Lotse",
+      "Kapitän",
+      "Funker",
+      "Steuermann"
      ],
-     "bucketTitle": "On a Ship",
-     "shorthand": "On a Ship"
+     "bucketTitle": "Auf einem Schiff",
+     "shorthand": "Schiff"
     },
     {
      "answers": [
-      "Umpire",
-      "Winger",
-      "Fullback",
-      "Shortstop",
-      "Pinch hitter",
-      "Flyer",
-      "X-Attackman",
-      "Tight end"
+      "Libero",
+      "Pivot",
+      "Center",
+      "Quarterback",
+      "Point Guard",
+      "Kreisläufer",
+      "Außenangreifer",
+      "Schiedsrichter"
      ],
-     "bucketTitle": "On a Playing Field",
-     "shorthand": "On a Playing Field"
+     "bucketTitle": "Auf dem Spielfeld",
+     "shorthand": "Spielfeld"
     }
    ],
    "difficulty": "Easy",
@@ -7057,7 +7677,12 @@
    "host": "QUIZTAR",
    "id": "119198",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You are about to encounter a series of occupations. For each, tell me if it is someone who...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] works on a Film Set...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] works on a Ship...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or does their work on a Playing Field.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7109,7 +7734,12 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119199",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Mortals, you will bear witness to a number of phrases. Tell me if each one is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Slogan from a U.S. Presidential Campaign...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Video Game Tagline...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or the title of a Carrie Underwood Song.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7159,53 +7789,56 @@
    "host": "QUIZTAR",
    "id": "119200",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I had my colors done recently. I was delighted to learn that I am a “Spring.” To celebrate this news, tell me whether each of the items you’ll see takes place in...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] the month of April...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] the month of May...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or the month of June.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Medulla Oblongata",
-      "Mandible",
-      "Incisors",
+      "Medulla oblongata",
+      "Mandibula",
+      "Schneidezähne",
       "Cochlea",
       "Philtrum",
-      "Nasal Cavity",
-      "Optic Nerve",
-      "Pituitary Gland",
-      "Soft Palate"
+      "Sehnerv",
+      "Hypophyse",
+      "Gaumensegel"
      ],
-     "bucketTitle": "Head Stuff",
-     "shorthand": "Head"
+     "bucketTitle": "Teil des Kopfes",
+     "shorthand": "Kopf"
     },
     {
      "answers": [
-      "Aortic Valve",
-      "Respiratory Tract",
-      "Mammary Gland",
-      "Pleural Cavity",
-      "Thorax",
-      "Bronchioles",
-      "Left Atrium",
+      "Aortenklappe",
+      "Bronchien",
+      "Thymus",
+      "Pleura",
       "Sternum",
-      "Pectorals"
+      "Linker Vorhof",
+      "Bronchiolen",
+      "Perikard"
      ],
-     "bucketTitle": "Chest Stuff",
-     "shorthand": "Chest"
+     "bucketTitle": "Teil der Brust",
+     "shorthand": "Brust"
     },
     {
      "answers": [
-      "Meniscus",
+      "Meniskus",
       "Femur",
-      "Quadriceps",
-      "Metatarsals",
-      "Anterior Cruciate Ligament",
-      "Achilles Tendon",
-      "Patellar Tendon",
-      "Peroneal Muscles"
+      "Quadrizeps",
+      "Mittelfußknochen",
+      "Kreuzband",
+      "Achillessehne",
+      "Patellarsehne",
+      "Wadenbein"
      ],
-     "bucketTitle": "Leg Stuff",
-     "shorthand": "Leg"
+     "bucketTitle": "Teil des Beins",
+     "shorthand": "Bein"
     }
    ],
    "difficulty": "Medium",
@@ -7213,56 +7846,67 @@
    "host": "CEREBRIEL",
    "id": "119216",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "Students, it’s time for anatomy class. Tell me if the body parts you are to come across should be classified as...",
+   "TitleAudio0": "Head Stuff...",
+   "TitleAudio1": "Chest Stuff...",
+   "TitleAudio2": "...or Leg Stuff.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Bench press",
-      "Lat pulldown",
-      "Pull-up",
-      "Bent-over row",
+      "Bankdrücken",
+      "Latzug",
+      "Klimmzug",
+      "Kurzhantelrudern",
       "Dips",
-      "Hammer curl",
-      "Front raise",
-      "Reverse fly"
+      "Hammercurl",
+      "Frontheben",
+      "Reverse Fly"
      ],
-     "bucketTitle": "Upper Body Exercise",
-     "shorthand": "Upper Body"
+     "bucketTitle": "Oberkörperübung",
+     "shorthand": "Oberkörper"
     },
     {
      "answers": [
-      "Romanian deadlift",
-      "Glute bridge",
-      "Front squat",
-      "Good morning",
-      "Reverse lunge",
-      "Hip thrust",
-      "Hurdler’s stretch"
+      "Beinpresse",
+      "Beinstrecker",
+      "Beinbeuger",
+      "Wadenheben",
+      "Ausfallschritt",
+      "Hip Thrust",
+      "Glute Bridge",
+      "Frontkniebeuge"
      ],
-     "bucketTitle": "Lower Body Exercise",
-     "shorthand": "Lower Body"
+     "bucketTitle": "Unterkörperübung",
+     "shorthand": "Unterkörper"
     },
     {
      "answers": [
       "Burpee",
-      "Turkish get-up",
-      "Farmer’s carry",
-      "Power clean",
-      "Mountain climber",
-      "Kettlebell swing",
-      "Jumping jack"
+      "Turkish Get-up",
+      "Farmer’s Walk",
+      "Power Clean",
+      "Mountain Climber",
+      "Kettlebell Swing",
+      "Hampelmann"
      ],
-     "bucketTitle": "Both (Full Body)",
-     "shorthand": "Both"
+     "bucketTitle": "Ganzkörperübung",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "119249",
-   "done": false
+   "done": true,
+   "IntroAudio": "Pay attention to this, workout warriors! You will see a series of exercises. Tell me if each one is...",
+   "TitleAudio0": "an Upper Body Exercise...",
+   "TitleAudio1": "a Lower Body Exercise...",
+   "TitleAudio2": "...or a Full Body Exercise that strongly impacts the puny Upper AND Lower Body... of humans.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7317,47 +7961,55 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119267",
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You are going to come across a series of names. For each one, tell me if it is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Food-y First Name...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Flowery First Name...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an Occupational First Name.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "The Incredible Hulk",
-      "Spongebob Squarepants",
+      "Hulk",
+      "Mogli",
+      "Tarzan",
+      "Obelix",
       "Crash Bandicoot",
-      "Venus de Milo",
-      "Mickey Mouse",
-      "Captain Underpants",
-      "Patrick Star"
+      "Micky Maus",
+      "Patrick Star",
+      "Venus von Milo"
      ],
-     "bucketTitle": "Nude From the Waist Up",
-     "shorthand": "Nude Top"
+     "bucketTitle": "Oben ohne",
+     "shorthand": "Oben ohne"
     },
     {
      "answers": [
-      "Winnie the Pooh",
-      "Scrooge McDuck",
-      "Porky Pig",
-      "Squidward",
-      "Honey Nut Cheerios Bee",
-      "Rocko Rama"
+      "Winnie Puuh",
+      "Dagobert Duck",
+      "Donald Duck",
+      "Thaddäus",
+      "Schweinchen Dick",
+      "Darkwing Duck",
+      "Käpt’n Balu"
      ],
-     "bucketTitle": "Nude From the Waist Down",
-     "shorthand": "Nude Bottom"
+     "bucketTitle": "Unten ohne",
+     "shorthand": "Unten ohne"
     },
     {
      "answers": [
-      "Rodin’s The Thinker",
-      "Bathtub lady in The Shining",
-      "Venus in The Birth of Venus",
-      "Lady Godiva",
-      "Barney the Dinosaur",
-      "Michelangelo’s David",
-      "Garfield"
+      "Garfield",
+      "Snoopy",
+      "Bambi",
+      "Simba",
+      "Michelangelos David",
+      "Rodins Denker",
+      "Botticellis Venus",
+      "Lady Godiva"
      ],
-     "bucketTitle": "Totally Naked",
-     "shorthand": "Totally Naked"
+     "bucketTitle": "Ganz nackt",
+     "shorthand": "Ganz ohne"
     }
    ],
    "difficulty": "Medium",
@@ -7366,7 +8018,12 @@
    "id": "119367",
    "x": true,
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Try this devilish trio on for size! Tell me, are the individuals you’re about to see usually displayed...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Nude from the waist up, aka no shirt...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Nude from the waist down, like, no pants...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or totally, one hundred percent NAKED?!",
+   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] That was fun, but can we please get some content about FEET? Please?"
   },
   {
    "buckets": [
@@ -7414,7 +8071,12 @@
    "host": "QUIZTAR",
    "id": "119419",
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I have a trio that cuts to the quick! Tell me, of the people you’re about to see, is it...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Someone Who Lost Their Hand...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Someone Who Lost Their Leg...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Someone Who Lost Their Head.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7471,104 +8133,116 @@
    "id": "119458",
    "x": true,
    "starterContent": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "A provocative potpourri of phrases will flash before you. If you would, please tell me if each one is...",
+   "TitleAudio0": "the name of a Subreddit with over 1 million subscribers...",
+   "TitleAudio1": "a Best-Selling Self-Help Book...",
+   "TitleAudio2": "...or a Quote by Comedian Kevin Hart.",
+   "OutroAudio": "I once did a Reddit AMA. They asked me anything, I responded honestly. Next thing I know, everyone is cheating at Idol Factions. Never again!"
   },
   {
    "buckets": [
     {
      "answers": [
-      "Altar/Alter",
-      "Bard/Barred",
-      "Capital/Capitol",
-      "Weak/Week",
-      "Stationary/Stationery",
-      "Read/Reed",
-      "Right/Write",
-      "Meet/Meat",
-      "Heal/Heel",
-      "Dual/Duel"
+      "Saite / Seite",
+      "Wal / Wahl",
+      "Lid / Lied",
+      "Lehre / Leere",
+      "Miene / Mine",
+      "Waise / Weise",
+      "Stil / Stiel",
+      "Rat / Rad",
+      "Bund / bunt",
+      "Lerche / Lärche"
      ],
-     "bucketTitle": "Sounds the Same/Different Spelling",
-     "shorthand": "Same Sound/Different Spelling"
+     "bucketTitle": "Gleicher Klang, andere Schrift",
+     "shorthand": "Klang"
     },
     {
      "answers": [
-      "Minute/Minute",
-      "Lead/Lead",
-      "Read/Read",
-      "Refuse/Refuse",
-      "Desert/Desert",
-      "Tear/Tear",
-      "Bow/Bow",
-      "Wind/Wind"
+      "umfahren / umfahren",
+      "übersetzen / übersetzen",
+      "umgehen / umgehen",
+      "überziehen / überziehen",
+      "modern / modern",
+      "Montage / Montage",
+      "Tenor / Tenor",
+      "August / August"
      ],
-     "bucketTitle": "Spelled the Same/Sounds Different",
-     "shorthand": "Spelled Same/Sounds Different"
+     "bucketTitle": "Gleiche Schrift, anderer Klang",
+     "shorthand": "Schrift"
     },
     {
      "answers": [
-      "Mean/Mean",
-      "Point/Point",
-      "Scale/Scale",
-      "Tender/Tender",
-      "Right/Right",
-      "Bark/Bark",
-      "Seal/Seal",
-      "Jam/Jam",
-      "Address/Address",
-      "Remote/Remote"
+      "Bank / Bank",
+      "Schloss / Schloss",
+      "Hahn / Hahn",
+      "Ball / Ball",
+      "Birne / Birne",
+      "Flügel / Flügel",
+      "Kiefer / Kiefer",
+      "Tau / Tau",
+      "Strauß / Strauß",
+      "Absatz / Absatz"
      ],
-     "bucketTitle": "Spelled & Sounds the Same",
-     "shorthand": "Spelled & Sounds Same"
+     "bucketTitle": "Gleicher Klang & gleiche Schrift",
+     "shorthand": "Beides"
     }
    ],
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119459",
-   "done": false
+   "done": true,
+   "IntroAudio": "Know the difference between a homonym, homophone, and homograph? I’ll make it easy for you. Tell me if each word pairing...",
+   "TitleAudio0": "Sounds the Same but has a Different Spelling...",
+   "TitleAudio1": "is Spelled the Same but Sounds Different...",
+   "TitleAudio2": "...or is Spelled AND Sounds the SAME... in every case, the MEANING is DIFFERENT.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
     {
      "answers": [
-      "Humans are mammals",
-      "Every year includes 365 days",
-      "Pluto orbits the Sun",
-      "Water contains oxygen",
-      "Brazil lies on the equator",
-      "The fifth digit of Pi is 5",
-      "Every number equals itself",
-      "Hexagons have 6 corners"
+      "Jedes Quadrat ist ein Rechteck.",
+      "Null ist eine gerade Zahl.",
+      "2000 war ein Schaltjahr.",
+      "Bananen sind botanisch Beeren.",
+      "Der Mond dreht sich um sich selbst.",
+      "Ein Würfel hat zwölf Kanten.",
+      "Ein Quadrat hat vier Symmetrieachsen.",
+      "Schall braucht ein Medium."
      ],
-     "bucketTitle": "Always True",
-     "shorthand": "Always True"
+     "bucketTitle": "Immer wahr",
+     "shorthand": "Immer"
     },
     {
      "answers": [
-      "Light escapes black holes",
-      "A circle’s diameter is 180°",
-      "20 ÷ 0 = 0",
-      "The North Pole has land",
-      "The Moon is made of Roquefort",
-      "Shaving thickens hair",
-      "All bats are blind"
+      "1900 war ein Schaltjahr.",
+      "Erdbeeren sind botanisch Beeren.",
+      "Die Eins ist eine Primzahl.",
+      "Null ist eine positive Zahl.",
+      "Die Venus hat zwei Monde.",
+      "Ein Würfel hat acht Kanten.",
+      "Fledermäuse sind von Natur aus blind.",
+      "Bei Vollmond ist Sonnenfinsternis."
      ],
-     "bucketTitle": "Always False",
-     "shorthand": "Always False"
+     "bucketTitle": "Immer falsch",
+     "shorthand": "Nie"
     },
     {
      "answers": [
-      "“i after e except after c”",
-      "Y is a vowel",
-      "The Sun sets due west",
-      "Flies outlive tortoises",
-      "Cholesterol is bad for you",
-      "Objects at rest stay at rest",
-      "Metals are solid"
+      "Ein Rechteck ist ein Quadrat.",
+      "Eine Primzahl ist gerade.",
+      "Ein Schaltjahr hat 53 Sonntage.",
+      "Der Februar hat fünf Montage.",
+      "Eine Zahl ist kleiner als ihr Quadrat.",
+      "Wasser kocht unter 100 °C.",
+      "Am Nordpol ist Polarnacht.",
+      "Eine Sonnenfinsternis ist ringförmig."
      ],
-     "bucketTitle": "Sometimes True",
-     "shorthand": "Sometimes True"
+     "bucketTitle": "Manchmal wahr",
+     "shorthand": "Manchmal"
     }
    ],
    "difficulty": "Medium",
@@ -7576,7 +8250,12 @@
    "host": "QUIZTAR",
    "id": "119460",
    "starterContent": true,
-   "done": false
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Let’s see if you can separate fact from fiction. You will encounter some statements. For each one, tell me if it is...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Always True...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Always False...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Sometimes True, sometimes not. Oh mind you, some of these are intentionally tricky. Pay attention!",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7627,7 +8306,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119461",
-   "done": false
+   "done": false,
+   "IntroAudio": "You will come upon a series of TITLES. Tell me if each one is...",
+   "TitleAudio0": "a Streaming Television Show...",
+   "TitleAudio1": "a Popular Podcast...",
+   "TitleAudio2": "...or a Broadway Production.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7681,7 +8365,12 @@
    "host": "CEREBRIEL",
    "id": "119588",
    "x": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Humans, I am fascinated by your language choices. For this one, tell me if each item is...",
+   "TitleAudio0": "a Word of Asian Origin...",
+   "TitleAudio1": "a Word of Yiddish Origin...",
+   "TitleAudio2": "...or a Slang term for the human Buttocks.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7731,7 +8420,12 @@
    "host": "CEREBRIEL",
    "id": "119620",
    "x": true,
-   "done": false
+   "done": false,
+   "IntroAudio": "Oh, did somebody ask for word play? Granted! For the items you will soon encounter, tell me if each one is...",
+   "TitleAudio0": "...the name of a Strait. You know, a narrow channel of water.",
+   "TitleAudio1": "...a way of saying Bye, as in toodle-oo!",
+   "TitleAudio2": "...or a synonym for the word Gaze. That’s right! I’m looking for Straits, Byes or Gaze.",
+   "OutroAudio": "What can I tell you? When you’ve been around as long as I have, you want to keep your options open."
   },
   {
    "buckets": [
@@ -7785,7 +8479,12 @@
    "host": "CEREBRIEL",
    "id": "119655",
    "starterContent": true,
-   "done": true
+   "done": true,
+   "IntroAudio": "Did I ever say this was a WORD-BASED game? Well (evil chuckle) not necessarily. Tell me if each answer...",
+   "TitleAudio0": "Equals 4...",
+   "TitleAudio1": "Equals 8...",
+   "TitleAudio2": "...or Equals 14.",
+   "OutroAudio": "Based on the number of tomatoes that were thrown at my face, I now see that was a mistake."
   },
   {
    "buckets": [
@@ -7841,7 +8540,12 @@
    "id": "119706",
    "x": true,
    "starterContent": false,
-   "done": true
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] This prompt will examine three distinct moments of human history. Of the expressions you’re about to see, tell me if each one refers to...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] COVID-19 Terminology...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] World War II Terminology...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or TikTok Terminology.",
+   "OutroAudio": ""
   },
   {
    "buckets": [
@@ -7892,7 +8596,12 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "119979",
-   "done": false
+   "done": false,
+   "IntroAudio": "This one should be sooo simple... if you pay attention. You are going to see some phrases. Tell me, is each one...",
+   "TitleAudio0": "Missing the Word “Up”...",
+   "TitleAudio1": "Missing the Word “Down”...",
+   "TitleAudio2": "...or Missing the Word “Back.” Pro tip: the missing word may belong at the FRONT of the phrase or at the END of the phrase. You decide!",
+   "OutroAudio": ""
   }
  ]
 }
