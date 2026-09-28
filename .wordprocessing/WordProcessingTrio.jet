@@ -3606,54 +3606,69 @@
    "buckets": [
     {
      "answers": [
-      "Phantom Thread",
-      "One Battle After Another",
-      "Punch-Drunk Love",
-      "The Master",
-      "Boogie Nights",
-      "Magnolia",
-      "Licorice Pizza",
-      "Hard Eight"
+      "Kokowääh",
+      "Ziemlich beste Freunde",
+      "James Bond 007: Skyfall",
+      "Türkisch für Anfänger",
+      "Fack ju Göhte",
+      "Der Hobbit: Smaugs Einöde",
+      "Die Eiskönigin – Völlig unverfroren",
+      "The Wolf of Wall Street",
+      "Star Wars: Das Erwachen der Macht",
+      "James Bond 007: Spectre",
+      "Findet Dorie",
+      "Avengers: Infinity War",
+      "Minions"
      ],
-     "bucketTitle": "Movie by Paul Thomas Anderson",
-     "shorthand": "Paul Thomas Anderson"
+     "bucketTitle": "Meistbesuchter Kinofilm 2010er in DE",
+     "shorthand": "2010er"
     },
     {
      "answers": [
-      "Rushmore",
-      "Fantastic Mr. Fox",
-      "The Grand Budapest Hotel",
-      "The Royal Tenenbaums",
-      "Isle of Dogs",
-      "Moonrise Kingdom",
-      "Asteroid City",
-      "The Darjeeling Limited"
+      "Mission: Impossible II",
+      "Ice Age",
+      "Das Wunder von Bern",
+      "Findet Nemo",
+      "Fluch der Karibik",
+      "(T)Raumschiff Surprise – Periode 1",
+      "Harry Potter und der Feuerkelch",
+      "Illuminati",
+      "Der Teufel trägt Prada",
+      "Keinohrhasen",
+      "Mamma Mia!",
+      "2012",
+      "Avatar – Aufbruch nach Pandora"
      ],
-     "bucketTitle": "Movie by Wes Anderson",
-     "shorthand": "Wes Anderson"
+     "bucketTitle": "Meistbesuchter Kinofilm 2000er in DE",
+     "shorthand": "2000er"
     },
     {
      "answers": [
-      "Barb Wire",
-      "The Last Showgirl",
-      "Baywatch",
-      "The Naked Gun",
-      "Blonde and Blonder",
-      "SPF-18",
-      "Alone at Night",
-      "Rosebush Pruning"
+      "Pretty Woman",
+      "Werner – Beinhart!",
+      "Jurassic Park",
+      "Forrest Gump",
+      "Der bewegte Mann",
+      "Independence Day",
+      "Ein Schweinchen namens Babe",
+      "James Bond 007 – GoldenEye",
+      "Pocahontas",
+      "Men in Black",
+      "Titanic",
+      "Der Soldat James Ryan",
+      "Matrix"
      ],
-     "bucketTitle": "Movie With Pamela Anderson",
-     "shorthand": "Pamela Anderson"
+     "bucketTitle": "Meistbesuchter Kinofilm 1990er in DE",
+     "shorthand": "1990er"
     }
    ],
    "countrySpecific": true,
-   "difficulty": "Hard",
+   "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117864",
-   "x": true,
-   "done": false
+   "x": false,
+   "done": true
   },
   {
    "buckets": [
