@@ -12,26 +12,14 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 
 - Am Ende des Spiels läuft zwar der Credits-Song aber es ist nur Blackscreen
 
-## Global
-- Oben in der Ecke steht noch jackbox.tv
-
-## Tutorial
-- Congrats!
-- Feel Better!
-- Squink Squank!
-- Something Funny or Surprising!
-- Occasion
-
-### Dieses kack Handy
+### Dieses kack Handy (Grafiken)
 - Fill in the blank!
 - Welcome to my ___!
-- Nightmare
 - Send
-
 - Grab a plushie
 - Complete the card for your plushie
 - Welcome to my NIGHTMARE!
-- (Insert Joke Here)
+
 
 # MegaPals
 - Deutsche Anführungszeichen müssen weg
@@ -141,7 +129,3 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 
 ## Scoreboard
 - Scores
-
-## Post Game
-- Zum Star|
-- Zum Abbr|
