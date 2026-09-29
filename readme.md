@@ -2,33 +2,39 @@
 
 Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 
-# Debate and Switch
-✅ Alles tutti frutti
-
 # Idol Factions
 ✅ Alles tutti frutti
 
 # Uns fehlt 'ne Karte
+✅ Alles tutti frutti
 
-### Dieses kack Handy (Grafiken)
-- Fill in the blank!
-- Welcome to my ___!
-- Send
-- Grab a plushie
-- Complete the card for your plushie
-- Welcome to my NIGHTMARE!
+# Debate and Switch
 
-## Runde
-- Diese Texte aus den Sprechblasen wie: "Not bad!", "Cardy hardy"...
+## Grafiken
+- Lobby YES|NO
+- Finalize your votes!
+- YES / NO / TIE
+- Postgame WINNER und YES|NO
+
+
+
+# Hyperface
+
+## Controller
+- Morph / Draw / Zoom (Grafik)
+
+## Runde (Grafiken)
+- FOR MORPH x von x
+- VOTING
+
+
 
 # MegaPals
 - Deutsche Anführungszeichen müssen weg
 
 
 ## Controller
-- FRIEND SCORES (Grafik ig)
-- CHOOSE WHAT YOU LIKE!
-- LIKES EQUAL MATCHES!
+- FRIEND SCORES (Grafik)
 
 ## Lobby
 - Wall of Friends
@@ -105,12 +111,3 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 - THINKER
 - INVENTOR
 - Dr.Lightning
-
-# Hyperface
-
-## Controller
-- Morph / Draw / Zoom (Grafik)
-
-## Runde (Grafiken)
-- FOR MORPH x von x
-- VOTING
