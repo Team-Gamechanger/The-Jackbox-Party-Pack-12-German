@@ -8,26 +8,16 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 # Uns fehlt 'ne Karte
 ✅ Alles tutti frutti
 
+# Hyperface
+✅ Alles tutti frutti
+
 # Debate and Switch
 
 ## Grafiken
 - Lobby YES|NO
 - Finalize your votes!
-- YES / NO / TIE
+- TIE
 - Postgame WINNER und YES|NO
-
-
-
-# Hyperface
-
-## Controller
-- Morph / Draw / Zoom (Grafik)
-
-## Runde (Grafiken)
-- FOR MORPH x von x
-- VOTING
-
-
 
 # MegaPals
 - Deutsche Anführungszeichen müssen weg
