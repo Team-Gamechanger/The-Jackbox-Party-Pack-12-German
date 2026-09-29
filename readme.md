@@ -10,8 +10,6 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 
 # Uns fehlt 'ne Karte
 
-- Am Ende des Spiels läuft zwar der Credits-Song aber es ist nur Blackscreen
-
 ### Dieses kack Handy (Grafiken)
 - Fill in the blank!
 - Welcome to my ___!
@@ -20,6 +18,8 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 - Complete the card for your plushie
 - Welcome to my NIGHTMARE!
 
+## Runde
+- Diese Texte aus den Sprechblasen wie: "Not bad!", "Cardy hardy"...
 
 # MegaPals
 - Deutsche Anführungszeichen müssen weg
@@ -111,21 +111,6 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 ## Controller
 - Morph / Draw / Zoom (Grafik)
 
-## Global
-- jackbox.tv
-
-## Lobby
-- "oder hier scannen" ändern damit es drüber ist in SWF
-- Choose an avatar
-- Use your controller to morph it!
-
-## Tutorial
-- Your face when you get a scenario
-
-## Runde
-- Round 1/2/3
-- FOR MORPH x of x
-- VOTING (so 90 Grad gedreht klein am linken rand - so ne grafik?)
-
-## Scoreboard
-- Scores
+## Runde (Grafiken)
+- FOR MORPH x von x
+- VOTING
