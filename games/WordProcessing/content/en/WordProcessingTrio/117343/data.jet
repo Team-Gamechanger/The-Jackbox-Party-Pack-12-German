@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ah yes, the three staples of human existence: coffee, chocolate, and overcoats. Tell me if each of the corporate brands you will see..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ach ja, die drei Grundpfeiler des menschlichen Daseins: Kaffee, Kakao und Kleidung. Sagt mir bitte, ob jede der Marken, die ihr sehen werdet, bekannt dafür ist..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] is known for Making Coffee..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Kaffee herzustellen..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] is known for Making Chocolate..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Schokolade herzustellen..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or is known for Making Coats."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder Kleidung herzustellen."
   },
   {
    "t": "B",

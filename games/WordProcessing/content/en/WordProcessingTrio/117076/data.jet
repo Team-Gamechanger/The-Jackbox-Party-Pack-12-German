@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "I shall present you with an eclectic mix of worldly items. Tell me, is each item something that one should..."
+   "s": "Ich werde euch eine bunte Mischung weltlicher Gegenstände präsentieren. Sagt mir zu jedem Gegenstand, ob er in…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Trash..."
+   "s": "den Restmüll..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Recycle..."
+   "s": "den Gelben Sack..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or Compost."
+   "s": "...oder den Biomüll gehört."
   },
   {
    "t": "B",

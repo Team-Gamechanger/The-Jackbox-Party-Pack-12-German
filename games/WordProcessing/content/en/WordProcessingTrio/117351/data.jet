@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Be afraid! Be very afraid, for soon you will be confronted with a series of phobias. Tell me if each one refers to..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Fürchtet euch! Fürchtet euch gewaltig, denn schon bald werdet ihr mit einer Reihe von Phobien konfrontiert. Sagt mir, ob sich jede einzelne davon auf…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Fear of People..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] eine Angst vor bestimmten Menschen..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Fear of Animals..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] eine Angst vor bestimmten Tieren..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fear of Situations."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder eine Angst vor bestimmten Situationen bezieht."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Oh, you may not like me for this one, but I can’t resist. You’re going to see a number of long words. Tell me, is each one..."
+   "s": "Oh, dafür werdet ihr mich jetzt vielleicht nicht mögen, aber ich kann einfach nicht widerstehen. Ihr werdet eine Vielzahl langer Wörter sehen. Sagt mir, handelt es sich dabei um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Four-Syllable Word..."
+   "s": "ein Wort mit vier Silben..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Five-Syllable Word..."
+   "s": "ein Wort mit fünf Silben..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Six-Syllable Word. Talk it out amongst yourselves."
+   "s": "...oder ein Wort mit sechs Silben."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Every answer belongs in one of these categories. Tell me, is it a..."
+   "s": "Jede Antwort lässt sich einer dieser Kategorien zuordnen. Sagt mir, handelt es sich um"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Type of Pepper..."
+   "s": "eine Biermarke..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a form of Musical Notation..."
+   "s": "eine Tierart..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Nissan Car Model."
+   "s": "...oder eine Klaviermarke."
   },
   {
    "t": "B",

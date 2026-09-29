@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] You humans and your silly lingo! Soon you shall see terms of generational slang. Tell me, is each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ihr Menschen und eure alberne Sprache! Gleich werdet ihr Begriffen aus der Umgangssprache verschiedener Generationen begegnen. Sagt mir, haandelt es sich um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Generation Z Slang..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Generation-Z-Slang..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Generation X Slang..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Generation-X-Slang..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Slang of the Baby Boomer generation."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder Slang der Babyboomer-Generation."
   },
   {
    "t": "B",

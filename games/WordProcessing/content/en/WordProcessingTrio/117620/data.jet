@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Geography time! (Insistent) I said Geography Time! Look sharp! You will see a number of country names. Tell me, does each one live in..."
+   "s": "Zeit für Geografie! (Beharrlich) Ich sagte: Zeit für Geografie! Konzentriert euch! Ihr seht eine Reihe von Ländernamen. Sagt mir, befindet sich jeder von ihnen auf..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "the Northern Hemisphere..."
+   "s": "der Nordhalbkugel..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "the Southern Hemisphere..."
+   "s": "der Südhalbkugel..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or does it straddle BOTH Hemispheres?"
+   "s": "...oder erstreckt es sich über BEIDE Halbkugeln?"
   },
   {
    "t": "B",

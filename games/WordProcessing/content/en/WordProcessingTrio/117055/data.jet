@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "This little number is for the musically inclined. Tell me if each answer is..."
+   "s": "Diese kleine Nummer ist für Musikbegeisterte. Sagt mir, ob jede der Antworten..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Metallica Song..."
+   "s": "ein Song von CRO..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Taylor Swift Song..."
+   "s": "Song von Helene Fischer..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Snoop Dogg Song."
+   "s": "...oder ein Song von den Toten Hosen ist."
   },
   {
    "t": "B",

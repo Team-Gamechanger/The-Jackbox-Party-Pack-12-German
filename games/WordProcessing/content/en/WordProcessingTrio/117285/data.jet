@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "You will soon see a series of last names. You must tell me if each should be paired with the FIRST name..."
+   "s": "Euch begegnet gleich eine Reihe von Nachnamen prominenter Personen. Ihr müsst mir sagen, ob jeder davon dem Vornamen..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Rob..."
+   "s": "Tim..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Bob..."
+   "s": "Tom..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or Bobby."
+   "s": "...oder Tommy zugehört."
   },
   {
    "t": "B",

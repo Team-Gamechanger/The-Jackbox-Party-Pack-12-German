@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Oh how I love gadgets! For this trio of objects, tell me if each item you see is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Oh, wie ich euren menschlichen Technik-Schnickschnack liebe! Sagt mir, handelt es sich bei den Gegenständen, die euch begegnen, um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Medical Device..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein medizinisches Gerät..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Made-Up Movie Gadget..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein erfundenes Filmdings..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Concept devised by Leonardo da Vinci."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um einen von Leonardo da Vinci entwickelten Entwurf."
   },
   {
    "t": "B",

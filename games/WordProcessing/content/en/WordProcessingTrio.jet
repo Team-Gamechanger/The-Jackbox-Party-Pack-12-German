@@ -887,7 +887,7 @@
       "Lichtschwert",
       "Solarsurfer"
      ],
-     "bucketTitle": "Erfundenes Filmding",
+     "bucketTitle": "Erfundenes Filmdings",
      "shorthand": "Sci-Fi"
     },
     {
@@ -1160,7 +1160,7 @@
      "shorthand": "Katze"
     }
    ],
-   "difficulty": "Easy",
+   "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117093",
@@ -1211,7 +1211,7 @@
     }
    ],
    "countrySpecific": true,
-   "difficulty": "Easy",
+   "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117285"

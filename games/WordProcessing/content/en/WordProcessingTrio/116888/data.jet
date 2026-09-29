@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Darlings, you will see the names of creatures great and small. Tell me if each one has..."
+   "s": "Ihr, meine Lieben, werdet die Namen von Tieren, groß und klein, sehen. Sagt mir, hat jedes Tier..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "No Legs..."
+   "s": "keine Beine..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Four Legs..."
+   "s": "vier Beine..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or More Than Four Legs."
+   "s": "...oder mehr als vier Beine."
   },
   {
    "t": "B",

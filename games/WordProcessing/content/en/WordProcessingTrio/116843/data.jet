@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "For this one, please know your geography and your animal kingdom. Tell me if each ANIMAL is..."
+   "s": "Für diese Aufgabe müsst ihr tierisch viel Wissen in Geografie haben. Sagt mir, ob die folgenden Tiere..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Native to Africa..."
+   "s": "in Afrika heimisch..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Native to Asia..."
+   "s": "in Asien heimisch..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or Native to South America."
+   "s": "...oder in Südafrika heimisch sind."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] You are about to witness a series of words. Tell me if each one is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet gleich eine Reihe von Wörtern sehen. Sagt mir bitte, ob jedes einzelne davon..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Word With a Silent Letter..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] mit „S“..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Misspelled Word..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] mit „SS“..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Word in the classic children’s book Where the Wild Things Are"
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder mit „ß“ geschrieben wird."
   },
   {
    "t": "B",

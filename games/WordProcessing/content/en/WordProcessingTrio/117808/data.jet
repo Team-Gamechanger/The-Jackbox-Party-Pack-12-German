@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] The items of Earth have so many curious markings. Tell me, of the items you see, is each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Die Gegenstände der Erde weisen so viele merkwürdige Muster auf. Sagt mir, sind die Gegenstände, denen ihr begegnet..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Striped Thing..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein gestreifter Gegenstand..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Spotted Thing..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein gepunkteter Gegenstand..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Checkered Thing."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein karierter Gegenstand."
   },
   {
    "t": "B",

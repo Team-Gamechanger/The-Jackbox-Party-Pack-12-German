@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Dear ones, if one thing is true, there is always a beginning, a middle, and an end. For each item you come across, tell me if it is..."
+   "s": "Meine Lieben, wenn eines sicher ist, dann, dass alles immer einen Anfang, eine Mitte und ein Ende hat. Sagt mir zu jedem Begriff, der euch begegnet, ob es sich dabei um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "an event or thing that occurs at the Beginning of something..."
+   "s": "ein Ereignis oder eine Sache handelt, die am Anfang von etwas steht..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a thing associated with the Middle of something..."
+   "s": "um ein Ereignis oder eine Sache, die mit der Mitte von etwas in Verbindung steht..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a thing understood to be the End of something."
+   "s": "oder um ein Ereignis oder eine Sache, die als das Ende von etwas verstanden wird."
   },
   {
    "t": "B",

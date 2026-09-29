@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Humans, tell me if the names you’re about to see belong to..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Menschen, sagt mir, ob die Namen, die ihr gleich sehen werdet, zu..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Redhead..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einem berühmten Rotschopf..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Blond..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einem berühmten Blondschopf..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a character whose Face happens to be Blue."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einem Charakter gehören, dessen Gesicht blau ist."
   },
   {
    "t": "B",

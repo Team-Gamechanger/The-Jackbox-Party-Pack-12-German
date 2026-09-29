@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Behold! You will see a series of unique names. Tell me, does each one refer to a..."
+   "s": "Aufgepasst! Ihr werdet eine Reihe ungewöhnlicher Namen sehen. Sagt mir, ob sich dieser auf..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Yoga Pose"
+   "s": "eine Yoga-Pose..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Dungeons & Dragons Class... 5th Edition..."
+   "s": "eine Dungeons & Dragons Klasse der 5. Edition..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a character from the Toy Story franchise."
+   "s": "...oder eine Figur aus dem Toy-Story-Franchise bezieht."
   },
   {
    "t": "B",

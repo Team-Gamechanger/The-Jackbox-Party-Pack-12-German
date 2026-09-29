@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Every answer belongs in this curious trio of categories. Tell me, is each one.."
+   "s": "Jede Antwort lässt sich einer dieser drei kuriosen Kategorien zuordnen. Sagt mir, ist jede einzelne…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a type of Cheese..."
+   "s": "eine Käsesorte..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a human Language..."
+   "s": "eine menschliche Sprache..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Breed of a Dog."
+   "s": "...oder eine Hunderasse."
   },
   {
    "t": "B",
