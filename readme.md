@@ -2,32 +2,11 @@
 
 Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 
+# Debate and Switch
+✅ Alles tutti frutti
+
 # Idol Factions
-## Tutorial
-- Apples
-- Fruit
-- Turkey leg
-- Tukey leg ...again
-- ERSTER-BONUS etwas nach links verschieben
-
-## Gameplay
-- JOIN AT (unten am bildschirm)
-
-
-### Gameplay Tutorial
-- Apples
-
-
-## Controller
-- AN EMPTY STATION SENDEN
-- Wormhole (other team)
-
-
-## Scoreboard
-- ERSTER-BONUS etwas nach links verschieben
-
-## Postgame
-- WINNERS
+✅ Alles tutti frutti
 
 # Uns fehlt 'ne Karte
 
@@ -123,7 +102,6 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 
 ## Runde
 - UNMATCHED WORDS
-- GIVE SOME LIKES!
 - BEST FRIENDS MAP
 - Top Match
 - VOTE FOR YOUR NEXT STARTER
@@ -135,20 +113,15 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 
 ## Post Game
 - SUPERCONNECTOR
-- Most Match Points!
 - CLASS CLOWN
-- Most Likes!
 - THINKER
-- Most Last-Linute Matches!
 - INVENTOR
-- Most Unmatched Words!
 - Dr.Lightning
-- Quickest to Match!
 
 # Hyperface
 
 ## Controller
-- Morph / Draw / Zoom
+- Morph / Draw / Zoom (Grafik)
 
 ## Global
 - jackbox.tv
