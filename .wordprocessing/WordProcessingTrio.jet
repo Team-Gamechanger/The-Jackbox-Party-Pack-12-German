@@ -3755,10 +3755,10 @@
    "host": "QUIZTAR",
    "id": "117818",
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Who says that fast food is bad for you?! It could be very good for you... now. Of the food items you may choose to stuff into your mouth holes, tell me if each one is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] an item that has appeared on a McDonald’s menu...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an item that has appeared on a Burger King menu...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an item found on a Wendy’s menu.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Wer sagt, dass Fast Food schlecht für euch ist?! Es könnte sogar sehr gut für euch sein… zumindest im Moment. Von den Gerichten, die ihr euch in den Mund stopft, sagt mir, ob es sich um…",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein Produkt handelt, dass schon einmal auf der Speisekarte von McDonald's stand...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] ein Produkt, dass schon einmal auf der Speisekarte von Burger King stand ...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um ein Produkt, dass schon einmal auf der Speisekarte von KFC stand.",
    "OutroAudio": ""
   },
   {
@@ -3813,11 +3813,11 @@
    "id": "117853",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Coming up, we’ll have familiar human quotations. Tell me is each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Movie Quote...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a famous Catchphrase from a popular TV program...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or corporate Brand Slogan.",
-   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] My favorite quote is this: “I am the Mighty Quiztar!!!” Yes yes, I know it’s not quite there yet. I’m still workshopping it."
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Als Nächstes kommen bekannte Menschen-Zitate. Sagt mir, ob jedes davon...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein berühmtes Filmzitat...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] eine berühmte Catchphrase aus einer beliebten Fernsehsendung...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein berühmter Werbeslogan ist.",
+   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Mein Lieblingszitat lautet: „Ich bin der Mächtige Quiztian!!!“ Ja, ja, ich weiß, es ist noch nicht ganz ausgereift. Ich arbeite noch daran."
   },
   {
    "buckets": [
@@ -3869,10 +3869,10 @@
    "id": "117855",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Let’s see if you can bring SHAPE to this one! Tell me, of the various items you will soon come across, is each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Circular...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Rectangular...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Triangular.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Seid ihr alle in Form? Sagt mir: Sind die verschiedenen Gegenstände, denen ihr gleich begegnen werdet, jeweils…",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] rund...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] rechteckig...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder dreieckig.",
    "OutroAudio": ""
   },
   {
@@ -3926,10 +3926,10 @@
    "id": "117861",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "You will soon encounter a series of musical groups. Please tell me if each one is...",
-   "TitleAudio0": "a Boy Band...",
-   "TitleAudio1": "a Girl Group...",
-   "TitleAudio2": "...or a Male-Female Act.",
+   "IntroAudio": "Ihr werdet gleich auf eine Reihe von Musikgruppen stoßen. Bitte sagt mir, ist jede davon…",
+   "TitleAudio0": "eine Boyband, da sie aus Männern besteht...",
+   "TitleAudio1": "eine Girlgroup, da sie aus Frauen besteht...",
+   "TitleAudio2": "...oder ein Musicact mit Männern und Frauen.",
    "OutroAudio": ""
   },
   {
@@ -3999,11 +3999,11 @@
    "id": "117864",
    "x": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You have a number of movie titles in your future. You must tell me if each one is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Movie by Paul Thomas Anderson...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Movie by Wes Anderson...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Movie featuring Pamela Anderson.",
-   "OutroAudio": ""
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] In eurer nahen Zukunft werdet ihr einer Reihe von Filmtiteln begegnen. Sagt mir, ob jeder einzelne davon….",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einer der in Deutschland meistbesuchtesten Kinofilme der 2010er-Jahre...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] einer der in Deutschland meistbesuchtesten Kinofilme der 2000er-Jahre...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einer der in Deutschland meistbesuchtesten Kinofilme der 1990er-Jahre ist.",
+   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Schade, dass wir nie Popcorn als Opfergabe kriegen."
   },
   {
    "buckets": [
