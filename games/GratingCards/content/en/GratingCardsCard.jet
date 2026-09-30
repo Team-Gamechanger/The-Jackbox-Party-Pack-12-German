@@ -3,7 +3,7 @@
   {
    "altText": "Ein gestresster Geschäftsmann steht mit seinen Papieren im Meer und schaut nach oben. Hinter ihm bemerkt er einen riesigen Hai mit aufgerissenem Maul nicht.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "115920",
    "prompts": [
@@ -34,7 +34,7 @@
   {
    "altText": "Ein ungleichmäßig gezeichnetes gelbes Smiley mit Nase, mondförmigem Mund und starren, weit aufgerissenen blauen Augen.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "115921",
    "prompts": [
@@ -68,7 +68,7 @@
   {
    "altText": "Buntstiftzeichnung eines lächelnden Arztes mit verschränkten Armen und rot umrandeten Augen. Hinter ihm ist dasselbe Bild noch einmal in Graustufen zu sehen.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "116069",
    "prompts": [
@@ -101,7 +101,7 @@
   {
    "altText": "Foto aus den 1960er-Jahren: Zwei Frauen und ein Mann in festlicher Kleidung halten ihre Gläser hoch. Sie wirken fröhlich, aber von der Kamera leicht überrascht.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "116244",
    "prompts": [
@@ -135,7 +135,7 @@
   {
    "altText": "Einfache Comiczeichnung eines Mannes mit Fliege, der mit geschlossenen Augen zur Musik aus seinen Kopfhörern tanzt.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "116247",
    "prompts": [
@@ -167,7 +167,7 @@
   {
    "altText": "Ein wütender Mann in einem billigen Wichtelkostüm, von oben gesehen, sodass sein Kopf und seine gerümpfte Nase übertrieben groß wirken.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "116249",
    "prompts": [
@@ -211,7 +211,7 @@
   {
    "altText": "Eine zurechtgemachte, lächelnde junge Frau sitzt in einem tief ausgeschnittenen Kleid mit Pelzstola, Diamanten und langen roten Handschuhen an einem Tisch mit einer einzelnen roten Rose.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "116277",
    "prompts": [
@@ -258,7 +258,7 @@
   {
    "altText": "Eine genervte Braut steht mit den Händen in den Hüften auf einer Landstraße. Hinter ihr hält ihr Bräutigam den Daumen zum Trampen hoch.",
    "category": [
-    "STOPPT DIE HOCHZEIT!"
+    "STOP THE WEDDING!"
    ],
    "id": "116281",
    "prompts": [
@@ -297,7 +297,7 @@
   {
    "altText": "Stilisierte Zeichnung der Heiligen Drei Könige mit Kronen und Geschenken in kunstvollen Gefäßen. Einer von ihnen sitzt auf einem Kamel.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "116289",
    "prompts": [
@@ -344,7 +344,7 @@
   {
    "altText": "Eine Girlande aus Papierfiguren, die wie Schneemänner mit Mützen angemalt sind. Sie halten sich an den Händen und haben alle gerade Münder.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "116290",
    "prompts": [
@@ -376,7 +376,7 @@
   {
    "altText": "Retro-Geschenke in verschiedenen Größen liegen unter einem Weihnachtsbaum. Auf dem roten Teppich ist Lametta verstreut.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "116292",
    "prompts": [
@@ -409,7 +409,7 @@
   {
    "altText": "Ein verstörender Retro-Clown mit winzigem Hütchen auf einem spitzen, kahlen Kopf, dicken schwarzen Augenbrauen und Lippenstift. Augen und Mund sind weit geöffnet.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "116293",
    "prompts": [
@@ -455,7 +455,7 @@
   {
    "altText": "Retro-Comiczeichnung eines Mannes mit Schnurrbart, der ein Weinglas hebt und mit einer Frau spricht. Beide lächeln.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "116454",
    "prompts": [
@@ -484,7 +484,7 @@
   {
    "altText": "Schwarz-Weiß-Foto einer lächelnden Familie vor einem üppig geschmückten Weihnachtsbaum und einem Berg Spielzeug.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "116457",
    "prompts": [
@@ -517,7 +517,7 @@
   {
    "altText": "Alte rot-weiße Zeichnung eines Wichtelkopfs mit großen spitzen Ohren, langer Nase, Glöckchenmütze und verdutztem Blick.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "116458",
    "prompts": [
@@ -553,7 +553,7 @@
   {
    "altText": "Kindliche Comiczeichnung einer lächelnden Frau aus Strichen, die ein Kind in einem dreieckigen Kinderwagen schiebt.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "116461",
    "prompts": [
@@ -585,7 +585,7 @@
   {
    "altText": "Ein Mann im Anzug führt einen Basset an der Leine. In der anderen Hand trägt er eine Aktentasche und einen Hydranten.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "116462",
    "prompts": [
@@ -619,7 +619,7 @@
   {
    "altText": "Zwei ältere Frauen sitzen mit einem gemeinsamen Sonnenschirm am Strand. Sie haben die Augen geschlossen und halten Kokosnüsse mit Strohhalmen; hinter ihnen liegt das Meer.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "116524",
    "prompts": [
@@ -659,7 +659,7 @@
   {
    "altText": "Ein Mann ist von hinten zu sehen, während seine Braut ihn umarmt. Sie zwinkert lächelnd und zeigt mit der Hand ein Okay-Zeichen.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "116526",
    "prompts": [
@@ -687,7 +687,7 @@
   {
    "altText": "Ein kunstvoller antiker Schaukelstuhl mit geflochtener Sitzfläche und Rückenlehne vor orangefarbenem Hintergrund.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "116531",
    "prompts": [
@@ -718,7 +718,7 @@
   {
    "altText": "Eine glamouröse Frau in einem trägerlosen Kleid und mit großer Sonnenbrille ist von Fotografen und Mikrofonen umringt.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "116541",
    "prompts": [
@@ -752,7 +752,7 @@
   {
    "altText": "Foto vom Hinterkopf eines glatzköpfigen Mannes, der sich mit einem Finger oben am Kopf kratzt.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "116559",
    "prompts": [
@@ -785,7 +785,7 @@
   {
    "altText": "Ein roter Roboter mit sichtbaren Kabeln, menschenähnlichem Gesicht, stechenden blauen Augen und Weihnachtsmannmütze.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "116560",
    "prompts": [
@@ -819,7 +819,7 @@
   {
    "altText": "Eine zufrieden wirkende Frau im schwarzen Kleid hält Händchen mit zwei Männern, die sich an sie lehnen und weniger zufrieden aussehen.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "116561",
    "prompts": [
@@ -854,7 +854,7 @@
   {
    "altText": "Ein älterer Mann mit kariertem Hemd und Halbschuhen springt mit ausgebreiteten Armen und offenem Mund in die Luft.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "116656",
    "prompts": [
@@ -888,7 +888,7 @@
   {
    "altText": "Porträt von George Washington, einem ernst blickenden Mann mit langem weißem Haar und einer Militärjacke mit goldenen Schulterfransen.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "countrySpecific": true,
    "id": "116657",
@@ -935,7 +935,7 @@
   {
    "altText": "Ein lächelndes Kind sitzt mit Lockenwicklern unter einer Trockenhaube und telefoniert. Dahinter bürstet seine Mutter ihr eigenes Haar.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "116658",
    "prompts": [
@@ -969,7 +969,7 @@
   {
    "altText": "Porträt von Königin Elisabeth I., einer ernst und sittsam wirkenden Frau mit kleiner Halskrause, perlenbesetztem Diadem und aufwendigem Kleid mit weiten Ärmeln.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "116659",
    "prompts": [
@@ -997,7 +997,7 @@
   {
    "altText": "Gemalte Comiczeichnung einer lächelnden blonden Frau mit blauer Tasse, aus der sich der Dampf spiralförmig nach oben windet.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "116661",
    "prompts": [
@@ -1028,7 +1028,7 @@
   {
    "altText": "Eine Gruppe von Schulabsolventen in schwarzen Talaren springt hoch und wirft ihre Hüte in die Luft.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "116670",
    "prompts": [
@@ -1066,7 +1066,7 @@
   {
    "altText": "Ein lächelnder Lebkuchenmann mit wütenden Augenbrauen hält in einer Hand ein Messer und fordert mit der anderen zum Angriff auf.",
    "category": [
-    "Weihnachten für Feinde"
+    "Christmas (For Enemy)"
    ],
    "id": "116757",
    "prompts": [
@@ -1113,7 +1113,7 @@
   {
    "altText": "Comiczeichnung eines Weihnachtsmanns mit sehr stacheligem Bart. Sein Mund ist so weit geöffnet, als würde er beim Zahnarzt seine Zähne zeigen; das Zahnfleisch ist sichtbar.",
    "category": [
-    "Weihnachten für Feinde"
+    "Christmas (For Enemy)"
    ],
    "id": "116758",
    "prompts": [
@@ -1157,7 +1157,7 @@
   {
    "altText": "Eine genervte Frau im Weihnachtspullover steht vor einem beleuchteten Baum. Mit geschlossenen Augen und offenem Mund greift sie sich mit beiden Händen in die Haare.",
    "category": [
-    "Weihnachten für Feinde"
+    "Christmas (For Enemy)"
    ],
    "id": "116759",
    "prompts": [
@@ -1188,7 +1188,7 @@
   {
    "altText": "Ein älterer Mann mit winzigem Filzhut, weit aufgerissenen Augen und zusammengepresstem, nach unten gezogenem Mund.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "116760",
    "prompts": [
@@ -1222,7 +1222,7 @@
   {
    "altText": "Retro-Comiczeichnung eines verängstigten Mannes, der von einer menschenähnlichen Fledermaus angegriffen wird. Eine Frau dahinter hebt eine Hand, um sie aufzuhalten.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "116763",
    "prompts": [
@@ -1250,7 +1250,7 @@
   {
    "altText": "Ein großer, annähernd menschenähnlicher Roboter mit roten Sehschlitzen und langen, rankenartigen Armen umklammert einen Mann, der versucht, seine Pistole zu benutzen.",
    "category": [
-    "Außerirdische"
+    "Aliens"
    ],
    "id": "116771",
    "prompts": [
@@ -1285,7 +1285,7 @@
   {
    "altText": "Menschenähnliche Monster mit Masken, drei runden Augen und grillförmigem Mund heben die Hände, als würden sie sich in grünem Rauch auflösen.",
    "category": [
-    "Außerirdische"
+    "Aliens"
    ],
    "id": "116773",
    "prompts": [
@@ -1319,7 +1319,7 @@
   {
    "altText": "Eine Hand greift nach oben zu einer anderen, die von oben herabreicht. Im Hintergrund sind Felsen wie an einer Klippe zu sehen.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "116779",
    "prompts": [
@@ -1351,7 +1351,7 @@
   {
    "altText": "Luftaufnahme einer eleganten weißen Superyacht, die durch das dunkle, glitzernde Blau des Meeres fährt und weiße Wellen hinterlässt.",
    "category": [
-    "Milliardäre"
+    "Billionaires"
    ],
    "id": "116780",
    "prompts": [
@@ -1398,7 +1398,7 @@
   {
    "altText": "Ein Schneemann mit wütend aussehenden Augenbrauen aus Zweigen und einem Mund aus einem nach unten gebogenen Stock.",
    "category": [
-    "Weihnachten für Feinde"
+    "Christmas (For Enemy)"
    ],
    "id": "116781",
    "prompts": [
@@ -1444,7 +1444,7 @@
   {
    "altText": "Ein grauer Außerirdischer mit dünnen langen Armen und großem Kopf, riesigen schwarzen Augen und zusammengekniffenem Mund vor einem Sternenfeld.",
    "category": [
-    "Außerirdische"
+    "Aliens"
    ],
    "id": "116910",
    "prompts": [
@@ -1476,7 +1476,7 @@
   {
    "altText": "Eine klassische silberne, scheibenförmige Retro-Fliegende-Untertasse über sanften, dicht bewaldeten Hügeln.",
    "category": [
-    "Außerirdische"
+    "Aliens"
    ],
    "id": "116912",
    "prompts": [
@@ -1519,7 +1519,7 @@
   {
    "altText": "Ein brauner Umschlag mit der Aufschrift „public schools“, aus dem eine blaue Schülerbeurteilung herausragt.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "116923",
    "prompts": [
@@ -1550,7 +1550,7 @@
   {
    "altText": "Drei sehr ernst blickende Menschen im Anzug sitzen am selben Tisch und schauen in die Kamera. Ihre Hände liegen auf die gleiche Weise gefaltet vor ihnen.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "116930",
    "prompts": [
@@ -1587,7 +1587,7 @@
   {
    "altText": "Schwarz-Weiß-Foto zweier Geschäftsleute, die auf eine gezackte schwarze Linie auf einer weißen Tafel zeigen. Die Linie steigt am Ende an.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "116931",
    "prompts": [
@@ -1618,7 +1618,7 @@
   {
    "altText": "Ein hoher Holzzaun, über den nur die Augen und Haare eines Mannes hervorschauen.",
    "category": [
-    "Hallo, Nachbar!"
+    "Hey Neighbor"
    ],
    "id": "116935",
    "prompts": [
@@ -1675,7 +1675,7 @@
   {
    "altText": "Ein Mann mit Hemd und Krawatte presst sich die Hände auf die Ohren, kneift die Augen zusammen und verzieht das Gesicht.",
    "category": [
-    "Hallo, Nachbar!"
+    "Hey Neighbor"
    ],
    "id": "116936",
    "prompts": [
@@ -1719,7 +1719,7 @@
   {
    "altText": "Eine Frau mittleren Alters mit Cat-Eye-Brille und Lockenwicklern beugt sich vor, um dramatisch Klatsch zuzuflüstern.",
    "category": [
-    "Hallo, Nachbar!"
+    "Hey Neighbor"
    ],
    "id": "116937",
    "prompts": [
@@ -1767,7 +1767,7 @@
   {
    "altText": "Locker gemaltes, kindlich wirkendes Bild eines rundlichen wilden Truthahns.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "116939",
@@ -1800,7 +1800,7 @@
   {
    "altText": "Eine Hand schneidet einen großen goldbraunen Truthahn auf einer schlichten Platte an, die von Grünzeug und Tomaten umgeben ist.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "116940",
@@ -1837,7 +1837,7 @@
   {
    "altText": "Eine blonde Frau im ärmellosen roten Kleid liegt auf einer Chaiselongue, hält einen roten Cocktail hoch und starrt ausdruckslos.",
    "category": [
-    "Treffer in der Dating-App"
+    "Dating App Match"
    ],
    "id": "116943",
    "prompts": [
@@ -1880,7 +1880,7 @@
   {
    "altText": "Eine Hand hält ein Handy, aus dem Herzsymbole wie Blasen nach oben steigen.",
    "category": [
-    "Treffer in der Dating-App"
+    "Dating App Match"
    ],
    "id": "116944",
    "prompts": [
@@ -1927,7 +1927,7 @@
   {
    "altText": "Rote Backsteinfassade einer gewöhnlichen amerikanischen Highschool in einem Vorort an einem sonnigen Tag.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "116946",
    "prompts": [
@@ -1964,7 +1964,7 @@
   {
    "altText": "Ein perfekt geschnittenes Stück Kürbiskuchen mit Schlagsahne auf einem eckigen Teller.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "117060",
@@ -1997,7 +1997,7 @@
   {
    "altText": "Ein lächelnder junger Mann lehnt am Rand eines Whirlpools und hält einen herzförmigen Ballon hoch. Hinter ihm stehen rote Rosen.",
    "category": [
-    "Treffer in der Dating-App"
+    "Dating App Match"
    ],
    "id": "117144",
    "prompts": [
@@ -2032,7 +2032,7 @@
   {
    "altText": "Eine Frau im Anzug, die sichtlich genug hat und gerade lustlos klatscht.",
    "category": [
-    "Herzlichen Glückwunsch (ironisch)"
+    "Congrats (Sarcastic)"
    ],
    "id": "117376",
    "prompts": [
@@ -2078,7 +2078,7 @@
   {
    "altText": "Eine Hand hebt einen winzigen Pokal mit zwei Griffen hoch, etwa so groß wie eine Faust.",
    "category": [
-    "Herzlichen Glückwunsch (ironisch)"
+    "Congrats (Sarcastic)"
    ],
    "id": "117377",
    "prompts": [
@@ -2112,7 +2112,7 @@
   {
    "altText": "Eine langhaarige blonde Frau lächelt übertrieben angespannt, mit weit aufgerissenen Augen und auffallend vielen sichtbaren Zähnen.",
    "category": [
-    "Herzlichen Glückwunsch (ironisch)"
+    "Congrats (Sarcastic)"
    ],
    "id": "117378",
    "prompts": [
@@ -2155,7 +2155,7 @@
   {
    "altText": "Ein Mann im Smoking sitzt mit übereinandergeschlagenen Beinen in einem edlen Sessel und blickt kokett. Einen Arm hält er hoch, als wolle er seine Uhr zeigen.",
    "category": [
-    "Milliardäre"
+    "Billionaires"
    ],
    "id": "117654",
    "prompts": [
@@ -2190,7 +2190,7 @@
   {
    "altText": "Eine Treppe führt am Ende eines roten Teppichs zu einem Privatjet. Eine rote Samtkordel versperrt den Zugang.",
    "category": [
-    "Milliardäre"
+    "Billionaires"
    ],
    "id": "117655",
    "prompts": [
@@ -2225,7 +2225,7 @@
   {
    "altText": "Ein offener alter Tresor, aus dem Geldscheinbündel und Säcke mit Münzen herausquellen.",
    "category": [
-    "Milliardäre"
+    "Billionaires"
    ],
    "id": "117656",
    "prompts": [
@@ -2259,7 +2259,7 @@
   {
    "altText": "Illustration im Groschenheftstil der 1960er-Jahre: Ein gutaussehender Mann im Anzug trägt eine Frau im rosa Kleid. Sie sehen einander an.",
    "category": [
-    "Eine Nacht und nie wieder"
+    "One Night Stand"
    ],
    "id": "117657",
    "prompts": [
@@ -2294,7 +2294,7 @@
   {
    "altText": "Ein ordentlich gemachtes Doppelbett in einem alten Motelzimmer mit Holzleisten und Einrichtung in Altrosa. Das Zimmer ist sauber, aber unnatürlich symmetrisch.",
    "category": [
-    "Eine Nacht und nie wieder"
+    "One Night Stand"
    ],
    "id": "117658",
    "prompts": [
@@ -2326,7 +2326,7 @@
   {
    "altText": "Ein albern wirkendes gezeichnetes Pferd mit blonder Mähne hält eine Rose zwischen den Zähnen und schaut mit hochgezogenen Augenbrauen flirtend drein.",
    "category": [
-    "Eine Nacht und nie wieder"
+    "One Night Stand"
    ],
    "id": "117659",
    "prompts": [
@@ -2355,7 +2355,7 @@
   {
    "altText": "Ein vierbeiniger Roboter sticht mit einer Klaue in eine Blase, in der sich ein bewaffneter Mann und eine Frau im Bikini befinden. Daneben liegt ein abgestürztes Raumschiff.",
    "category": [
-    "Außerirdische"
+    "Aliens"
    ],
    "id": "117722",
    "prompts": [
@@ -2401,7 +2401,7 @@
   {
    "altText": "Zeitschriftenillustration aus den frühen 1900er-Jahren: Ein missmutiger Geschäftsmann wird von vielen Füßen, Gehstöcken und einem Besen aus einer Tür befördert.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "117725",
    "prompts": [
@@ -2438,7 +2438,7 @@
   {
    "altText": "Ein junger bärtiger Mann im Krankenhaushemd liegt im Bett und zeigt mit beiden Händen Friedenszeichen, als hätte er gerade einen tollen Trick geschafft.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "117926",
    "prompts": [
@@ -2468,7 +2468,7 @@
   {
    "altText": "Realistisches Gemälde eines wilden Truthahns im Stil einer naturkundlichen Illustration.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "118041",
@@ -2505,7 +2505,7 @@
   {
    "altText": "Altes Foto eines teils aufgeschnittenen Truthahns auf einem Silbertablett vor einem Kerzenständer und mehrstöckig angerichteter Cranberry-Gelee-Speise.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "118042",
@@ -2542,7 +2542,7 @@
   {
    "altText": "Comiczeichnung eines wütenden Truthahns, der mit beiden Flügeln eine große Axt schwingt und damit nach vorn treten will.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "118043",
@@ -2589,7 +2589,7 @@
   {
    "altText": "Familienporträt aus den 1980er-Jahren: Zwei ängstliche Kinder und ihre unbehaglich wirkende Mutter. Der Vater mit Weihnachtsmannmütze wurde so ins Bild montiert, dass er bedrohlich über ihnen aufragt.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "118048",
    "prompts": [
@@ -2623,7 +2623,7 @@
   {
    "altText": "Foto eines sehr kleinen, etwas kümmerlichen echten Weihnachtsbaums, auf dem Watteflaum als Schnee liegt.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "118055",
    "prompts": [
@@ -2657,7 +2657,7 @@
   {
    "altText": "Stücke schwarzer Kohle liegen neben einem gefüllten roten Sack, auf den mit Goldfaden „you’ve been naughty“ gestickt ist.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "118057",
    "prompts": [
@@ -2688,7 +2688,7 @@
   {
    "altText": "Zeichnung einer hübschen Frau mit Bobfrisur im Stil der 1960er-Jahre, die mit leicht verschmitztem Lächeln einen gefüllten Strumpf an den Kaminsims hängt.",
    "category": [
-    "Sexy Weihnachten"
+    "Sexy Christmas"
    ],
    "id": "118058",
    "prompts": [
@@ -2723,7 +2723,7 @@
   {
    "altText": "Foto einer Hand, die einen Mistelzweig zwischen Daumen und Zeigefinger hält.",
    "category": [
-    "Sexy Weihnachten"
+    "Sexy Christmas"
    ],
    "id": "118059",
    "prompts": [
@@ -2755,7 +2755,7 @@
   {
    "altText": "Ein verkleideter Kaufhaus-Weihnachtsmann lehnt an einem unsichtbaren Gegenstand und stemmt die andere Hand in die Hüfte.",
    "category": [
-    "Sexy Weihnachten"
+    "Sexy Christmas"
    ],
    "id": "118060",
    "prompts": [
@@ -2802,7 +2802,7 @@
   {
    "altText": "Ein moderner Weihnachtsmann in rotem Anzug, Mütze, weißen Handschuhen und Lesebrille arbeitet an einem Laptop.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "118061",
    "prompts": [
@@ -2835,7 +2835,7 @@
   {
    "altText": "Ein Glas Milch und ein Teller mit drei großen, dicken Keksen mit Schokostückchen.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "118062",
    "prompts": [
@@ -2868,7 +2868,7 @@
   {
    "altText": "Viktorianische Illustration eines Weihnachtsmanns in einer Bibliothek, der an einem Holztisch ein riesiges Namensbuch liest.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "118063",
    "prompts": [
@@ -2903,7 +2903,7 @@
   {
    "altText": "Ein lächelnder Weihnachtsmann mit traditioneller Mütze, rotem Hawaiihemd und Sonnenbrille hebt vor einem Infinity-Pool einen Cocktail.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "118064",
    "prompts": [
@@ -2937,7 +2937,7 @@
   {
    "altText": "Ein Mann in Bürokleidung und mit Partyhut sitzt sehr traurig in einer Bürozelle. Vor ihm stehen eine trostlose Torte und ein einziges Geschenk.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "118065",
    "prompts": [
@@ -2973,7 +2973,7 @@
   {
    "altText": "Eine aufwendige Supermarkttorte mit der Aufschrift „happy birthday“ und brennenden Kerzen steht auf einem Tisch vor einem leeren Bürostuhl.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "118068",
    "prompts": [
@@ -3007,7 +3007,7 @@
   {
    "altText": "Eine Frau in Kleid und Schürze im Stil der 1960er-Jahre hält eine große Torte auf einer gläsernen Tortenplatte hoch und lächelt etwas verlegen.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "118069",
    "prompts": [
@@ -3041,7 +3041,7 @@
   {
    "altText": "Eine Hand hält eine winzige weiße Geschenkbox mit gelber Schleife hin, die auf eine Handfläche passt.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "118070",
    "prompts": [
@@ -3076,7 +3076,7 @@
   {
    "altText": "Eine dreistöckige Schokoladentorte mit unangezündeten Kerzen ist zusammengesackt, als hätte es ein Erdbeben gegeben.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "118071",
    "prompts": [
@@ -3562,7 +3562,7 @@
   {
    "altText": "Altes Foto eines Mannes mit beginnender Glatze und leicht gerunzelten Brauen. Oben ist er kahl, an den Seiten hat er Haare und einen üppigen Backenbart.",
    "category": [
-    "Valentinstag im 19. Jahrhundert"
+    "Victorian Valentine's Day"
    ],
    "id": "118623",
    "prompts": [
@@ -3596,7 +3596,7 @@
   {
    "altText": "Altes Foto eines Mannes mittleren Alters im schwarzen Anzug mit Krawatte und schütterem, gelocktem Haar. Er sieht aus, als laste die ganze Welt auf ihm.",
    "category": [
-    "Valentinstag im 19. Jahrhundert"
+    "Victorian Valentine's Day"
    ],
    "id": "118625",
    "prompts": [
@@ -3630,7 +3630,7 @@
   {
    "altText": "Altes Foto eines ernst blickenden weißhaarigen Mannes mit langen Koteletten im blauen Anzug, der in einem Wohnzimmer sitzt.",
    "category": [
-    "Valentinstag im 19. Jahrhundert"
+    "Victorian Valentine's Day"
    ],
    "id": "118626",
    "prompts": [
@@ -3674,7 +3674,7 @@
   {
    "altText": "Viktorianische Zeichnung eines gedrungenen, ernsten Weihnachtsmanns auf einem verschneiten Dach. Ein Arm lehnt auf dem Schornstein, die andere Hand ruht an seiner Hüfte.",
    "category": [
-    "Weihnachten im 19. Jahrhundert"
+    "Dickensian Christmas"
    ],
    "id": "118627",
    "prompts": [
@@ -3708,7 +3708,7 @@
   {
    "altText": "Kupferstich von vier jungen Bauernkindern, die in einem windigen Hof Weihnachtslieder singen. Eines hält den Liedtext hoch.",
    "category": [
-    "Weihnachten im 19. Jahrhundert"
+    "Dickensian Christmas"
    ],
    "id": "118628",
    "prompts": [
@@ -3740,7 +3740,7 @@
   {
    "altText": "Viktorianische Zeichnung einer Frau im langen Kleid, die ein kleines Mädchen hochhebt, damit es an einem Schneemann arbeiten kann. Weitere Mädchen sehen zu.",
    "category": [
-    "Weihnachten im 19. Jahrhundert"
+    "Dickensian Christmas"
    ],
    "id": "118629",
    "prompts": [
@@ -3772,7 +3772,7 @@
   {
    "altText": "Eine Großmutter im Schlafanzug zielt mit einer Pistole aus dem Bild und drückt mit der anderen Hand ihre Katze an sich.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "118956",
    "prompts": [
@@ -3803,7 +3803,7 @@
   {
    "altText": "Ein junger Herr aus dem späten Mittelalter steigt theatralisch von einem Ruderboot auf eine Rampe. Hinter ihm stehen zwei Damen mit spitzen Hennin-Hauben.",
    "category": [
-    "Valentinstag im Mittelalter"
+    "Medieval Valentine's Day"
    ],
    "id": "118957",
    "prompts": [
@@ -3841,7 +3841,7 @@
   {
    "altText": "Eine ältere Frau in einem edlen schwarzen Spitzenkleid mit Pailletten hält die Arme hinter dem Rücken und verzieht mit hochgezogenen Brauen missbilligend das Gesicht.",
    "category": [
-    "STOPPT DIE HOCHZEIT!"
+    "STOP THE WEDDING!"
    ],
    "id": "118958",
    "prompts": [
@@ -3881,7 +3881,7 @@
   {
    "altText": "Comiczeichnung eines glücklichen Brautpaares, über das ein riesiges rotes, handgezeichnetes X gemalt ist.",
    "category": [
-    "STOPPT DIE HOCHZEIT!"
+    "STOP THE WEDDING!"
    ],
    "id": "118959",
    "prompts": [
@@ -3910,7 +3910,7 @@
   {
    "altText": "Wackelige Comiczeichnung eines beschwipst wirkenden, lächelnden Mannes mit Tränensäcken, übergroßer Fliege und unglaublich langem Weinglas.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "118960",
    "prompts": [
@@ -3939,7 +3939,7 @@
   {
    "altText": "Illustration aus den 1860er-Jahren: Eine traurige junge Frau steht vor einer älteren sitzenden Frau, die mit ausgestreckter Hand zu ihr spricht.",
    "category": [
-    "STOPPT DIE HOCHZEIT!"
+    "STOP THE WEDDING!"
    ],
    "id": "118962",
    "prompts": [
@@ -3976,7 +3976,7 @@
   {
    "altText": "Die Hand einer Person im Anzug zeigt mit dem Daumen nach unten.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "118963",
    "prompts": [
@@ -4053,7 +4053,7 @@
   {
    "altText": "Ein Ritter in Rüstung hält eine herzförmige Pralinenschachtel und einen Strauß Rosen. Das heruntergeklappte Visier verdeckt sein Gesicht.",
    "category": [
-    "Valentinstag im Mittelalter"
+    "Medieval Valentine's Day"
    ],
    "id": "118966",
    "prompts": [
@@ -4093,7 +4093,7 @@
   {
    "altText": "Eine klassische Herz-Dame-Spielkarte mit zwei spiegelbildlich angeordneten Strichzeichnungen des Gesichts einer Königin.",
    "category": [
-    "Valentinstag im Mittelalter"
+    "Medieval Valentine's Day"
    ],
    "id": "118967",
    "prompts": [
@@ -4125,7 +4125,7 @@
   {
    "altText": "Ein leeres Pergamentblatt mit rotem Wachssiegel am unteren Rand. Daneben liegen eine weiße Schreibfeder und ein Fläschchen schwarze Tinte.",
    "category": [
-    "Valentinstag im Mittelalter"
+    "Medieval Valentine's Day"
    ],
    "id": "118968",
    "prompts": [
@@ -4253,7 +4253,7 @@
   {
    "altText": "Ein ganz in Schwarz gekleideter Mann mit Handschuhen und Sturmhaube rennt heimlich mit einem Laptop und einer Tasche davon.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "118972",
    "prompts": [
@@ -4296,7 +4296,7 @@
   {
    "altText": "Ein sehr verängstigter Geschäftsmann scheint aus dem Flugzeug gefallen zu sein, das am Himmel über ihm zu sehen ist.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "118974",
    "prompts": [
@@ -4330,7 +4330,7 @@
   {
    "altText": "Eine stark geschminkte Braut im großen Kleid hat unter ihrem Schleier die Augen traurig geschlossen und schmollt theatralisch.",
    "category": [
-    "STOPPT DIE HOCHZEIT!"
+    "STOP THE WEDDING!"
    ],
    "id": "118982",
    "prompts": [
@@ -4362,7 +4362,7 @@
   {
    "altText": "Ein junger Mann in einem zerrissenen, schmutzigen Anzug zieht seine leeren Hosentaschen nach außen, um zu zeigen, dass er nichts mehr hat.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "118983",
    "prompts": [
@@ -4394,7 +4394,7 @@
   {
    "altText": "Comiczeichnung eines Mannes, der sein Kinn auf die Hände stützt und traurig nach unten starrt. In einer Gedankenblase ist ein gebrochenes Herz zu sehen.",
    "category": [
-    "ES IST AUS!"
+    "IT'S OVER!"
    ],
    "id": "118984",
    "prompts": [
@@ -4425,7 +4425,7 @@
   {
    "altText": "Ein schlaffer Luftballon mit der Aufschrift „I love you“ liegt auf einem Sofa. Im Hintergrund sitzt ein Mann mit dem Kopf in den Händen.",
    "category": [
-    "ES IST AUS!"
+    "IT'S OVER!"
    ],
    "id": "118985",
    "prompts": [
@@ -4551,7 +4551,7 @@
   {
    "altText": "Eine Männerhand, die bereits einen Ring trägt, schiebt einer Frau einen Ehering auf den Finger. Die Frau trägt schon einen Verlobungsring.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "118991",
    "prompts": [
@@ -4583,7 +4583,7 @@
   {
    "altText": "Foto eines Brautpaares von hinten. Die beiden halten sich an den Händen; in der anderen Hand trägt er einen Zylinder und sie einen Blumenstrauß.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "118992",
    "prompts": [
@@ -4623,7 +4623,7 @@
   {
    "altText": "Eine junge Frau mit knallrotem Lippenstift schreit heftig, den Kopf nach oben gelegt und die Hände erhoben, als würde sie nach etwas Unsichtbarem krallen.",
    "category": [
-    "Stinkwütend"
+    "Filled With Rage"
    ],
    "id": "119004",
    "prompts": [
@@ -4660,7 +4660,7 @@
   {
    "altText": "Ein Mann hält sein Handy hoch und schreit es an.",
    "category": [
-    "Stinkwütend"
+    "Filled With Rage"
    ],
    "id": "119005",
    "prompts": [
@@ -4700,7 +4700,7 @@
   {
    "altText": "Ein Mann runzelt die Stirn und schließt die Augen, als könne er gar nicht hinsehen, was ihn so geärgert hat.",
    "category": [
-    "Stinkwütend"
+    "Filled With Rage"
    ],
    "id": "119006",
    "prompts": [
@@ -4737,7 +4737,7 @@
   {
    "altText": "Eine selbstgebackene, schmucklose Torte mit weißem Zuckerguss und vielen brennenden Geburtstagskerzen.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119037",
    "prompts": [
@@ -4770,7 +4770,7 @@
   {
    "altText": "Ein Schwertkämpfer mit Schnurrbart, Halskrause und Pluderhose will gerade sein Schwert ziehen. Sein Kopf ist nach hinten geneigt.",
    "category": [
-    "Kampfansage"
+    "Fight Me"
    ],
    "id": "119258",
    "prompts": [
@@ -4818,7 +4818,7 @@
   {
    "altText": "Alte Illustration von zwei Männern in Boxkleidung. Einer streckt dem anderen eine Faust ins Gesicht.",
    "category": [
-    "Kampfansage"
+    "Fight Me"
    ],
    "id": "119259",
    "prompts": [
@@ -4852,7 +4852,7 @@
   {
    "altText": "Zeichnung einer erhobenen Faust. Ein Stück Hemd- und Jackenärmel ist gerade noch zu sehen.",
    "category": [
-    "Kampfansage"
+    "Fight Me"
    ],
    "id": "119496",
    "prompts": [
@@ -4886,7 +4886,7 @@
   {
    "altText": "Ein Paar Hände mitten im Applaus.",
    "category": [
-    "Herzlichen Glückwunsch (ironisch)"
+    "Congrats (Sarcastic)"
    ],
    "id": "119498",
    "prompts": [
@@ -4932,7 +4932,7 @@
   {
    "altText": "Zeichnung von Scrooge, der im Nachthemd zusammengekauert am Feuer sitzt, während der Geist von Marley mit klirrenden Ketten erscheint.",
    "category": [
-    "Weihnachten im 19. Jahrhundert"
+    "Dickensian Christmas"
    ],
    "id": "119499",
    "prompts": [
@@ -4964,7 +4964,7 @@
   {
    "altText": "Eine viktorianisch gekleidete Frau mit schickem Kleid und Hut fährt Fahrrad.",
    "category": [
-    "Valentinstag im 19. Jahrhundert"
+    "Victorian Valentine's Day"
    ],
    "id": "119501",
    "prompts": [
@@ -4999,7 +4999,7 @@
   {
    "altText": "Ein Mann im Anzug schreit mit wütendem Gesicht und zeigt theatralisch auf die Kamera.",
    "category": [
-    "Stinkwütend"
+    "Filled With Rage"
    ],
    "id": "119502",
    "prompts": [
@@ -5033,7 +5033,7 @@
   {
    "altText": "Zeichnung eines hart aussehenden Weihnachtsmanns mit fest zusammengekniffenen Augen. Er trägt ein Unterhemd, hat einen blauen Bart und verschränkt tätowierte, muskulöse Arme.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119503",
    "prompts": [
@@ -5068,7 +5068,7 @@
   {
    "altText": "Die Kapelle des King’s College der Universität Cambridge in England, ein kunstvolles altes Steingebäude auf einer grünen Wiese.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "119505",
    "prompts": [
@@ -5104,7 +5104,7 @@
   {
    "altText": "Blick von hinten auf Reihen weißer Klappstühle, die bis zum Horizont im Sonnenuntergang reichen. Ein einzelner Schüler im blauen Talar sitzt darauf.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "countrySpecific": true,
    "id": "119506",
@@ -5140,7 +5140,7 @@
   {
    "altText": "Hände halten vor blauem Himmel einen Abschlusshut und ein zusammengerolltes, mit einem Band verschnürtes Diplom hoch.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "119507",
    "prompts": [
@@ -5171,7 +5171,7 @@
   {
    "altText": "Ein älterer Mann im Anzug sitzt mit übereinandergeschlagenen Beinen, einem Arm auf dem Schreibtisch und ernstem Gesichtsausdruck.",
    "category": [
-    "Geburtstag anno dazumal"
+    "Birthday (Olden Times)"
    ],
    "id": "119508",
    "prompts": [
@@ -5217,7 +5217,7 @@
   {
    "altText": "Holzschnitt einer mittelalterlichen Bäuerin, die ernsthaft mit einer Wurst auf einem Tisch arbeitet, während ein kleiner Junge zusieht.",
    "category": [
-    "Geburtstag anno dazumal"
+    "Birthday (Olden Times)"
    ],
    "id": "119509",
    "prompts": [
@@ -5249,7 +5249,7 @@
   {
    "altText": "Altes Foto eines festlich gekleideten Paares: Die Frau lehnt auf einem Kissen, der Mann an einem Sockel. Beide sehen gelangweilt aus.",
    "category": [
-    "Geburtstag anno dazumal"
+    "Birthday (Olden Times)"
    ],
    "id": "119510",
    "prompts": [
@@ -5283,7 +5283,7 @@
   {
    "altText": "Zeichnung eines Mannes an einem großen, frühen Telefon. Er hält ein Rohr ans Ohr und ein weiteres vor den Mund.",
    "category": [
-    "Geburtstag anno dazumal"
+    "Birthday (Olden Times)"
    ],
    "id": "119511",
    "prompts": [
@@ -5314,7 +5314,7 @@
   {
    "altText": "Ein lächelndes Weihnachtsmannpaar. Frau Weihnachtsmann lehnt ihren Kopf an seine Schulter.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119743",
    "prompts": [
@@ -5346,7 +5346,7 @@
   {
    "altText": "Comiczeichnung eines albern wirkenden Rentiers mit Weihnachtsmannmütze, das lächelnd die Zunge herausstreckt.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119744",
    "prompts": [
@@ -5378,7 +5378,7 @@
   {
    "altText": "Alte stilisierte Zeichnung des Weihnachtsmanns mit einem Stechpalmenkranz über der Mütze. Sein locker gezeichneter Bart lässt ihn mürrisch aussehen.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119745",
    "prompts": [
@@ -5412,7 +5412,7 @@
   {
    "altText": "Ein festlich frankierter Briefumschlag ist an „Santa Claus, North Pole, Earth“ adressiert.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119746",
    "prompts": [
@@ -5446,7 +5446,7 @@
   {
    "altText": "Kinderzeichnung mit Buntstiften: ein lächelnder Weihnachtsmann und ein Engel, ein Geschenk, ein Weihnachtsbaum, ein Schneemann und ein Hund.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119747",
    "prompts": [
@@ -5481,7 +5481,7 @@
   {
    "altText": "Ein Weihnachtsmann nähert sich in einem von Rentieren gezogenen Schlitten einem viktorianischen Haus. Ein Mann mit Schlafmütze sieht aus dem Fenster.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119748",
    "prompts": [
@@ -5516,7 +5516,7 @@
   {
    "altText": "Ein glitzerndes, buntes dreistöckiges Lebkuchenhaus mit Eiszapfen aus Zuckerguss. Davor steht ein Schneemann mit einer Zuckerstange.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119749",
    "prompts": [
@@ -5547,7 +5547,7 @@
   {
    "altText": "Alte, detailreiche Zeichnung eines Kamins. Strümpfe hängen an einer Leine, eine Katze sitzt auf einem Stuhl und ein Stechpalmenzweig rahmt das Bild.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119750",
    "prompts": [
@@ -5581,7 +5581,7 @@
   {
    "altText": "Foto eines Wohnzimmers aus den 1990er-Jahren mit einem breiten, voll behängten Weihnachtsbaum und dicht darunter gedrängten Geschenken.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119751",
    "prompts": [
@@ -5625,7 +5625,7 @@
   {
    "altText": "Viktorianische Zeichnung eines kleinen Mädchens, das auf einem Stuhl steht und seine Strümpfe an den Kaminsims hängt. Ihr Bruder wartet mit seinen Strümpfen.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119752",
    "prompts": [
@@ -5656,7 +5656,7 @@
   {
    "altText": "Schwarzer Nachthimmel, den nur eine Gruppe großer, vielfarbiger Feuerwerkskörper erhellt. Sie zerplatzen wie Blumen.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119753",
    "prompts": [
@@ -5687,7 +5687,7 @@
   {
    "altText": "Retro-Comiczeichnung eines eleganten Kellners mit einem Tuch über einem Arm. Er hält ein Tablett mit Getränken hoch und lächelt mit geschlossenen Augen zufrieden.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119754",
    "prompts": [
@@ -5715,7 +5715,7 @@
   {
    "altText": "Foto eines mit buntem Konfetti bedeckten Bodens. Darauf stehen eine Champagnerflasche und ein Glas, daneben liegen Partyballons und eine Discokugel.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119755",
    "prompts": [
@@ -5746,7 +5746,7 @@
   {
    "altText": "Viktorianische Zeichnung eleganter Partygäste in Frack und Kleidern, die sich um eine lange, mit Wein gedeckte Tafel drängen.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119758",
    "prompts": [
@@ -5777,7 +5777,7 @@
   {
    "altText": "Beschwingte Retro-Zeichnung zweier Paare, die lächelnd an einem Tisch ihre Gläser heben.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119759",
    "prompts": [
@@ -5806,7 +5806,7 @@
   {
    "altText": "Dicht gedrängte goldene Heliumballons, leicht von unten gesehen und so beleuchtet, dass sie zu leuchten scheinen.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119760",
    "prompts": [
@@ -5840,7 +5840,7 @@
   {
    "altText": "Alte Zeichnung von Männern im Smoking, die sich fröhlich an einer mit Champagnerflaschen beladenen Tafel zuprosten.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119761",
    "prompts": [
@@ -5881,7 +5881,7 @@
   {
    "altText": "Retro-Comiczeichnung eines Barkeepers in auffälliger Jacke. Er trinkt einen Martini, hält einen weiteren Cocktail hoch und ist von Barutensilien umgeben.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119762",
    "prompts": [
@@ -5910,7 +5910,7 @@
   {
    "altText": "Comiczeichnung einer Hand mit erhobener Wunderkerze, von der sich geschwungene Funkenlinien ausbreiten.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119764",
    "prompts": [
@@ -5939,7 +5939,7 @@
   {
    "altText": "Alte Zeichnung einer Frau im vollständigen Cancan-Kostüm mitten in einem hohen Tritt. Männer mit Zylindern stehen um sie herum; einer vor ihr fächelt sich Luft zu.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119766",
    "prompts": [
@@ -5967,7 +5967,7 @@
   {
    "altText": "Comiczeichnung einer Standuhr um Mitternacht. Auf der Vorderseite steht „happy new year“, und hinter der Uhr schaut eine fröhliche Familie hervor.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "countrySpecific": true,
    "id": "119767",
@@ -6002,7 +6002,7 @@
   {
    "altText": "Fröhliche alte Zeichnung eines rundgesichtigen Mannes mit Schürze, der eine komisch riesige Weinflasche lächelnd ansieht.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119769",
    "prompts": [
@@ -6058,7 +6058,7 @@
   {
    "altText": "Ein niedlicher, lächelnder Hund mit glattem Fell trägt einen Haarreif mit goldenen Sternen an Wackelantennen und der Aufschrift „happy new year“.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119770",
    "prompts": [
@@ -6086,7 +6086,7 @@
   {
    "altText": "Ein voll bestückter Verkaufsstand mit Feuerwerkskörpern in bunten, unübersichtlich gestalteten Schachteln.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119771",
    "prompts": [
@@ -6115,7 +6115,7 @@
   {
    "altText": "Eine Frau im schwarzen Oberteil hält ein Glas hoch. Gesicht und Kopf sind völlig von einem Durcheinander bunter Luftschlangen verdeckt.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119772",
    "prompts": [
@@ -6143,7 +6143,7 @@
   {
    "altText": "Ein altes verputztes Gebäude mit vergitterten Fenstern und Eisentür. Über der Tür steht „City Jail“.",
    "category": [
-    "Hilfe!"
+    "Help!"
    ],
    "id": "119773",
    "prompts": [
@@ -6186,7 +6186,7 @@
   {
    "altText": "Ein Koch steht stolz neben einer riesigen sechsstöckigen weißen Torte mit goldenen Rändern und weißen Blumen.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119776",
    "prompts": [
@@ -6220,7 +6220,7 @@
   {
    "altText": "Foto aus den 1940er-Jahren: Ein kleines Mädchen mit blonden Locken und seine Mutter lächeln eine selbstgemachte Torte mit drei Kerzen an.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "119779",
    "prompts": [
@@ -6254,7 +6254,7 @@
   {
    "altText": "Illustration eines Geburtstags in den 1960er-Jahren. Eine Frau bringt einem kleinen Jungen eine Torte mit Kerzen, während seine Freunde lächeln.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119780",
    "prompts": [
@@ -6289,7 +6289,7 @@
   {
    "altText": "Ein lächelnder älterer Mann sitzt vor Ballons und trägt einen Geburtstagshut. Bunte Sprühschlangen hängen ihm über Kopf und Körper.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "countrySpecific": false,
    "id": "119784",
@@ -6326,7 +6326,7 @@
   {
    "altText": "Eine Frau mit Partyhut stützt Arme und Kinn auf einen Tisch und weint eine einzelne Träne, während sie einen Cupcake mit einer brennenden Kerze ansieht.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119787",
    "prompts": [
@@ -6360,7 +6360,7 @@
   {
    "altText": "Eine Straße voller riesiger rosa Ballons oder Blasen, die alles dahinter verdecken.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "119789",
    "prompts": [
@@ -6394,7 +6394,7 @@
   {
    "altText": "Eine Hand will einen einzelnen Schlüssel in eine andere, offen ausgestreckte Hand legen.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119795",
    "prompts": [
@@ -6425,7 +6425,7 @@
   {
    "altText": "Eine unbeschädigte klassische Piñata in Eselform, mit Fell aus Papierstreifen und einem großen gezeichneten Auge.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119796",
    "prompts": [
@@ -6460,7 +6460,7 @@
   {
    "altText": "Ein Mann mit goldener Paillettenjacke und realistischer Gorillamaske hält eine gefüllte Geschenktüte.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119797",
    "prompts": [
@@ -6503,7 +6503,7 @@
   {
    "altText": "Kindergeburtstag in den 1970er-Jahren: Kinder mit Partyhüten sitzen um einen mit Geschenken beladenen Tisch, während die Mutter eine Torte bringt.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119799",
    "prompts": [
@@ -6537,7 +6537,7 @@
   {
    "altText": "Eine schwere, genietete Eisentür mit einem winzigen offenen Schlitz. Ein Paar Augen späht hindurch.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119801",
    "prompts": [
@@ -6565,7 +6565,7 @@
   {
    "altText": "Lockere Party aus den 1960er-Jahren: Junge Menschen mit Hüten lachen zwischen Ballons und blasen in Partypfeifen.",
    "category": [
-    "Geburtstag"
+    "Birthday"
    ],
    "id": "119802",
    "prompts": [
@@ -6601,7 +6601,7 @@
   {
    "altText": "Unscharfes Blitzlichtfoto eines Couchtischs und Sofas, zwischen denen Weingläser, Luftschlangen und Polaroidfotos verstreut liegen.",
    "category": [
-    "Silvester"
+    "New Year's"
    ],
    "id": "119803",
    "prompts": [
@@ -6633,7 +6633,7 @@
   {
    "altText": "Eine Mutter aus den 1940er-Jahren richtet einem ordentlich gekleideten kleinen Jungen mit Brotdose die Haare. Sein älterer Bruder schaut mit verschränkten Armen zu.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "119804",
    "prompts": [
@@ -6676,7 +6676,7 @@
   {
    "altText": "Profil einer lächelnden Frau mit blondem Bob aus den 1960er-Jahren, die in ein schwarzes Telefon mit Kabel spricht.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "119805",
    "prompts": [
@@ -6707,7 +6707,7 @@
   {
    "altText": "Die roten Lippen und der Oberkörper einer Frau in elegantem braunem Pelzmantel, Perlenkette und Lederhandschuhen. Der Rest von ihr ist außerhalb des Bildes.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "119806",
    "prompts": [
@@ -6736,7 +6736,7 @@
   {
    "altText": "Foto aus den 1960er-Jahren: Eine elegante Frau sitzt vor einem goldenen Schminkspiegel, hält einen Schminkpinsel und wirkt, als wolle sie gleich etwas sagen.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "119807",
    "prompts": [
@@ -6767,7 +6767,7 @@
   {
    "altText": "Vier gezeichnete Gesichter: eine lächelnde Frau, eine ernste Person mit lockigem Haar, eine überrascht lächelnde Person und eine nachdenkliche Person mit langem Haar.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "119808",
    "prompts": [
@@ -6832,7 +6832,7 @@
   {
    "altText": "Alte Zeichnung eines lächelnden Mannes aus den 1940er-Jahren, der sich ins Bild lehnt und einen Golfschläger hochhält.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119810",
    "prompts": [
@@ -6872,7 +6872,7 @@
   {
    "altText": "Polizeifoto eines resigniert wirkenden Geschäftsmanns, der in einer Hand seine Aktentasche und in der anderen seine Häftlingsnummer hält.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119811",
    "prompts": [
@@ -6909,7 +6909,7 @@
   {
    "altText": "Retro-Comiczeichnung eines selbstzufrieden lächelnden Mannes im Schlafanzug, der ein eingewickeltes, laut schreiendes Baby mit offenem Mund hochhält.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119812",
    "prompts": [
@@ -6955,7 +6955,7 @@
   {
    "altText": "Eine Kinderhand wirft eine Münze in ein volles, durchsichtiges Sparschwein aus Glas.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119813",
    "prompts": [
@@ -7198,7 +7198,7 @@
   {
    "altText": "Zeichnung der Außenansicht eines großen, kastenförmigen modernen Krankenhauses.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119834",
    "prompts": [
@@ -7233,7 +7233,7 @@
   {
    "altText": "Ein Mann im Anzug im Stil der 1950er-Jahre niest gerade. In einer Hand hält er ein zerknülltes Taschentuch, der Mund ist offen und die Augen fest geschlossen.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119837",
    "prompts": [
@@ -7279,7 +7279,7 @@
   {
    "altText": "Eine Person im Gorillakostüm mit OP-Kleidung und Arztkittel macht Notizen in einer Patientenakte.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119838",
    "prompts": [
@@ -7315,7 +7315,7 @@
   {
    "altText": "Ein Arzt mit großem Stirnreflektor lächelt viel zu begeistert und hält eine komisch große Spritze hoch.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119839",
    "prompts": [
@@ -7352,7 +7352,7 @@
   {
    "altText": "Dramatischer Sonnenuntergang hinter einem tropischen Leuchtturm direkt am Meer. Eine Möwe fliegt darüber hinweg.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "119840",
    "prompts": [
@@ -7386,7 +7386,7 @@
   {
    "altText": "Baumkronen eines rot-gelben Herbstwaldes mit vereinzelten Kiefern, teilweise von dichtem Nebel verdeckt.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "119841",
    "prompts": [
@@ -7420,7 +7420,7 @@
   {
    "altText": "Blick von hinten auf einen Wanderer mit triumphierend erhobenen Fäusten am Rand einer Klippe. Im dunstigen Sonnenuntergang ist alles rot gefärbt.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "119842",
    "prompts": [
@@ -7454,7 +7454,7 @@
   {
    "altText": "Pixelgrafik im Videospielstil eines muskulösen Mannes mit nacktem Oberkörper, gepanzerten Handschuhen und Beinen sowie rotem Kopftuch.",
    "category": [
-    "Kampfansage"
+    "Fight Me"
    ],
    "id": "119856",
    "prompts": [
@@ -7503,7 +7503,7 @@
   {
    "altText": "Groschenheftzeichnung aus den 1960er-Jahren einer hübschen Frau im trägerlosen Kleid, die einen Revolver hochhält und die Betrachter direkt ansieht.",
    "category": [
-    "Kampfansage"
+    "Fight Me"
    ],
    "id": "119857",
    "prompts": [
@@ -7539,7 +7539,7 @@
   {
    "altText": "Foto durch die Beine eines Cowboys hindurch. Seine Hand liegt an der Pistole, während ein zweiter Cowboy vor ihm zum Ziehen bereitsteht.",
    "category": [
-    "Kampfansage"
+    "Fight Me"
    ],
    "id": "119858",
    "prompts": [
@@ -7578,7 +7578,7 @@
   {
    "altText": "Blick von oben auf einen Umzug mit einem riesigen Ballon in Form einer gezeichneten violetten Blume, deren Mitte ein Smiley ist.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119885",
@@ -7615,7 +7615,7 @@
   {
    "altText": "Ein langer Esstisch mit festlicher Tischdecke, großem Truthahn, Kerzen und einem Füllhorn. Die leeren Teller warten auf das Essen.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119888",
@@ -7653,7 +7653,7 @@
   {
    "altText": "Ein Kupferstich eines Pilgervaters, der in einem Ruderboot steht, während andere Pilger rudern.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119889",
@@ -7688,7 +7688,7 @@
   {
    "altText": "Ein lächelnder kleiner Junge in einem schlabberigen Pilgerkostüm hält stolz zwei Maiskolben hoch.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119890",
@@ -7723,7 +7723,7 @@
   {
    "altText": "Ein Truthahn wurde so bearbeitet, dass er ein weißes Schild mit einem roten Verbotszeichen hochhält.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119892",
@@ -7760,7 +7760,7 @@
   {
    "altText": "Eine lächelnde Großmutter im geblümten Schürzenkleid stellt einen perfekten Kuchen neben einen weiteren auf die Fensterbank.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119893",
@@ -7804,7 +7804,7 @@
   {
    "altText": "Sepiafoto aus den 1940er-Jahren: Eine große Familie senkt in einem holzgetäfelten Esszimmer die Köpfe über dem Abendessen.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119904",
@@ -7840,7 +7840,7 @@
   {
    "altText": "Foto aus den 1950er-Jahren: Ein rothaariger Pfadfinderjunge staunt über den großen gebratenen Truthahn vor ihm.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119905",
@@ -7876,7 +7876,7 @@
   {
    "altText": "Foto aus den 1950er-Jahren: Eine festlich gekleidete Familie lächelt, während die Mutter einen Truthahn aus dem Einbauofen zieht.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119906",
@@ -7916,7 +7916,7 @@
   {
    "altText": "Foto aus den 1940er-Jahren: Ein festlich gekleideter, lächelnder Junge und ein Mädchen sitzen vor einem riesigen gebratenen Truthahn auf einer Platte.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119907",
@@ -7951,7 +7951,7 @@
   {
    "altText": "Gut gekleidete, aufgeregte Käufer drängen durch die gerade geöffneten Türen eines Geschäfts.",
    "category": [
-    "Schnäppchentag"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119908",
@@ -7986,7 +7986,7 @@
   {
    "altText": "Chaotisch angerichtetes Festessen mit Truthahn, Kartoffelbrei, Gemüse und Beilagen, über die Bratensoße geschwappt ist.",
    "category": [
-    "Erntedankfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119909",
@@ -8023,7 +8023,7 @@
   {
    "altText": "Herbstblätter in verschiedenen Formen und Tannenzapfen liegen verstreut auf neutralem braunem Hintergrund.",
    "category": [
-    "Herbstfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119910",
@@ -8056,7 +8056,7 @@
   {
    "altText": "Kindliche Buntstiftzeichnung eines Eichhörnchens mit etwas zu auffälligen Zähnen, das einen Tannenzapfen hält.",
    "category": [
-    "Herbstfest"
+    "Thanksgiving"
    ],
    "countrySpecific": true,
    "id": "119911",
@@ -8104,7 +8104,7 @@
   {
    "altText": "Schwarz-Weiß-Foto einer dicht gedrängten Menge von Männern in Anzügen und Hüten, leicht von oben gesehen.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119912",
    "prompts": [
@@ -8138,7 +8138,7 @@
   {
    "altText": "Ein Mann lächelt breit am Steuer eines roten Oldtimers. Seine Frau und sein Sohn auf dem Rücksitz sind weniger begeistert.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119913",
    "prompts": [
@@ -8173,7 +8173,7 @@
   {
    "altText": "Retro-Groschenheftzeichnung einer schockierten Braut am Altar: Ihr Bräutigam entpuppt sich als rotäugiges Skelett mit Perücke.",
    "category": [
-    "STOPPT DIE HOCHZEIT!"
+    "STOP THE WEDDING!"
    ],
    "id": "119914",
    "prompts": [
@@ -8211,7 +8211,7 @@
   {
    "altText": "Ein fröhlicher Mann im Anzug springt vor blauem Himmel in die Luft und reckt triumphierend eine Faust hoch.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119915",
    "prompts": [
@@ -8242,7 +8242,7 @@
   {
    "altText": "Foto von hinten: Ein Vater legt die Arme um die Schultern seiner zwei kleinen Söhne. Gemeinsam blicken sie über offenes Land.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119916",
    "prompts": [
@@ -8281,7 +8281,7 @@
   {
    "altText": "Der junge Hannibal, ein Junge in einer Toga, hält einen Dolch, dessen Spitze sein Vater festhält, während er schwört, Rom zu hassen.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119917",
    "prompts": [
@@ -8315,7 +8315,7 @@
   {
    "altText": "Foto von hinten: Ein Mann hält das Steuer eines Boots. Hinter ihm steht ein Kind auf dem Sitz; beide blicken zum Horizont.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119918",
    "prompts": [
@@ -8350,7 +8350,7 @@
   {
    "altText": "Ein Mann aus den 1950er-Jahren im Tweedanzug sitzt in einem Sessel, liest Zeitung und lächelt über die Schulter.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "119919",
    "prompts": [
@@ -8383,7 +8383,7 @@
   {
    "altText": "Ein etwas selbstgefällig wirkender mittelalterlicher Ausrufer mit braunem Bob und rot-blauem Gewand liest von einer großen Schriftrolle.",
    "category": [
-    "Valentinstag im Mittelalter"
+    "Medieval Valentine's Day"
    ],
    "id": "119924",
    "prompts": [
@@ -8419,7 +8419,7 @@
   {
    "altText": "Zeichnung eines typischen zweistöckigen Vorstadthauses mit Garage für ein Auto und seitlicher Veranda.",
    "category": [
-    "Hallo, Nachbar!"
+    "Hey Neighbor"
    ],
    "id": "119936",
    "prompts": [
@@ -8450,7 +8450,7 @@
   {
    "altText": "Schwarz-Weiß-Foto einer Frau im Morgenmantel und mit Absatzschuhen. Sie liegt bäuchlings mit einem Buch auf einem Bett und stützt das Kinn auf eine Hand.",
    "category": [
-    "Eine Nacht und nie wieder"
+    "One Night Stand"
    ],
    "id": "119937",
    "prompts": [
@@ -8491,7 +8491,7 @@
   {
    "altText": "Gemälde aus den 1890er-Jahren eines verzweifelten Mannes, der das Gesicht in einem Arm verbirgt, während eine Frau sich theatralisch von ihm entfernt.",
    "category": [
-    "ES IST AUS!"
+    "IT'S OVER!"
    ],
    "id": "119938",
    "prompts": [
@@ -8525,7 +8525,7 @@
   {
    "altText": "Das Foto eines lächelnden Paares ist mitten zwischen ihren Gesichtern zerrissen.",
    "category": [
-    "ES IST AUS!"
+    "IT'S OVER!"
    ],
    "id": "119939",
    "prompts": [
@@ -8561,7 +8561,7 @@
   {
    "altText": "Comiczeichnung eines Mopses, dessen Gesicht von einem ausgeschnittenen roten Papierherz eingerahmt ist.",
    "category": [
-    "Treffer in der Dating-App"
+    "Dating App Match"
    ],
    "id": "119940",
    "prompts": [
@@ -8605,7 +8605,7 @@
   {
    "altText": "Schaubild mehrerer Männer, die den gespannten Arm einer Blide festhalten und den Abschuss vorbereiten.",
    "category": [
-    "Kampfansage"
+    "Fight Me"
    ],
    "id": "119941",
    "prompts": [
@@ -8642,7 +8642,7 @@
   {
    "altText": "Unscharfes Foto eines vollen Kaufhauses, das mit Tannenzweigen und Lichtern weihnachtlich geschmückt ist.",
    "category": [
-    "Weihnachten"
+    "Christmas"
    ],
    "id": "119957",
    "prompts": [
@@ -8673,7 +8673,7 @@
   {
    "altText": "Eine Hand hält ein durchsichtiges Medikamentenfläschchen aus Glas voller brauner Kapseln.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119958",
    "prompts": [
@@ -8707,7 +8707,7 @@
   {
    "altText": "Ein Arm mit weißem Gipsverband, der von den Fingerspitzen bis zur Schulter reicht.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119959",
    "prompts": [
@@ -8741,7 +8741,7 @@
   {
    "altText": "Ein Arzt mit OP-Kittel und Haube betrachtet das Röntgenbild eines Brustkorbs.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119962",
    "prompts": [
@@ -8778,7 +8778,7 @@
   {
    "altText": "Ein Arzt im weißen Laborkittel mit Krawatte hält ein Reagenzglas mit bernsteinfarbener Flüssigkeit hoch und betrachtet es nachdenklich.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119965",
    "prompts": [
@@ -8815,7 +8815,7 @@
   {
    "altText": "Eine kleine graue Wolke an blauem Himmel lässt nur auf einen Arzt regnen, der einen schwarzen Regenschirm hochhält.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119968",
    "prompts": [
@@ -8843,7 +8843,7 @@
   {
    "altText": "Kupferstich eines mittelalterlichen Pestarztes mit Hut, vogelartiger Schnabelmaske, Umhang und Handschuhen, der einen Stock hält.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119971",
    "prompts": [
@@ -8876,7 +8876,7 @@
   {
    "altText": "Viktorianische Zeichnung von festlich gekleideten Männern, die mit einem aufgewühlten Mann im Nachthemd sprechen. Er sitzt halb im Bett und hält sich den Kopf.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119978",
    "prompts": [
@@ -8919,7 +8919,7 @@
   {
    "altText": "Kritzelei einer gelben Mikrobe: ein Oval mit wackeligen Fortsätzen, großen gezeichneten Augen mit Wimpern und lächelndem Mund.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119981",
    "prompts": [
@@ -8957,7 +8957,7 @@
   {
    "altText": "Alte Zeichnung eines Mannes bei einer Röntgenuntersuchung. Der Arzt hält eine Platte mit dem Bild seiner Rippen hoch; an der Wand hängen Anzeigen und Kabel.",
    "category": [
-    "Gute Besserung"
+    "Get Well"
    ],
    "id": "119982",
    "prompts": [
@@ -9003,7 +9003,7 @@
   {
    "altText": "Eine Reihe orangefarbener Schließfächer in einer Schule.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120057",
    "prompts": [
@@ -9038,7 +9038,7 @@
   {
    "altText": "Ein fröhlicher sitzender Golden Retriever mit Abschlusshut und Quaste.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120058",
    "prompts": [
@@ -9088,7 +9088,7 @@
   {
    "altText": "Hände tauschen ein Hochschuldiplom gegen einen Händedruck; im unscharfen Hintergrund sitzen weitere Absolventen.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120059",
    "prompts": [
@@ -9137,7 +9137,7 @@
   {
    "altText": "Eine Gruppe lächelnder Absolventen in schwarzen Talaren und Hüten legt einander die Arme um die Schultern.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120060",
    "prompts": [
@@ -9171,7 +9171,7 @@
   {
    "altText": "Zeichnung von Sir Edward Coke, einem vornehm gekleideten Mann mit flacher Kappe, spitzem Bart, Halskrause und gewaltigem Umhang mit quer verlaufender Kette.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120061",
    "prompts": [
@@ -9207,7 +9207,7 @@
   {
    "altText": "Comiczeichnung lächelnder Kinderfotos in einem Jahrbuch.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120062",
    "prompts": [
@@ -9241,7 +9241,7 @@
   {
    "altText": "Kritzelige handschriftliche Unterschriften in einem Jahrbuch, dazu Nachrichten verschiedener Kinder darüber, cool zu bleiben.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120063",
    "prompts": [
@@ -9277,7 +9277,7 @@
   {
    "altText": "Ein Klassenzimmer voller Tische und mit einer weißen Tafel, an der sich viele Jugendliche schreibend drängen.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120064",
    "prompts": [
@@ -9325,7 +9325,7 @@
   {
    "altText": "Eine Person im Gorillakostüm mit Abschlusskleidung hält ein Diplom und zeigt mit dem Daumen nach oben.",
    "category": [
-    "Abschlussfeier"
+    "Graduation"
    ],
    "id": "120065",
    "prompts": [
@@ -9360,7 +9360,7 @@
   {
    "altText": "Gemälde eines Schafkopfs auf dem Körper eines Mannes, der Hemd und rosa Pullover trägt.",
    "category": [
-    "Vatertag"
+    "Father's Day"
    ],
    "id": "120073",
    "prompts": [
@@ -9388,7 +9388,7 @@
   {
    "altText": "Drei ältere Männer mit Brillen sitzen in einem schmucklosen Raum und schauen ernst auf ihre Spielkarten.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120074",
    "prompts": [
@@ -9420,7 +9420,7 @@
   {
    "altText": "Drei ältere Menschen in fantasievoller Festkleidung, darunter geschmückte Hüte, heben bei einer vornehmen Teerunde im Freien ihre Tassen.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120082",
    "prompts": [
@@ -9451,7 +9451,7 @@
   {
    "altText": "Ein lächelnder älterer Mann mit Glatze, Brille, offenem Hemd und Jeans spielt Schlagzeug.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120085",
    "prompts": [
@@ -9482,7 +9482,7 @@
   {
    "altText": "Ein älterer Mann im Anzug steht vor einem großen Haufen Papiergeld. Vor Freude reißt er Augen und Mund auf und hebt die Hände.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120097",
    "prompts": [
@@ -9519,7 +9519,7 @@
   {
    "altText": "Zwei ältere Damen in Sonnenbrillen und Badeanzügen liegen mit tropischen Getränken auf Liegestühlen am Pool und lächeln einander an.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120117",
    "prompts": [
@@ -9550,7 +9550,7 @@
   {
    "altText": "Alter Kupferstich des polnischen Königs, eines ernst blickenden bärtigen Mannes mit Krone und Umhang, der ein Zepter hält.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120118",
    "prompts": [
@@ -9578,7 +9578,7 @@
   {
    "altText": "Comiczeichnung einer klischeehaften Großmutter mit weißem Dutt, die grimmig schaut und wütend ihren Gehstock hebt.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120119",
    "prompts": [
@@ -9621,7 +9621,7 @@
   {
    "altText": "Ein verstreuter Haufen Rabattgutscheine für verschiedene Alltagsartikel.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120120",
    "prompts": [
@@ -9653,7 +9653,7 @@
   {
    "altText": "Außenansicht eines vierstöckigen Seniorenheims im Vorort mit großem, säulengetragenem Vordach am Eingang an einem sonnigen Tag.",
    "category": [
-    "Ruhestand"
+    "Retirement"
    ],
    "id": "120145",
    "prompts": [
@@ -9690,7 +9690,7 @@
   {
    "altText": "Eine edle dreistöckige silberne Etagere mit kleinen feinen Häppchen auf einer weißen Tischdecke.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120156",
    "prompts": [
@@ -9718,7 +9718,7 @@
   {
    "altText": "Bläulich getöntes Porträt einer Braut aus den 1950er-Jahren mit kunstvollem Schleier. Sie lächelt und schaut auf ihren Blumenstrauß hinunter.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120158",
    "prompts": [
@@ -9746,7 +9746,7 @@
   {
    "altText": "Eine Braut im Gorillakostüm und ein Bräutigam im Bigfootkostüm stehen eingehakt vor ihren Gästen, die im Vordergrund zu sehen sind.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120162",
    "prompts": [
@@ -9774,7 +9774,7 @@
   {
    "altText": "Sepiafoto aus den 1940er-Jahren: Ein elegant gekleideter Mann zeigt einer jungen Frau einen großen Ring in einem Kästchen. Beide lächeln.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120165",
    "prompts": [
@@ -9802,7 +9802,7 @@
   {
    "altText": "Ein Strauß weißer Wildblumen wird in einen klaren blauen Himmel geworfen.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120181",
    "prompts": [
@@ -9830,7 +9830,7 @@
   {
    "altText": "Zeichnung einer offenen Ringschachtel mit einem prächtigen Ehering. Ein riesiger Diamant glänzt oben, acht weitere sitzen in der Ringschiene.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120182",
    "prompts": [
@@ -9858,7 +9858,7 @@
   {
    "altText": "Ein junges Brautpaar steht Rücken an Rücken. Beide schauen nachdenklich und unzufrieden zur jeweils anderen Person hinüber.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120183",
    "prompts": [
@@ -9886,7 +9886,7 @@
   {
    "altText": "Skizzenhafte alte Zeichnung eines Bräutigams, der seine lächelnde Braut beim gemeinsamen Gehen auf die Wange küsst.",
    "category": [
-    "Hochzeit"
+    "Wedding"
    ],
    "id": "120184",
    "prompts": [
@@ -9914,7 +9914,7 @@
   {
    "altText": "Drei bunte Herzbonbons mit den englischen Aufschriften „be mine“, „my love“ und „kiss me“.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120194",
    "prompts": [
@@ -9956,7 +9956,7 @@
   {
    "altText": "Eine einfache Herz-Zehn-Spielkarte mit zehn roten Herzen.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120195",
    "prompts": [
@@ -9991,7 +9991,7 @@
   {
    "altText": "Zeichnung im viktorianischen Stil: Amor fliegt mit kunstvoll um seine Hüfte drapiertem Stoff davon, nachdem er einen Pfeil abgeschossen hat.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120196",
    "prompts": [
@@ -10022,7 +10022,7 @@
   {
    "altText": "Radierung einer jungen viktorianischen Frau, die sitzend und aufmerksam einen hochgehaltenen Brief liest. Eine klassische nackte Statue blickt dabei zu.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120197",
    "prompts": [
@@ -10066,7 +10066,7 @@
   {
    "altText": "Ein stark vereinfachtes gezeichnetes Paar steht sich mit geschlossenen Augen gegenüber und streckt die Lippen übertrieben weit zu einem Kuss vor.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120198",
    "prompts": [
@@ -10101,7 +10101,7 @@
   {
    "altText": "Nahaufnahme einer Person in einer alten Comiczeichnung, die lächelt und ihre errötende Wange berührt.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120200",
    "prompts": [
@@ -10132,7 +10132,7 @@
   {
    "altText": "Eine Hand mit rot lackierten Nägeln will ein rotes, herzförmiges Hartbonbon in ein Martiniglas mit roter Flüssigkeit fallen lassen.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120201",
    "prompts": [
@@ -10164,7 +10164,7 @@
   {
    "altText": "Comiczeichnung einer besorgten Frau, die sich auf eine Hand stützt und eine herzförmige Schachtel mit Süßigkeiten öffnet, die wie ihre Sorgen geformt sind.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120202",
    "prompts": [
@@ -10200,7 +10200,7 @@
   {
    "altText": "Eine rote Karte mit schlüssellochförmigem Bild: Ein sitzender Mann ist von hinten zu sehen, auf seinem Schoß lacht eine Frau mit zurückgeworfenem Kopf.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120203",
    "prompts": [
@@ -10234,7 +10234,7 @@
   {
    "altText": "Zeichnung aus den 1890er-Jahren: Ein Mann im Smoking hält flehend die Hände einer schönen Frau, die sich teilweise von ihm abwendet.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120204",
    "prompts": [
@@ -10277,7 +10277,7 @@
   {
    "altText": "Foto aus den 1950er-Jahren: Ein streberhaft wirkender Mann sitzt mit hochgelegten Füßen auf einer Parkbank und liest „How to Make Love“. Neben ihm sitzt eine gelangweilte Frau.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120205",
    "prompts": [
@@ -10310,7 +10310,7 @@
   {
    "altText": "Ein leicht lächelnder älterer Mann mit Glatze und Anzug trägt eine rote Federboa und ist mit roten Lippenstiftküssen bedeckt.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120206",
    "prompts": [
@@ -10344,7 +10344,7 @@
   {
    "altText": "Gemalte Illustration aus den 1950er-Jahren einer lächelnden Frau mit Lockenwicklern, die auf dem Bauch im Bett liegt und einen Wecker stellt.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "120207",
    "prompts": [
@@ -10381,7 +10381,7 @@
   {
    "altText": "Kinderzeichnung mit Wachsmalstiften von einer glücklichen Mutter, einem Vater und zwei Kindern vor einem niedlichen Haus mit Blumen.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "120208",
    "prompts": [
@@ -10410,7 +10410,7 @@
   {
    "altText": "Ein Mann im Anzug hält einen riesigen Strauß roter Rosen hin, der seinen ganzen Oberkörper und Kopf verdeckt.",
    "category": [
-    "Valentinstag"
+    "Valentine's Day"
    ],
    "id": "120209",
    "prompts": [
@@ -10444,7 +10444,7 @@
   {
    "altText": "Blick aus einem kleinen Geschäft einer Kleinstadt auf eine lächelnde Mutter und Tochter aus den 1950er-Jahren, die Hand in Hand darauf zugehen.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "120210",
    "prompts": [
@@ -10472,7 +10472,7 @@
   {
    "altText": "Blick von hinten auf eine Mutter aus den 1950er-Jahren, zwei Kinder und einen Hund, die vor ihrem Schrankfernseher sitzen.",
    "category": [
-    "Muttertag"
+    "Mother's Day"
    ],
    "id": "120211",
    "prompts": [
@@ -10509,7 +10509,7 @@
   {
    "altText": "Eine riesige rote, zeigende Hand schwebt über einem aufgebrachten Büroangestellten, der an seinem Schreibtisch einen Karton packt.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "120212",
    "prompts": [
@@ -10537,7 +10537,7 @@
   {
    "altText": "Stilisierte, kantige Zeichnung eines Königs wie auf einer Spielkarte, mit gelocktem Haar und Krone, der einen Dolch vorzeigt.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "120213",
    "prompts": [
@@ -10568,7 +10568,7 @@
   {
    "altText": "Ein Schiedsrichter mit Vokuhila und Pfeife im Mund zeigt auf die Betrachter und hält eine rote Karte hoch.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "120214",
    "prompts": [
@@ -10605,7 +10605,7 @@
   {
    "altText": "Illustration aus den 1950er-Jahren: Eine fröhliche Frau im eng anliegenden Weihnachtsmannkostüm hat sich bei zwei Männern in Unterwäsche untergehakt; einer zwinkert.",
    "category": [
-    "Sexy Weihnachten"
+    "Sexy Christmas"
    ],
    "id": "120215",
    "prompts": [
@@ -10634,7 +10634,7 @@
   {
    "altText": "Eine hart beleuchtete, erschöpfte junge Frau in schlichter Café-Arbeitskleidung mit einem Verband an einem Arm.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "120362",
    "prompts": [
@@ -10666,7 +10666,7 @@
   {
    "altText": "Ein Kleinkind mit Weste und Fliege sitzt vor Taschenrechnern und schwenkt eine Erwachsenenbrille, als würde es schreien.",
    "category": [
-    "Du bist gefeuert!"
+    "You're Fired"
    ],
    "id": "120424",
    "prompts": [
@@ -10700,7 +10700,7 @@
   {
    "altText": "Eine gerade Straße mit zwei Fahrspuren führt vorbei an struppigem Gras zu niedrigen Bergen.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "120456",
    "prompts": [
@@ -10734,7 +10734,7 @@
   {
    "altText": "Ein abstraktes Gemälde mit dicken, unordentlichen, strukturierten Pinselstrichen in Blau, Gelb und Rot.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "120457",
    "prompts": [
@@ -10768,7 +10768,7 @@
   {
    "altText": "Silhouette eines Mannes im Profil, der zu einem sternenübersäten Nachthimmel aufblickt.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "120458",
    "prompts": [
@@ -10803,7 +10803,7 @@
   {
    "altText": "Eine Person fährt bei Sonnenuntergang mit einem Kanu über einen nebligen See. Auf den Bergen dahinter ist herbstlich gefärbtes Laub zu sehen.",
    "category": [
-    "Gedicht"
+    "Poem"
    ],
    "id": "120459",
    "prompts": [
@@ -10850,7 +10850,7 @@
   {
    "altText": "Ein Mann schwebt in der Luft und wird von einem blauen Lichtstrahl durch Nebel nach oben gezogen.",
    "category": [
-    "Außerirdische"
+    "Aliens"
    ],
    "id": "120460",
    "prompts": [
