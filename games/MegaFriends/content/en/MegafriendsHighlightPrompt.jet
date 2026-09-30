@@ -41,7 +41,7 @@
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119324",
-   "prompt": "Wir schenken unserem Freund einen Blumenstrauß – nur ohne Blumen. Was steckt drin? {{BLANK}}!"
+   "prompt": "Wir schenken unserem Freund einen Blumenstrauß - nur ohne Blumen. Was steckt drin? {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
@@ -168,7 +168,7 @@
    "category": "SOLO",
    "familiarity": "FRIENDS",
    "id": "119550",
-   "prompt": "Womit kann man unseren Freund kitzeln – im wörtlichen oder übertragenen Sinn?"
+   "prompt": "Womit kann man unseren Freund kitzeln - im wörtlichen oder übertragenen Sinn?"
   },
   {
    "category": "SOLO",
@@ -307,7 +307,7 @@
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "119599",
-   "prompt": "Oh je, unserem Freund ist schlecht – er hat auf dem Jahrmarkt {{BLANK}} gegessen."
+   "prompt": "Oh je, unserem Freund ist schlecht - er hat auf dem Jahrmarkt {{BLANK}} gegessen."
   },
   {
    "category": "SOLO",
@@ -962,7 +962,7 @@
    "category": "SOLO",
    "familiarity": "STRANGERS",
    "id": "120096",
-   "prompt": "Unser Freund hat ein Versteck eingerichtet – an einem völlig verlassenen Ort. Wo?"
+   "prompt": "Unser Freund hat ein Versteck eingerichtet - an einem völlig verlassenen Ort. Wo?"
   },
   {
    "category": "SOLO",
@@ -1100,7 +1100,7 @@
    "category": "MEGAPALS",
    "familiarity": "STRANGERS",
    "id": "120343",
-   "prompt": "Die Freundschaft der beiden ist ein Epos – fast so episch wie der Film {{BLANK}}!"
+   "prompt": "Die Freundschaft der beiden ist ein Epos - fast so episch wie der Film {{BLANK}}!"
   },
   {
    "category": "MEGAPALS",
