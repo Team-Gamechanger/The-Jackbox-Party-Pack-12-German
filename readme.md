@@ -24,17 +24,7 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 ## Controller
 - FRIEND SCORES (Grafik)
 
-## Lobby
-- Wall of Friends
-- Join
-
-## Global
-- Jackbox.tv
-- Audience Beitreten
-
 ## Tutorial
-- King Friendship VXII
-- Press SKIP on your device to bypass tutorial
 - Match on this!
 - Jackbox.tv mit Raumcode
 - hotdog
