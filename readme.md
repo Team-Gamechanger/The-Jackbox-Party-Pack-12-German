@@ -20,8 +20,6 @@ Bitte aus dieser Liste hier löschen wenn es gefixt wurde
 - Postgame WINNER und YES|NO
 
 # MegaPals
-- Deutsche Anführungszeichen müssen weg
-
 
 ## Controller
 - FRIEND SCORES (Grafik)
