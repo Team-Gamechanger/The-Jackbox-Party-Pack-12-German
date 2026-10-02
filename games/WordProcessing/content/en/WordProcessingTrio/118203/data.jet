@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] This one will appeal to all musical tastes. Or at least three. Tell me if each song title you run across is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Hier ist für jeden Musikgeschmack etwas dabei. Na ja, zumindest für drei. Sagt mir zu jedem Songtitel, der euch begegnet, ob er zu..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Beyoncé Song..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einem Song von Nena..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Toby Keith Song..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einem Song von Falco..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Miley Cyrus Song."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einem Song von Sido gehört."
   },
   {
    "t": "B",

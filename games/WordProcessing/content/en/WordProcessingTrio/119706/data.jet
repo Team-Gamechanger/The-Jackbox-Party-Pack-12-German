@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] This prompt will examine three distinct moments of human history. Of the expressions you’re about to see, tell me if each one refers to..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Bei dieser Aufgabe widmen wir uns drei sehr unterschiedlichen Kapiteln der Menschheitsgeschichte. Sagt mir zu jedem Ausdruck, den ihr gleich seht, ob er..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] COVID-19 Terminology..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein Begriff aus der Corona-Pandemie..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] World War II Terminology..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein Begriff aus dem Zweiten Weltkrieg..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or TikTok Terminology."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein Begriff aus der TikTok-Sprache ist."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Did I ever say this was a WORD-BASED game? Well (evil chuckle) not necessarily. Tell me if each answer..."
+   "s": "Habe ich etwa behauptet, hier ginge es nur um WÖRTER? Tja, (lacht diabolisch) nicht unbedingt. Sagt mir, ergibt die jeweilige Rechnung..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Equals 4..."
+   "s": "vier..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Equals 8..."
+   "s": "acht..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or Equals 14."
+   "s": "...oder vierzehn."
   },
   {
    "t": "B",
@@ -53,7 +53,7 @@
    "t": "A",
    "v": "outro",
    "n": "OutroAudio",
-   "s": "Based on the number of tomatoes that were thrown at my face, I now see that was a mistake."
+   "s": "Nach der Menge an Tomaten zu urteilen, die mir gerade ins Gesicht geflogen sind, war das wohl ein Fehler."
   }
  ]
 }

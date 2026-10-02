@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] You are about to encounter a series of occupations. For each, tell me if it is someone who..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Gleich begegnet ihr einer Reihe von Berufs- und Rollenbezeichnungen. Sagt mir, ist damit jeweils jemand gemeint, der..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] works on a Film Set..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] an einem Filmset arbeitet..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] works on a Ship..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] auf einem Schiff arbeitet..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or does their work on a Playing Field."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder auf dem Spielfeld im Einsatz ist."
   },
   {
    "t": "B",

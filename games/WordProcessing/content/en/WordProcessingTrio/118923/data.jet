@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] If you enjoy card games, this prompt may be of no help to you whatsoever! For each answer, tell me if it refers to..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ihr spielt gerne Karten? Das hilft euch bei dieser Aufgabe womöglich überhaupt nicht! Sagt mir zu jedem Begriff, ob er sich auf..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Jack..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einen Buben..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Queen..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] eine Dame..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or King."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einen König bezieht."
   },
   {
    "t": "B",

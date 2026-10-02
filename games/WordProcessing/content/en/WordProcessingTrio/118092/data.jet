@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] If you know Quiztar, you know that I love a good origin story. With that in mind, tell me if each TITLE you’re about to see was..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Wer mich kennt, weiß, dass ich eine gute Ursprungsgeschichte liebe. Sagt mir also zu jedem Titel, den ihr gleich seht, ob es sich dabei ursprünglich um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Originally a Video Game..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein Videospiel..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Originally a Book..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein Buch..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Originally a Movie."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einen Film handelte."
   },
   {
    "t": "B",

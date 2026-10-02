@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Ah, you humans and your charming little games. I shall present you with a series of such games. You must tell me if each is..."
+   "s": "Ach, ihr Menschen und eure entzückenden kleinen Spiele! Ich werde euch einige davon zeigen. Sagt mir, spielt man sie..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Played with a Sphere..."
+   "s": "mit einer Kugel..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Played with a Non-Sphere..."
+   "s": "mit etwas, das nicht kugelförmig ist..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or Played with Nothing but your delightful, tiny bodies."
+   "s": "...oder ganz ohne Hilfsmittel, nur mit euren bezaubernden kleinen Körpern."
   },
   {
    "t": "B",

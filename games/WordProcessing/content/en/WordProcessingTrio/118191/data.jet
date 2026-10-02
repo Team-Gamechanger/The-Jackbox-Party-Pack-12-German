@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] For this one, you’ll be considering the “here and now,” but also the “there and was.” Tell me if each answer is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Bei dieser Aufgabe kommt es auf den richtigen Fall an. Keine Sorge, ihr müsst dafür nicht stolpern. Sagt mir, steht nach der Präposition, die ihr gleich seht..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Past Tense Verb..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] der Dativ..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Present Tense Verb..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] der Akkusativ..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a word that can be BOTH a past tense or a present tense verb. I think you’ll have fun with this one."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder je nach Verwendung entweder der Dativ ODER der Akkusativ. Da kommt doch Freude auf!"
   },
   {
    "t": "B",

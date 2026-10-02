@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "A number of words and phrases will pass before you. Tell me, is each one..."
+   "s": "Gleich zieht eine Reihe von Wörtern und Ausdrücken an euch vorbei. Sagt mir, handelt es sich jeweils um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "the title of a Rihanna Song..."
+   "s": "den Titel eines Songs von Wir sind Helden..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "the title of an Ed Sheeran Song..."
+   "s": "den Titel eines Songs von den Ärzten..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Disaster Supply Recommended by Ready.gov"
+   "s": "...oder einen Gegenstand für die Notfallausrüstung laut dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe."
   },
   {
    "t": "B",

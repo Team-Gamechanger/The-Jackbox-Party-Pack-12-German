@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Students, it’s time for anatomy class. Tell me if the body parts you are to come across should be classified as..."
+   "s": "Aufgepasst, meine Schüler, es ist Zeit für Anatomieunterricht! Sagt mir, gehören die Körperteile, die ihr gleich seht..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Head Stuff..."
+   "s": "zum Kopf..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "Chest Stuff..."
+   "s": "zur Brust..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or Leg Stuff."
+   "s": "...oder zum Bein."
   },
   {
    "t": "B",

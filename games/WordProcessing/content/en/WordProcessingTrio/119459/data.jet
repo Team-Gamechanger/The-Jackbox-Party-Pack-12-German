@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Know the difference between a homonym, homophone, and homograph? I’ll make it easy for you. Tell me if each word pairing..."
+   "s": "Kennt ihr den Unterschied zwischen Homonymen, Homophonen und Homographen? Ich mache es euch leicht. Sagt mir zu jedem Wortpaar: Werden die beiden Wörter..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Sounds the Same but has a Different Spelling..."
+   "s": "gleich ausgesprochen, aber unterschiedlich geschrieben..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "is Spelled the Same but Sounds Different..."
+   "s": "gleich geschrieben, aber unterschiedlich ausgesprochen..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or is Spelled AND Sounds the SAME... in every case, the MEANING is DIFFERENT."
+   "s": "...oder SOWOHL gleich geschrieben ALS AUCH gleich ausgesprochen. Die BEDEUTUNG ist in allen Fällen unterschiedlich."
   },
   {
    "t": "B",

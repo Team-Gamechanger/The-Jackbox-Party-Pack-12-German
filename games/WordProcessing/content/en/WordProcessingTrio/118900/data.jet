@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "If it isn’t one thing, it’s another, am I right? For the items you shall come across, tell me if each one is..."
+   "s": "Wenn es nicht das eine ist, dann ist es das andere. Habe ich recht? Sagt mir zu den Dingen, die ihr gleich seht, ob sie..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "Black..."
+   "s": "schwarz..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "White..."
+   "s": "weiß..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or BOTH Black and White. Hey, life is like that sometimes!"
+   "s": "...oder SOWOHL schwarz ALS AUCH weiß sind. Tja, so ist das Leben manchmal!"
   },
   {
    "t": "B",

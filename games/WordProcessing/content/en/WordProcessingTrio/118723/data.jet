@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "My mortal friends, this prompt will be quantifiably challenging. You must tell me if each item refers to..."
+   "s": "Meine sterblichen Freunde, bei dieser Aufgabe könnt ihr mit einer Herausforderung rechnen. Sagt mir, steht der jeweilige Begriff für..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a number Between Zero and One Hundred...."
+   "s": "eine Zahl unter hundert..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "One Hundred precisely..."
+   "s": "genau hundert..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a number that is More than One Hundred."
+   "s": "...oder eine Zahl über hundert."
   },
   {
    "t": "B",

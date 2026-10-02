@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] I beseech you to follow the SIGNS. You will come across a series of phrases. Tell me, is each one found on..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ich bitte euch inständig: Folgt den SCHILDERN! Ihr werdet gleich eine Reihe von Hinweisen sehen. Sagt mir, findet man den jeweiligen Hinweis auf..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Road and Highway Sign..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einem Schild im Straßenverkehr..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] an Airport Sign..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einem Schild am Flughafen..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or an Outdoor Recreation Sign."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einem Schild im Naturpark."
   },
   {
    "t": "B",

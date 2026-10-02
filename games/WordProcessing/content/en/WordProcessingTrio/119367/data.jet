@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Try this devilish trio on for size! Tell me, are the individuals you’re about to see usually displayed..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Probiert doch mal dieses teuflische Trio an! Sagt mir, werden die Figuren und Personen, die ihr gleich seht, üblicherweise..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Nude from the waist up, aka no shirt..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] oben ohne, also ohne Oberteil..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Nude from the waist down, like, no pants..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] unten ohne, also ohne Hose..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or totally, one hundred percent NAKED?!"
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder völlig, hundertprozentig NACKT dargestellt?!"
   },
   {
    "t": "B",
@@ -53,7 +53,7 @@
    "t": "A",
    "v": "outro",
    "n": "OutroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] That was fun, but can we please get some content about FEET? Please?"
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Das hat Spaß gemacht, aber könnten wir bitte auch mal ein paar Fragen über FÜSSE haben? Bitte?"
   }
  ]
 }

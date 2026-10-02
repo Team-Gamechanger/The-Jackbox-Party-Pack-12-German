@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "You will soon visit a number of places on Earth. Tell me whether each one is..."
+   "s": "Gleich besucht ihr verschiedene Orte auf der Erde. Sagt mir, handelt es sich jeweils um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "an Island..."
+   "s": "eine Insel..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "an Independent Nation..."
+   "s": "einen unabhängigen Staat..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or BOTH."
+   "s": "...oder BEIDES: eine Insel, die zugleich ein unabhängiger Staat ist."
   },
   {
    "t": "B",
@@ -53,7 +53,7 @@
    "t": "A",
    "v": "outro",
    "n": "OutroAudio",
-   "s": "I do wish I could travel more. Mostly I just erupt vertically from the Earth’s crust and recede back into the ground. But you can’t beat the views!"
+   "s": "Ich wünschte, ich könnte mehr reisen. Meistens breche ich einfach senkrecht aus der Erdkruste hervor und versinke dann wieder im Boden. Aber die Aussicht ist unschlagbar!"
   }
  ]
 }

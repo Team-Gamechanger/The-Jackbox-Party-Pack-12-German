@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Pay attention to this, workout warriors! You will see a series of exercises. Tell me if each one is..."
+   "s": "Aufgepasst, ihr Fitnessfanatiker! Gleich seht ihr eine Reihe von Übungen. Sagt mir, handelt es sich jeweils um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "an Upper Body Exercise..."
+   "s": "eine Übung für den Oberkörper..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Lower Body Exercise..."
+   "s": "eine Übung für den Unterkörper..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Full Body Exercise that strongly impacts the puny Upper AND Lower Body... of humans."
+   "s": "...oder eine Ganzkörperübung, die SOWOHL den kümmerlichen Oberkörper ALS AUCH den Unterkörper ordentlich fordert. Den von Menschen, versteht sich."
   },
   {
    "t": "B",

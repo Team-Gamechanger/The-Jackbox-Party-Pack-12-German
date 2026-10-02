@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Let’s see if you can separate fact from fiction. You will encounter some statements. For each one, tell me if it is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Mal sehen, ob ihr Wahrheit und Unsinn auseinanderhalten könnt. Gleich begegnet ihr verschiedenen Aussagen. Sagt mir, ist die jeweilige Aussage..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Always True..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] immer wahr..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Always False..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] immer falsch..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Sometimes True, sometimes not. Oh mind you, some of these are intentionally tricky. Pay attention!"
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder manchmal wahr und manchmal nicht. Aber Vorsicht: Einige davon sind absichtlich knifflig. Passt gut auf!"
   },
   {
    "t": "B",

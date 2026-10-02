@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] You will see a series of meaningful events and milestones. Tell me, does each one occur..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet gleich eine Reihe wichtiger Ereignisse und Meilensteine sehen. Sagt mir, findet das jeweilige Ereignis..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Once a Year..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einmal im Jahr..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Twice a Year..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] zweimal im Jahr..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Every Four Years."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder alle vier Jahre statt."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Do you know your American history? You will soon see the names of some political figures. You must tell me if each one was..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Kennt ihr euch mit deutscher Politik aus? Gleich seht ihr die Namen einiger politischer Persönlichkeiten. Sagt mir, war die jeweilige Person..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] the Governor of a U.S. State..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Bundesminister..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a U.S. President..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Bundeskanzler..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or someone who served as a Governor AND President. Not at the same time, of course."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder hat sie SOWOHL das Amt des Bundesministers ALS AUCH das des Bundeskanzlers bekleidet. Ein Amt allein reicht manchen Menschen offenbar nicht!"
   },
   {
    "t": "B",

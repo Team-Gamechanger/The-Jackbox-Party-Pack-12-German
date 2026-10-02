@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Cerebriel says: Let’s rock! You shall encounter an assortment of recording artists. Tell me whether each one is..."
+   "s": "Ich sage: Lasst uns rocken! Ihr werdet gleich eine Reihe von Bandnamen sehen. Sagt mir, wurde die jeweilige Band..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Band that Formed in the 1970s..."
+   "s": "in den 1970ern gegründet..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Band that Formed in the 1980s..."
+   "s": "in den 1980ern gegründet..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Band that Formed in the 1990s."
+   "s": "...oder in den 1990ern gegründet."
   },
   {
    "t": "B",

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] In the name of villainy, you are about to run across a rogue’s gallery of dangerous characters. Tell me if each one is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Im Namen des Bösen! Gleich begegnet ihr einer ganzen Schurkengalerie gefährlicher Gestalten. Sagt mir, ist jede dieser Figuren..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Primary Superman Villain..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein berüchtigter Gegner von Superman..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a known Batman Villain..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein bekannter Gegner von Batman..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or an obsessive enemy of Spider-Man."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein erbitterter Feind von Spider-Man."
   },
   {
    "t": "B",

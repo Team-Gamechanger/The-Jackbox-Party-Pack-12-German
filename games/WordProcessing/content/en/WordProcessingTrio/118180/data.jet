@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] As I, Quiztar, like to say: Everything in its proper place. Now tell me whether each of the TITLES you’re about to see is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Wie ich immer sage: Alles an seinen Platz! Gleich begegnet ihr einer Reihe von Filmtiteln. Sagt mir, handelt es sich jeweils um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Prequel Movie..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein Prequel, also die Vorgeschichte zu einem anderen Film..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] an Original Movie..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] den ersten Film einer Reihe..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Sequel Movie."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder eine Fortsetzung."
   },
   {
    "t": "B",

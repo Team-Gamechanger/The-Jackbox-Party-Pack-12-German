@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Welcome to Happy Hour! Adults only, please. I will serve up a number of curiously named cocktails. You must tell me if each one is..."
+   "s": "Willkommen zur Happy Hour! Zutritt bitte nur für Erwachsene. Ich serviere euch eine Reihe von Cocktails mit kuriosen Namen. Sagt mir, handelt es sich jeweils um..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Vodka Cocktail..."
+   "s": "einen Wodka-Cocktail..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Gin Cocktail..."
+   "s": "einen Gin-Cocktail..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Rum Cocktail."
+   "s": "...oder einen Rum-Cocktail."
   },
   {
    "t": "B",

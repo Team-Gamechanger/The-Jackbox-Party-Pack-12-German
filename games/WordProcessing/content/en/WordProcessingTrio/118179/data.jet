@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Your fleeting human time periods amuse me. Nonetheless, I want you to tell me if a particular phenomenon..."
+   "s": "Eure flüchtigen menschlichen Zeitabschnitte amüsieren mich. Trotzdem möchte ich von euch wissen, ob das, was ihr gleich seht, erstmals..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "First Appeared in the 1990s..."
+   "s": "in den 1990ern..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "First Appeared in the 2000s..."
+   "s": "in den 2000ern..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or First Appeared in the 2010s."
+   "s": "...oder in den 2010ern auftauchte."
   },
   {
    "t": "B",

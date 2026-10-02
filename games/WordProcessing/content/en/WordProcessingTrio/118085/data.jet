@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] I don’t wear clothing, but I understand it has a purpose. For the characters I’m about to reveal, tell me if each of them..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Ich selbst trage keine Kleidung, aber sie scheint ja einen Zweck zu erfüllen. Sagt mir zu jeder Figur, die ich euch gleich zeige, ob sie..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Has Headwear..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] eine Kopfbedeckung trägt..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Has a Cape..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einen Umhang trägt..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or has BOTH Headwear AND a Cape. I think that’s overkill, but who am I to judge."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder SOWOHL eine Kopfbedeckung ALS AUCH einen Umhang trägt. Ich finde das übertrieben, aber wer bin ich, darüber zu urteilen."
   },
   {
    "t": "B",

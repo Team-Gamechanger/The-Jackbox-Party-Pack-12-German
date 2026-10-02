@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] For the answers you’re about to see, tell me if each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Sagt mir zu jedem Begriff, den ihr gleich seht, ob das, was er bezeichnet..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Has one or more Legs..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein oder mehrere Beine hat..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Has One or More Teeth..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einen oder mehrere Zähne hat..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Has BOTH Legs and Teeth."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder SOWOHL Beine ALS AUCH Zähne hat."
   },
   {
    "t": "B",

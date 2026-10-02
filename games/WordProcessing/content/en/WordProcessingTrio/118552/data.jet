@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "Take note of the talented individuals you will soon encounter. Tell me if each one is..."
+   "s": "Achtet auf die talentierten Persönlichkeiten, deren Namen ihr gleich sehen werdet. Sagt mir, ob die jeweilige Person..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Canadian..."
+   "s": "aus Österreich kommt..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Comedian..."
+   "s": "als Comedian auftritt..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or BOTH a Canadian AND a Comedian, as destiny would have it."
+   "s": "...oder SOWOHL aus Österreich kommt ALS AUCH als Comedian auftritt. So spielt das Schicksal!"
   },
   {
    "t": "B",
