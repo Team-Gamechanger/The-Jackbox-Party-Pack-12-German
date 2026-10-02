@@ -4086,10 +4086,10 @@
    "id": "117880",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] In the name of villainy, you are about to run across a rogue’s gallery of dangerous characters. Tell me if each one is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Primary Superman Villain...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a known Batman Villain...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an obsessive enemy of Spider-Man.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Im Namen des Bösen! Gleich begegnet ihr einer ganzen Schurkengalerie gefährlicher Gestalten. Sagt mir, ist jede dieser Figuren...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein berüchtigter Gegner von Superman...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] ein bekannter Gegner von Batman...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein erbitterter Feind von Spider-Man.",
    "OutroAudio": ""
   },
   {
@@ -4143,10 +4143,10 @@
    "id": "117885",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I beseech you to follow the SIGNS. You will come across a series of phrases. Tell me, is each one found on...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Road and Highway Sign...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an Airport Sign...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or an Outdoor Recreation Sign.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ich bitte euch inständig: Folgt den SCHILDERN! Ihr werdet gleich eine Reihe von Hinweisen sehen. Sagt mir, findet man den jeweiligen Hinweis auf...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einem Schild im Straßenverkehr...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] einem Schild am Flughafen...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einem Schild im Naturpark.",
    "OutroAudio": ""
   },
   {
@@ -4205,10 +4205,10 @@
    "id": "118044",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Ah, you humans and your charming little games. I shall present you with a series of such games. You must tell me if each is...",
-   "TitleAudio0": "Played with a Sphere...",
-   "TitleAudio1": "Played with a Non-Sphere...",
-   "TitleAudio2": "...or Played with Nothing but your delightful, tiny bodies.",
+   "IntroAudio": "Ach, ihr Menschen und eure entzückenden kleinen Spiele! Ich werde euch einige davon zeigen. Sagt mir, spielt man sie...",
+   "TitleAudio0": "mit einer Kugel...",
+   "TitleAudio1": "mit etwas, das nicht kugelförmig ist...",
+   "TitleAudio2": "...oder ganz ohne Hilfsmittel, nur mit euren bezaubernden kleinen Körpern.",
    "OutroAudio": ""
   },
   {
@@ -4263,10 +4263,10 @@
    "x": true,
    "starterContent": false,
    "done": true,
-   "IntroAudio": "Welcome to Happy Hour! Adults only, please. I will serve up a number of curiously named cocktails. You must tell me if each one is...",
-   "TitleAudio0": "a Vodka Cocktail...",
-   "TitleAudio1": "a Gin Cocktail...",
-   "TitleAudio2": "...or a Rum Cocktail.",
+   "IntroAudio": "Willkommen zur Happy Hour! Zutritt bitte nur für Erwachsene. Ich serviere euch eine Reihe von Cocktails mit kuriosen Namen. Sagt mir, handelt es sich jeweils um...",
+   "TitleAudio0": "einen Wodka-Cocktail...",
+   "TitleAudio1": "einen Gin-Cocktail...",
+   "TitleAudio2": "...oder einen Rum-Cocktail.",
    "OutroAudio": ""
   },
   {
@@ -4433,10 +4433,10 @@
    "id": "118083",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Do you know your American history? You will soon see the names of some political figures. You must tell me if each one was...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] the Governor of a U.S. State...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a U.S. President...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or someone who served as a Governor AND President. Not at the same time, of course.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Kennt ihr euch mit deutscher Politik aus? Gleich seht ihr die Namen einiger politischer Persönlichkeiten. Sagt mir, war die jeweilige Person...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Bundesminister...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Bundeskanzler...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder hat sie SOWOHL das Amt des Bundesministers ALS AUCH das des Bundeskanzlers bekleidet. Ein Amt allein reicht manchen Menschen offenbar nicht!",
    "OutroAudio": ""
   },
   {
@@ -4550,10 +4550,10 @@
    "x": false,
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] I don’t wear clothing, but I understand it has a purpose. For the characters I’m about to reveal, tell me if each of them...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Has Headwear...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Has a Cape...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or has BOTH Headwear AND a Cape. I think that’s overkill, but who am I to judge.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ich selbst trage keine Kleidung, aber sie scheint ja einen Zweck zu erfüllen. Sagt mir zu jeder Figur, die ich euch gleich zeige, ob sie...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] eine Kopfbedeckung trägt...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] einen Umhang trägt...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder SOWOHL eine Kopfbedeckung ALS AUCH einen Umhang trägt. Ich finde das übertrieben, aber wer bin ich, darüber zu urteilen.",
    "OutroAudio": ""
   },
   {
@@ -4896,10 +4896,10 @@
    "id": "118092",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] If you know Quiztar, you know that I love a good origin story. With that in mind, tell me if each TITLE you’re about to see was...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Originally a Video Game...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Originally a Book...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Originally a Movie.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Wer mich kennt, weiß, dass ich eine gute Ursprungsgeschichte liebe. Sagt mir also zu jedem Titel, den ihr gleich seht, ob es sich dabei ursprünglich um...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein Videospiel...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] ein Buch...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einen Film handelte.",
    "OutroAudio": ""
   },
   {
@@ -4953,10 +4953,10 @@
    "id": "118179",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Your fleeting human time periods amuse me. Nonetheless, I want you to tell me if a particular phenomenon...",
-   "TitleAudio0": "First Appeared in the 1990s...",
-   "TitleAudio1": "First Appeared in the 2000s...",
-   "TitleAudio2": "...or First Appeared in the 2010s.",
+   "IntroAudio": "Eure flüchtigen menschlichen Zeitabschnitte amüsieren mich. Trotzdem möchte ich von euch wissen, ob das, was ihr gleich seht, erstmals...",
+   "TitleAudio0": "in den 1990ern...",
+   "TitleAudio1": "in den 2000ern...",
+   "TitleAudio2": "...oder in den 2010ern auftauchte.",
    "OutroAudio": ""
   },
   {
@@ -5009,10 +5009,10 @@
    "id": "118180",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] As I, Quiztar, like to say: Everything in its proper place. Now tell me whether each of the TITLES you’re about to see is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Prequel Movie...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] an Original Movie...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Sequel Movie.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Wie ich immer sage: Alles an seinen Platz! Gleich begegnet ihr einer Reihe von Filmtiteln. Sagt mir, handelt es sich jeweils um...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein Prequel, also die Vorgeschichte zu einem anderen Film...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] den ersten Film einer Reihe...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder eine Fortsetzung.",
    "OutroAudio": ""
   },
   {
@@ -5123,10 +5123,10 @@
    "id": "118191",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] For this one, you’ll be considering the “here and now,” but also the “there and was.” Tell me if each answer is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Past Tense Verb...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Present Tense Verb...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a word that can be BOTH a past tense or a present tense verb. I think you’ll have fun with this one.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Bei dieser Aufgabe kommt es auf den richtigen Fall an. Keine Sorge, ihr müsst dafür nicht stolpern. Sagt mir, steht nach der Präposition, die ihr gleich seht...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] der Dativ...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] der Akkusativ...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder je nach Verwendung entweder der Dativ ODER der Akkusativ. Da kommt doch Freude auf!",
    "OutroAudio": ""
   },
   {
@@ -5297,10 +5297,10 @@
    "x": false,
    "starterContent": false,
    "done": true,
-   "IntroAudio": "Cerebriel says: Let’s rock! You shall encounter an assortment of recording artists. Tell me whether each one is...",
-   "TitleAudio0": "a Band that Formed in the 1970s...",
-   "TitleAudio1": "a Band that Formed in the 1980s...",
-   "TitleAudio2": "...or a Band that Formed in the 1990s.",
+   "IntroAudio": "Ich sage: Lasst uns rocken! Ihr werdet gleich eine Reihe von Bandnamen sehen. Sagt mir, wurde die jeweilige Band...",
+   "TitleAudio0": "in den 1970ern gegründet...",
+   "TitleAudio1": "in den 1980ern gegründet...",
+   "TitleAudio2": "...oder in den 1990ern gegründet.",
    "OutroAudio": ""
   },
   {
@@ -5510,8 +5510,8 @@
      "answers": [
       "Dosenöffner",
       "Powerbank",
-      "Trillerpfeife",
-      "Klebeband",
+      "Streichhölzer",
+      "Sonnencreme",
       "Batterien",
       "Kurbelradio",
       "Feuchttücher",
@@ -5528,10 +5528,10 @@
    "x": false,
    "starterContent": false,
    "done": true,
-   "IntroAudio": "A number of words and phrases will pass before you. Tell me, is each one...",
-   "TitleAudio0": "the title of a Rihanna Song...",
-   "TitleAudio1": "the title of an Ed Sheeran Song...",
-   "TitleAudio2": "...or a Disaster Supply Recommended by Ready.gov",
+   "IntroAudio": "Gleich zieht eine Reihe von Wörtern und Ausdrücken an euch vorbei. Sagt mir, handelt es sich jeweils um...",
+   "TitleAudio0": "den Titel eines Songs von Wir sind Helden...",
+   "TitleAudio1": "den Titel eines Songs von den Ärzten...",
+   "TitleAudio2": "...oder einen Gegenstand für die Notfallausrüstung laut dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe.",
    "OutroAudio": ""
   },
   {
@@ -5586,10 +5586,10 @@
    "starterContent": false,
    "x": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] This one will appeal to all musical tastes. Or at least three. Tell me if each song title you run across is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Beyoncé Song...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Toby Keith Song...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Miley Cyrus Song.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Hier ist für jeden Musikgeschmack etwas dabei. Na ja, zumindest für drei. Sagt mir zu jedem Songtitel, der euch begegnet, ob er zu...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einem Song von Nena...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] einem Song von Falco...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einem Song von Sido gehört.",
    "OutroAudio": ""
   },
   {
@@ -6174,10 +6174,10 @@
    "id": "118552",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "Take note of the talented individuals you will soon encounter. Tell me if each one is...",
-   "TitleAudio0": "a Canadian...",
-   "TitleAudio1": "a Comedian...",
-   "TitleAudio2": "...or BOTH a Canadian AND a Comedian, as destiny would have it.",
+   "IntroAudio": "Achtet auf die talentierten Persönlichkeiten, deren Namen ihr gleich sehen werdet. Sagt mir, ob die jeweilige Person...",
+   "TitleAudio0": "aus Österreich kommt...",
+   "TitleAudio1": "als Comedian auftritt...",
+   "TitleAudio2": "...oder SOWOHL aus Österreich kommt ALS AUCH als Comedian auftritt. So spielt das Schicksal!",
    "OutroAudio": ""
   },
   {
@@ -6349,10 +6349,10 @@
    "x": true,
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Friends, if you hate songs with far too many lyrics, now is the time to leave. For the rest of you, tell me if each song lyric you see comes from...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] the R.E.M. song “It’s the End of the World As We Know It”...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] the Billy Joel song “We Didn’t Start the Fire”...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or the Don McLean classic “American Pie.”",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Freunde, wer Lieder mit viel zu viel Text hasst, sollte jetzt gehen. Alle anderen sagen mir bitte, ob die jeweilige Textzeile aus...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] dem R.E.M.-Song „It’s the End of the World As We Know It“...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] dem Billy-Joel-Song „We Didn’t Start the Fire“...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder dem Don-McLean-Klassiker „American Pie“ stammt.",
    "OutroAudio": ""
   },
   {
@@ -6407,10 +6407,10 @@
    "id": "118723",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "My mortal friends, this prompt will be quantifiably challenging. You must tell me if each item refers to...",
-   "TitleAudio0": "a number Between Zero and One Hundred....",
-   "TitleAudio1": "One Hundred precisely...",
-   "TitleAudio2": "...or a number that is More than One Hundred.",
+   "IntroAudio": "Meine sterblichen Freunde, bei dieser Aufgabe könnt ihr mit einer Herausforderung rechnen. Sagt mir, steht der jeweilige Begriff für...",
+   "TitleAudio0": "eine Zahl unter hundert...",
+   "TitleAudio1": "genau hundert...",
+   "TitleAudio2": "...oder eine Zahl über hundert.",
    "OutroAudio": ""
   },
   {
@@ -6698,10 +6698,10 @@
    "id": "118889",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You will see a series of meaningful events and milestones. Tell me, does each one occur...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Once a Year...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Twice a Year...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Every Four Years.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet gleich eine Reihe wichtiger Ereignisse und Meilensteine sehen. Sagt mir, findet das jeweilige Ereignis...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einmal im Jahr...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] zweimal im Jahr...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder alle vier Jahre statt.",
    "OutroAudio": ""
   },
   {
@@ -6755,10 +6755,10 @@
    "id": "118900",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "If it isn’t one thing, it’s another, am I right? For the items you shall come across, tell me if each one is...",
-   "TitleAudio0": "Black...",
-   "TitleAudio1": "White...",
-   "TitleAudio2": "...or BOTH Black and White. Hey, life is like that sometimes!",
+   "IntroAudio": "Wenn es nicht das eine ist, dann ist es das andere. Habe ich recht? Sagt mir zu den Dingen, die ihr gleich seht, ob sie...",
+   "TitleAudio0": "schwarz...",
+   "TitleAudio1": "weiß...",
+   "TitleAudio2": "...oder SOWOHL schwarz ALS AUCH weiß sind. Tja, so ist das Leben manchmal!",
    "OutroAudio": ""
   },
   {
@@ -7043,10 +7043,10 @@
    "id": "118923",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] If you enjoy card games, this prompt may be of no help to you whatsoever! For each answer, tell me if it refers to...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Jack...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Queen...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or King.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ihr spielt gerne Karten? Das hilft euch bei dieser Aufgabe womöglich überhaupt nicht! Sagt mir zu jedem Begriff, ob er sich auf...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] einen Buben...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] eine Dame...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einen König bezieht.",
    "OutroAudio": ""
   },
   {
@@ -7399,11 +7399,11 @@
    "id": "119024",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "You will soon visit a number of places on Earth. Tell me whether each one is...",
-   "TitleAudio0": "an Island...",
-   "TitleAudio1": "an Independent Nation...",
-   "TitleAudio2": "...or BOTH.",
-   "OutroAudio": "I do wish I could travel more. Mostly I just erupt vertically from the Earth’s crust and recede back into the ground. But you can’t beat the views!"
+   "IntroAudio": "Gleich besucht ihr verschiedene Orte auf der Erde. Sagt mir, handelt es sich jeweils um...",
+   "TitleAudio0": "eine Insel...",
+   "TitleAudio1": "einen unabhängigen Staat...",
+   "TitleAudio2": "...oder BEIDES: eine Insel, die zugleich ein unabhängiger Staat ist.",
+   "OutroAudio": "Ich wünschte, ich könnte mehr reisen. Meistens breche ich einfach senkrecht aus der Erdkruste hervor und versinke dann wieder im Boden. Aber die Aussicht ist unschlagbar!"
   },
   {
    "buckets": [
@@ -7511,10 +7511,10 @@
    "id": "119057",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] For the answers you’re about to see, tell me if each one...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Has one or more Legs...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Has One or More Teeth...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Has BOTH Legs and Teeth.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Sagt mir zu jedem Begriff, den ihr gleich seht, ob das, was er bezeichnet...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein oder mehrere Beine hat...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] einen oder mehrere Zähne hat...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder SOWOHL Beine ALS AUCH Zähne hat.",
    "OutroAudio": ""
   },
   {
@@ -7735,10 +7735,10 @@
    "id": "119198",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] You are about to encounter a series of occupations. For each, tell me if it is someone who...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] works on a Film Set...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] works on a Ship...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or does their work on a Playing Field.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Gleich begegnet ihr einer Reihe von Berufs- und Rollenbezeichnungen. Sagt mir, ist damit jeweils jemand gemeint, der...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] an einem Filmset arbeitet...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] auf einem Schiff arbeitet...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder auf dem Spielfeld im Einsatz ist.",
    "OutroAudio": ""
   },
   {
@@ -7905,10 +7905,10 @@
    "id": "119216",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Students, it’s time for anatomy class. Tell me if the body parts you are to come across should be classified as...",
-   "TitleAudio0": "Head Stuff...",
-   "TitleAudio1": "Chest Stuff...",
-   "TitleAudio2": "...or Leg Stuff.",
+   "IntroAudio": "Aufgepasst, meine Schüler, es ist Zeit für Anatomieunterricht! Sagt mir, gehören die Körperteile, die ihr gleich seht...",
+   "TitleAudio0": "zum Kopf...",
+   "TitleAudio1": "zur Brust...",
+   "TitleAudio2": "...oder zum Bein.",
    "OutroAudio": ""
   },
   {
@@ -7961,10 +7961,10 @@
    "id": "119249",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "Pay attention to this, workout warriors! You will see a series of exercises. Tell me if each one is...",
-   "TitleAudio0": "an Upper Body Exercise...",
-   "TitleAudio1": "a Lower Body Exercise...",
-   "TitleAudio2": "...or a Full Body Exercise that strongly impacts the puny Upper AND Lower Body... of humans.",
+   "IntroAudio": "Aufgepasst, ihr Fitnessfanatiker! Gleich seht ihr eine Reihe von Übungen. Sagt mir, handelt es sich jeweils um...",
+   "TitleAudio0": "eine Übung für den Oberkörper...",
+   "TitleAudio1": "eine Übung für den Unterkörper...",
+   "TitleAudio2": "...oder eine Ganzkörperübung, die SOWOHL den kümmerlichen Oberkörper ALS AUCH den Unterkörper ordentlich fordert. Den von Menschen, versteht sich.",
    "OutroAudio": ""
   },
   {
@@ -8079,11 +8079,11 @@
    "x": true,
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Try this devilish trio on for size! Tell me, are the individuals you’re about to see usually displayed...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Nude from the waist up, aka no shirt...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Nude from the waist down, like, no pants...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or totally, one hundred percent NAKED?!",
-   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] That was fun, but can we please get some content about FEET? Please?"
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Probiert doch mal dieses teuflische Trio an! Sagt mir, werden die Figuren und Personen, die ihr gleich seht, üblicherweise...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] oben ohne, also ohne Oberteil...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] unten ohne, also ohne Hose...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder völlig, hundertprozentig NACKT dargestellt?!",
+   "OutroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Das hat Spaß gemacht, aber könnten wir bitte auch mal ein paar Fragen über FÜSSE haben? Bitte?"
   },
   {
    "buckets": [
@@ -8255,10 +8255,10 @@
    "id": "119459",
    "starterContent": false,
    "done": true,
-   "IntroAudio": "Know the difference between a homonym, homophone, and homograph? I’ll make it easy for you. Tell me if each word pairing...",
-   "TitleAudio0": "Sounds the Same but has a Different Spelling...",
-   "TitleAudio1": "is Spelled the Same but Sounds Different...",
-   "TitleAudio2": "...or is Spelled AND Sounds the SAME... in every case, the MEANING is DIFFERENT.",
+   "IntroAudio": "Kennt ihr den Unterschied zwischen Homonymen, Homophonen und Homographen? Ich mache es euch leicht. Sagt mir zu jedem Wortpaar: Werden die beiden Wörter...",
+   "TitleAudio0": "gleich ausgesprochen, aber unterschiedlich geschrieben...",
+   "TitleAudio1": "gleich geschrieben, aber unterschiedlich ausgesprochen...",
+   "TitleAudio2": "...oder SOWOHL gleich geschrieben ALS AUCH gleich ausgesprochen. Die BEDEUTUNG ist in allen Fällen unterschiedlich.",
    "OutroAudio": ""
   },
   {
@@ -8312,10 +8312,10 @@
    "id": "119460",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Let’s see if you can separate fact from fiction. You will encounter some statements. For each one, tell me if it is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Always True...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Always False...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or Sometimes True, sometimes not. Oh mind you, some of these are intentionally tricky. Pay attention!",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Mal sehen, ob ihr Wahrheit und Unsinn auseinanderhalten könnt. Gleich begegnet ihr verschiedenen Aussagen. Sagt mir, ist die jeweilige Aussage...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] immer wahr...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] immer falsch...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder manchmal wahr und manchmal nicht. Aber Vorsicht: Einige davon sind absichtlich knifflig. Passt gut auf!",
    "OutroAudio": ""
   },
   {
@@ -8544,11 +8544,11 @@
    "id": "119655",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "Did I ever say this was a WORD-BASED game? Well (evil chuckle) not necessarily. Tell me if each answer...",
-   "TitleAudio0": "Equals 4...",
-   "TitleAudio1": "Equals 8...",
-   "TitleAudio2": "...or Equals 14.",
-   "OutroAudio": "Based on the number of tomatoes that were thrown at my face, I now see that was a mistake."
+   "IntroAudio": "Habe ich etwa behauptet, hier ginge es nur um WÖRTER? Tja, (lacht diabolisch) nicht unbedingt. Sagt mir, ergibt die jeweilige Rechnung...",
+   "TitleAudio0": "vier...",
+   "TitleAudio1": "acht...",
+   "TitleAudio2": "...oder vierzehn.",
+   "OutroAudio": "Nach der Menge an Tomaten zu urteilen, die mir gerade ins Gesicht geflogen sind, war das wohl ein Fehler."
   },
   {
    "buckets": [
@@ -8605,10 +8605,10 @@
    "x": true,
    "starterContent": false,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] This prompt will examine three distinct moments of human history. Of the expressions you’re about to see, tell me if each one refers to...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] COVID-19 Terminology...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] World War II Terminology...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or TikTok Terminology.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Bei dieser Aufgabe widmen wir uns drei sehr unterschiedlichen Kapiteln der Menschheitsgeschichte. Sagt mir zu jedem Ausdruck, den ihr gleich seht, ob er...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] ein Begriff aus der Corona-Pandemie...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] ein Begriff aus dem Zweiten Weltkrieg...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein Begriff aus der TikTok-Sprache ist.",
    "OutroAudio": ""
   },
   {
