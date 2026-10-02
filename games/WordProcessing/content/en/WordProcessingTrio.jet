@@ -154,7 +154,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116718"
+   "id": "116718",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -202,7 +203,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "116719"
+   "id": "116719",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -251,7 +253,8 @@
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "116720"
+   "id": "116720",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -358,7 +361,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116723"
+   "id": "116723",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -409,7 +413,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116792"
+   "id": "116792",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -457,7 +462,8 @@
    "difficulty": "Easy",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "116795"
+   "id": "116795",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -506,7 +512,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116798"
+   "id": "116798",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -557,7 +564,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "116799",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -713,7 +720,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116838"
+   "id": "116838",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -757,7 +765,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116843"
+   "id": "116843",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -807,7 +816,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "116846"
+   "id": "116846",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -907,7 +917,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "116895",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -957,7 +967,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "117050"
+   "id": "117050",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1013,7 +1024,7 @@
    "host": "CEREBRIEL",
    "id": "117055",
    "x": true,
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1064,7 +1075,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117069",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1164,7 +1175,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117093",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1214,7 +1225,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "117285"
+   "id": "117285",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1317,7 +1329,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117343",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1363,6 +1375,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117351",
+   "starterContent": false,
    "x": true
   },
   {
@@ -1463,7 +1476,8 @@
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "117620"
+   "id": "117620",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1718,7 +1732,8 @@
    "difficulty": "Hard",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117818"
+   "id": "117818",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1871,7 +1886,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "117861",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -1938,6 +1953,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "117864",
+   "starterContent": false,
    "x": false
   },
   {
@@ -1986,7 +2002,8 @@
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117880"
+   "id": "117880",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2036,7 +2053,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "117885"
+   "id": "117885",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2144,7 +2162,7 @@
    "host": "CEREBRIEL",
    "id": "118076",
    "x": true,
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2192,7 +2210,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "QUIZTAR",
-   "id": "118083"
+   "id": "118083",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2243,7 +2262,7 @@
    "host": "QUIZTAR",
    "id": "118085",
    "x": false,
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2395,7 +2414,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118180",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2442,11 +2461,11 @@
      "shorthand": "Beides"
     }
    ],
-   "difficulty": "Medium",
+   "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "118191",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2498,7 +2517,7 @@
    "host": "CEREBRIEL",
    "id": "118198",
    "x": false,
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2550,7 +2569,7 @@
    "host": "CEREBRIEL",
    "id": "118202",
    "x": false,
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2601,6 +2620,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118203",
+   "starterContent": false,
    "x": true
   },
   {
@@ -2652,7 +2672,7 @@
    "hasBothBucket": true,
    "host": "CEREBRIEL",
    "id": "118552",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2706,7 +2726,7 @@
    "host": "QUIZTAR",
    "id": "118674",
    "x": true,
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2758,7 +2778,7 @@
    "hasBothBucket": false,
    "host": "CEREBRIEL",
    "id": "118723",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2808,7 +2828,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "118889"
+   "id": "118889",
+   "starterContent": true
   },
   {
    "buckets": [
@@ -2910,7 +2931,8 @@
    "difficulty": "Easy",
    "hasBothBucket": false,
    "host": "QUIZTAR",
-   "id": "118923"
+   "id": "118923",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -2960,7 +2982,8 @@
    "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "119024"
+   "id": "119024",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3062,7 +3085,7 @@
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "119198",
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3162,7 +3185,8 @@
    "difficulty": "Medium",
    "hasBothBucket": true,
    "host": "CEREBRIEL",
-   "id": "119249"
+   "id": "119249",
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3213,7 +3237,7 @@
    "host": "QUIZTAR",
    "id": "119367",
    "x": true,
-   "starterContent": true
+   "starterContent": false
   },
   {
    "buckets": [
@@ -3264,10 +3288,11 @@
      "shorthand": "Beides"
     }
    ],
-   "difficulty": "Easy",
+   "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "CEREBRIEL",
-   "id": "119459"
+   "id": "119459",
+   "starterContent": false
   },
   {
    "buckets": [

@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Who says that fast food is bad for you?! It could be very good for you... now. Of the food items you may choose to stuff into your mouth holes, tell me if each one is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Wer sagt, dass Fast Food schlecht für euch ist?! Es könnte sogar sehr gut für euch sein… zumindest im Moment. Von den Gerichten, die ihr euch in den Mund stopft, sagt mir, ob es sich um…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] an item that has appeared on a McDonald’s menu..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein Produkt handelt, dass schon einmal auf der Speisekarte von McDonald's stand..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] an item that has appeared on a Burger King menu..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein Produkt, dass schon einmal auf der Speisekarte von Burger King stand ..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or an item found on a Wendy’s menu."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um ein Produkt, dass schon einmal auf der Speisekarte von KFC stand."
   },
   {
    "t": "B",

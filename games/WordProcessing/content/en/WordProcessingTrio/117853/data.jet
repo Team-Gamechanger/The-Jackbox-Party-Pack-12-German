@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Coming up, we’ll have familiar human quotations. Tell me is each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Als Nächstes kommen bekannte Menschen-Zitate. Sagt mir, ob jedes davon..."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Famous Movie Quote..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ein berühmtes Filmzitat..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a famous Catchphrase from a popular TV program..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] eine berühmte Catchphrase aus einer beliebten Fernsehsendung..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or corporate Brand Slogan."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder ein berühmter Werbeslogan ist."
   },
   {
    "t": "B",
@@ -53,7 +53,7 @@
    "t": "A",
    "v": "outro",
    "n": "OutroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] My favorite quote is this: “I am the Mighty Quiztar!!!” Yes yes, I know it’s not quite there yet. I’m still workshopping it."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Mein Lieblingszitat lautet: „Ich bin der Mächtige Quiztian!!!“ Ja, ja, ich weiß, es ist noch nicht ganz ausgereift. Ich arbeite noch daran."
   }
  ]
 }

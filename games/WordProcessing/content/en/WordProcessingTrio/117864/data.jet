@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] You have a number of movie titles in your future. You must tell me if each one is..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] In eurer nahen Zukunft werdet ihr einer Reihe von Filmtiteln begegnen. Sagt mir, ob jeder einzelne davon…."
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Movie by Paul Thomas Anderson..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einer der in Deutschland meistbesuchtesten Kinofilme der 2010er-Jahre..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] a Movie by Wes Anderson..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] einer der in Deutschland meistbesuchtesten Kinofilme der 2000er-Jahre..."
   },
   {
    "t": "B",
@@ -42,17 +42,18 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Movie featuring Pamela Anderson."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder einer der in Deutschland meistbesuchtesten Kinofilme der 1990er-Jahre ist."
   },
   {
    "t": "B",
-   "v": "false",
+   "v": "true",
    "n": "HasOutroAudio"
   },
   {
    "t": "A",
    "v": "outro",
-   "n": "OutroAudio"
+   "n": "OutroAudio",
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Schade, dass wir nie Popcorn als Opfergabe kriegen."
   }
  ]
 }

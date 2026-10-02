@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "You will soon encounter a series of musical groups. Please tell me if each one is..."
+   "s": "Ihr werdet gleich auf eine Reihe von Musikgruppen stoßen. Bitte sagt mir, ist jede davon…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "a Boy Band..."
+   "s": "eine Boyband, da sie aus Männern besteht..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "a Girl Group..."
+   "s": "eine Girlgroup, da sie aus Frauen besteht..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "...or a Male-Female Act."
+   "s": "...oder ein Musicact mit Männern und Frauen."
   },
   {
    "t": "B",

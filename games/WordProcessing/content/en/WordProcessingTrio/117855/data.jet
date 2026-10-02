@@ -9,7 +9,7 @@
    "t": "A",
    "v": "intro",
    "n": "IntroAudio",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Let’s see if you can bring SHAPE to this one! Tell me, of the various items you will soon come across, is each one..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] Seid ihr alle in Form? Sagt mir: Sind die verschiedenen Gegenstände, denen ihr gleich begegnen werdet, jeweils…"
   },
   {
    "t": "B",
@@ -20,7 +20,7 @@
    "t": "A",
    "v": "buckets_0_audio",
    "n": "TitleAudio0",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Circular..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] rund..."
   },
   {
    "t": "B",
@@ -31,7 +31,7 @@
    "t": "A",
    "v": "buckets_1_audio",
    "n": "TitleAudio1",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] Rectangular..."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] rechteckig..."
   },
   {
    "t": "B",
@@ -42,7 +42,7 @@
    "t": "A",
    "v": "buckets_2_audio",
    "n": "TitleAudio2",
-   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...or Triangular."
+   "s": "[EventName=HOST/en/DummyHost_Quiztar] ...oder dreieckig."
   },
   {
    "t": "B",
