@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Unser lieber Freund ist ein Roboter. Für welche ganz bestimmte Aufgabe wurde er gebaut?"
+  }
+ ]
+}

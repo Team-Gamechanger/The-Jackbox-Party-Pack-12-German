@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Ein Match, das hier noch etwas zu erledigen hat!"
+  }
+ ]
+}

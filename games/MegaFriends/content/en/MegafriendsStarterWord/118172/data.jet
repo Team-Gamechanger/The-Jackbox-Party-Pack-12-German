@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTextAudio"
+  },
+  {
+   "t": "A",
+   "v": "text",
+   "n": "TextAudio",
+   "s": "Zu welcher Veranstaltung gehen richtig viele Leute?"
+  }
+ ]
+}

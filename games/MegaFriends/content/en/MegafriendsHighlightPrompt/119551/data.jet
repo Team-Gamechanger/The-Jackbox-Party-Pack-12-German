@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Unser Freund bekommt einen 300-Euro-Gutschein fürs Essen. Wofür gibt er ihn aus?"
+  }
+ ]
+}

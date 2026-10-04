@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Welches Gewürz darf im Gewürzregal unseres Freundes AUF KEINEN FALL fehlen?"
+  }
+ ]
+}

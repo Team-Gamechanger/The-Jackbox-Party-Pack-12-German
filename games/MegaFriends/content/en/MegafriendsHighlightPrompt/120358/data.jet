@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Die beiden sind ein Wrestling-Team! Welche Ausrüstung haben sie IMMER im Ring dabei?"
+  }
+ ]
+}

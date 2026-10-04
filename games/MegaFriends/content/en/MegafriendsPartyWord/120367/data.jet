@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Freundschaft ist wie Pizza. Ich will sie nicht teilen."
+  }
+ ]
+}

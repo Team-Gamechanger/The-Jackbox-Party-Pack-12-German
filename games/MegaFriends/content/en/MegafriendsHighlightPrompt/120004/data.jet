@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Die Klasse hat unserem Freund damals einen Titel verliehen: “Wird später bestimmt {{BLANK}}”."
+  }
+ ]
+}

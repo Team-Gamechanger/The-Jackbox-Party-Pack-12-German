@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir drucken Geld mit dem Gesicht unseres Freundes. Wie viel ist ein Schein wert?"
+  }
+ ]
+}

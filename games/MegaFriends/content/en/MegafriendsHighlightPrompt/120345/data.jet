@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Die beiden BESTEHEN darauf, zum Alexanderplatz zu fahren. Was wollen sie dort unbedingt sehen?"
+  }
+ ]
+}

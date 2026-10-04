@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir sitzen die ganze Nacht im 24-Stunden-Imbiss. Was bestellt unser Freund?"
+  }
+ ]
+}

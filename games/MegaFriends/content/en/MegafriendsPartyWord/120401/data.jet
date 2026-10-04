@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Bi-dop-da-di-dop-do!"
+  }
+ ]
+}

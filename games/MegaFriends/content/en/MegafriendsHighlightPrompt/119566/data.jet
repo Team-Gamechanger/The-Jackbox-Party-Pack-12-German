@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Zeig, dass du den beiden ihre Freundschaft gönnst: Welche süßen Dinge mögen sie wohl?"
+  }
+ ]
+}

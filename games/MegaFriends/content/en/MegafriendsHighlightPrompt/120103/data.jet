@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Der Kühlschrank unseres Freundes ist leer. Womit füllen wir ihn, damit er sich freut?"
+  }
+ ]
+}

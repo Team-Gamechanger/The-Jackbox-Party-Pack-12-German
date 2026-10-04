@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Unser Freund ist eine gute Seele. Also haben wir ihn ungefragt als Spender eingetragen. Was spendet er? {{BLANK}}!"
+  }
+ ]
+}

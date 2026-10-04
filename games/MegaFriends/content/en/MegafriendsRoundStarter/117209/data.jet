@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasStarterAudio"
+  },
+  {
+   "t": "A",
+   "v": "starter",
+   "n": "StarterAudio",
+   "s": "Etwas, das man in seinen Zwanzigern oft macht, in seinen Vierzigern aber eher nicht mehr."
+  }
+ ]
+}

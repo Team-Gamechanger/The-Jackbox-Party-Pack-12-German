@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTextAudio"
+  },
+  {
+   "t": "A",
+   "v": "text",
+   "n": "TextAudio",
+   "s": "Was studiert man denn am besten?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Dieses Wort will ich in meinem Palast NIE WIEDER hören! \"Single\"! WIE KÖNNT IHR ES WAGEN?!"
+  }
+ ]
+}

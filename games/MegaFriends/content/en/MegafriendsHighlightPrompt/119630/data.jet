@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wenn wir unseren Freund mit einem einzigen inspirierenden Wort beschreiben müssten, wäre es: {{BLANK}}."
+  }
+ ]
+}

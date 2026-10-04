@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Eins, zwei, drei, vier, fünf, ich bin der König ohne Strümpf! Sechs, sieben, acht, neun, zehn, mit Freunden ist das Leben schön!"
+  }
+ ]
+}

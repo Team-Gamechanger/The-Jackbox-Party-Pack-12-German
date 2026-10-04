@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Die beiden treten gemeinsam zur Wahl an! Ihr Wahlversprechen: Alle bekommen {{BLANK}}!"
+  }
+ ]
+}

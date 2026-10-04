@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Die beiden waren beim Zahnarzt so tapfer! Welches kleine Spielzeug bekommen sie als Belohnung?"
+  }
+ ]
+}

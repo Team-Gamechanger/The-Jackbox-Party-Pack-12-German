@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir schicken unseren Freund auf Reisen! Ziel seines Flugs in der Holzklasse: {{BLANK}}."
+  }
+ ]
+}

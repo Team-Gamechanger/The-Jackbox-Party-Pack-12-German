@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Machen wir den beiden Angst mit ganz vernünftigen Phobien. Zum Beispiel: {{BLANK}}!"
+  }
+ ]
+}

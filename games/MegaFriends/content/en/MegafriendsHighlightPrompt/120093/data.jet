@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir haben unseren Freund genervt, und jetzt ist er STINKSAUER. In welches Tier verwandelt er sich?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Überraschung! Unser Freund bekommt ein Haustier. Um welches Tier muss er sich jetzt kümmern?"
+  }
+ ]
+}

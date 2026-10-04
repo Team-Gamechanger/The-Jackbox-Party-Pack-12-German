@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Ein lebloser Gegenstand ist plötzlich der beste Kumpel unseres Freundes. Welcher?"
+  }
+ ]
+}

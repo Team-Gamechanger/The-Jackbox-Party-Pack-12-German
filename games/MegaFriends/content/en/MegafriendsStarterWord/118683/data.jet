@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTextAudio"
+  },
+  {
+   "t": "A",
+   "v": "text",
+   "n": "TextAudio",
+   "s": "Was fällt ständig unter den Autositz?"
+  }
+ ]
+}

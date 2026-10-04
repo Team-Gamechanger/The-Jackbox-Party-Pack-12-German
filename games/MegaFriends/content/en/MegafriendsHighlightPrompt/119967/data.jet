@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Auf einer Schule für Kinder mit Superkräften: Welche Fähigkeit haben die beiden gemeinsam?"
+  }
+ ]
+}

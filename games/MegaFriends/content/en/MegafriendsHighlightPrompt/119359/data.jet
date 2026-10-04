@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Was würden die beiden auf diese Frage antworten: “Was ist schwierig, geht aber mit der Zeit vorbei?”"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wenn unser Freund sich in JEDES Tier verwandeln könnte: Welches würdet ihr ihm wünschen?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir mischen für unseren Freund ein eigenes Parfum. Die stärkste Duftnote: {{BLANK}}."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTextAudio"
+  },
+  {
+   "t": "A",
+   "v": "text",
+   "n": "TextAudio",
+   "s": "Welche essbare Sache riecht richtig gut?"
+  }
+ ]
+}

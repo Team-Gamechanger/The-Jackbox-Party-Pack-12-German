@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir haben ein Gemälde von unserem Freund in Auftrag gegeben. Welchen Gegenstand hält er darauf?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir haben unseren Freund herausgefordert, in zehn Minuten 50 Stück von etwas zu essen. Was?"
+  }
+ ]
+}

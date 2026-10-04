@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Alles, was unser Freund berührt, verwandelt sich. Gold? Von wegen! Das Ergebnis: {{BLANK}}!"
+  }
+ ]
+}

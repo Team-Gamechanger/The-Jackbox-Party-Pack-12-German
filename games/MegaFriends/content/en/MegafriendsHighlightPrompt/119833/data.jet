@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasHostPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "hostPrompt",
+   "n": "HostPromptAudio",
+   "s": "Wir verschmelzen die Namen der beiden. Ihr neuer FREUNDSCHAFTSNAME: {{BLANK}}!"
+  }
+ ]
+}

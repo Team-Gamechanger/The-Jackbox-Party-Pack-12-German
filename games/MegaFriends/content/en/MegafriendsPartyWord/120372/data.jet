@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Ach, ihr wollt einen Cheatcode? Ähm ... hoch, hoch, runter, runter, in der Hose wird es munter. Links, rechts, links, rechts, dann B und A, die Hose bleibt sauber! Hurra, hurra! Na, hat sich das gelohnt?"
+  }
+ ]
+}
