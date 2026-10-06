@@ -51,6 +51,6 @@
 	"defaultWordTickInSec":"[0.8, 0.75, 0.72]",
 	"canGoBackToPack":"true",
 	"contentPercentagesToSpawnBombPerRound":"[[0.5],[0.6,0.4],[0.8, 0.6,0.3]]",
-	"buildTimeStamp":"2026-09-23 12:42:19",
-	"buildVersion":"1294"
+	"buildTimeStamp":"2026-10-05 11:24:46",
+	"buildVersion":"1389"
 }
