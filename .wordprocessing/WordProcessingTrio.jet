@@ -1322,7 +1322,7 @@
    "id": "116805",
    "starterContent": true,
    "done": true,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Jetzt wird es kunterbunt! Wenn ihr die Begriffe seht, sagt mir , ob sie unter die Rubrik…",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Jetzt wird es kunterbunt! Wenn ihr die Begriffe seht, sagt mir, ob sie unter die Rubrik…",
    "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] rote Dinge...",
    "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] gelbe Dinge...",
    "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder lila Dinge fallen.",
@@ -1666,7 +1666,7 @@
    "IntroAudio": "Für diese Aufgabe müsst ihr tierisch viel Wissen in Geografie haben. Sagt mir, ob die folgenden Tiere...",
    "TitleAudio0": "in Afrika heimisch...",
    "TitleAudio1": "in Asien heimisch...",
-   "TitleAudio2": "...oder in Südafrika heimisch sind.",
+   "TitleAudio2": "...oder in Südamerika heimisch sind.",
    "OutroAudio": ""
   },
   {
