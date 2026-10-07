@@ -472,62 +472,59 @@
    "buckets": [
     {
      "answers": [
-      "Jacksonville",
-      "Indianapolis",
-      "Green Bay",
-      "Cincinnati",
-      "Buffalo",
-      "Pittsburgh",
-      "Seattle",
-      "Las Vegas",
-      "Kansas City"
+      "Stralsund",
+      "Wismar",
+      "Buxtehude",
+      "Lüneburg",
+      "Stade",
+      "Minden",
+      "Salzwedel",
+      "Stendal"
      ],
-     "bucketTitle": "Has An NFL Team",
-     "shorthand": "NFL"
+     "bucketTitle": "Hansestadt",
+     "shorthand": "Hansestadt"
     },
     {
      "answers": [
-      "Portland",
-      "San Antonio",
-      "Toronto",
-      "Memphis",
-      "Oklahoma City",
-      "Orlando",
-      "Sacramento",
-      "Brooklyn",
-      "Salt Lake City",
-      "Milwaukee"
+      "Salzgitter",
+      "Potsdam",
+      "Darmstadt",
+      "Kassel",
+      "Stuttgart",
+      "Düsseldorf",
+      "Bonn",
+      "Mainz",
+      "München"
      ],
-     "bucketTitle": "Has An NBA Team",
-     "shorthand": "NBA"
+     "bucketTitle": "Großstadt (>100.000 Einwohner)",
+     "shorthand": "Großstadt"
     },
     {
      "answers": [
-      "Chicago",
-      "Atlanta",
-      "Detroit",
-      "Dallas",
-      "Los Angeles",
-      "Miami",
-      "Cleveland",
-      "New Orleans",
-      "Denver"
+      "Bremen",
+      "Hamburg",
+      "Kiel",
+      "Rostock",
+      "Lübeck",
+      "Köln",
+      "Bielefeld",
+      "Braunschweig"
      ],
-     "bucketTitle": "Has Both",
-     "shorthand": "Both"
+     "bucketTitle": "Beides",
+     "shorthand": "Beides"
     }
    ],
    "countrySpecific": true,
-   "difficulty": "Medium",
+   "difficulty": "Hard",
    "hasBothBucket": true,
    "host": "QUIZTAR",
    "id": "116717",
    "starterContent": false,
    "done": false,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Dear fans of American sport, this one’s for you! To the rest of you I say... thanks for coming. Now then, tell me if a particular city...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] Has an NFL Team...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] Has an NBA Team...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or is lucky enough to have BOTH.",
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet gleich einer Vielzahl von Städten groß und klein begegnen. Sagt mir, handelt es sich bei jeder Stadt...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] um eine Hansestadt...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] um eine Großstadt, also eine Stadt mit mehr als 100.000 Einwohnern...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder um beides, also eine Großstadt mit Hansetitel.",
    "OutroAudio": ""
   },
   {
@@ -4273,58 +4270,68 @@
    "buckets": [
     {
      "answers": [
-      "A Complete Unknown",
-      "Bohemian Rhapsody",
-      "Respect",
-      "Straight Outta Compton",
-      "Back to Black",
-      "Rocketman",
-      "Walk the Line",
-      "Miles Ahead"
+      "Tatort",
+      "Brisant",
+      "Rote Rosen",
+      "Großstadtrevier",
+      "3 nach 9",
+      "hart aber fair",
+      "heute-show",
+      "Aktenzeichen XY … ungelöst",
+      "Lass dich überwachen!",
+      "WISO",
+      "hallo deutschland"
      ],
-     "bucketTitle": "Musician Biopic Movie",
-     "shorthand": "Musician Biopic"
+     "bucketTitle": "Läuft bei öffentlich-rechtlichen Sendern",
+     "shorthand": "Öffentlich-Rechtlich"
     },
     {
      "answers": [
-      "Darkest Hour",
-      "Good Night, and Good Luck",
-      "Elizabeth",
-      "Jackie",
-      "Spencer",
-      "Milk",
-      "The King’s Speech",
-      "W."
+      "Spiegel TV",
+      "Gute Zeiten, schlechte Zeiten",
+      "Unter uns",
+      "Barbara Salesch – Das Strafgericht",
+      "Wer wird Millionär",
+      "Bauer sucht Frau",
+      "Das Supertalent",
+      "Deutschland sucht den Superstar",
+      "Berlin – Tag & Nacht",
+      "Die Geissens",
+      "Frauentausch"
      ],
-     "bucketTitle": "Political Figure Biopic Movie",
-     "shorthand": "Political Biopic"
+     "bucketTitle": "Läuft bei RTL oder RTLZWEI",
+     "shorthand": "RTL"
     },
     {
      "answers": [
-      "The Brutalist",
-      "Forrest Gump",
-      "Inside Llewyn Davis",
-      "This Is Spinal Tap",
-      "The Bodyguard",
-      "Deep Impact",
-      "White House Down",
-      "Independence Day"
+      "Galileo",
+      "taff",
+      "Beauty & The Nerd",
+      "The Masked Singer",
+      "Julia Leischik sucht: Bitte melde dich",
+      "Auf Streife",
+      "Das große Backen",
+      "The Voice of Germany",
+      "Promi Big Brother",
+      "Germany’s Next Topmodel",
+      "TV total"
      ],
-     "bucketTitle": "Fictional Movie",
-     "shorthand": "Fictional Movie"
+     "bucketTitle": "Läuft bei ProSieben oder Sat.1",
+     "shorthand": "ProSieben/Sat.1"
     }
    ],
+   "countrySpecific": true,
    "difficulty": "Medium",
    "hasBothBucket": false,
    "host": "QUIZTAR",
    "id": "118081",
    "x": false,
    "starterContent": true,
-   "done": false,
-   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Who wants to join me at the cineplex? Very good. Please tell me if each movie title you’re about to see is...",
-   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] a Biographical Picture about a Musician...",
-   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] a Biographical Picture about a Political Figure...",
-   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...or a Fictional Movie about made-up people.",
+   "done": true,
+   "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Wer hat Lust auf etwas Fernsehen? Sagt mir zu jeder Sendung, der ihr gleich begegnet, ob sie...",
+   "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] bei den öffentlich-rechtlichen Sendern, also ARD, ZDF und den Dritten...",
+   "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] bei RTL oder RTLZWEI...",
+   "TitleAudio2": "[EventName=HOST/en/DummyHost_Quiztar] ...oder bei ProSieben oder Sat. 1 läuft.",
    "OutroAudio": ""
   },
   {
