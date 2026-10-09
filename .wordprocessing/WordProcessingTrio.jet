@@ -4,47 +4,47 @@
    "buckets": [
     {
      "answers": [
-      "Nebbiolo",
-      "Primitivo",
-      "Barbera",
-      "Malbec",
-      "Zinfandel",
-      "Shiraz",
-      "Grenache",
-      "Sangiovese"
+      "Metis",
+      "Adrastea",
+      "Europa",
+      "Dia",
+      "Pandia",
+      "Amalthea",
+      "Io",
+      "Thebe",
+      "Himalia"
      ],
-     "bucketTitle": "Type of Wine",
-     "shorthand": "Wine"
+     "bucketTitle": "Jupitermond",
+     "shorthand": "Jupitermond"
     },
     {
      "answers": [
-      "Gucci",
-      "Tommy Hilfiger",
-      "Ferragamo",
-      "Chanel",
-      "Lagerfeld",
-      "Prada",
-      "Giorgio Armani",
-      "Wang",
-      "Donatella Versace"
+      "Twingo",
+      "Dauphine",
+      "Estafette",
+      "Laguna",
+      "Mégane",
+      "Captur",
+      "Clio",
+      "4",
+      "Arkana"
      ],
-     "bucketTitle": "Major Fashion Designer",
-     "shorthand": "Fashion"
+     "bucketTitle": "Automodell von Renault",
+     "shorthand": "Renault"
     },
     {
      "answers": [
-      "Fredo Corleone",
-      "Barzini",
-      "Sollozzo",
-      "Tessio",
-      "Tom Hagen",
-      "McCluskey",
-      "Kay Adams",
-      "Moe Greene",
-      "Clemenza"
+      "Sylvana",
+      "Sarafina",
+      "Jeremy-Pascal",
+      "Sarah-Jane",
+      "Lavinia",
+      "Calantha",
+      "Estefania",
+      "Loredana"
      ],
-     "bucketTitle": "[i]The Godfather[/i] Character",
-     "shorthand": "The Godfather"
+     "bucketTitle": "Kind der Wollnys",
+     "shorthand": "Wollny-Kind"
     }
    ],
    "difficulty": "Medium",
@@ -52,11 +52,11 @@
    "host": "CEREBRIEL",
    "id": "116595",
    "starterContent": true,
-   "done": false,
-   "IntroAudio": "Consider your options carefully. A series of names will pass before you. Tell me, is each one...",
-   "TitleAudio0": "a Type of Wine...",
-   "TitleAudio1": "a Major Fashion Designer...",
-   "TitleAudio2": "...or a Character from the cinematic classic The Godfather.",
+   "done": true,
+   "IntroAudio": "Wägt eure Optionen sorgfältig ab. Denn gleich wird euch eine Reihe von Namen begegnen. Sagt mir, ist jeder einzelne davon...",
+   "TitleAudio0": "ein Jupitermond...",
+   "TitleAudio1": "ein Modell des Automobilherstellers Renault...",
+   "TitleAudio2": "...oder ein Kind der Wollny-Großfamilie aus der Sendung „Die Wollnys – Eine schrecklich große Familie“.",
    "OutroAudio": ""
   },
   {
@@ -520,7 +520,7 @@
    "host": "QUIZTAR",
    "id": "116717",
    "starterContent": false,
-   "done": false,
+   "done": true,
    "IntroAudio": "[EventName=HOST/en/DummyHost_Quiztar] Ihr werdet gleich einer Vielzahl von Städten groß und klein begegnen. Sagt mir, handelt es sich bei jeder Stadt...",
    "TitleAudio0": "[EventName=HOST/en/DummyHost_Quiztar] um eine Hansestadt...",
    "TitleAudio1": "[EventName=HOST/en/DummyHost_Quiztar] um eine Großstadt, also eine Stadt mit mehr als 100.000 Einwohnern...",
