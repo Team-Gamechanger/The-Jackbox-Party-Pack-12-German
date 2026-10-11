@@ -279,6 +279,21 @@
    "id": "120423",
    "response": "Ich schnapp mir mal dieses Match ... AUTSCH! Heiß! Heiß!",
    "word": "verbrennen"
+  },
+  {
+   "id": "120900",
+   "response": "Legenden besagen es gibt da einen umwerfend gutaussehenden Mann mit diesem Namen! Und toller Stimme!",
+   "word": "dito"
+  },
+  {
+   "id": "120901",
+   "response": "Ein Traum, ein Team, ein Dreamteam! Ahu!",
+   "word": "elysia"
+  },
+  {
+   "id": "120902",
+   "response": "Tobiiiiiiiii!",
+   "word": "tobi"
   }
  ]
 }

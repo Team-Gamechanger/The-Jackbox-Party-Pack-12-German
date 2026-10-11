@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasResponseAudio"
+  },
+  {
+   "t": "A",
+   "v": "response",
+   "n": "ResponseAudio",
+   "s": "Legenden besagen es gibt da einen umwerfend gutaussehenden Mann mit diesem Namen! Und toller Stimme!"
+  }
+ ]
+}
